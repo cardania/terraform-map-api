@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01692",
+  "token_name": "Terraform11798",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01692",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRuvSxjEtzMkz1pXoxczFo1n7Yoii6y1RUG1RgnqWYy2y",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11798",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmR21yyS9fHkuf7GNLXDBkrmFYNbS29DGE5wyk1hgMzgBj",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
-  "quantum_flux": 1,
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 5,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 36,
     "y": 54
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 55
+    },
+    "topRight": {
+      "x": 37,
+      "y": 55
+    },
+    "right": {
+      "x": 37,
+      "y": 54
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 53
+    },
+    "bottom": {
+      "x": 36,
+      "y": 53
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 53
+    },
+    "left": {
+      "x": 35,
+      "y": 54
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 55
+    }
   }
 }

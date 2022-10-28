@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19767",
+  "token_name": "Terraform19892",
   "land_type": "Prismatic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19767",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQUdg5Jzo3aEVS8C7a9Eem1V8nhikGmtTQ4JqDzViZzVS",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19892",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRadmw7ofCmxQULrHWhjtPkKKq8XSXUM8EzkqTRHUxvvK",
   "alpha_sector": "Foundation",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Antigravity_Cloud",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "None",
   "location": {
     "x": 15,
     "y": 10
+  },
+  "neighbors": {
+    "top": {
+      "x": 15,
+      "y": 11
+    },
+    "topRight": {
+      "x": 16,
+      "y": 11
+    },
+    "right": {
+      "x": 16,
+      "y": 10
+    },
+    "bottomRight": {
+      "x": 16,
+      "y": 9
+    },
+    "bottom": {
+      "x": 15,
+      "y": 9
+    },
+    "bottonLeft": {
+      "x": 14,
+      "y": 9
+    },
+    "left": {
+      "x": 14,
+      "y": 10
+    },
+    "topLeft": {
+      "x": 14,
+      "y": 11
+    }
   }
 }

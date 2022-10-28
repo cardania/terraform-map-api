@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02602",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02602",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdmjSKiGPDuD2G68W22zHuQe3fMgA5GUAhCzAbmkRYsSa",
+  "token_name": "Terraform09043",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09043",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVdR2WuM6WJKE8EDZLE5G3ABjJhwfrzGMiovJxtt3CdaY",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 5,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 7,
+  "quantum_flux": 8,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Timelost",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 86,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 21
+    },
+    "topRight": {
+      "x": 87,
+      "y": 21
+    },
+    "right": {
+      "x": 87,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 19
+    },
+    "bottom": {
+      "x": 86,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 19
+    },
+    "left": {
+      "x": 85,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 21
+    }
   }
 }

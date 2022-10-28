@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16959",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16959",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc4sPipp1Bct1hc1zbawYp39i5ztJnWpz7tomdDKALouJ",
+  "token_name": "Terraform01612",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01612",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbFXSKPybJag7VyZyZ4LXVbZQDf4FgoLiPu5tURRav1tD",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 8,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
-  "ruins": "Ancient_Ruins",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 20,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 14
+    },
+    "topRight": {
+      "x": 21,
+      "y": 14
+    },
+    "right": {
+      "x": 21,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 12
+    },
+    "bottom": {
+      "x": 20,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 12
+    },
+    "left": {
+      "x": 19,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 14
+    }
   }
 }

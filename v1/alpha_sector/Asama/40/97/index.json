@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform12626",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12626",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQxvR9ufCPAhSZYB4twTrmCf35QUfjZZWb7qC4xhwaLoF",
+  "token_name": "Terraform00543",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00543",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYhdpMPJfbWQVVB9bVFkdqxNs8uk1VGx7yDBRJNZbbc1e",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 40,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 40,
+      "y": 98
+    },
+    "topRight": {
+      "x": 41,
+      "y": 98
+    },
+    "right": {
+      "x": 41,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 41,
+      "y": 96
+    },
+    "bottom": {
+      "x": 40,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 39,
+      "y": 96
+    },
+    "left": {
+      "x": 39,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 39,
+      "y": 98
+    }
   }
 }

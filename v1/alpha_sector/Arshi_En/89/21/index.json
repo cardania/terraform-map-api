@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13172",
+  "token_name": "Terraform02253",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13172",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSMUz13iYcZeYBYU9uyzYHx4ychSrVmhwoQi5jq1AkWGn",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02253",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNNkH8gMTrssH1P8pC8K3A5g1PUjumusMCJGTm8K6SMgX",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "None",
+  "power_level": 1,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Solar_Shrine",
   "water": "Freshwater_Lake",
   "location": {
     "x": 89,
     "y": 21
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 22
+    },
+    "topRight": {
+      "x": 90,
+      "y": 22
+    },
+    "right": {
+      "x": 90,
+      "y": 21
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 20
+    },
+    "bottom": {
+      "x": 89,
+      "y": 20
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 20
+    },
+    "left": {
+      "x": 88,
+      "y": 21
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 22
+    }
   }
 }

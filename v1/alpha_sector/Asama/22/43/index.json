@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06743",
+  "token_name": "Terraform09949",
   "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06743",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qme38cH7JNoatiiTzKPWtUy8i4KSdZ5v1Rvw5ojuFbUND1",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09949",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTBHBPYc1igxc4anf6Ewsko1yVBnMboTUteoXrVvLQ89K",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
   "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Solar_Shrine",
   "water": "None",
   "location": {
     "x": 22,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 22,
+      "y": 44
+    },
+    "topRight": {
+      "x": 23,
+      "y": 44
+    },
+    "right": {
+      "x": 23,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 23,
+      "y": 42
+    },
+    "bottom": {
+      "x": 22,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 21,
+      "y": 42
+    },
+    "left": {
+      "x": 21,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 21,
+      "y": 44
+    }
   }
 }

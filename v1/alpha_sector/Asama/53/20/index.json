@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07877",
+  "token_name": "Terraform01943",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07877",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV8355o9Xrgp8rak77gUHnLH7rxM4zbcCzCVjEtYPKw8z",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01943",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRmHsRSezMMzZCo8pTBpjYJ1fX7iBYSDxTXDjQBJcVvdb",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 9,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 2,
+  "quantum_flux": 2,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 53,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 53,
+      "y": 21
+    },
+    "topRight": {
+      "x": 54,
+      "y": 21
+    },
+    "right": {
+      "x": 54,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 54,
+      "y": 19
+    },
+    "bottom": {
+      "x": 53,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 52,
+      "y": 19
+    },
+    "left": {
+      "x": 52,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 52,
+      "y": 21
+    }
   }
 }

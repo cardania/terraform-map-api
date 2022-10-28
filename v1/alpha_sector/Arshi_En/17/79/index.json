@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02824",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02824",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNp9awXV29FM5gytkCs5cApvmrQEQQJjSZRde1kt8H5LP",
+  "token_name": "Terraform02651",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02651",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSTmwfBcFUJhdjrJi6gPJ5j6XfuUvXGAiFfiTsFbpBH8h",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 3,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Cursed_Lake",
+  "quantum_flux": 9,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "Solar_Shrine",
+  "water": "None",
   "location": {
     "x": 17,
     "y": 79
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 80
+    },
+    "topRight": {
+      "x": 18,
+      "y": 80
+    },
+    "right": {
+      "x": 18,
+      "y": 79
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 78
+    },
+    "bottom": {
+      "x": 17,
+      "y": 78
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 78
+    },
+    "left": {
+      "x": 16,
+      "y": 79
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 80
+    }
   }
 }

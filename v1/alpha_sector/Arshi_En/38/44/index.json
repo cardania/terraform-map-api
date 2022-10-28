@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04108",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04108",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRgz52JoZrnzDLZurRrQjC77Ucy5t7y6RxQke8c2iuvmt",
+  "token_name": "Terraform17423",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17423",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVBzgWWZ2iEpnzJ8z8UzyP7sx6jq19qVFKWSd8LdZ3zSU",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 9,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Toxic_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 38,
     "y": 44
+  },
+  "neighbors": {
+    "top": {
+      "x": 38,
+      "y": 45
+    },
+    "topRight": {
+      "x": 39,
+      "y": 45
+    },
+    "right": {
+      "x": 39,
+      "y": 44
+    },
+    "bottomRight": {
+      "x": 39,
+      "y": 43
+    },
+    "bottom": {
+      "x": 38,
+      "y": 43
+    },
+    "bottonLeft": {
+      "x": 37,
+      "y": 43
+    },
+    "left": {
+      "x": 37,
+      "y": 44
+    },
+    "topLeft": {
+      "x": 37,
+      "y": 45
+    }
   }
 }

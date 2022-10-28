@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11732",
+  "token_name": "Terraform07867",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11732",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdiPj14kzqXh9hxFvNAZeDpENe7DVX74Edj1kx6UBHNEt",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07867",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZFVqT1BJKnsStRgLUMbhGXzQCHdBSvyERTo8HeADpdBw",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 9,
-  "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "power_level": 2,
+  "quantum_flux": 1,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "Alien_Technology_Orange",
-  "shrine": "None",
-  "water": "Funky_Lake",
+  "shrine": "Solar_Shrine",
+  "water": "Cursed_River",
   "location": {
     "x": 11,
     "y": 94
+  },
+  "neighbors": {
+    "top": {
+      "x": 11,
+      "y": 95
+    },
+    "topRight": {
+      "x": 12,
+      "y": 95
+    },
+    "right": {
+      "x": 12,
+      "y": 94
+    },
+    "bottomRight": {
+      "x": 12,
+      "y": 93
+    },
+    "bottom": {
+      "x": 11,
+      "y": 93
+    },
+    "bottonLeft": {
+      "x": 10,
+      "y": 93
+    },
+    "left": {
+      "x": 10,
+      "y": 94
+    },
+    "topLeft": {
+      "x": 10,
+      "y": 95
+    }
   }
 }

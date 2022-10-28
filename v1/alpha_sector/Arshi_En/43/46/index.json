@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01581",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01581",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTS6XSCN6XpqpmCjKeKQhvGAp4XhhLZGBs7YaCxWFeKhL",
+  "token_name": "Terraform08629",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08629",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfGsW8Tgeow6p78hqieMX7APCUCxhjaNL1fvJg4q2vuzS",
   "alpha_sector": "Arshi_En",
   "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Cursed_River",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 43,
     "y": 46
+  },
+  "neighbors": {
+    "top": {
+      "x": 43,
+      "y": 47
+    },
+    "topRight": {
+      "x": 44,
+      "y": 47
+    },
+    "right": {
+      "x": 44,
+      "y": 46
+    },
+    "bottomRight": {
+      "x": 44,
+      "y": 45
+    },
+    "bottom": {
+      "x": 43,
+      "y": 45
+    },
+    "bottonLeft": {
+      "x": 42,
+      "y": 45
+    },
+    "left": {
+      "x": 42,
+      "y": 46
+    },
+    "topLeft": {
+      "x": 42,
+      "y": 47
+    }
   }
 }

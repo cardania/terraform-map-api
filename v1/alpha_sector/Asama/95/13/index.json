@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15938",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15938",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdVwUEGQZNjhx4hKSGKG9CxhSauA2kwN3NnFyH2Md1s18",
+  "token_name": "Terraform02643",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02643",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfXXTjxG5t5okfq1EgtXcgDDbcP6Ty2Ve54HXtyQpD6fu",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 95,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 14
+    },
+    "topRight": {
+      "x": 96,
+      "y": 14
+    },
+    "right": {
+      "x": 96,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 12
+    },
+    "bottom": {
+      "x": 95,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 12
+    },
+    "left": {
+      "x": 94,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 14
+    }
   }
 }

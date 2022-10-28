@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03492",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03492",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZLzj6D3tLa3XTiNrUb9j8JPUs5XEr78YqS9URNBVhv2G",
+  "token_name": "Terraform02926",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02926",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSCbR1axDX4rKLCW44ADtUoVBP7ZqECPVMuLRHJaQpEwB",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
-  "shrine": "Fungal_Shrine",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Timelost",
+  "shrine": "Quantum_Shrine",
   "water": "None",
   "location": {
     "x": 9,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 21
+    },
+    "topRight": {
+      "x": 10,
+      "y": 21
+    },
+    "right": {
+      "x": 10,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 19
+    },
+    "bottom": {
+      "x": 9,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 19
+    },
+    "left": {
+      "x": 8,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 21
+    }
   }
 }

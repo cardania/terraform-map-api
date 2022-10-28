@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14620",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14620",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeuuJ9MLnrU7NQwToNzys6p1JXgwprhQbgnmjNmJrzcYB",
+  "token_name": "Terraform18618",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18618",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfJz8Dq7HMGHRVP8Zeki3qxsSkuQ31LvDvsFMoU5LrxSJ",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 4,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Solar_Shrine",
-  "water": "None",
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 50,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 51
+    },
+    "topRight": {
+      "x": 51,
+      "y": 51
+    },
+    "right": {
+      "x": 51,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 49
+    },
+    "bottom": {
+      "x": 50,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 49
+    },
+    "left": {
+      "x": 49,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 51
+    }
   }
 }

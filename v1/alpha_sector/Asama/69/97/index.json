@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07284",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07284",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNvWWZpkWwGPz9mUmfNQ21wjdEMiHw7WnvzjWCjiA7cGR",
+  "token_name": "Terraform18599",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18599",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVfnBEVD8pYCqFvFkjtxXP2NLiN6hzpDLeeURKrx8z6CJ",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 69,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 69,
+      "y": 98
+    },
+    "topRight": {
+      "x": 70,
+      "y": 98
+    },
+    "right": {
+      "x": 70,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 70,
+      "y": 96
+    },
+    "bottom": {
+      "x": 69,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 68,
+      "y": 96
+    },
+    "left": {
+      "x": 68,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 68,
+      "y": 98
+    }
   }
 }

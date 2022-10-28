@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04914",
+  "token_name": "Terraform00957",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04914",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQn8tBCrKnM3JPWeQDzPt58S2P5RsmpeoB1N85KZTsfaN",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00957",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmecjbjTMrSWrpQ5avPxuY8RQUyyFYWnEQsb6rWbJthn6f",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 1,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 61,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 89
+    },
+    "topRight": {
+      "x": 62,
+      "y": 89
+    },
+    "right": {
+      "x": 62,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 87
+    },
+    "bottom": {
+      "x": 61,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 87
+    },
+    "left": {
+      "x": 60,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 89
+    }
   }
 }

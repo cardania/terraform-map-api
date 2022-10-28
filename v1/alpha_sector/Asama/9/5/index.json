@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18237",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18237",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeDyFzQSKjuvLSpkWDvJYgTMuChxij8UYkvPeQfmRS226",
+  "token_name": "Terraform04546",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04546",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZvMMvhJAjURebwb1Ug74bb1e5tRJsmFg14vrBs6QAcXW",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 5,
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 2,
   "quantum_flux": 6,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 9,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 6
+    },
+    "topRight": {
+      "x": 10,
+      "y": 6
+    },
+    "right": {
+      "x": 10,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 4
+    },
+    "bottom": {
+      "x": 9,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 4
+    },
+    "left": {
+      "x": 8,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 6
+    }
   }
 }

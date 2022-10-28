@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18161",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18161",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdmUf4aU3fcU8NQiFKaei3YJ7FfxzYuZxP7XNS8w1E9o8",
+  "token_name": "Terraform04150",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04150",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRaFp5gS8A3Um6y1smsDhXi5MZDUphSUPksnbaW2Y6h8A",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "Radium",
+  "power_level": 6,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 21,
     "y": 42
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 43
+    },
+    "topRight": {
+      "x": 22,
+      "y": 43
+    },
+    "right": {
+      "x": 22,
+      "y": 42
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 41
+    },
+    "bottom": {
+      "x": 21,
+      "y": 41
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 41
+    },
+    "left": {
+      "x": 20,
+      "y": 42
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 43
+    }
   }
 }

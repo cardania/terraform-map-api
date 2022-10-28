@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08008",
+  "token_name": "Terraform07429",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08008",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb8ZG7v6JbePMgX839x9bo2NAcLWEq6ze9BHTj4ffvwdT",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07429",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRWa7jpq1JoKvT6fgguXPAdYZAb2pA4xFkYNd2c9ZDbTf",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "power_level": 6,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Golden_Shrine",
+  "water": "Toxic_Lake",
   "location": {
     "x": 75,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 4
+    },
+    "topRight": {
+      "x": 76,
+      "y": 4
+    },
+    "right": {
+      "x": 76,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 2
+    },
+    "bottom": {
+      "x": 75,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 2
+    },
+    "left": {
+      "x": 74,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 4
+    }
   }
 }

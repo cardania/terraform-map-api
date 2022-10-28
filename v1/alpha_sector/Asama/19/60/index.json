@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform11751",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11751",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUC7CL9CLEEK2QrERpY9hpFxd6nStX4DPJWSFcxSFLzoh",
+  "token_name": "Terraform16636",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16636",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTX8Am4EC8AzBeGCqBxDAWPJ4jdGCx6W4u9bk4BHPkSws",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 2,
+  "quantum_flux": 7,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 19,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 19,
+      "y": 61
+    },
+    "topRight": {
+      "x": 20,
+      "y": 61
+    },
+    "right": {
+      "x": 20,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 20,
+      "y": 59
+    },
+    "bottom": {
+      "x": 19,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 18,
+      "y": 59
+    },
+    "left": {
+      "x": 18,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 18,
+      "y": 61
+    }
   }
 }

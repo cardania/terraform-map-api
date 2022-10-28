@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03500",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03500",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaYjB5TpZiepusMo9maMjXauYcdzbVZ39CSd4BxHSNuBj",
+  "token_name": "Terraform07314",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07314",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYDAXw2JZZraN7ABqgKetGTSbXEZN6AMZ7wkahvuLdSds",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 5,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 9,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Quantum_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 74,
     "y": 83
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 84
+    },
+    "topRight": {
+      "x": 75,
+      "y": 84
+    },
+    "right": {
+      "x": 75,
+      "y": 83
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 82
+    },
+    "bottom": {
+      "x": 74,
+      "y": 82
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 82
+    },
+    "left": {
+      "x": 73,
+      "y": 83
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 84
+    }
   }
 }

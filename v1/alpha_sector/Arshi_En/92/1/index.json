@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01525",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01525",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPaNPAntEPWy5R77kvQ9mz5kLaFY4C2qmyb7ijJkXM79f",
+  "token_name": "Terraform02858",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02858",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZKnZGr2CmWeW17ryp7m9tKS4jawPB89dhBaM7JCMQYM5",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 7,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
   "ruins": "Alien_Technology_Red",
   "shrine": "Solar_Shrine",
-  "water": "Toxic_River",
+  "water": "Cursed_River",
   "location": {
     "x": 92,
     "y": 1
+  },
+  "neighbors": {
+    "top": {
+      "x": 92,
+      "y": 2
+    },
+    "topRight": {
+      "x": 93,
+      "y": 2
+    },
+    "right": {
+      "x": 93,
+      "y": 1
+    },
+    "bottomRight": {
+      "x": 93,
+      "y": 0
+    },
+    "bottom": {
+      "x": 92,
+      "y": 0
+    },
+    "bottonLeft": {
+      "x": 91,
+      "y": 0
+    },
+    "left": {
+      "x": 91,
+      "y": 1
+    },
+    "topLeft": {
+      "x": 91,
+      "y": 2
+    }
   }
 }

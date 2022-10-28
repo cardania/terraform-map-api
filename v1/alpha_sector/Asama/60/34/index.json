@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19215",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19215",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdravpH9ubaSCewGMMyYH4Fek56oiaFjia2h9uDrmL3rM",
+  "token_name": "Terraform14109",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14109",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVHjXzjR5kwZc5VMxRnxCixtbfnaBBURmgEtSu4mxfndT",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 2,
   "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 60,
     "y": 34
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 35
+    },
+    "topRight": {
+      "x": 61,
+      "y": 35
+    },
+    "right": {
+      "x": 61,
+      "y": 34
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 33
+    },
+    "bottom": {
+      "x": 60,
+      "y": 33
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 33
+    },
+    "left": {
+      "x": 59,
+      "y": 34
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 35
+    }
   }
 }

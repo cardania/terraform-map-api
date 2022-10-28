@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08404",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08404",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYXWAhdATByqzn7NWrVNtbKVDDdgr5nPUEd6U6aRGddCM",
+  "token_name": "Terraform00289",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00289",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbFuKehmHTPwY529uEWQumYGb1jD4twQ9XziMuPmbeTJw",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 8,
+  "power_level": 6,
+  "quantum_flux": 9,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 54,
     "y": 34
+  },
+  "neighbors": {
+    "top": {
+      "x": 54,
+      "y": 35
+    },
+    "topRight": {
+      "x": 55,
+      "y": 35
+    },
+    "right": {
+      "x": 55,
+      "y": 34
+    },
+    "bottomRight": {
+      "x": 55,
+      "y": 33
+    },
+    "bottom": {
+      "x": 54,
+      "y": 33
+    },
+    "bottonLeft": {
+      "x": 53,
+      "y": 33
+    },
+    "left": {
+      "x": 53,
+      "y": 34
+    },
+    "topLeft": {
+      "x": 53,
+      "y": 35
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15503",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15503",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV1hCNoPqYWgr6AnATXnQo38HedaRR3LZSu8hC1o8sbEu",
+  "token_name": "Terraform12764",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12764",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXLYmNch2KPkqKav7wKxLKXmwYrQGiBR9qKfEKLebneHy",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "fauna": "Ultrasaurs",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 1,
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 8,
+  "quantum_flux": 2,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Funky_River",
+  "shrine": "Solar_Shrine",
+  "water": "None",
   "location": {
     "x": 45,
     "y": 67
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 68
+    },
+    "topRight": {
+      "x": 46,
+      "y": 68
+    },
+    "right": {
+      "x": 46,
+      "y": 67
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 66
+    },
+    "bottom": {
+      "x": 45,
+      "y": 66
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 66
+    },
+    "left": {
+      "x": 44,
+      "y": 67
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 68
+    }
   }
 }

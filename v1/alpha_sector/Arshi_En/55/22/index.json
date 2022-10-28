@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07986",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07986",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSQSPvF3PsmqWHx5HL75LQ2JXkdsfBNh5cr7HR3LxF6SW",
+  "token_name": "Terraform18553",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18553",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTBhTnNZMY1nxhPXhHXQBRf2UyBz3SdqzdxE5hf3gXy4Z",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 9,
-  "quantum_flux": 7,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Solar_Shrine",
-  "water": "Saltwater_Lake",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 7,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 55,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 55,
+      "y": 23
+    },
+    "topRight": {
+      "x": 56,
+      "y": 23
+    },
+    "right": {
+      "x": 56,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 56,
+      "y": 21
+    },
+    "bottom": {
+      "x": 55,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 54,
+      "y": 21
+    },
+    "left": {
+      "x": 54,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 54,
+      "y": 23
+    }
   }
 }

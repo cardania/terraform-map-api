@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14775",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14775",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZte45deAP4NR2R2rhXFu2kjDfHvD3nz1KpjM1nWTHasj",
+  "token_name": "Terraform07787",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07787",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSfPg9xCFsMRtgvpiHQkz4D2CN7EJSyFH9j6fsADcJnc1",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Ultrasaurs",
   "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
-  "quantum_flux": 7,
-  "primary_minerals": "Iron",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 83,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 34
+    },
+    "topRight": {
+      "x": 84,
+      "y": 34
+    },
+    "right": {
+      "x": 84,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 32
+    },
+    "bottom": {
+      "x": 83,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 32
+    },
+    "left": {
+      "x": 82,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 34
+    }
   }
 }

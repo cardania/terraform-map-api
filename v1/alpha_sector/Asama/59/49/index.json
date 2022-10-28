@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14741",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14741",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZuEYZJyGUnZSeXPH2G632Yzs9HfWbUaMyGvREp1kzSGy",
+  "token_name": "Terraform09661",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09661",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb6P2RhAnruBab7evsZK2bRLYwZiU2FohMgmLxnjhfWTC",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Solar_Shrine",
+  "water": "None",
   "location": {
     "x": 59,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 59,
+      "y": 50
+    },
+    "topRight": {
+      "x": 60,
+      "y": 50
+    },
+    "right": {
+      "x": 60,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 60,
+      "y": 48
+    },
+    "bottom": {
+      "x": 59,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 58,
+      "y": 48
+    },
+    "left": {
+      "x": 58,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 58,
+      "y": 50
+    }
   }
 }

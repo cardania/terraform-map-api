@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16534",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16534",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmecknbyvM9TVVEazzFEKSyg9LvkV71bvLbbYKK1VkGHqP",
+  "token_name": "Terraform13977",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13977",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSMVDKsD6JdsWdVHHZLGfQ3ivyH95t6iibAHfkMoUnytF",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "Prismaleaf",
-  "hazardous_flora": "Giant_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "power_level": 4,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_River",
+  "ruins": "Ancient_Ruins",
+  "shrine": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 67,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 67,
+      "y": 4
+    },
+    "topRight": {
+      "x": 68,
+      "y": 4
+    },
+    "right": {
+      "x": 68,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 68,
+      "y": 2
+    },
+    "bottom": {
+      "x": 67,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 66,
+      "y": 2
+    },
+    "left": {
+      "x": 66,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 66,
+      "y": 4
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17560",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17560",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmctkQ5LkfojJjZG5rNuJ6fUvtFUfKi5XHW5wHD1jQj2rH",
+  "token_name": "Terraform01938",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01938",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVkUM3oEBkhUupWhQbjHskeX3yRB13haopnsySP1W5a1V",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 9,
-  "quantum_flux": 9,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Toxic_Lake",
   "location": {
     "x": 74,
     "y": 9
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 10
+    },
+    "topRight": {
+      "x": 75,
+      "y": 10
+    },
+    "right": {
+      "x": 75,
+      "y": 9
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 8
+    },
+    "bottom": {
+      "x": 74,
+      "y": 8
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 8
+    },
+    "left": {
+      "x": 73,
+      "y": 9
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 10
+    }
   }
 }

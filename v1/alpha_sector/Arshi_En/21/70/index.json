@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08061",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08061",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPnBPkZJtszmMaKmn2hd7dkWQwx1w8wpb5q6YvBt75rX3",
+  "token_name": "Terraform19103",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19103",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbrgTn9f2oZtRpCcrP4wAecLRjcoZxYfdKLhNjRQGaSS2",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Custodial_Nanites",
   "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 7,
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 21,
     "y": 70
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 71
+    },
+    "topRight": {
+      "x": 22,
+      "y": 71
+    },
+    "right": {
+      "x": 22,
+      "y": 70
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 69
+    },
+    "bottom": {
+      "x": 21,
+      "y": 69
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 69
+    },
+    "left": {
+      "x": 20,
+      "y": 70
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 71
+    }
   }
 }

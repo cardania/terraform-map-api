@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07217",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07217",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPisaGzQ7nWLshcjv4BZ4Xkdvw4yiewKSf1epigKpteCJ",
+  "token_name": "Terraform06288",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06288",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYWfLY9RB5N5KnPFwYHu5Wjtpx9qyJJvzE2Z8Lu9kFWwW",
   "alpha_sector": "Arshi_En",
   "activity": "Geothermal_Activity",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 5,
-  "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 100,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 100,
+      "y": 34
+    },
+    "topRight": {
+      "x": 101,
+      "y": 34
+    },
+    "right": {
+      "x": 101,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 101,
+      "y": 32
+    },
+    "bottom": {
+      "x": 100,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 99,
+      "y": 32
+    },
+    "left": {
+      "x": 99,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 99,
+      "y": 34
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13223",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13223",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdreAERyHdw3pV3ofQTsgbC2hp84zmDLbaw8DLGuSr2o6",
+  "token_name": "Terraform07648",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07648",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVhZzNsvzkGxbVXwxS8Jcie9gTkMvusUGmFYcCzmXfLmh",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 8,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 1,
   "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 87,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 87,
+      "y": 7
+    },
+    "topRight": {
+      "x": 88,
+      "y": 7
+    },
+    "right": {
+      "x": 88,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 88,
+      "y": 5
+    },
+    "bottom": {
+      "x": 87,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 86,
+      "y": 5
+    },
+    "left": {
+      "x": 86,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 86,
+      "y": 7
+    }
   }
 }

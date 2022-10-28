@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13443",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13443",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXoiPxqjAtbKW1t8ZGboh6MgtK3gK6sU3pJ8R67FtsL13",
+  "token_name": "Terraform05255",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05255",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmR53ja9qz89u6417TFtaXdu9dLruY9RGodrp8ZWk8gqUu",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
   "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 4,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 3,
   "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Quantum_Shrine",
-  "water": "Freshwater_River",
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 4,
     "y": 24
+  },
+  "neighbors": {
+    "top": {
+      "x": 4,
+      "y": 25
+    },
+    "topRight": {
+      "x": 5,
+      "y": 25
+    },
+    "right": {
+      "x": 5,
+      "y": 24
+    },
+    "bottomRight": {
+      "x": 5,
+      "y": 23
+    },
+    "bottom": {
+      "x": 4,
+      "y": 23
+    },
+    "bottonLeft": {
+      "x": 3,
+      "y": 23
+    },
+    "left": {
+      "x": 3,
+      "y": 24
+    },
+    "topLeft": {
+      "x": 3,
+      "y": 25
+    }
   }
 }

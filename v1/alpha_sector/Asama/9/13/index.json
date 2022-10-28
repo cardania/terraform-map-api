@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12901",
+  "token_name": "Terraform17096",
   "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12901",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfUX5GKBZwSDnUrj6eSo8PiL9AXodVq2mN82npNyqZkRV",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17096",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWcocbDssYzJ9PDmTNc6bA9k4tLi6tkZ2fe1r7sKnVL8q",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Custodial_Nanites",
+  "activity": "None",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "None",
   "location": {
     "x": 9,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 14
+    },
+    "topRight": {
+      "x": 10,
+      "y": 14
+    },
+    "right": {
+      "x": 10,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 12
+    },
+    "bottom": {
+      "x": 9,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 12
+    },
+    "left": {
+      "x": 8,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 14
+    }
   }
 }

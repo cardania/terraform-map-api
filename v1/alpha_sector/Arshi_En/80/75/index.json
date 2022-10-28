@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00271",
+  "token_name": "Terraform02114",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00271",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNnhMBbHpFfJL57XrQVp5Mkg1zmoeqv2Dxv214vMLK9jv",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02114",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYaWsYiv6vx6hWoX6gJhLyBtxaPJcKiV5mdUZVs976udr",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 6,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
   "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Void_Shrine",
+  "shrine": "Fungal_Shrine",
   "water": "None",
   "location": {
     "x": 80,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 80,
+      "y": 76
+    },
+    "topRight": {
+      "x": 81,
+      "y": 76
+    },
+    "right": {
+      "x": 81,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 81,
+      "y": 74
+    },
+    "bottom": {
+      "x": 80,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 79,
+      "y": 74
+    },
+    "left": {
+      "x": 79,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 79,
+      "y": 76
+    }
   }
 }

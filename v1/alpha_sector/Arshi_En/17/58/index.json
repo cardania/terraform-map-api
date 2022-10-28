@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13241",
+  "token_name": "Terraform02968",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13241",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRLoxipHjDjYqz31MB5P7umeN6VZtbT1Potd5o6e6wBwF",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02968",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdCsDB28J4LJMCLaZAYsufPp4baaiCa3wFs9BnGjo6fJ5",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 7,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 17,
     "y": 58
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 59
+    },
+    "topRight": {
+      "x": 18,
+      "y": 59
+    },
+    "right": {
+      "x": 18,
+      "y": 58
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 57
+    },
+    "bottom": {
+      "x": 17,
+      "y": 57
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 57
+    },
+    "left": {
+      "x": 16,
+      "y": 58
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 59
+    }
   }
 }

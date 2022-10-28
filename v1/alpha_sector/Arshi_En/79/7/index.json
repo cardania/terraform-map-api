@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00963",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00963",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWYwYnVLLcMoeeo7oaxRC3kP3CfkkEGTpNQgFd4TovG4r",
+  "token_name": "Terraform13635",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13635",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZfLb7JhCQnrueCX5KZRua9kjXjcXX2vb3GADHEgsemjE",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 8,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 6,
+  "quantum_flux": 7,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 79,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 79,
+      "y": 8
+    },
+    "topRight": {
+      "x": 80,
+      "y": 8
+    },
+    "right": {
+      "x": 80,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 80,
+      "y": 6
+    },
+    "bottom": {
+      "x": 79,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 78,
+      "y": 6
+    },
+    "left": {
+      "x": 78,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 78,
+      "y": 8
+    }
   }
 }

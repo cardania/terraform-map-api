@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17232",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17232",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRTxNR5ZjqB4TNoMyGnmuy8H2FU3c9g8do96JiLt6r9UD",
+  "token_name": "Terraform08455",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08455",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVyLeEmbaMhtQXyrtUGsFS7FrmEGQsbsqHKP4WwoyzSpy",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 3,
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 2,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Saltwater_River",
   "location": {
     "x": 71,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 71,
+      "y": 5
+    },
+    "topRight": {
+      "x": 72,
+      "y": 5
+    },
+    "right": {
+      "x": 72,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 72,
+      "y": 3
+    },
+    "bottom": {
+      "x": 71,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 70,
+      "y": 3
+    },
+    "left": {
+      "x": 70,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 70,
+      "y": 5
+    }
   }
 }

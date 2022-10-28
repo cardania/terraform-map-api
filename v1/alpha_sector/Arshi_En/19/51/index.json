@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13444",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13444",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ41Mikeq5qoq37aS2Ep9USdmGmyP83EX1JjifmV8fXtm",
+  "token_name": "Terraform10946",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10946",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc2TNryFzWEXLR7D4fm6fh5bf5Lv44UiQNqRfmj6MAueH",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 2,
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 4,
   "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 19,
     "y": 51
+  },
+  "neighbors": {
+    "top": {
+      "x": 19,
+      "y": 52
+    },
+    "topRight": {
+      "x": 20,
+      "y": 52
+    },
+    "right": {
+      "x": 20,
+      "y": 51
+    },
+    "bottomRight": {
+      "x": 20,
+      "y": 50
+    },
+    "bottom": {
+      "x": 19,
+      "y": 50
+    },
+    "bottonLeft": {
+      "x": 18,
+      "y": 50
+    },
+    "left": {
+      "x": 18,
+      "y": 51
+    },
+    "topLeft": {
+      "x": 18,
+      "y": 52
+    }
   }
 }

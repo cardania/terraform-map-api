@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17085",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17085",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaSZWDwKekNrtgKyZ4T8KPXTcLbgytfNrPKaaDHgfCh3G",
+  "token_name": "Terraform06217",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06217",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSL8cnYBBpH8jfbF5TKkBqizPBBJbY9GNr5hJYmVJAESu",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
   "power_level": 7,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Cursed_Lake",
   "location": {
     "x": 29,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 29,
+      "y": 5
+    },
+    "topRight": {
+      "x": 30,
+      "y": 5
+    },
+    "right": {
+      "x": 30,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 30,
+      "y": 3
+    },
+    "bottom": {
+      "x": 29,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 28,
+      "y": 3
+    },
+    "left": {
+      "x": 28,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 28,
+      "y": 5
+    }
   }
 }

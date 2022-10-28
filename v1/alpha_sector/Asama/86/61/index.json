@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17811",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17811",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb9qMT6kaxF5oiBLRYKsxs1iRVtnDwZokMUkG8a677i84",
+  "token_name": "Terraform09149",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09149",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPDvWh5L1XcJp93cxAc4883EUt3DRvDfDGaj8mV4kkgFy",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 5,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 86,
     "y": 61
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 62
+    },
+    "topRight": {
+      "x": 87,
+      "y": 62
+    },
+    "right": {
+      "x": 87,
+      "y": 61
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 60
+    },
+    "bottom": {
+      "x": 86,
+      "y": 60
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 60
+    },
+    "left": {
+      "x": 85,
+      "y": 61
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 62
+    }
   }
 }

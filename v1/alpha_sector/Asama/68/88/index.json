@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09187",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09187",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQmK4wvezMfEoHZ8Rhq4nN5xmd3NtxVEYbngtvT8G3Pso",
+  "token_name": "Terraform04432",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04432",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWn6tZUuzTnA7YUcwahDuDdTaYWczU6h7XmncxPaarctG",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
+  "power_level": 1,
+  "quantum_flux": 8,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 68,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 68,
+      "y": 89
+    },
+    "topRight": {
+      "x": 69,
+      "y": 89
+    },
+    "right": {
+      "x": 69,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 69,
+      "y": 87
+    },
+    "bottom": {
+      "x": 68,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 67,
+      "y": 87
+    },
+    "left": {
+      "x": 67,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 67,
+      "y": 89
+    }
   }
 }

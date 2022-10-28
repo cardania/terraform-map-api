@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05029",
+  "token_name": "Terraform05939",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05029",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYjrTa7SQrL9keTX87yqjGaBRquYGAsgUgA3eg7v513e5",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05939",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWaPiLa7YPGjj99gXKbe1qYcHXuy5XXkVZJb1wkTMov67",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 5,
+  "power_level": 1,
   "quantum_flux": 1,
   "primary_minerals": "Copper",
   "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "None",
   "location": {
     "x": 46,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 46,
+      "y": 8
+    },
+    "topRight": {
+      "x": 47,
+      "y": 8
+    },
+    "right": {
+      "x": 47,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 47,
+      "y": 6
+    },
+    "bottom": {
+      "x": 46,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 45,
+      "y": 6
+    },
+    "left": {
+      "x": 45,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 45,
+      "y": 8
+    }
   }
 }

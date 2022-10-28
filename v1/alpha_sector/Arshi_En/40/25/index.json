@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00817",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00817",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeEbnaVwr15CWq55wC3ZoJVUKbjuiJfWBARk7AwEk5mny",
+  "token_name": "Terraform10657",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10657",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ61U7kRmA7RwA3KsnR66V9cQBAkgWzU77N1V7dstrWek",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Gemstones",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
+  "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 40,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 40,
+      "y": 26
+    },
+    "topRight": {
+      "x": 41,
+      "y": 26
+    },
+    "right": {
+      "x": 41,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 41,
+      "y": 24
+    },
+    "bottom": {
+      "x": 40,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 39,
+      "y": 24
+    },
+    "left": {
+      "x": 39,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 39,
+      "y": 26
+    }
   }
 }

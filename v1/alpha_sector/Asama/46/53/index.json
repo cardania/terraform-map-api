@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01611",
+  "token_name": "Terraform16544",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01611",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQBM4FJqPhubNFhxwJznqef1WYRjRvsneeanx9xgiswuM",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16544",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbmLYQRtqwBpaa92J1KhELrRJw32g3TmvmpUDWvczZFhL",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
+  "power_level": 8,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "None",
   "location": {
     "x": 46,
     "y": 53
+  },
+  "neighbors": {
+    "top": {
+      "x": 46,
+      "y": 54
+    },
+    "topRight": {
+      "x": 47,
+      "y": 54
+    },
+    "right": {
+      "x": 47,
+      "y": 53
+    },
+    "bottomRight": {
+      "x": 47,
+      "y": 52
+    },
+    "bottom": {
+      "x": 46,
+      "y": 52
+    },
+    "bottonLeft": {
+      "x": 45,
+      "y": 52
+    },
+    "left": {
+      "x": 45,
+      "y": 53
+    },
+    "topLeft": {
+      "x": 45,
+      "y": 54
+    }
   }
 }

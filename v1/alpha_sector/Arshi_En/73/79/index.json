@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12667",
+  "token_name": "Terraform00036",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12667",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQengNyYZgYnrAJH49kg3MkUxTAC3MECmp2RKd6utadoX",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00036",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSm1dhYHE62CvsEmbPZPanxvt2TUpzqVXAwRanff5BEKP",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 7,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 73,
     "y": 79
+  },
+  "neighbors": {
+    "top": {
+      "x": 73,
+      "y": 80
+    },
+    "topRight": {
+      "x": 74,
+      "y": 80
+    },
+    "right": {
+      "x": 74,
+      "y": 79
+    },
+    "bottomRight": {
+      "x": 74,
+      "y": 78
+    },
+    "bottom": {
+      "x": 73,
+      "y": 78
+    },
+    "bottonLeft": {
+      "x": 72,
+      "y": 78
+    },
+    "left": {
+      "x": 72,
+      "y": 79
+    },
+    "topLeft": {
+      "x": 72,
+      "y": 80
+    }
   }
 }

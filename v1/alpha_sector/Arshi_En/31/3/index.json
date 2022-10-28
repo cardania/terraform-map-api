@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18027",
+  "token_name": "Terraform08218",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18027",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcW4bHnSzoZ8psgvofySsKmMCm3nLy99aTLueeDvN3VZ4",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08218",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVaLyyXc48FnRHtsG3NxJJAmB3EEh5dhbYb3jek3BfLoR",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 4,
-  "quantum_flux": 9,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "quantum_flux": 1,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 31,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 31,
+      "y": 4
+    },
+    "topRight": {
+      "x": 32,
+      "y": 4
+    },
+    "right": {
+      "x": 32,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 32,
+      "y": 2
+    },
+    "bottom": {
+      "x": 31,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 30,
+      "y": 2
+    },
+    "left": {
+      "x": 30,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 30,
+      "y": 4
+    }
   }
 }

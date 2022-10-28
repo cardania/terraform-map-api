@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03451",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03451",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTb65hzMzsw3t9bTpYaRMkVgHZYX2P1LyfYLSzhTskcK7",
+  "token_name": "Terraform16514",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16514",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUT1e79hgf3iBvQkPAVY29K8yC7v689pHUVB87nyArMtK",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 9,
-  "quantum_flux": 5,
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 8,
   "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 48,
     "y": 62
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 63
+    },
+    "topRight": {
+      "x": 49,
+      "y": 63
+    },
+    "right": {
+      "x": 49,
+      "y": 62
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 61
+    },
+    "bottom": {
+      "x": 48,
+      "y": 61
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 61
+    },
+    "left": {
+      "x": 47,
+      "y": 62
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 63
+    }
   }
 }

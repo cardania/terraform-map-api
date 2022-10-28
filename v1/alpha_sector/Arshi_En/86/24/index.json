@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10218",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10218",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPnYEBdEBwbUYdocEU7tE8a4jNcqgRCPAiX1t3HJW22vo",
+  "token_name": "Terraform03760",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03760",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTZUJryjTthK2uNqiBdUddJ8qx1dtRcgrxxz3T1oGSoh5",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "lithoglyphs": "None",
   "power_level": 1,
-  "quantum_flux": 7,
-  "primary_minerals": "Iron",
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
   "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Fungal_Shrine",
-  "water": "Toxic_Lake",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 86,
     "y": 24
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 25
+    },
+    "topRight": {
+      "x": 87,
+      "y": 25
+    },
+    "right": {
+      "x": 87,
+      "y": 24
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 23
+    },
+    "bottom": {
+      "x": 86,
+      "y": 23
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 23
+    },
+    "left": {
+      "x": 85,
+      "y": 24
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 25
+    }
   }
 }

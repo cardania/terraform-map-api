@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04854",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04854",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXYteN9XespehXSnoXraByBN2yvj4ZvQZEHNmFuQUpThc",
+  "token_name": "Terraform07552",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07552",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWMYTSci8NDkTXzw1jApgShVRuwH411JBiYkVsnPTvX21",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 7,
+  "quantum_flux": 9,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 91,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 91,
+      "y": 50
+    },
+    "topRight": {
+      "x": 92,
+      "y": 50
+    },
+    "right": {
+      "x": 92,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 92,
+      "y": 48
+    },
+    "bottom": {
+      "x": 91,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 90,
+      "y": 48
+    },
+    "left": {
+      "x": 90,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 90,
+      "y": 50
+    }
   }
 }

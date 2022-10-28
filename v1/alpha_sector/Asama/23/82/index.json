@@ -1,18 +1,18 @@
 {
-  "token_name": "Terraform04738",
+  "token_name": "Terraform12084",
   "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04738",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaFtASYyYVWHDKpqnxMwXRGiFjEfFag4jSG51QY1Rh7rd",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12084",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYSmzHzqVArQWSHLg4FMXeA78QyrdubAYgjtVvTv69pnk",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 1,
-  "quantum_flux": 7,
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 9,
+  "quantum_flux": 5,
   "primary_minerals": "Copper",
   "secondary_minerals": "Fossils",
   "ruins": "Alien_Technology_Blue",
@@ -21,5 +21,39 @@
   "location": {
     "x": 23,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 23,
+      "y": 83
+    },
+    "topRight": {
+      "x": 24,
+      "y": 83
+    },
+    "right": {
+      "x": 24,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 24,
+      "y": 81
+    },
+    "bottom": {
+      "x": 23,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 22,
+      "y": 81
+    },
+    "left": {
+      "x": 22,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 22,
+      "y": 83
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13910",
+  "token_name": "Terraform13304",
   "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13910",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbniAKqmaabCnFsgXDw1528f5m6bKr36K2T795R6zHhkN",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13304",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbnQiuARA8iDoULXi3PvQidpCptmdLnmBE1xhgjsgRAEs",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 3,
+  "quantum_flux": 1,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "Toxic_River",
   "location": {
     "x": 59,
     "y": 94
+  },
+  "neighbors": {
+    "top": {
+      "x": 59,
+      "y": 95
+    },
+    "topRight": {
+      "x": 60,
+      "y": 95
+    },
+    "right": {
+      "x": 60,
+      "y": 94
+    },
+    "bottomRight": {
+      "x": 60,
+      "y": 93
+    },
+    "bottom": {
+      "x": 59,
+      "y": 93
+    },
+    "bottonLeft": {
+      "x": 58,
+      "y": 93
+    },
+    "left": {
+      "x": 58,
+      "y": 94
+    },
+    "topLeft": {
+      "x": 58,
+      "y": 95
+    }
   }
 }

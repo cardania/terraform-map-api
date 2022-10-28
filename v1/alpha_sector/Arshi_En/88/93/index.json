@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17750",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17750",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfTychBG936Coqsp8dNVVQUTU71nR37APAiMggdvMQnGK",
+  "token_name": "Terraform03169",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03169",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmY7Nd3AkbQeQ2Rf1mehSJDY6uU1UHw5R5Mpq3pGAPqj2o",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 4,
   "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 88,
     "y": 93
+  },
+  "neighbors": {
+    "top": {
+      "x": 88,
+      "y": 94
+    },
+    "topRight": {
+      "x": 89,
+      "y": 94
+    },
+    "right": {
+      "x": 89,
+      "y": 93
+    },
+    "bottomRight": {
+      "x": 89,
+      "y": 92
+    },
+    "bottom": {
+      "x": 88,
+      "y": 92
+    },
+    "bottonLeft": {
+      "x": 87,
+      "y": 92
+    },
+    "left": {
+      "x": 87,
+      "y": 93
+    },
+    "topLeft": {
+      "x": 87,
+      "y": 94
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00968",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00968",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSwyWiUZgFd3Zfy5zsbnihMRH7czCdMUTg7VPrZVQxDvn",
+  "token_name": "Terraform08977",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08977",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWbFfzmp2nub7oVepa9iiwxceQ1FpU7CSFYMeLQmsoHdV",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 4,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 4,
+  "quantum_flux": 5,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
+  "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 60,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 7
+    },
+    "topRight": {
+      "x": 61,
+      "y": 7
+    },
+    "right": {
+      "x": 61,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 5
+    },
+    "bottom": {
+      "x": 60,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 5
+    },
+    "left": {
+      "x": 59,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 7
+    }
   }
 }

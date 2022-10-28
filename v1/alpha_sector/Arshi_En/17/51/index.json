@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18717",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18717",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVneqK3BpNMLjDMN6fpzN6f7ecDnScv3AMR66344yoSAB",
+  "token_name": "Terraform09585",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09585",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXpdRB3TShbe7v7RWexs8gRK1BtHEENwRd88jCxM67bup",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 4,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 6,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 17,
     "y": 51
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 52
+    },
+    "topRight": {
+      "x": 18,
+      "y": 52
+    },
+    "right": {
+      "x": 18,
+      "y": 51
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 50
+    },
+    "bottom": {
+      "x": 17,
+      "y": 50
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 50
+    },
+    "left": {
+      "x": 16,
+      "y": 51
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 52
+    }
   }
 }

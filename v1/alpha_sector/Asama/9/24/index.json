@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11980",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11980",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPNiDQTH6toLAU77jDUSM3EaqbenGJSbAXqR715w7zFEx",
+  "token_name": "Terraform12568",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12568",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWQxjGPdcQTcjbafaKF69KGjLWUAFSdkyL9gBhAUUyvWJ",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 9,
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 7,
   "quantum_flux": 4,
-  "primary_minerals": "Radium",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Timelost_Shrine",
-  "water": "Toxic_Lake",
+  "shrine": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 9,
     "y": 24
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 25
+    },
+    "topRight": {
+      "x": 10,
+      "y": 25
+    },
+    "right": {
+      "x": 10,
+      "y": 24
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 23
+    },
+    "bottom": {
+      "x": 9,
+      "y": 23
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 23
+    },
+    "left": {
+      "x": 8,
+      "y": 24
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 25
+    }
   }
 }

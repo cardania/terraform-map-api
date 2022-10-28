@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02284",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02284",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTEcAMzWxFRrCR9oiHBzk1CHYmpCr5V8HkbmrZDN9pgXh",
+  "token_name": "Terraform04380",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04380",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNrkFd69Hvps81ckjAdh9Nyv14Nzdv9F3yvxXHZHfxvdt",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 8,
   "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 21,
     "y": 84
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 85
+    },
+    "topRight": {
+      "x": 22,
+      "y": 85
+    },
+    "right": {
+      "x": 22,
+      "y": 84
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 83
+    },
+    "bottom": {
+      "x": 21,
+      "y": 83
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 83
+    },
+    "left": {
+      "x": 20,
+      "y": 84
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 85
+    }
   }
 }

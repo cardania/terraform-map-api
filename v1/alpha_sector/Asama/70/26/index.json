@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17010",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17010",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb8X6MprsRaUvf4618raZuJE9ik4UN5LwxvmVN5BuiYWP",
+  "token_name": "Terraform17329",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17329",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPG7DEmJrAkQdGQPQzybpcDUT56WaLQZkycx5Vhmnk2eA",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 3,
+  "power_level": 1,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Golden_Shrine",
-  "water": "Cursed_River",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 70,
     "y": 26
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 27
+    },
+    "topRight": {
+      "x": 71,
+      "y": 27
+    },
+    "right": {
+      "x": 71,
+      "y": 26
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 25
+    },
+    "bottom": {
+      "x": 70,
+      "y": 25
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 25
+    },
+    "left": {
+      "x": 69,
+      "y": 26
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 27
+    }
   }
 }

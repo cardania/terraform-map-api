@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12878",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12878",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUmdhPyudRSoXX7zmgiBd5ASsvLQbeU7cWR44NpGYLqvg",
+  "token_name": "Terraform14963",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14963",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ4tpcax1DcgjLYZ6d9cE1vQF6hmLrgAAmzkGqgBTEpjs",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
   "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 6,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Void_Shrine",
-  "water": "Toxic_River",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 6,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 66,
     "y": 92
+  },
+  "neighbors": {
+    "top": {
+      "x": 66,
+      "y": 93
+    },
+    "topRight": {
+      "x": 67,
+      "y": 93
+    },
+    "right": {
+      "x": 67,
+      "y": 92
+    },
+    "bottomRight": {
+      "x": 67,
+      "y": 91
+    },
+    "bottom": {
+      "x": 66,
+      "y": 91
+    },
+    "bottonLeft": {
+      "x": 65,
+      "y": 91
+    },
+    "left": {
+      "x": 65,
+      "y": 92
+    },
+    "topLeft": {
+      "x": 65,
+      "y": 93
+    }
   }
 }

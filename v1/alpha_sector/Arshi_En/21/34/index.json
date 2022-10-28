@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02438",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02438",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVt9dcL7gY46NyrWPoGzycDxPyWzbJDAMjCBdBqWTtsZv",
+  "token_name": "Terraform17879",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17879",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaXYRu4ypGc4JbPTb2e1MtiofZtapym8jDje5MoQdDhcm",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
-  "quantum_flux": 1,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "Toxic_River",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 6,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "Timelost_Shrine",
+  "water": "None",
   "location": {
     "x": 21,
     "y": 34
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 35
+    },
+    "topRight": {
+      "x": 22,
+      "y": 35
+    },
+    "right": {
+      "x": 22,
+      "y": 34
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 33
+    },
+    "bottom": {
+      "x": 21,
+      "y": 33
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 33
+    },
+    "left": {
+      "x": 20,
+      "y": 34
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 35
+    }
   }
 }

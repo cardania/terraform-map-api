@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform06642",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06642",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZMfgMFCCHyiyBjDgCvUnn6Vts5NqdyND2yxoEjjdyvAX",
+  "token_name": "Terraform09827",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09827",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTWkQvruMGzhLRX6i2kBaaBLDR1c8jx2n9ZG6ZZ5PvUZp",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Ultrasaurs",
   "forests": "Prismaleaf",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 1,
-  "quantum_flux": 1,
-  "primary_minerals": "Radium",
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 56,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 4
+    },
+    "topRight": {
+      "x": 57,
+      "y": 4
+    },
+    "right": {
+      "x": 57,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 2
+    },
+    "bottom": {
+      "x": 56,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 2
+    },
+    "left": {
+      "x": 55,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 4
+    }
   }
 }

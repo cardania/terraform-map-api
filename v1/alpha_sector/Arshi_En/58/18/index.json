@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06987",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06987",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcdMVeNdVSua4EZXkePq5fjRGCqaYLEZHQLdGdknLvEun",
+  "token_name": "Terraform10829",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10829",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTjEiCivVA65H1xbaqNUt3JFdoxALRDnecs7QBNuf5rKM",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Prismaleaf",
+  "fauna": "Critters",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 58,
     "y": 18
+  },
+  "neighbors": {
+    "top": {
+      "x": 58,
+      "y": 19
+    },
+    "topRight": {
+      "x": 59,
+      "y": 19
+    },
+    "right": {
+      "x": 59,
+      "y": 18
+    },
+    "bottomRight": {
+      "x": 59,
+      "y": 17
+    },
+    "bottom": {
+      "x": 58,
+      "y": 17
+    },
+    "bottonLeft": {
+      "x": 57,
+      "y": 17
+    },
+    "left": {
+      "x": 57,
+      "y": 18
+    },
+    "topLeft": {
+      "x": 57,
+      "y": 19
+    }
   }
 }

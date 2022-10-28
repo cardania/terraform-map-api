@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05310",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05310",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTBWSvvRww2YwfRTSsfciBPxkhbmTEjxXmm6TGSrz7FuA",
+  "token_name": "Terraform00379",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00379",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPSeAPJBZdnrNtEoApMjrYkAYyooXme3dLZgcdZLg9jMe",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "None",
+  "forests": "Palms",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 7,
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
   "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Saltwater_River",
   "location": {
     "x": 94,
     "y": 9
+  },
+  "neighbors": {
+    "top": {
+      "x": 94,
+      "y": 10
+    },
+    "topRight": {
+      "x": 95,
+      "y": 10
+    },
+    "right": {
+      "x": 95,
+      "y": 9
+    },
+    "bottomRight": {
+      "x": 95,
+      "y": 8
+    },
+    "bottom": {
+      "x": 94,
+      "y": 8
+    },
+    "bottonLeft": {
+      "x": 93,
+      "y": 8
+    },
+    "left": {
+      "x": 93,
+      "y": 9
+    },
+    "topLeft": {
+      "x": 93,
+      "y": 10
+    }
   }
 }

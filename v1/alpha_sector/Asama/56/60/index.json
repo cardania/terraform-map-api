@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14392",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14392",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVSMLDeeXH3ak6hLbg44VqbyGyABy7GbcRAJgn5wcvQKx",
+  "token_name": "Terraform07849",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07849",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZPjWvaLjFg1buZHi3PDpMRVxjHthu9zKjWqkENMP7Lw8",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Green",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 9,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 56,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 61
+    },
+    "topRight": {
+      "x": 57,
+      "y": 61
+    },
+    "right": {
+      "x": 57,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 59
+    },
+    "bottom": {
+      "x": 56,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 59
+    },
+    "left": {
+      "x": 55,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 61
+    }
   }
 }

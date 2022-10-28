@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01473",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01473",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRUTwcJJbHNtbJZoRDDZkY3eVFCccLNkBUQrJUSLyYwSP",
+  "token_name": "Terraform08323",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08323",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qma4ABfQxqvZm67T62DK7wqJZ8yTQTJYMXmH1pyN8CBz3d",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 4,
-  "quantum_flux": 4,
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
+  "quantum_flux": 7,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 30,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 30,
+      "y": 23
+    },
+    "topRight": {
+      "x": 31,
+      "y": 23
+    },
+    "right": {
+      "x": 31,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 31,
+      "y": 21
+    },
+    "bottom": {
+      "x": 30,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 29,
+      "y": 21
+    },
+    "left": {
+      "x": 29,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 29,
+      "y": 23
+    }
   }
 }

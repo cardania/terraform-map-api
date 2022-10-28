@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12380",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12380",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWgg4cLpKSpiP1X7UET7iv4k6acJxmcDWHMXHMUYtMAge",
+  "token_name": "Terraform00301",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00301",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUbVmbuyzPieDCeYmMwNCG6NErkzuwFQ6FUFATMUhVwpp",
   "alpha_sector": "Arshi_En",
   "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 3,
+  "power_level": 6,
+  "quantum_flux": 8,
   "primary_minerals": "None",
   "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "None",
   "shrine": "None",
   "water": "Funky_River",
   "location": {
     "x": 21,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 76
+    },
+    "topRight": {
+      "x": 22,
+      "y": 76
+    },
+    "right": {
+      "x": 22,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 74
+    },
+    "bottom": {
+      "x": 21,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 74
+    },
+    "left": {
+      "x": 20,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 76
+    }
   }
 }

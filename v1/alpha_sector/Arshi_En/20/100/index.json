@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05030",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05030",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQAw65PT5RWVriJ23N2B68XH82xg6MAVZAZHHuiPC3M5f",
+  "token_name": "Terraform16100",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16100",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc1pCSnnWmNsahWGVL6PJb11RJ4TawgSdPZL81h8yCvtf",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 20,
     "y": 100
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 101
+    },
+    "topRight": {
+      "x": 21,
+      "y": 101
+    },
+    "right": {
+      "x": 21,
+      "y": 100
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 99
+    },
+    "bottom": {
+      "x": 20,
+      "y": 99
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 99
+    },
+    "left": {
+      "x": 19,
+      "y": 100
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 101
+    }
   }
 }

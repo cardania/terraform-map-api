@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13778",
+  "token_name": "Terraform02750",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13778",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWdjN8YBxapREQHWyKujfbnc4NbBUZHoTadZyKkHxNyeR",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02750",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQXrcroTNVv3NjkgHjN57RKWUjWB6WLx2yVga9JtYXc17",
   "alpha_sector": "Asama",
   "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 4,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Quantum_Shrine",
+  "water": "None",
   "location": {
     "x": 27,
     "y": 19
+  },
+  "neighbors": {
+    "top": {
+      "x": 27,
+      "y": 20
+    },
+    "topRight": {
+      "x": 28,
+      "y": 20
+    },
+    "right": {
+      "x": 28,
+      "y": 19
+    },
+    "bottomRight": {
+      "x": 28,
+      "y": 18
+    },
+    "bottom": {
+      "x": 27,
+      "y": 18
+    },
+    "bottonLeft": {
+      "x": 26,
+      "y": 18
+    },
+    "left": {
+      "x": 26,
+      "y": 19
+    },
+    "topLeft": {
+      "x": 26,
+      "y": 20
+    }
   }
 }

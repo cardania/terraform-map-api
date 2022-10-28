@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03367",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03367",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNN2mw335aXMvpjCj45sSxJ4W4bWaq9DE79iFx1edobMu",
+  "token_name": "Terraform12153",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12153",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNp3LjmVwEiuhVyDG78GmLzpSfhWqsNcSiT3v3SSy6MTt",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 5,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
+  "lithoglyphs": "None",
+  "power_level": 7,
+  "quantum_flux": 2,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 20,
     "y": 93
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 94
+    },
+    "topRight": {
+      "x": 21,
+      "y": 94
+    },
+    "right": {
+      "x": 21,
+      "y": 93
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 92
+    },
+    "bottom": {
+      "x": 20,
+      "y": 92
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 92
+    },
+    "left": {
+      "x": 19,
+      "y": 93
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 94
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09393",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09393",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSuszdRzr7QUvVmWk51q8ETjzM13uf3TH9Vg4B9WFhHRH",
+  "token_name": "Terraform00484",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00484",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPpRMw5jeiZYwPqNuNpcm5Vz98vtm6VGZ3CDs5Hgt19QX",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 6,
-  "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "None",
   "location": {
     "x": 29,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 29,
+      "y": 83
+    },
+    "topRight": {
+      "x": 30,
+      "y": 83
+    },
+    "right": {
+      "x": 30,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 30,
+      "y": 81
+    },
+    "bottom": {
+      "x": 29,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 28,
+      "y": 81
+    },
+    "left": {
+      "x": 28,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 28,
+      "y": 83
+    }
   }
 }

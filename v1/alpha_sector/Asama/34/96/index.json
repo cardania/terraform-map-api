@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13271",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13271",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZYhV2VbNgmfDxvgCTRDzXMyEpgQ4DAZJcfXkgET7hgTa",
+  "token_name": "Terraform06232",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06232",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmP3y8tY7M8V5RRLbwMxMYqZ7AFwUn8HoWWh7e2D16DeYd",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
   "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "Iron",
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Machine_Shrine",
-  "water": "Saltwater_River",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 34,
     "y": 96
+  },
+  "neighbors": {
+    "top": {
+      "x": 34,
+      "y": 97
+    },
+    "topRight": {
+      "x": 35,
+      "y": 97
+    },
+    "right": {
+      "x": 35,
+      "y": 96
+    },
+    "bottomRight": {
+      "x": 35,
+      "y": 95
+    },
+    "bottom": {
+      "x": 34,
+      "y": 95
+    },
+    "bottonLeft": {
+      "x": 33,
+      "y": 95
+    },
+    "left": {
+      "x": 33,
+      "y": 96
+    },
+    "topLeft": {
+      "x": 33,
+      "y": 97
+    }
   }
 }

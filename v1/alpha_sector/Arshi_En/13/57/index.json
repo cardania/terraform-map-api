@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05737",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05737",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYCg9uKEEpbEjsBJNwS3EMhQZWn37p2c2YcFSoo8Y4WuM",
+  "token_name": "Terraform05907",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05907",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaRcYHBHTybKZom2BvBAteLMh1qLxqD4NGCKWgzgxcTBf",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 9,
+  "power_level": 7,
+  "quantum_flux": 5,
   "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 13,
     "y": 57
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 58
+    },
+    "topRight": {
+      "x": 14,
+      "y": 58
+    },
+    "right": {
+      "x": 14,
+      "y": 57
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 56
+    },
+    "bottom": {
+      "x": 13,
+      "y": 56
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 56
+    },
+    "left": {
+      "x": 12,
+      "y": 57
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 58
+    }
   }
 }

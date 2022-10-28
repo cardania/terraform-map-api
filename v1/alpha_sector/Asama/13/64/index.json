@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05584",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05584",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb71MdW5FfhhqX4QDjQbB5fWhCEfZg2joQ1Dxyuco3T2B",
+  "token_name": "Terraform00015",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00015",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbQWgfPppcqhDK5gxyjcJPRkcPPHY61kgougP3MxJkUno",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "Cardanium_Bunker",
   "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Burning_Mantrap",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
+  "power_level": 1,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_Lake",
   "location": {
     "x": 13,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 65
+    },
+    "topRight": {
+      "x": 14,
+      "y": 65
+    },
+    "right": {
+      "x": 14,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 63
+    },
+    "bottom": {
+      "x": 13,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 63
+    },
+    "left": {
+      "x": 12,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 65
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03730",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03730",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUTCej7aRQBy8Ndm4KDJRk1WKKfLG4rdm8ubv1BD5ipBN",
+  "token_name": "Terraform07480",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07480",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbjksPM8E8RY35zPkK7Aq2EzKptVf9A2TKfJt8stMbdpY",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
+  "activity": "None",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
   "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Cardanium",
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "None",
   "location": {
     "x": 7,
     "y": 70
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 71
+    },
+    "topRight": {
+      "x": 8,
+      "y": 71
+    },
+    "right": {
+      "x": 8,
+      "y": 70
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 69
+    },
+    "bottom": {
+      "x": 7,
+      "y": 69
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 69
+    },
+    "left": {
+      "x": 6,
+      "y": 70
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 71
+    }
   }
 }

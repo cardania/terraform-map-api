@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00282",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00282",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQwLgJ1MrXG94fTxaBDRix4M1juAoFraGAcVuL9VvbtDY",
+  "token_name": "Terraform13276",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13276",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQtq1nLW93ZGL9JomGY5UnmJQpnx5a7kNQqethjVSPSP4",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Fungal_Shrine",
-  "water": "Funky_Lake",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 41,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 41,
+      "y": 44
+    },
+    "topRight": {
+      "x": 42,
+      "y": 44
+    },
+    "right": {
+      "x": 42,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 42,
+      "y": 42
+    },
+    "bottom": {
+      "x": 41,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 40,
+      "y": 42
+    },
+    "left": {
+      "x": 40,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 40,
+      "y": 44
+    }
   }
 }

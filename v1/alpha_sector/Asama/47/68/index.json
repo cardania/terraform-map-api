@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08322",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08322",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNRf1g733wg6fiHFpTYGfpZhWs2gkSL2W1ZcZjusTSFUu",
+  "token_name": "Terraform11085",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11085",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcUM8JcuhDYiDgVnjZRUSz1KNh4QgQpHVEf5jgp4dX4z6",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 3,
+  "power_level": 2,
+  "quantum_flux": 2,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Machine_Shrine",
   "water": "None",
   "location": {
     "x": 47,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 47,
+      "y": 69
+    },
+    "topRight": {
+      "x": 48,
+      "y": 69
+    },
+    "right": {
+      "x": 48,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 48,
+      "y": 67
+    },
+    "bottom": {
+      "x": 47,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 46,
+      "y": 67
+    },
+    "left": {
+      "x": 46,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 46,
+      "y": 69
+    }
   }
 }

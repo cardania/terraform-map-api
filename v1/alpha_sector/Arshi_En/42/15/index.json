@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13618",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13618",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTj63znNnghQzuVR8L7rkNmzLTjuAT4hHnrEEaop9udf9",
+  "token_name": "Terraform10133",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10133",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTvbMX3JPdkWEypeuYHbc51ETVtwBUyxTPUNSbZtsMVdA",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 9,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 8,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 42,
     "y": 15
+  },
+  "neighbors": {
+    "top": {
+      "x": 42,
+      "y": 16
+    },
+    "topRight": {
+      "x": 43,
+      "y": 16
+    },
+    "right": {
+      "x": 43,
+      "y": 15
+    },
+    "bottomRight": {
+      "x": 43,
+      "y": 14
+    },
+    "bottom": {
+      "x": 42,
+      "y": 14
+    },
+    "bottonLeft": {
+      "x": 41,
+      "y": 14
+    },
+    "left": {
+      "x": 41,
+      "y": 15
+    },
+    "topLeft": {
+      "x": 41,
+      "y": 16
+    }
   }
 }

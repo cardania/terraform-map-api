@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14289",
+  "token_name": "Terraform09142",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14289",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZJR1gFSZybAiT7REDhZ1yXHHcP7DSsZoNqWNgN3zCCnP",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09142",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmS4UcKN8ibLR9Mr2hwFin1Rd5xmaxwtzfEu3cuEwUoFRa",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
+  "quantum_flux": 5,
+  "primary_minerals": "None",
   "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Cursed_River",
+  "shrine": "Quantum_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 60,
     "y": 15
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 16
+    },
+    "topRight": {
+      "x": 61,
+      "y": 16
+    },
+    "right": {
+      "x": 61,
+      "y": 15
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 14
+    },
+    "bottom": {
+      "x": 60,
+      "y": 14
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 14
+    },
+    "left": {
+      "x": 59,
+      "y": 15
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 16
+    }
   }
 }

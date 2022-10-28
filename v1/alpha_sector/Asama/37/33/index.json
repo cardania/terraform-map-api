@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06180",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06180",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd4s8q3MA27sBrZpJgYTaiKvkYhweuRPZs4t2MqAQe878",
+  "token_name": "Terraform16071",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16071",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmetLLm7unFFhNsia15QrhmFomBAD8exy22t8JDr2VXsq2",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Machine_Shrine",
-  "water": "Toxic_River",
+  "power_level": 5,
+  "quantum_flux": 8,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 37,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 37,
+      "y": 34
+    },
+    "topRight": {
+      "x": 38,
+      "y": 34
+    },
+    "right": {
+      "x": 38,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 38,
+      "y": 32
+    },
+    "bottom": {
+      "x": 37,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 36,
+      "y": 32
+    },
+    "left": {
+      "x": 36,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 36,
+      "y": 34
+    }
   }
 }

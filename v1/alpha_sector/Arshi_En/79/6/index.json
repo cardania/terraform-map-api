@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07299",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07299",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQY97eps7ozECy7bYWuUncae6yx5coLf6zDiBS1ehMowF",
+  "token_name": "Terraform15734",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15734",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSbzSvycq9cgZ4JTsXAEXL3Ljg45zxkwDF6cFyL41Q8iG",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
   "power_level": 6,
-  "quantum_flux": 5,
+  "quantum_flux": 6,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "Void_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 79,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 79,
+      "y": 7
+    },
+    "topRight": {
+      "x": 80,
+      "y": 7
+    },
+    "right": {
+      "x": 80,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 80,
+      "y": 5
+    },
+    "bottom": {
+      "x": 79,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 78,
+      "y": 5
+    },
+    "left": {
+      "x": 78,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 78,
+      "y": 7
+    }
   }
 }

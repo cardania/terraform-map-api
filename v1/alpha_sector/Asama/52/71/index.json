@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00057",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00057",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVV3QS9Pfk81iRWYuQmdn47D7w1mncKt2xg9JriDpSohY",
+  "token_name": "Terraform15426",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15426",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTrwExnFyiPYbj1B5DhXEgT92N6zuLLNcLXo3ribacZeW",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 5,
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 6,
   "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 52,
     "y": 71
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 72
+    },
+    "topRight": {
+      "x": 53,
+      "y": 72
+    },
+    "right": {
+      "x": 53,
+      "y": 71
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 70
+    },
+    "bottom": {
+      "x": 52,
+      "y": 70
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 70
+    },
+    "left": {
+      "x": 51,
+      "y": 71
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 72
+    }
   }
 }

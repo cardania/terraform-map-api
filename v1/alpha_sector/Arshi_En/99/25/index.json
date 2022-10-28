@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16480",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16480",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZptZozfWP6vFey2CjPZS9cU1Jp38qjPVJYcrvHuEVU8p",
+  "token_name": "Terraform18306",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18306",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmScRxN9sMvmJak6Bu8TuvUDEvWw8Un7rrKS1K5TDTd8N9",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
-  "quantum_flux": 2,
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 8,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 99,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 99,
+      "y": 26
+    },
+    "topRight": {
+      "x": 100,
+      "y": 26
+    },
+    "right": {
+      "x": 100,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 100,
+      "y": 24
+    },
+    "bottom": {
+      "x": 99,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 98,
+      "y": 24
+    },
+    "left": {
+      "x": 98,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 98,
+      "y": 26
+    }
   }
 }

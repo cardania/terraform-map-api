@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15713",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15713",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb2Rb8mBkLDcV2TbEzFakFCSupGEiqSACRRyRbK3nKNLV",
+  "token_name": "Terraform15561",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15561",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmanBYStbBTYk5XR8nbe35WcoHP2LGvKQZraNA8vCkHsM3",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 7,
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 8,
+  "quantum_flux": 2,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 9,
     "y": 77
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 78
+    },
+    "topRight": {
+      "x": 10,
+      "y": 78
+    },
+    "right": {
+      "x": 10,
+      "y": 77
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 76
+    },
+    "bottom": {
+      "x": 9,
+      "y": 76
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 76
+    },
+    "left": {
+      "x": 8,
+      "y": 77
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 78
+    }
   }
 }

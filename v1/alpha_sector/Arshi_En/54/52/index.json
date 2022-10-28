@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15839",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15839",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ4m4KqnSu8tr3WSafGqRTCu395JNChAMHYXggkmrSJkg",
+  "token_name": "Terraform03888",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03888",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmafCLeC4o3zUuo8gJ43XcQZBnJLyuKbux1vzXncPceM3E",
   "alpha_sector": "Arshi_En",
   "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Ultrasaurs",
   "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 4,
+  "power_level": 7,
+  "quantum_flux": 7,
   "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 54,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 54,
+      "y": 53
+    },
+    "topRight": {
+      "x": 55,
+      "y": 53
+    },
+    "right": {
+      "x": 55,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 55,
+      "y": 51
+    },
+    "bottom": {
+      "x": 54,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 53,
+      "y": 51
+    },
+    "left": {
+      "x": 53,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 53,
+      "y": 53
+    }
   }
 }

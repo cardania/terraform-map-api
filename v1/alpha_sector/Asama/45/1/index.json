@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17906",
+  "token_name": "Terraform11892",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17906",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmchVjRP3LfhBDsBopRKWJV85hmP1QfRio654tmAhfp4cC",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11892",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTXDY5Xs2VErA3MS8vLbdyjdGdW5xrRp6TbDEsfBsuwgE",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 4,
+  "power_level": 5,
+  "quantum_flux": 6,
   "primary_minerals": "Cardanium",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 45,
     "y": 1
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 2
+    },
+    "topRight": {
+      "x": 46,
+      "y": 2
+    },
+    "right": {
+      "x": 46,
+      "y": 1
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 0
+    },
+    "bottom": {
+      "x": 45,
+      "y": 0
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 0
+    },
+    "left": {
+      "x": 44,
+      "y": 1
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 2
+    }
   }
 }

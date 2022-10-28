@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15296",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15296",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUvNAp3mCkwUqCwFp5rHqBW9i5pMxSjErGAxoaoHnyKQJ",
+  "token_name": "Terraform16686",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16686",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZggHua2rU1XYiCYfqHXYPPs85YdZg4BhDPgz83y6vbx5",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 9,
-  "quantum_flux": 3,
+  "power_level": 5,
+  "quantum_flux": 4,
   "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "None",
   "shrine": "None",
   "water": "Saltwater_Lake",
   "location": {
     "x": 61,
     "y": 91
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 92
+    },
+    "topRight": {
+      "x": 62,
+      "y": 92
+    },
+    "right": {
+      "x": 62,
+      "y": 91
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 90
+    },
+    "bottom": {
+      "x": 61,
+      "y": 90
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 90
+    },
+    "left": {
+      "x": 60,
+      "y": 91
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 92
+    }
   }
 }

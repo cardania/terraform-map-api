@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04535",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04535",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmaqt51JVJpAEnyPPnpugBs29qiQ6kTw7DhHsxbJfnfRTf",
+  "token_name": "Terraform05467",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05467",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYYPyNp9LMa46vaPcghjQC38hyodVtGNUbLtULRtSmLut",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Custodial_Nanites",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 8,
-  "quantum_flux": 9,
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 2,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Saltwater_Lake",
+  "shrine": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 85,
     "y": 24
+  },
+  "neighbors": {
+    "top": {
+      "x": 85,
+      "y": 25
+    },
+    "topRight": {
+      "x": 86,
+      "y": 25
+    },
+    "right": {
+      "x": 86,
+      "y": 24
+    },
+    "bottomRight": {
+      "x": 86,
+      "y": 23
+    },
+    "bottom": {
+      "x": 85,
+      "y": 23
+    },
+    "bottonLeft": {
+      "x": 84,
+      "y": 23
+    },
+    "left": {
+      "x": 84,
+      "y": 24
+    },
+    "topLeft": {
+      "x": 84,
+      "y": 25
+    }
   }
 }

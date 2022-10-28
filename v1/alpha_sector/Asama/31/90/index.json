@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02504",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02504",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTQgD3HqvYH4ibxigyfDbAcZCkDENLgEi7VC8KPdR7zM3",
+  "token_name": "Terraform05831",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05831",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZYPrK1YFbiG5goydyebiYJTS6SEAGND1UDktqM3ZPMbC",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 4,
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
   "quantum_flux": 7,
-  "primary_minerals": "None",
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Solar_Shrine",
+  "ruins": "None",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 31,
     "y": 90
+  },
+  "neighbors": {
+    "top": {
+      "x": 31,
+      "y": 91
+    },
+    "topRight": {
+      "x": 32,
+      "y": 91
+    },
+    "right": {
+      "x": 32,
+      "y": 90
+    },
+    "bottomRight": {
+      "x": 32,
+      "y": 89
+    },
+    "bottom": {
+      "x": 31,
+      "y": 89
+    },
+    "bottonLeft": {
+      "x": 30,
+      "y": 89
+    },
+    "left": {
+      "x": 30,
+      "y": 90
+    },
+    "topLeft": {
+      "x": 30,
+      "y": 91
+    }
   }
 }

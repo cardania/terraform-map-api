@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16920",
+  "token_name": "Terraform00271",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16920",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSxyGz1huSxyBiNMoRH3KsetjMyUn82WNWx45K9XoN1x3",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00271",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNnhMBbHpFfJL57XrQVp5Mkg1zmoeqv2Dxv214vMLK9jv",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 1,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 6,
   "quantum_flux": 4,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 86,
     "y": 83
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 84
+    },
+    "topRight": {
+      "x": 87,
+      "y": 84
+    },
+    "right": {
+      "x": 87,
+      "y": 83
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 82
+    },
+    "bottom": {
+      "x": 86,
+      "y": 82
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 82
+    },
+    "left": {
+      "x": 85,
+      "y": 83
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 84
+    }
   }
 }

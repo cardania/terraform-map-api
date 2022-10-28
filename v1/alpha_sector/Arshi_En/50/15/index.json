@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14995",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14995",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmX4U3wSNaUBksz9XmHdDwDAvWVkFMf5WLmVEuuHqEzLGp",
+  "token_name": "Terraform12280",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12280",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQqiUKVZBWdHCMuf52Mj51d52h12rAVx317cW4Ktwd9we",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 7,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 6,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "None",
   "location": {
     "x": 50,
     "y": 15
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 16
+    },
+    "topRight": {
+      "x": 51,
+      "y": 16
+    },
+    "right": {
+      "x": 51,
+      "y": 15
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 14
+    },
+    "bottom": {
+      "x": 50,
+      "y": 14
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 14
+    },
+    "left": {
+      "x": 49,
+      "y": 15
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 16
+    }
   }
 }

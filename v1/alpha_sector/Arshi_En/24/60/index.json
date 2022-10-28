@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12946",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12946",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmX3WCzZNoLA7EGMA7MiFkZPyGT6qDb2yqSQMcrX1UCUhz",
+  "token_name": "Terraform13208",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13208",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVkifNLwYm2Po76PptHsgSH1drb5AaPrHy1LwZyV4mayt",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 4,
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 2,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Saltwater_River",
+  "shrine": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 24,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 61
+    },
+    "topRight": {
+      "x": 25,
+      "y": 61
+    },
+    "right": {
+      "x": 25,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 59
+    },
+    "bottom": {
+      "x": 24,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 59
+    },
+    "left": {
+      "x": 23,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 61
+    }
   }
 }

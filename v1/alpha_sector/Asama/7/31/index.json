@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19727",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19727",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmU2jat4PoExeYzox7nrwZ2tDrH3TS6S3Ah5cGfPUQ8wPk",
+  "token_name": "Terraform09790",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09790",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVQNrRp8rPwFFTVPgzVXPqNnMir5GNrvXvj4MAcjwSCx3",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Red",
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 7,
     "y": 31
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 32
+    },
+    "topRight": {
+      "x": 8,
+      "y": 32
+    },
+    "right": {
+      "x": 8,
+      "y": 31
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 30
+    },
+    "bottom": {
+      "x": 7,
+      "y": 30
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 30
+    },
+    "left": {
+      "x": 6,
+      "y": 31
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 32
+    }
   }
 }

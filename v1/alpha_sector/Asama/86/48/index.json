@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16261",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16261",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUosoMTWettAPoz2wiiyH5JLwW7gj9gPeERBBa1i9YfTr",
+  "token_name": "Terraform18674",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18674",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUJCZpwaHaN8onYi3AnzC1i84AMhm7hBE3t1PZzF2gMFJ",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
   "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 8,
-  "quantum_flux": 6,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 86,
     "y": 48
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 49
+    },
+    "topRight": {
+      "x": 87,
+      "y": 49
+    },
+    "right": {
+      "x": 87,
+      "y": 48
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 47
+    },
+    "bottom": {
+      "x": 86,
+      "y": 47
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 47
+    },
+    "left": {
+      "x": 85,
+      "y": 48
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 49
+    }
   }
 }

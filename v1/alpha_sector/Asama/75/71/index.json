@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07483",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07483",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfP9rBzZh26FEj84frXEqgX1JF6Y1bttJ25H9sfxcYDUX",
+  "token_name": "Terraform08632",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08632",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdacm1wV72qqnTx9FuGKSowPnAiuiJAnN4qGyNNsXjc5s",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Machine_Shrine",
+  "water": "Toxic_River",
   "location": {
     "x": 75,
     "y": 71
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 72
+    },
+    "topRight": {
+      "x": 76,
+      "y": 72
+    },
+    "right": {
+      "x": 76,
+      "y": 71
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 70
+    },
+    "bottom": {
+      "x": 75,
+      "y": 70
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 70
+    },
+    "left": {
+      "x": 74,
+      "y": 71
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 72
+    }
   }
 }

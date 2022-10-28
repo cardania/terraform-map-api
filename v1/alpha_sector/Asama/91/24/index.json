@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06326",
+  "token_name": "Terraform03218",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06326",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWL8KSYtRypijs2S4kGsz9ACwsMPYp7zni4L8rXeHJMEa",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03218",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmP8r2NfivADdk4m6jm3ebEu9FTG77KYJ8NbJMppHcM55A",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
+  "activity": "None",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 8,
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 1,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 91,
     "y": 24
+  },
+  "neighbors": {
+    "top": {
+      "x": 91,
+      "y": 25
+    },
+    "topRight": {
+      "x": 92,
+      "y": 25
+    },
+    "right": {
+      "x": 92,
+      "y": 24
+    },
+    "bottomRight": {
+      "x": 92,
+      "y": 23
+    },
+    "bottom": {
+      "x": 91,
+      "y": 23
+    },
+    "bottonLeft": {
+      "x": 90,
+      "y": 23
+    },
+    "left": {
+      "x": 90,
+      "y": 24
+    },
+    "topLeft": {
+      "x": 90,
+      "y": 25
+    }
   }
 }

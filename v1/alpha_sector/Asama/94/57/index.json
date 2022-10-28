@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04741",
+  "token_name": "Terraform03107",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04741",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNeMhKUvm8RqkRiKTJPusGWf3sBoec7GXjAKVaxA7GQDv",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03107",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcUSkwJuXxwNpFt1sbH7NmLWs538bkqqBTBQMnSSip4sw",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 5,
   "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 94,
     "y": 57
+  },
+  "neighbors": {
+    "top": {
+      "x": 94,
+      "y": 58
+    },
+    "topRight": {
+      "x": 95,
+      "y": 58
+    },
+    "right": {
+      "x": 95,
+      "y": 57
+    },
+    "bottomRight": {
+      "x": 95,
+      "y": 56
+    },
+    "bottom": {
+      "x": 94,
+      "y": 56
+    },
+    "bottonLeft": {
+      "x": 93,
+      "y": 56
+    },
+    "left": {
+      "x": 93,
+      "y": 57
+    },
+    "topLeft": {
+      "x": 93,
+      "y": 58
+    }
   }
 }

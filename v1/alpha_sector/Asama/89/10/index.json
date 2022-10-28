@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16662",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16662",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVByPG5YhopmYMHfTs6iWQhyRw9tfDM4kNF5qwUnw6Ujv",
+  "token_name": "Terraform12824",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12824",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmX1eGzVHfi5fbTPhSNcDAvYSQ4GwKS6a4KNXDP6ckzTKd",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 9,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "power_level": 7,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 89,
     "y": 10
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 11
+    },
+    "topRight": {
+      "x": 90,
+      "y": 11
+    },
+    "right": {
+      "x": 90,
+      "y": 10
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 9
+    },
+    "bottom": {
+      "x": 89,
+      "y": 9
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 9
+    },
+    "left": {
+      "x": 88,
+      "y": 10
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 11
+    }
   }
 }

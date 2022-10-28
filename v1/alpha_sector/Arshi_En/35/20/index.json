@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11953",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11953",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUPo44M3TsJkP2X8QB9dL4qM6h9pCVPxJtgXbK8QkmdUS",
+  "token_name": "Terraform06975",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06975",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPtqyYHWdp6Bi8x3rBudi1xGm2RGqt4M4on3tBf3ZcE8q",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Melodious_Mantrap",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 4,
-  "quantum_flux": 9,
+  "power_level": 5,
+  "quantum_flux": 3,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 35,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 35,
+      "y": 21
+    },
+    "topRight": {
+      "x": 36,
+      "y": 21
+    },
+    "right": {
+      "x": 36,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 36,
+      "y": 19
+    },
+    "bottom": {
+      "x": 35,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 34,
+      "y": 19
+    },
+    "left": {
+      "x": 34,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 34,
+      "y": 21
+    }
   }
 }

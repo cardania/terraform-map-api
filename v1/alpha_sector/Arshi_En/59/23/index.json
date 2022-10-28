@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12359",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12359",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRDtLHDBRKrGykCsgRaNSPbUF1M5X5YYiyHA25wSfvxB4",
+  "token_name": "Terraform10411",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10411",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXv5oLgh1XYjEfhaVTjL1amsowHjzrTtX1HpAUnbxNSM4",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Cursed_Lake",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 59,
     "y": 23
+  },
+  "neighbors": {
+    "top": {
+      "x": 59,
+      "y": 24
+    },
+    "topRight": {
+      "x": 60,
+      "y": 24
+    },
+    "right": {
+      "x": 60,
+      "y": 23
+    },
+    "bottomRight": {
+      "x": 60,
+      "y": 22
+    },
+    "bottom": {
+      "x": 59,
+      "y": 22
+    },
+    "bottonLeft": {
+      "x": 58,
+      "y": 22
+    },
+    "left": {
+      "x": 58,
+      "y": 23
+    },
+    "topLeft": {
+      "x": 58,
+      "y": 24
+    }
   }
 }

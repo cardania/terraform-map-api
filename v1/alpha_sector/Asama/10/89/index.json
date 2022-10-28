@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16276",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16276",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVPGx4F1iaQdzeaJnyPuohFe1TcMCY8t5TsJxEbzojURf",
+  "token_name": "Terraform09463",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09463",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYA8PF7mSX3DD4r7q4EfeGX4X5dQy1hwnznExVLBx4Ung",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "Cardanium_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "hazardous_flora": "Nemesis_Hydra",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 8,
+  "power_level": 5,
   "quantum_flux": 4,
-  "primary_minerals": "None",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Timelost_Shrine",
-  "water": "Cursed_Lake",
+  "shrine": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 10,
     "y": 89
+  },
+  "neighbors": {
+    "top": {
+      "x": 10,
+      "y": 90
+    },
+    "topRight": {
+      "x": 11,
+      "y": 90
+    },
+    "right": {
+      "x": 11,
+      "y": 89
+    },
+    "bottomRight": {
+      "x": 11,
+      "y": 88
+    },
+    "bottom": {
+      "x": 10,
+      "y": 88
+    },
+    "bottonLeft": {
+      "x": 9,
+      "y": 88
+    },
+    "left": {
+      "x": 9,
+      "y": 89
+    },
+    "topLeft": {
+      "x": 9,
+      "y": 90
+    }
   }
 }

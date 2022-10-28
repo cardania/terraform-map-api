@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15502",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15502",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSBtT1xEBSeGqxVpUUtK8tgCKc3P7uC66wxAH2Amf95k5",
+  "token_name": "Terraform05316",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05316",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNM98DZD2fDizJU9c2wr7r6T1muXQjpJGSwM3rKoc3n4K",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 7,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 98,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 7
+    },
+    "topRight": {
+      "x": 99,
+      "y": 7
+    },
+    "right": {
+      "x": 99,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 5
+    },
+    "bottom": {
+      "x": 98,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 5
+    },
+    "left": {
+      "x": 97,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 7
+    }
   }
 }

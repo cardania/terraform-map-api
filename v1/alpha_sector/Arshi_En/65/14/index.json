@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08202",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08202",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZsfgNbCcoeuq8CSYTuyKBa16rEcXXu8zfRQAqixCzcx4",
+  "token_name": "Terraform08552",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08552",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXaiBG43SY98aZp8v7JgFat95i1gQadtzqQpexmbwGt8m",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 8,
-  "quantum_flux": 4,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 9,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Solar_Shrine",
+  "water": "Funky_Lake",
   "location": {
     "x": 65,
     "y": 14
+  },
+  "neighbors": {
+    "top": {
+      "x": 65,
+      "y": 15
+    },
+    "topRight": {
+      "x": 66,
+      "y": 15
+    },
+    "right": {
+      "x": 66,
+      "y": 14
+    },
+    "bottomRight": {
+      "x": 66,
+      "y": 13
+    },
+    "bottom": {
+      "x": 65,
+      "y": 13
+    },
+    "bottonLeft": {
+      "x": 64,
+      "y": 13
+    },
+    "left": {
+      "x": 64,
+      "y": 14
+    },
+    "topLeft": {
+      "x": 64,
+      "y": 15
+    }
   }
 }

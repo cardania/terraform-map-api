@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17244",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17244",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV74viUPKDoqAXJ63WcSZZwspEcCCq9Qb3ALq4PwAXJPK",
+  "token_name": "Terraform09502",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09502",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQCnhJPYTHwmaDwNDKdsHunEP3UZf2Sw7TTvum3ZNYDu5",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "power_level": 2,
+  "quantum_flux": 9,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 28,
     "y": 67
+  },
+  "neighbors": {
+    "top": {
+      "x": 28,
+      "y": 68
+    },
+    "topRight": {
+      "x": 29,
+      "y": 68
+    },
+    "right": {
+      "x": 29,
+      "y": 67
+    },
+    "bottomRight": {
+      "x": 29,
+      "y": 66
+    },
+    "bottom": {
+      "x": 28,
+      "y": 66
+    },
+    "bottonLeft": {
+      "x": 27,
+      "y": 66
+    },
+    "left": {
+      "x": 27,
+      "y": 67
+    },
+    "topLeft": {
+      "x": 27,
+      "y": 68
+    }
   }
 }

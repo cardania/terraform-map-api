@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14940",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14940",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVtkxEA1ukpSdZpUt44o7WzqFA645ToxeQRFf2w6sNqkE",
+  "token_name": "Terraform18263",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18263",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXFJfEkDucJdpq297VTJVfxbZreMqRwCUiu32izD51KNH",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 4,
+  "quantum_flux": 9,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 89,
     "y": 87
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 88
+    },
+    "topRight": {
+      "x": 90,
+      "y": 88
+    },
+    "right": {
+      "x": 90,
+      "y": 87
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 86
+    },
+    "bottom": {
+      "x": 89,
+      "y": 86
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 86
+    },
+    "left": {
+      "x": 88,
+      "y": 87
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 88
+    }
   }
 }

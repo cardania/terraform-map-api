@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18004",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18004",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQdxT4ZN3Jwb6e6uGvuApzouACNYe3qqpMsgmPPCh3kaz",
+  "token_name": "Terraform08960",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08960",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcWtVBM3BMhgPF9NP1mYZGQfK6JzhAAGFh5Qcf1kCguJQ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
   "fauna": "Critters",
-  "forests": "Palms",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 9,
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
   "quantum_flux": 2,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Solar_Shrine",
-  "water": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 57,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 57,
+      "y": 23
+    },
+    "topRight": {
+      "x": 58,
+      "y": 23
+    },
+    "right": {
+      "x": 58,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 58,
+      "y": 21
+    },
+    "bottom": {
+      "x": 57,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 56,
+      "y": 21
+    },
+    "left": {
+      "x": 56,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 56,
+      "y": 23
+    }
   }
 }

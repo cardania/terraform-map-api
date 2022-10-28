@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03911",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03911",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZCMNUBKAWTVxiR7ZcqbieYEkuxZaqrki11EGTfYqJmoW",
+  "token_name": "Terraform13062",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13062",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVZHL9Yu8DEQYjDGwYySrkHfRWLFLwqxE5CzELwiXXGKd",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
   "power_level": 5,
   "quantum_flux": 1,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Solar_Shrine",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 52,
     "y": 65
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 66
+    },
+    "topRight": {
+      "x": 53,
+      "y": 66
+    },
+    "right": {
+      "x": 53,
+      "y": 65
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 64
+    },
+    "bottom": {
+      "x": 52,
+      "y": 64
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 64
+    },
+    "left": {
+      "x": 51,
+      "y": 65
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 66
+    }
   }
 }

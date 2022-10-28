@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05206",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05206",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc461RicH2XCfx3Lz3S2HuUMoYs1cxfqiZxpFxdX9ByhC",
+  "token_name": "Terraform05570",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05570",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ7D7BsGvR5REmL9dAsTwaZgJKVZi2Pd3t2QLeSwbRkUh",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 9,
-  "quantum_flux": 6,
+  "power_level": 1,
+  "quantum_flux": 1,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 16,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 16,
+      "y": 50
+    },
+    "topRight": {
+      "x": 17,
+      "y": 50
+    },
+    "right": {
+      "x": 17,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 17,
+      "y": 48
+    },
+    "bottom": {
+      "x": 16,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 15,
+      "y": 48
+    },
+    "left": {
+      "x": 15,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 15,
+      "y": 50
+    }
   }
 }

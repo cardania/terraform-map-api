@@ -1,18 +1,18 @@
 {
-  "token_name": "Terraform07502",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07502",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ2dsASUipvCf2RBPQExQcQMrYtcQDfqspYQrnHCN9Dz3",
+  "token_name": "Terraform12501",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12501",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYtpkMTaRmVeY4UkigG35YXVRgYf6xa5VYDB8RmH1dv6v",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Custodial_Nanites",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Prismaleaf",
+  "fauna": "Critters",
+  "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 2,
-  "quantum_flux": 4,
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 5,
+  "quantum_flux": 2,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 5,
     "y": 71
+  },
+  "neighbors": {
+    "top": {
+      "x": 5,
+      "y": 72
+    },
+    "topRight": {
+      "x": 6,
+      "y": 72
+    },
+    "right": {
+      "x": 6,
+      "y": 71
+    },
+    "bottomRight": {
+      "x": 6,
+      "y": 70
+    },
+    "bottom": {
+      "x": 5,
+      "y": 70
+    },
+    "bottonLeft": {
+      "x": 4,
+      "y": 70
+    },
+    "left": {
+      "x": 4,
+      "y": 71
+    },
+    "topLeft": {
+      "x": 4,
+      "y": 72
+    }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "token_name": "Terraform16090",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16090",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmay8BkztKyLycYukPbHfgD8bvF9TdDdVcn6am8q67ht65",
+  "token_name": "Terraform00544",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00544",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSuUcvNjz9i6aCqPGg7W1VNJU5pyJYwHvYSatE62tR8aP",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 1,
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 2,
   "quantum_flux": 5,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 21,
     "y": 54
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 55
+    },
+    "topRight": {
+      "x": 22,
+      "y": 55
+    },
+    "right": {
+      "x": 22,
+      "y": 54
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 53
+    },
+    "bottom": {
+      "x": 21,
+      "y": 53
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 53
+    },
+    "left": {
+      "x": 20,
+      "y": 54
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 55
+    }
   }
 }

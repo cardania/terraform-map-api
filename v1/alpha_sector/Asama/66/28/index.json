@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07829",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07829",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmU26KV6488GGQePDLy6o8b3Hm8ykoguM5ZKQaBrNehdGC",
+  "token_name": "Terraform17413",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17413",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbd25j5jBNqvmzcHA2x5byDjohMLck4EsrDUu98hRB97t",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
+  "power_level": 2,
   "quantum_flux": 5,
-  "primary_minerals": "Iron",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 66,
     "y": 28
+  },
+  "neighbors": {
+    "top": {
+      "x": 66,
+      "y": 29
+    },
+    "topRight": {
+      "x": 67,
+      "y": 29
+    },
+    "right": {
+      "x": 67,
+      "y": 28
+    },
+    "bottomRight": {
+      "x": 67,
+      "y": 27
+    },
+    "bottom": {
+      "x": 66,
+      "y": 27
+    },
+    "bottonLeft": {
+      "x": 65,
+      "y": 27
+    },
+    "left": {
+      "x": 65,
+      "y": 28
+    },
+    "topLeft": {
+      "x": 65,
+      "y": 29
+    }
   }
 }

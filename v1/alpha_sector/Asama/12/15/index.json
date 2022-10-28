@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18499",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18499",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmai2GDhwLXP153cPep2rD5oQxKrpcfzcT1zEXCMhfzqXz",
+  "token_name": "Terraform15547",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15547",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSXfqDW8GM5UgkYCsSmDV8qq5iZwGWa6Nm1QgHebmjy1r",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 2,
   "quantum_flux": 9,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Funky_Lake",
   "location": {
     "x": 12,
     "y": 15
+  },
+  "neighbors": {
+    "top": {
+      "x": 12,
+      "y": 16
+    },
+    "topRight": {
+      "x": 13,
+      "y": 16
+    },
+    "right": {
+      "x": 13,
+      "y": 15
+    },
+    "bottomRight": {
+      "x": 13,
+      "y": 14
+    },
+    "bottom": {
+      "x": 12,
+      "y": 14
+    },
+    "bottonLeft": {
+      "x": 11,
+      "y": 14
+    },
+    "left": {
+      "x": 11,
+      "y": 15
+    },
+    "topLeft": {
+      "x": 11,
+      "y": 16
+    }
   }
 }

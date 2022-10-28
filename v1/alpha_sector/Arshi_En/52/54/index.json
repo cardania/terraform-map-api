@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14742",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14742",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQJF48Hk8VPu5yDobtN6y4xQEWuQYtEwZ3iYV55HgrofK",
+  "token_name": "Terraform07347",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07347",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZdiy7Hzzptnvht1EhYXuJ7jZscCJeoxCZETaSVZ6o8pm",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 4,
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 3,
   "quantum_flux": 2,
-  "primary_minerals": "None",
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Fungal_Shrine",
-  "water": "Cursed_Lake",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 52,
     "y": 54
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 55
+    },
+    "topRight": {
+      "x": 53,
+      "y": 55
+    },
+    "right": {
+      "x": 53,
+      "y": 54
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 53
+    },
+    "bottom": {
+      "x": 52,
+      "y": 53
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 53
+    },
+    "left": {
+      "x": 51,
+      "y": 54
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 55
+    }
   }
 }

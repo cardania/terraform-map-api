@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13954",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13954",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQXm5VLYSHkVc1PagY9Q3Pr2avDb5FKTAU1kBW58ezHSx",
+  "token_name": "Terraform12290",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12290",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbsgTD8BJy88wacJnUjTr2fLHem8Uvq4x5D8ZRhSvMTNj",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Fungal_Shrine",
   "water": "None",
   "location": {
     "x": 13,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 76
+    },
+    "topRight": {
+      "x": 14,
+      "y": 76
+    },
+    "right": {
+      "x": 14,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 74
+    },
+    "bottom": {
+      "x": 13,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 74
+    },
+    "left": {
+      "x": 12,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 76
+    }
   }
 }

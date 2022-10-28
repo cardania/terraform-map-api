@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02054",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02054",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPkoZtrMNdnDvhuSMBKrx1TFeBovwJu4fVmfLNMhMSC57",
+  "token_name": "Terraform18100",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18100",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdWxb7XU8NKHxtz9AQrE1maNtfcePzZmJZy8Bx4sXj3zS",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 7,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 4,
+  "quantum_flux": 2,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Funky_River",
   "location": {
     "x": 52,
     "y": 42
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 43
+    },
+    "topRight": {
+      "x": 53,
+      "y": 43
+    },
+    "right": {
+      "x": 53,
+      "y": 42
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 41
+    },
+    "bottom": {
+      "x": 52,
+      "y": 41
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 41
+    },
+    "left": {
+      "x": 51,
+      "y": 42
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 43
+    }
   }
 }

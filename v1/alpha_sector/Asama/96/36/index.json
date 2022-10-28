@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06899",
+  "token_name": "Terraform05625",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06899",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWcad9mHjxuEbxPPo28VqF5oSGVcGteA78PoJ1JgdLRZb",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05625",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVhtfxkpXXCWawAKksdnHASkuJyNMAC65RQrhBi8t1P7M",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 2,
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 3,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_River",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 96,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 37
+    },
+    "topRight": {
+      "x": 97,
+      "y": 37
+    },
+    "right": {
+      "x": 97,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 35
+    },
+    "bottom": {
+      "x": 96,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 35
+    },
+    "left": {
+      "x": 95,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 37
+    }
   }
 }

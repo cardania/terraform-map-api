@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13602",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13602",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbWKBMky5Jy6QXrsDFuoQz9ed7dNnoj6PUposKjNu9KKM",
+  "token_name": "Terraform01728",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01728",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWaTsd5bcnR89TTkUddjjCNfmPvbUZRb72QRoFCqQUNLA",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 5,
   "quantum_flux": 6,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 69,
     "y": 78
+  },
+  "neighbors": {
+    "top": {
+      "x": 69,
+      "y": 79
+    },
+    "topRight": {
+      "x": 70,
+      "y": 79
+    },
+    "right": {
+      "x": 70,
+      "y": 78
+    },
+    "bottomRight": {
+      "x": 70,
+      "y": 77
+    },
+    "bottom": {
+      "x": 69,
+      "y": 77
+    },
+    "bottonLeft": {
+      "x": 68,
+      "y": 77
+    },
+    "left": {
+      "x": 68,
+      "y": 78
+    },
+    "topLeft": {
+      "x": 68,
+      "y": 79
+    }
   }
 }

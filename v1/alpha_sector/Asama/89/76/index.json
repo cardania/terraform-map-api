@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06972",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06972",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVFER5MQzi1UNBbQH6mTvELaGfLm4JJmp3oxPo3PfXGAv",
+  "token_name": "Terraform18010",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18010",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmatDwUSMm61yMVvQN7csYLj58KG7sJA4v98KTFKaXhzqm",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 6,
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 89,
     "y": 76
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 77
+    },
+    "topRight": {
+      "x": 90,
+      "y": 77
+    },
+    "right": {
+      "x": 90,
+      "y": 76
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 75
+    },
+    "bottom": {
+      "x": 89,
+      "y": 75
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 75
+    },
+    "left": {
+      "x": 88,
+      "y": 76
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 77
+    }
   }
 }

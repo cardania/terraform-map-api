@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06415",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06415",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTkzFwFrqEf9joRY3LJnoRitVrNbX7A3cn81DB9kMq6Sh",
+  "token_name": "Terraform06145",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06145",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfC7nAfkjMF1JrZq3PsB971jevR6Mrjnft1thmGh45TV3",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_Lake",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 7,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 57,
     "y": 28
+  },
+  "neighbors": {
+    "top": {
+      "x": 57,
+      "y": 29
+    },
+    "topRight": {
+      "x": 58,
+      "y": 29
+    },
+    "right": {
+      "x": 58,
+      "y": 28
+    },
+    "bottomRight": {
+      "x": 58,
+      "y": 27
+    },
+    "bottom": {
+      "x": 57,
+      "y": 27
+    },
+    "bottonLeft": {
+      "x": 56,
+      "y": 27
+    },
+    "left": {
+      "x": 56,
+      "y": 28
+    },
+    "topLeft": {
+      "x": 56,
+      "y": 29
+    }
   }
 }

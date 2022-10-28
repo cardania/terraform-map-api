@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09494",
+  "token_name": "Terraform18562",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09494",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWAyZbjDgVPxub5rPp49L2akvNtgouJuaN7YmPm1eUbdu",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18562",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSt2x1GsF7fBKrVEqZYAXqqZazxu84gVqBSanvWmydbGV",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 4,
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 5,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 81,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 44
+    },
+    "topRight": {
+      "x": 82,
+      "y": 44
+    },
+    "right": {
+      "x": 82,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 42
+    },
+    "bottom": {
+      "x": 81,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 42
+    },
+    "left": {
+      "x": 80,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 44
+    }
   }
 }

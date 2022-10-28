@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16554",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16554",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaGDC7jLx3P7E7jGJv3FhWenstZFz8GXTEDk3Nwquhavp",
+  "token_name": "Terraform16600",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16600",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWR5QjueQgtMM1ypjekLGnbk2uDmXJpJnQoNU3CMFmuhh",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 3,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Toxic_Lake",
+  "shrine": "Machine_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 30,
     "y": 39
+  },
+  "neighbors": {
+    "top": {
+      "x": 30,
+      "y": 40
+    },
+    "topRight": {
+      "x": 31,
+      "y": 40
+    },
+    "right": {
+      "x": 31,
+      "y": 39
+    },
+    "bottomRight": {
+      "x": 31,
+      "y": 38
+    },
+    "bottom": {
+      "x": 30,
+      "y": 38
+    },
+    "bottonLeft": {
+      "x": 29,
+      "y": 38
+    },
+    "left": {
+      "x": 29,
+      "y": 39
+    },
+    "topLeft": {
+      "x": 29,
+      "y": 40
+    }
   }
 }

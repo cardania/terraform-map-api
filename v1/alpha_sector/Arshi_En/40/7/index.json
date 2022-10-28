@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11644",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11644",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSKECu2kwZYbTNRmKyVex7vVTFz4V3prrKxAj6Co2CdaG",
+  "token_name": "Terraform07642",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07642",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc8VVKHYo6us88hD1VxfLBsj9xxXzF7eiVKgKAFWp9vd6",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 8,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 1,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 40,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 40,
+      "y": 8
+    },
+    "topRight": {
+      "x": 41,
+      "y": 8
+    },
+    "right": {
+      "x": 41,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 41,
+      "y": 6
+    },
+    "bottom": {
+      "x": 40,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 39,
+      "y": 6
+    },
+    "left": {
+      "x": 39,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 39,
+      "y": 8
+    }
   }
 }

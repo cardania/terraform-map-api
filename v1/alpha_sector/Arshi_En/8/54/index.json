@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18186",
+  "token_name": "Terraform09286",
   "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18186",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdcSD4461afRHhKcyK5NzM2yPmATFV7gxkgXtnpexDQjj",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09286",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfBHeULe2PbdQP6ZZixzECpzifqYar5RF7pjVRJ4EmsqA",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 6,
   "quantum_flux": 6,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Cursed_Lake",
   "location": {
     "x": 8,
     "y": 54
+  },
+  "neighbors": {
+    "top": {
+      "x": 8,
+      "y": 55
+    },
+    "topRight": {
+      "x": 9,
+      "y": 55
+    },
+    "right": {
+      "x": 9,
+      "y": 54
+    },
+    "bottomRight": {
+      "x": 9,
+      "y": 53
+    },
+    "bottom": {
+      "x": 8,
+      "y": 53
+    },
+    "bottonLeft": {
+      "x": 7,
+      "y": 53
+    },
+    "left": {
+      "x": 7,
+      "y": 54
+    },
+    "topLeft": {
+      "x": 7,
+      "y": 55
+    }
   }
 }

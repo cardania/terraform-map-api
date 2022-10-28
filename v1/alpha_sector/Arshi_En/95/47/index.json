@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05196",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05196",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmR7a6tQTPHMsjUrtaGWDaDibxpiRPGE2vn5pxq7KbSh3Z",
+  "token_name": "Terraform10831",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10831",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQZipBEZSYVzQNcc7qyjJBcLru8eNWTGffVUYWt4uuTkA",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_Lake",
+  "water": "None",
   "location": {
     "x": 95,
     "y": 47
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 48
+    },
+    "topRight": {
+      "x": 96,
+      "y": 48
+    },
+    "right": {
+      "x": 96,
+      "y": 47
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 46
+    },
+    "bottom": {
+      "x": 95,
+      "y": 46
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 46
+    },
+    "left": {
+      "x": 94,
+      "y": 47
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 48
+    }
   }
 }

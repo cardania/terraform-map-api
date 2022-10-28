@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17238",
+  "token_name": "Terraform17182",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17238",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPaF1QdqnHdxpH6by7gHFXtw1NSbAphYfJg83EoRXtS1Z",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17182",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdnXSD6ekkzeNpRFzqrnZsucR4QZr5CQNsiY8GX9oYt2B",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 4,
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 5,
   "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 62,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 62,
+      "y": 7
+    },
+    "topRight": {
+      "x": 63,
+      "y": 7
+    },
+    "right": {
+      "x": 63,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 63,
+      "y": 5
+    },
+    "bottom": {
+      "x": 62,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 61,
+      "y": 5
+    },
+    "left": {
+      "x": 61,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 61,
+      "y": 7
+    }
   }
 }

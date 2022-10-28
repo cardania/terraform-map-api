@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08342",
+  "token_name": "Terraform01295",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08342",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUNzuFYrun5yXzVXJFk3iCJMBtYPVp2g6qnvLZiFRuZhm",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01295",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd4GyV2xqZmxsZq56knaz9GRsJFdDoE8SQnoiuHEcArj4",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Prismaleaf",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
+  "lithoglyphs": "Lithoglyphs_Timelost",
   "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "Quantum_Shrine",
-  "water": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 94,
     "y": 27
+  },
+  "neighbors": {
+    "top": {
+      "x": 94,
+      "y": 28
+    },
+    "topRight": {
+      "x": 95,
+      "y": 28
+    },
+    "right": {
+      "x": 95,
+      "y": 27
+    },
+    "bottomRight": {
+      "x": 95,
+      "y": 26
+    },
+    "bottom": {
+      "x": 94,
+      "y": 26
+    },
+    "bottonLeft": {
+      "x": 93,
+      "y": 26
+    },
+    "left": {
+      "x": 93,
+      "y": 27
+    },
+    "topLeft": {
+      "x": 93,
+      "y": 28
+    }
   }
 }

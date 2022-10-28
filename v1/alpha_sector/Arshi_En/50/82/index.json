@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19722",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19722",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQc1tzDMNA5aVdZiBBhHkhVKShbH5H4hn8coE2QMd6jog",
+  "token_name": "Terraform00215",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00215",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPnDiiP7RpBznohs5CMduNDjcXveniLKbctM8ueciire5",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 6,
-  "quantum_flux": 3,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 2,
+  "quantum_flux": 5,
   "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 50,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 83
+    },
+    "topRight": {
+      "x": 51,
+      "y": 83
+    },
+    "right": {
+      "x": 51,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 81
+    },
+    "bottom": {
+      "x": 50,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 81
+    },
+    "left": {
+      "x": 49,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 83
+    }
   }
 }

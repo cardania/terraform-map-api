@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09016",
+  "token_name": "Terraform13812",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09016",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRu5KcrLc9ECJtx8mCULEtWkXr2uK6wNxFNP9y1T6qJqc",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13812",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmR1mihmDr8fJThYZyMnTb9u95Pbsc1Jiw3muWtrz3ewSX",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 9,
-  "quantum_flux": 2,
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 4,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "Quantum_Shrine",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "Machine_Shrine",
   "water": "None",
   "location": {
     "x": 100,
     "y": 45
+  },
+  "neighbors": {
+    "top": {
+      "x": 100,
+      "y": 46
+    },
+    "topRight": {
+      "x": 101,
+      "y": 46
+    },
+    "right": {
+      "x": 101,
+      "y": 45
+    },
+    "bottomRight": {
+      "x": 101,
+      "y": 44
+    },
+    "bottom": {
+      "x": 100,
+      "y": 44
+    },
+    "bottonLeft": {
+      "x": 99,
+      "y": 44
+    },
+    "left": {
+      "x": 99,
+      "y": 45
+    },
+    "topLeft": {
+      "x": 99,
+      "y": 46
+    }
   }
 }

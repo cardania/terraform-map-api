@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01973",
+  "token_name": "Terraform12081",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01973",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbk4vEggtjXi2cbQWuuaxn2CoWFnN6tsQuLaf6vBs9jfA",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12081",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTXkBVs2eix66VqqK4PbPXScTciuCaL3y4uTo9fTWbveG",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 7,
+  "power_level": 3,
   "quantum_flux": 1,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Saltwater_River",
   "location": {
     "x": 75,
     "y": 42
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 43
+    },
+    "topRight": {
+      "x": 76,
+      "y": 43
+    },
+    "right": {
+      "x": 76,
+      "y": 42
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 41
+    },
+    "bottom": {
+      "x": 75,
+      "y": 41
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 41
+    },
+    "left": {
+      "x": 74,
+      "y": 42
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 43
+    }
   }
 }

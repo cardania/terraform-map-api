@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10250",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10250",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRYoov9cjkQvXLyU4uC1xz1uTKMvD1Weu8znKWTNKe23X",
+  "token_name": "Terraform07108",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07108",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNtpNrevBBSnesHLsPwQyhS7mdfsA2YXMdP2eEPX72x9r",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 2,
   "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 61,
     "y": 95
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 96
+    },
+    "topRight": {
+      "x": 62,
+      "y": 96
+    },
+    "right": {
+      "x": 62,
+      "y": 95
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 94
+    },
+    "bottom": {
+      "x": 61,
+      "y": 94
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 94
+    },
+    "left": {
+      "x": 60,
+      "y": 95
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 96
+    }
   }
 }

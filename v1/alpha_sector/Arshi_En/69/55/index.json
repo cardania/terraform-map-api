@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform06934",
+  "token_name": "Terraform18459",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06934",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbNdAvDqvDYWb6VfnHoBySbuZ5wYsNMiMYVxv2t9ZnNHS",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18459",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSksKaNuxQsxhH299Eccryg5Ud4CsPTuhiesFoiiqwDbK",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 4,
-  "quantum_flux": 9,
-  "primary_minerals": "Radium",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 69,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 69,
+      "y": 56
+    },
+    "topRight": {
+      "x": 70,
+      "y": 56
+    },
+    "right": {
+      "x": 70,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 70,
+      "y": 54
+    },
+    "bottom": {
+      "x": 69,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 68,
+      "y": 54
+    },
+    "left": {
+      "x": 68,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 68,
+      "y": 56
+    }
   }
 }

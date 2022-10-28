@@ -1,18 +1,18 @@
 {
-  "token_name": "Terraform11974",
+  "token_name": "Terraform01561",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11974",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVoMJzAX6VKW1mMu4fctJGVZe7d7jFe1jRK9HGGMB9tn8",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01561",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYScuzfReJATczbzNjBBbS26wnvMDjYrFh1KgWGVU4QUa",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 7,
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 4,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 80,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 80,
+      "y": 51
+    },
+    "topRight": {
+      "x": 81,
+      "y": 51
+    },
+    "right": {
+      "x": 81,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 81,
+      "y": 49
+    },
+    "bottom": {
+      "x": 80,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 79,
+      "y": 49
+    },
+    "left": {
+      "x": 79,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 79,
+      "y": 51
+    }
   }
 }

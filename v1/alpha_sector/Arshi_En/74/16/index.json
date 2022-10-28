@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13661",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13661",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVWUP1HHrRffpBPYd2gAtvraFC8ZNorZekMCw7dmM6DTj",
+  "token_name": "Terraform15818",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15818",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfCoFFn1rMRYyw2kFwv8dy3XcyrbLzLVbxBGcDMX6DLgV",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
   "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 74,
     "y": 16
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 17
+    },
+    "topRight": {
+      "x": 75,
+      "y": 17
+    },
+    "right": {
+      "x": 75,
+      "y": 16
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 15
+    },
+    "bottom": {
+      "x": 74,
+      "y": 15
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 15
+    },
+    "left": {
+      "x": 73,
+      "y": 16
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 17
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00806",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00806",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf6JZYpUf4GByKd7QRvFYrXifoALmtqrF5mTyGSvf5wo5",
+  "token_name": "Terraform13367",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13367",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdLmENFk1nuViz1rLZN581WBZ4ifL8kt9hypRZrXLhH2D",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 1,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Funky_River",
+  "shrine": "Void_Shrine",
+  "water": "Funky_Lake",
   "location": {
     "x": 70,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 51
+    },
+    "topRight": {
+      "x": 71,
+      "y": 51
+    },
+    "right": {
+      "x": 71,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 49
+    },
+    "bottom": {
+      "x": 70,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 49
+    },
+    "left": {
+      "x": 69,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 51
+    }
   }
 }

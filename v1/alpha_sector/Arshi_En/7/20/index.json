@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06797",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06797",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmey284xZ84LsDRqxD5q6uhTQ5Y1hR4R9V1WYnNkP1xwzR",
+  "token_name": "Terraform05250",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05250",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRcPGjX9JUgV7H383568FJs64yVigvW6J6rWF6QtUNcPB",
   "alpha_sector": "Arshi_En",
   "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
   "power_level": 2,
   "quantum_flux": 2,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 7,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 21
+    },
+    "topRight": {
+      "x": 8,
+      "y": 21
+    },
+    "right": {
+      "x": 8,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 19
+    },
+    "bottom": {
+      "x": 7,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 19
+    },
+    "left": {
+      "x": 6,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 21
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03957",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03957",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVFxPumYccCWLjHwY8uzurV6Z7DR8BzcBzMo1y6VsaQut",
+  "token_name": "Terraform05788",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05788",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNZnL3J5Dz1TTPqX7QvJwZ8aUpEk6tWGkyHaWSspdKs6f",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 7,
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 9,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 8,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 8,
+      "y": 7
+    },
+    "topRight": {
+      "x": 9,
+      "y": 7
+    },
+    "right": {
+      "x": 9,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 9,
+      "y": 5
+    },
+    "bottom": {
+      "x": 8,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 7,
+      "y": 5
+    },
+    "left": {
+      "x": 7,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 7,
+      "y": 7
+    }
   }
 }

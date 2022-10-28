@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11984",
+  "token_name": "Terraform14366",
   "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11984",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW9Cv6cfxNKvCMMBJoAv2TyLK8Tk1JkfgYBFSntsW32ZQ",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14366",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qme5PohUiCDE2Y2CgxYorFrU86VAAcStxJ5XQfV1JNv92Z",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 5,
-  "quantum_flux": 2,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "None",
   "location": {
     "x": 55,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 55,
+      "y": 53
+    },
+    "topRight": {
+      "x": 56,
+      "y": 53
+    },
+    "right": {
+      "x": 56,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 56,
+      "y": 51
+    },
+    "bottom": {
+      "x": 55,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 54,
+      "y": 51
+    },
+    "left": {
+      "x": 54,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 54,
+      "y": 53
+    }
   }
 }

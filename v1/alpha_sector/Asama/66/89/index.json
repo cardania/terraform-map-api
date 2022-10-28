@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05946",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05946",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmU7A4aYCHAXfdtivrsMZ7Y3jiNMaL1SkBC5bfrszN9KtD",
+  "token_name": "Terraform07188",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07188",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWCW3n3Q9ke7Ghft11R77fGudiQQ2CBFvECcVUSAH2CrC",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 7,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 66,
     "y": 89
+  },
+  "neighbors": {
+    "top": {
+      "x": 66,
+      "y": 90
+    },
+    "topRight": {
+      "x": 67,
+      "y": 90
+    },
+    "right": {
+      "x": 67,
+      "y": 89
+    },
+    "bottomRight": {
+      "x": 67,
+      "y": 88
+    },
+    "bottom": {
+      "x": 66,
+      "y": 88
+    },
+    "bottonLeft": {
+      "x": 65,
+      "y": 88
+    },
+    "left": {
+      "x": 65,
+      "y": 89
+    },
+    "topLeft": {
+      "x": 65,
+      "y": 90
+    }
   }
 }

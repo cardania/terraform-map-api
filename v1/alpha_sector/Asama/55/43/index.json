@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01936",
+  "token_name": "Terraform15091",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01936",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdW5Z8GzFTpnUZaZdUKKyR9h6hhhcAVqSnwgtjcfTUDpu",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15091",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTmjk7fPiNzyxCRfHRpPCNRM77QA8cPBgvmTG5NpnV18M",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
+  "forests": "Evergreen",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 7,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "Toxic_Lake",
   "location": {
     "x": 55,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 55,
+      "y": 44
+    },
+    "topRight": {
+      "x": 56,
+      "y": 44
+    },
+    "right": {
+      "x": 56,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 56,
+      "y": 42
+    },
+    "bottom": {
+      "x": 55,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 54,
+      "y": 42
+    },
+    "left": {
+      "x": 54,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 54,
+      "y": 44
+    }
   }
 }

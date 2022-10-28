@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08207",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08207",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZw8WpdeovtyQt9P53CK2y2WWNzahJgveQgzUj5sFMMEh",
+  "token_name": "Terraform16420",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16420",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd7oRmwF1jugiVVmD8BThNzkTGAEPaQQk28itjsnDRzWm",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 6,
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 8,
+  "quantum_flux": 5,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 33,
     "y": 9
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 10
+    },
+    "topRight": {
+      "x": 34,
+      "y": 10
+    },
+    "right": {
+      "x": 34,
+      "y": 9
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 8
+    },
+    "bottom": {
+      "x": 33,
+      "y": 8
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 8
+    },
+    "left": {
+      "x": 32,
+      "y": 9
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 10
+    }
   }
 }

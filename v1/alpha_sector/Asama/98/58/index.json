@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03689",
+  "token_name": "Terraform06646",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03689",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaCFKxYWBjnEFdynjbPJ1LnAZX8JruDRwrv1ZCx2rXv3j",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06646",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfDVLdvEifU2YSFHpsN9vxFXMwJYup4WGwix1UT2Y6tkr",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
+  "power_level": 5,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "Cursed_River",
   "location": {
     "x": 98,
     "y": 58
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 59
+    },
+    "topRight": {
+      "x": 99,
+      "y": 59
+    },
+    "right": {
+      "x": 99,
+      "y": 58
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 57
+    },
+    "bottom": {
+      "x": 98,
+      "y": 57
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 57
+    },
+    "left": {
+      "x": 97,
+      "y": 58
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 59
+    }
   }
 }

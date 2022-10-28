@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08904",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08904",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmY4sByPZMwDcXpBqeU6nD85z6ndQ1m5g7GC5PXPYfxcVB",
+  "token_name": "Terraform14322",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14322",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSU9PynpdcPgkNiruEAedtpkUDg4VxMVt2U9QNfjnoP9z",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 5,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 7,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 29,
     "y": 35
+  },
+  "neighbors": {
+    "top": {
+      "x": 29,
+      "y": 36
+    },
+    "topRight": {
+      "x": 30,
+      "y": 36
+    },
+    "right": {
+      "x": 30,
+      "y": 35
+    },
+    "bottomRight": {
+      "x": 30,
+      "y": 34
+    },
+    "bottom": {
+      "x": 29,
+      "y": 34
+    },
+    "bottonLeft": {
+      "x": 28,
+      "y": 34
+    },
+    "left": {
+      "x": 28,
+      "y": 35
+    },
+    "topLeft": {
+      "x": 28,
+      "y": 36
+    }
   }
 }

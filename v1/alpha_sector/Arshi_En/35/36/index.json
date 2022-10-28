@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13052",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13052",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSoW3nZsvyQVrN938JmB8o6Ybk9EbugG2pyzrf7FMuxmL",
+  "token_name": "Terraform18702",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18702",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdma7dS2bXauGj2huHov6nzwkG74fAcgCamYKcCcquHno",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
-  "quantum_flux": 8,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Solar_Shrine",
-  "water": "Freshwater_River",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "Void_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 35,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 35,
+      "y": 37
+    },
+    "topRight": {
+      "x": 36,
+      "y": 37
+    },
+    "right": {
+      "x": 36,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 36,
+      "y": 35
+    },
+    "bottom": {
+      "x": 35,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 34,
+      "y": 35
+    },
+    "left": {
+      "x": 34,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 34,
+      "y": 37
+    }
   }
 }

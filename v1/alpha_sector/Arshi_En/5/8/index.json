@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16159",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16159",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYNewQxpvdioXFKSBsXnpDboY9Wbi4EfwVxDf99ahVcJT",
+  "token_name": "Terraform03810",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03810",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWWYbbLFtwx2UKgKTTGKgMF6Sr3E13dE9vUdpBLGLSBgj",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 5,
   "quantum_flux": 6,
-  "primary_minerals": "Radium",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 5,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 5,
+      "y": 9
+    },
+    "topRight": {
+      "x": 6,
+      "y": 9
+    },
+    "right": {
+      "x": 6,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 6,
+      "y": 7
+    },
+    "bottom": {
+      "x": 5,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 4,
+      "y": 7
+    },
+    "left": {
+      "x": 4,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 4,
+      "y": 9
+    }
   }
 }

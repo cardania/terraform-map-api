@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18142",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18142",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQGq4jFLFCBzbWdecBhWzu7TNvyTkVfCZQMg4CnFc6Gih",
+  "token_name": "Terraform14936",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14936",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSJ862dTHxawWbvsM8tJqwcUc271Ug478GapfX2pn6vjz",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Prismaleaf",
+  "forests": "Evergreen",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 7,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Saltwater_River",
   "location": {
     "x": 31,
     "y": 10
+  },
+  "neighbors": {
+    "top": {
+      "x": 31,
+      "y": 11
+    },
+    "topRight": {
+      "x": 32,
+      "y": 11
+    },
+    "right": {
+      "x": 32,
+      "y": 10
+    },
+    "bottomRight": {
+      "x": 32,
+      "y": 9
+    },
+    "bottom": {
+      "x": 31,
+      "y": 9
+    },
+    "bottonLeft": {
+      "x": 30,
+      "y": 9
+    },
+    "left": {
+      "x": 30,
+      "y": 10
+    },
+    "topLeft": {
+      "x": 30,
+      "y": 11
+    }
   }
 }

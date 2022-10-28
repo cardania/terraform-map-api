@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17226",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17226",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV4rJgorsDsqy2XkRZzaaunbb8EBE3iwya8Fk8FiARmnV",
+  "token_name": "Terraform01686",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01686",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZrshoHGLREDUchfB95h3hM1D2WtLPC2uCNJ1KrNDVtNt",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
   "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 9,
+  "quantum_flux": 1,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Void_Shrine",
   "water": "None",
   "location": {
     "x": 20,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 65
+    },
+    "topRight": {
+      "x": 21,
+      "y": 65
+    },
+    "right": {
+      "x": 21,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 63
+    },
+    "bottom": {
+      "x": 20,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 63
+    },
+    "left": {
+      "x": 19,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 65
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11592",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11592",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaZGGJZAD1QYtMzqQXpBzhMrnwLj5cybEuaukXQKs31QW",
+  "token_name": "Terraform06926",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06926",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcNizqccoxN224vre586MGAcYt7TtYjUtWewdtYs16Vsn",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 4,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
   "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Blue",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 39,
     "y": 42
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 43
+    },
+    "topRight": {
+      "x": 40,
+      "y": 43
+    },
+    "right": {
+      "x": 40,
+      "y": 42
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 41
+    },
+    "bottom": {
+      "x": 39,
+      "y": 41
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 41
+    },
+    "left": {
+      "x": 38,
+      "y": 42
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 43
+    }
   }
 }

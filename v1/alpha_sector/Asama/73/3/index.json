@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10914",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10914",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRnDAGA7EHfYRvJUzCwo5L2QTuYm9EujspVEpmy8SWQGJ",
+  "token_name": "Terraform03597",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03597",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmREw5TaSzst3VHmNiuz3qifqXjdCWxjz98zDXtsig2Xtb",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "Livestock",
-  "forests": "Prismaleaf",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 7,
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 7,
+  "quantum_flux": 4,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Funky_Lake",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 73,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 73,
+      "y": 4
+    },
+    "topRight": {
+      "x": 74,
+      "y": 4
+    },
+    "right": {
+      "x": 74,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 74,
+      "y": 2
+    },
+    "bottom": {
+      "x": 73,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 72,
+      "y": 2
+    },
+    "left": {
+      "x": 72,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 72,
+      "y": 4
+    }
   }
 }

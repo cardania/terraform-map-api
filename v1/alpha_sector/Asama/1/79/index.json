@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12374",
+  "token_name": "Terraform08210",
   "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12374",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYULq2w9VbJ5G2ximRu1HavQRuhWwESrJK8763n2C3hai",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08210",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSL9JyrCt67Vj8oJFTe4UmJ1P6eqKwYwJyxxkHJFB92xB",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_River",
   "location": {
     "x": 1,
     "y": 79
+  },
+  "neighbors": {
+    "top": {
+      "x": 1,
+      "y": 80
+    },
+    "topRight": {
+      "x": 2,
+      "y": 80
+    },
+    "right": {
+      "x": 2,
+      "y": 79
+    },
+    "bottomRight": {
+      "x": 2,
+      "y": 78
+    },
+    "bottom": {
+      "x": 1,
+      "y": 78
+    },
+    "bottonLeft": {
+      "x": 0,
+      "y": 78
+    },
+    "left": {
+      "x": 0,
+      "y": 79
+    },
+    "topLeft": {
+      "x": 0,
+      "y": 80
+    }
   }
 }

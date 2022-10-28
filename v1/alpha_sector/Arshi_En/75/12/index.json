@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09390",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09390",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaxyZZs1a1DksUp8Cqi1mLH56c5puLVmKHoMu3S632j39",
+  "token_name": "Terraform01863",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01863",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmY7qy1VKHHGgaxDDdrKNmKZ47hpEFBMVgaLyQpAWDw7iC",
   "alpha_sector": "Arshi_En",
   "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 3,
+  "power_level": 6,
+  "quantum_flux": 4,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "None",
   "location": {
     "x": 75,
     "y": 12
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 13
+    },
+    "topRight": {
+      "x": 76,
+      "y": 13
+    },
+    "right": {
+      "x": 76,
+      "y": 12
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 11
+    },
+    "bottom": {
+      "x": 75,
+      "y": 11
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 11
+    },
+    "left": {
+      "x": 74,
+      "y": 12
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 13
+    }
   }
 }

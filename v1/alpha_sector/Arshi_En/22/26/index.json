@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14821",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14821",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmX4bR6GadCLacwtCUep9pkeoNsLB4ML5sW4Uxkodvsmkp",
+  "token_name": "Terraform07210",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07210",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZcA8ArNeYrTgKRwruutyJ6gN2w2vNqG8qi8PnpvwX6Sc",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 6,
-  "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Machine_Shrine",
-  "water": "None",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 22,
     "y": 26
+  },
+  "neighbors": {
+    "top": {
+      "x": 22,
+      "y": 27
+    },
+    "topRight": {
+      "x": 23,
+      "y": 27
+    },
+    "right": {
+      "x": 23,
+      "y": 26
+    },
+    "bottomRight": {
+      "x": 23,
+      "y": 25
+    },
+    "bottom": {
+      "x": 22,
+      "y": 25
+    },
+    "bottonLeft": {
+      "x": 21,
+      "y": 25
+    },
+    "left": {
+      "x": 21,
+      "y": 26
+    },
+    "topLeft": {
+      "x": 21,
+      "y": 27
+    }
   }
 }

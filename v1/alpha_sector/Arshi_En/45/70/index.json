@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17170",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17170",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmP8ufTA6y1CBiuRk1LdNSAPSXiw7wuwtRnAGKJgTEzBVj",
+  "token_name": "Terraform04248",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04248",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmckTZoEN3o6T6FZ8QG8MBFcTuJcsjhokK917BMr9ZqMhx",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 5,
-  "quantum_flux": 1,
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 6,
+  "quantum_flux": 6,
   "primary_minerals": "Iron",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 45,
     "y": 70
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 71
+    },
+    "topRight": {
+      "x": 46,
+      "y": 71
+    },
+    "right": {
+      "x": 46,
+      "y": 70
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 69
+    },
+    "bottom": {
+      "x": 45,
+      "y": 69
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 69
+    },
+    "left": {
+      "x": 44,
+      "y": 70
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 71
+    }
   }
 }

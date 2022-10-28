@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17925",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17925",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSAgEhXpJbxgKQPihzAq4jGsX4Jz7dDByPyj6Q4p6hQCG",
+  "token_name": "Terraform18319",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18319",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYJc68Du7E2AVkFqvxfV4TtycGJaixEG1LWjCiUKGy9fG",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 4,
+  "power_level": 1,
   "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Solar_Shrine",
-  "water": "Freshwater_Lake",
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 14,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 14,
+      "y": 76
+    },
+    "topRight": {
+      "x": 15,
+      "y": 76
+    },
+    "right": {
+      "x": 15,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 15,
+      "y": 74
+    },
+    "bottom": {
+      "x": 14,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 13,
+      "y": 74
+    },
+    "left": {
+      "x": 13,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 13,
+      "y": 76
+    }
   }
 }

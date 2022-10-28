@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15931",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15931",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVK2PEfLFoMqFnRfosrjA6qrVp7Jd2pwo7AwJJKJzGUyr",
+  "token_name": "Terraform13713",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13713",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWHGgmjyE9o2CDdKQEFxST4QGicbboM18BjH3bVKA6s48",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Critters",
-  "forests": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 6,
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 7,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 76,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 76,
+      "y": 98
+    },
+    "topRight": {
+      "x": 77,
+      "y": 98
+    },
+    "right": {
+      "x": 77,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 77,
+      "y": 96
+    },
+    "bottom": {
+      "x": 76,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 75,
+      "y": 96
+    },
+    "left": {
+      "x": 75,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 75,
+      "y": 98
+    }
   }
 }

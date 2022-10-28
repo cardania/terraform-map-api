@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03499",
+  "token_name": "Terraform03299",
   "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03499",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfDQamzn4nFsdA8ZBUDaAmuEXD73UbwpmdsXLfR3xSEce",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03299",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUKRzNb4b553F46FmkQu54sffVrJuNgsSAzSx7SsfecjR",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
-  "quantum_flux": 8,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 4,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 28,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 28,
+      "y": 76
+    },
+    "topRight": {
+      "x": 29,
+      "y": 76
+    },
+    "right": {
+      "x": 29,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 29,
+      "y": 74
+    },
+    "bottom": {
+      "x": 28,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 27,
+      "y": 74
+    },
+    "left": {
+      "x": 27,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 27,
+      "y": 76
+    }
   }
 }

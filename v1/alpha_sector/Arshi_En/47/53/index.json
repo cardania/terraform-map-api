@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09911",
+  "token_name": "Terraform13535",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09911",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQDkPaHmevdPNQFKHsbBSjyhLVZkaSZb5FtTCpafuprPx",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13535",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXERasy9HEAhHepwLvSa87V1cy9SAXiZYd2ZA5EegEUBv",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 5,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 47,
     "y": 53
+  },
+  "neighbors": {
+    "top": {
+      "x": 47,
+      "y": 54
+    },
+    "topRight": {
+      "x": 48,
+      "y": 54
+    },
+    "right": {
+      "x": 48,
+      "y": 53
+    },
+    "bottomRight": {
+      "x": 48,
+      "y": 52
+    },
+    "bottom": {
+      "x": 47,
+      "y": 52
+    },
+    "bottonLeft": {
+      "x": 46,
+      "y": 52
+    },
+    "left": {
+      "x": 46,
+      "y": 53
+    },
+    "topLeft": {
+      "x": 46,
+      "y": 54
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15355",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15355",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qma68mNjxCogWYg1rvZtp5qgKu1B5htj5p3nNrLV6HQfrC",
+  "token_name": "Terraform03797",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03797",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaVodLEn9bUUafb8BZ4pmD3CvvUPeV2cCJAXaKUeysMAU",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Prismaleaf",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
   "quantum_flux": 4,
-  "primary_minerals": "Cardanium",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Funky_Lake",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 56,
     "y": 61
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 62
+    },
+    "topRight": {
+      "x": 57,
+      "y": 62
+    },
+    "right": {
+      "x": 57,
+      "y": 61
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 60
+    },
+    "bottom": {
+      "x": 56,
+      "y": 60
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 60
+    },
+    "left": {
+      "x": 55,
+      "y": 61
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 62
+    }
   }
 }

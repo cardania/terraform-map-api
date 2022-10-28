@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01187",
+  "token_name": "Terraform17569",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01187",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZXv6QSPr9dHnDGRezGC968GVcMriMpUxP7cVoGG7UV1S",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17569",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbnWUPfVE4LQULmZPN36uXy15uPNVGBVg6negRjJJLksd",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Timelost",
   "power_level": 2,
   "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 70,
     "y": 74
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 75
+    },
+    "topRight": {
+      "x": 71,
+      "y": 75
+    },
+    "right": {
+      "x": 71,
+      "y": 74
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 73
+    },
+    "bottom": {
+      "x": 70,
+      "y": 73
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 73
+    },
+    "left": {
+      "x": 69,
+      "y": 74
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 75
+    }
   }
 }

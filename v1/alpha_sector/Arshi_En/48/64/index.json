@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06513",
+  "token_name": "Terraform08462",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06513",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf3LC17hM1zeMW3SFCkW4Qvk2jPnprCbKT4dPNaWc6h7C",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08462",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPCnS7X1qxBoXv93p8cr2hDyLmmZZP7uAhYKsnhy9THnB",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 4,
   "quantum_flux": 2,
-  "primary_minerals": "None",
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 48,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 65
+    },
+    "topRight": {
+      "x": 49,
+      "y": 65
+    },
+    "right": {
+      "x": 49,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 63
+    },
+    "bottom": {
+      "x": 48,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 63
+    },
+    "left": {
+      "x": 47,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 65
+    }
   }
 }

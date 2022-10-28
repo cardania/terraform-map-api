@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15655",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15655",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmP1TyWRjf1dUsqLSc6vvmEFvWTPVJs1kGzTRkYqGYQKNz",
+  "token_name": "Terraform12666",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12666",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQJmRGSv42NbRef6aS5v4EVGxeYNBX15pTNFhSDcSFXL8",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Timelost",
   "power_level": 2,
   "quantum_flux": 1,
-  "primary_minerals": "Copper",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "Solar_Shrine",
-  "water": "Freshwater_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 33,
     "y": 37
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 38
+    },
+    "topRight": {
+      "x": 34,
+      "y": 38
+    },
+    "right": {
+      "x": 34,
+      "y": 37
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 36
+    },
+    "bottom": {
+      "x": 33,
+      "y": 36
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 36
+    },
+    "left": {
+      "x": 32,
+      "y": 37
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 38
+    }
   }
 }

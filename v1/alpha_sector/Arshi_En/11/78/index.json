@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11562",
+  "token_name": "Terraform10186",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11562",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNhFntrxSTwpbHGxzzGmzzGmWyy7JsAv8FfPdCdPyH6qX",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10186",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVc81fCMgESSoXnkrYyL5ZQRMsFoXfRiXycMFaLXeQ6Cm",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 7,
+  "power_level": 9,
+  "quantum_flux": 3,
   "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Saltwater_River",
   "location": {
     "x": 11,
     "y": 78
+  },
+  "neighbors": {
+    "top": {
+      "x": 11,
+      "y": 79
+    },
+    "topRight": {
+      "x": 12,
+      "y": 79
+    },
+    "right": {
+      "x": 12,
+      "y": 78
+    },
+    "bottomRight": {
+      "x": 12,
+      "y": 77
+    },
+    "bottom": {
+      "x": 11,
+      "y": 77
+    },
+    "bottonLeft": {
+      "x": 10,
+      "y": 77
+    },
+    "left": {
+      "x": 10,
+      "y": 78
+    },
+    "topLeft": {
+      "x": 10,
+      "y": 79
+    }
   }
 }

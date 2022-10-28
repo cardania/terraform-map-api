@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform06831",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06831",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUmvvAWgTQw9Vbw7PtikeKdx9CSeHuGr6iKgPoBcrv2Vc",
+  "token_name": "Terraform03801",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03801",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWJ82hBAAV2ggcp83rNYarZ4VBHwm3JQkc1jq13Rapg8m",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Cursed_Nanites",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
+  "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 8,
-  "primary_minerals": "Iron",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 83,
     "y": 87
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 88
+    },
+    "topRight": {
+      "x": 84,
+      "y": 88
+    },
+    "right": {
+      "x": 84,
+      "y": 87
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 86
+    },
+    "bottom": {
+      "x": 83,
+      "y": 86
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 86
+    },
+    "left": {
+      "x": 82,
+      "y": 87
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 88
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16991",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16991",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXqU4ZFFds2EygD7BXN57DnAFKTYzMCUByvNR1taNncJ7",
+  "token_name": "Terraform07045",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07045",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeSQfUDbcuhsLz9N1UR8EBrwY9aryVDHhjMSiadciQC5p",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
   "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Solar_Shrine",
   "water": "None",
   "location": {
     "x": 91,
     "y": 1
+  },
+  "neighbors": {
+    "top": {
+      "x": 91,
+      "y": 2
+    },
+    "topRight": {
+      "x": 92,
+      "y": 2
+    },
+    "right": {
+      "x": 92,
+      "y": 1
+    },
+    "bottomRight": {
+      "x": 92,
+      "y": 0
+    },
+    "bottom": {
+      "x": 91,
+      "y": 0
+    },
+    "bottonLeft": {
+      "x": 90,
+      "y": 0
+    },
+    "left": {
+      "x": 90,
+      "y": 1
+    },
+    "topLeft": {
+      "x": 90,
+      "y": 2
+    }
   }
 }

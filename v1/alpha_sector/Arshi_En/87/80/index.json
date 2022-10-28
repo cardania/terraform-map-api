@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06653",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06653",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf5RUBTj7t1EN3gHAWuJGnNNjmnTufMXw4wX24LLsnQC3",
+  "token_name": "Terraform00074",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00074",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmS5Lx5ydP3Yzfo6NfqJzRftHsMvPafpUmPkoJiAT6cGWc",
   "alpha_sector": "Arshi_En",
   "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 4,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 87,
     "y": 80
+  },
+  "neighbors": {
+    "top": {
+      "x": 87,
+      "y": 81
+    },
+    "topRight": {
+      "x": 88,
+      "y": 81
+    },
+    "right": {
+      "x": 88,
+      "y": 80
+    },
+    "bottomRight": {
+      "x": 88,
+      "y": 79
+    },
+    "bottom": {
+      "x": 87,
+      "y": 79
+    },
+    "bottonLeft": {
+      "x": 86,
+      "y": 79
+    },
+    "left": {
+      "x": 86,
+      "y": 80
+    },
+    "topLeft": {
+      "x": 86,
+      "y": 81
+    }
   }
 }

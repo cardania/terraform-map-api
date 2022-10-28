@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04337",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04337",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYEnRoSDQqU9wHuRjj6bW4UifQR4nrbwbk9myd2sHce36",
+  "token_name": "Terraform03436",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03436",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbb4f7TuRNJ13wW7odPPkitvXaYtpqWauqPZJhVhBEtu2",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 5,
-  "quantum_flux": 6,
+  "quantum_flux": 1,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 55,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 55,
+      "y": 69
+    },
+    "topRight": {
+      "x": 56,
+      "y": 69
+    },
+    "right": {
+      "x": 56,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 56,
+      "y": 67
+    },
+    "bottom": {
+      "x": 55,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 54,
+      "y": 67
+    },
+    "left": {
+      "x": 54,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 54,
+      "y": 69
+    }
   }
 }

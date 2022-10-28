@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10019",
+  "token_name": "Terraform18906",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10019",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdrDFW5ckuhXepJskE5GgQgmmFfVvEEbnaCduU1cGJJhL",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18906",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSLw94w2dE5KjDLKp2v5Ugy69GtZCHRb3LkTsEJEHNDLS",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 4,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 15,
     "y": 46
+  },
+  "neighbors": {
+    "top": {
+      "x": 15,
+      "y": 47
+    },
+    "topRight": {
+      "x": 16,
+      "y": 47
+    },
+    "right": {
+      "x": 16,
+      "y": 46
+    },
+    "bottomRight": {
+      "x": 16,
+      "y": 45
+    },
+    "bottom": {
+      "x": 15,
+      "y": 45
+    },
+    "bottonLeft": {
+      "x": 14,
+      "y": 45
+    },
+    "left": {
+      "x": 14,
+      "y": 46
+    },
+    "topLeft": {
+      "x": 14,
+      "y": 47
+    }
   }
 }

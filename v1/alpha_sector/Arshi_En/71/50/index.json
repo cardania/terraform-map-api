@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08787",
+  "token_name": "Terraform13407",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08787",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSmbP5hPhSSL57q17spcnTP7gLeVT2Nt4RTpzsp5PWn5B",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13407",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZoDJFmKLh39Z7gph4wpPSCuwSHymY9fvNeV2AMH71XwK",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 8,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
+  "quantum_flux": 1,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Machine_Shrine",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
   "water": "Freshwater_River",
   "location": {
     "x": 71,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 71,
+      "y": 51
+    },
+    "topRight": {
+      "x": 72,
+      "y": 51
+    },
+    "right": {
+      "x": 72,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 72,
+      "y": 49
+    },
+    "bottom": {
+      "x": 71,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 70,
+      "y": 49
+    },
+    "left": {
+      "x": 70,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 70,
+      "y": 51
+    }
   }
 }

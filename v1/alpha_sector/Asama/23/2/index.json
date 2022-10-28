@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17964",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17964",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcQSw5uHdh3MFeWUXNKhZiEKdsEU9xRnZJpALauDHQYW9",
+  "token_name": "Terraform07784",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07784",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXB2FDWmZmS7RHxw4ExpDKpMKaAqLDFBwHo6GskP9gEGX",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
+  "lithoglyphs": "None",
   "power_level": 6,
-  "quantum_flux": 3,
+  "quantum_flux": 1,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "None",
   "location": {
     "x": 23,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 23,
+      "y": 3
+    },
+    "topRight": {
+      "x": 24,
+      "y": 3
+    },
+    "right": {
+      "x": 24,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 24,
+      "y": 1
+    },
+    "bottom": {
+      "x": 23,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 22,
+      "y": 1
+    },
+    "left": {
+      "x": 22,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 22,
+      "y": 3
+    }
   }
 }

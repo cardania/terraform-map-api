@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04950",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04950",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZBGCxSAyFTKhfVP56ywRDvmYL3rf9Q4JWAjSTCn9dsVY",
+  "token_name": "Terraform18106",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18106",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVYkhum75GnHe6wh1PqcCe9wsMi68jXE4o67Jh7djgSYp",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Prismaleaf",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 1,
-  "quantum_flux": 3,
+  "quantum_flux": 5,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 85,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 85,
+      "y": 83
+    },
+    "topRight": {
+      "x": 86,
+      "y": 83
+    },
+    "right": {
+      "x": 86,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 86,
+      "y": 81
+    },
+    "bottom": {
+      "x": 85,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 84,
+      "y": 81
+    },
+    "left": {
+      "x": 84,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 84,
+      "y": 83
+    }
   }
 }

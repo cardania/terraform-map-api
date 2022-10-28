@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05392",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05392",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPdRstVpdxLHGGMixicRTBFYshDbprppoTHd4QtddkUsH",
+  "token_name": "Terraform18653",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18653",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcScXyiFPtVW9iMDxN9qt6qRWzZbbNUUJtpx1Nc74AiN2",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
-  "quantum_flux": 7,
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 6,
+  "quantum_flux": 3,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Toxic_River",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Fungal_Shrine",
+  "water": "Funky_Lake",
   "location": {
     "x": 86,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 7
+    },
+    "topRight": {
+      "x": 87,
+      "y": 7
+    },
+    "right": {
+      "x": 87,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 5
+    },
+    "bottom": {
+      "x": 86,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 5
+    },
+    "left": {
+      "x": 85,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 7
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04447",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04447",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWMeCTzGszC2eCXvkJTbccBKJ4vr5KhscdWPkSEMRPvkd",
+  "token_name": "Terraform11999",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11999",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qma6CGchem2USfZna5BYrP1nmTXY8R4b2aue51iJkPR7GK",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 48,
     "y": 83
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 84
+    },
+    "topRight": {
+      "x": 49,
+      "y": 84
+    },
+    "right": {
+      "x": 49,
+      "y": 83
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 82
+    },
+    "bottom": {
+      "x": 48,
+      "y": 82
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 82
+    },
+    "left": {
+      "x": 47,
+      "y": 83
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 84
+    }
   }
 }

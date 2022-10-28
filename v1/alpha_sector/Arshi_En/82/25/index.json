@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04038",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04038",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfRo9Fy5iFTrK4UxXWDqzXGbZTPUX5zR8TAh1tYaBu52R",
+  "token_name": "Terraform03477",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03477",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaaoAYgZ9RuzNLEMg5iUdwxNSzbF3WDqaWQYzsKR22KnE",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 2,
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 1,
+  "quantum_flux": 8,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Machine_Shrine",
-  "water": "Saltwater_Lake",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 82,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 82,
+      "y": 26
+    },
+    "topRight": {
+      "x": 83,
+      "y": 26
+    },
+    "right": {
+      "x": 83,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 83,
+      "y": 24
+    },
+    "bottom": {
+      "x": 82,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 81,
+      "y": 24
+    },
+    "left": {
+      "x": 81,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 81,
+      "y": 26
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17333",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17333",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaiSrebPsZAAViSkVs5ZLhBtoF7uTK6KL3RkJ37Nxv92E",
+  "token_name": "Terraform16763",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16763",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeUcgmitTWMtx1ZDoyCWo8qCpctoFsiZT5WTrBBWY29Kh",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 7,
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 6,
+  "quantum_flux": 5,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
+  "ruins": "None",
   "shrine": "Machine_Shrine",
   "water": "Freshwater_River",
   "location": {
     "x": 55,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 55,
+      "y": 7
+    },
+    "topRight": {
+      "x": 56,
+      "y": 7
+    },
+    "right": {
+      "x": 56,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 56,
+      "y": 5
+    },
+    "bottom": {
+      "x": 55,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 54,
+      "y": 5
+    },
+    "left": {
+      "x": 54,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 54,
+      "y": 7
+    }
   }
 }

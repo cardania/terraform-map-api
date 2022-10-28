@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07556",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07556",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmctoWtXBrpygPwu6BPNZbaQUa5s2qHDdJPjZLLdWmk7iC",
+  "token_name": "Terraform14232",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14232",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSGq88MvodVpgQWgeZmz8Rh9AcW4N8YYwoRjZJDQXEjAn",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "forests": "Palms",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
   "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Golden_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 86,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 31
+    },
+    "topRight": {
+      "x": 87,
+      "y": 31
+    },
+    "right": {
+      "x": 87,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 29
+    },
+    "bottom": {
+      "x": 86,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 29
+    },
+    "left": {
+      "x": 85,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 31
+    }
   }
 }

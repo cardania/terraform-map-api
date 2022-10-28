@@ -1,13 +1,13 @@
 {
-  "token_name": "Terraform13598",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13598",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTTp2BjumqMx19t4J4QjnqgpCKiqpFa8UGFgpz3bG9bpj",
+  "token_name": "Terraform06377",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06377",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYXMHpSA4gVrziXnn6kVpxei8uPmXZwrdhuPr38dimFQs",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
@@ -15,11 +15,45 @@
   "quantum_flux": 1,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Machine_Shrine",
-  "water": "Funky_River",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 31,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 31,
+      "y": 9
+    },
+    "topRight": {
+      "x": 32,
+      "y": 9
+    },
+    "right": {
+      "x": 32,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 32,
+      "y": 7
+    },
+    "bottom": {
+      "x": 31,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 30,
+      "y": 7
+    },
+    "left": {
+      "x": 30,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 30,
+      "y": 9
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14758",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14758",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfDfehXGhoxgCAV4Qw4AGVJGBktQWP4oJGia3SehrtTLw",
+  "token_name": "Terraform12285",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12285",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVrAEMJ9Pv4gsv5d9FHGFeuFwjRhs17g2ifxarJQWS3cW",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 7,
   "quantum_flux": 8,
   "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "Solar_Shrine",
   "water": "None",
   "location": {
     "x": 93,
     "y": 44
+  },
+  "neighbors": {
+    "top": {
+      "x": 93,
+      "y": 45
+    },
+    "topRight": {
+      "x": 94,
+      "y": 45
+    },
+    "right": {
+      "x": 94,
+      "y": 44
+    },
+    "bottomRight": {
+      "x": 94,
+      "y": 43
+    },
+    "bottom": {
+      "x": 93,
+      "y": 43
+    },
+    "bottonLeft": {
+      "x": 92,
+      "y": 43
+    },
+    "left": {
+      "x": 92,
+      "y": 44
+    },
+    "topLeft": {
+      "x": 92,
+      "y": 45
+    }
   }
 }

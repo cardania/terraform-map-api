@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10730",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10730",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQDGmqEr923XcvTPomqfG5fwSz5jirQkRycrXqeETfKXm",
+  "token_name": "Terraform03429",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03429",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTJibxtpcaS88ewtMNdpyTXJU7tVZwG643dRbptfpxa3g",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Fungal_Shrine",
-  "water": "Saltwater_Lake",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 8,
+  "quantum_flux": 7,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 70,
     "y": 76
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 77
+    },
+    "topRight": {
+      "x": 71,
+      "y": 77
+    },
+    "right": {
+      "x": 71,
+      "y": 76
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 75
+    },
+    "bottom": {
+      "x": 70,
+      "y": 75
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 75
+    },
+    "left": {
+      "x": 69,
+      "y": 76
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 77
+    }
   }
 }

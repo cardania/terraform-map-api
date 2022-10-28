@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03504",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03504",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcDFU44izrZPqgHrnUnJicKPGVMUCNm6B9iW87uNb19U6",
+  "token_name": "Terraform04466",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04466",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmajMGxDoweihHT5xkspqAD2ZJSkPQq4bkaPsURCvoCi7i",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "power_level": 8,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
-  "shrine": "None",
-  "water": "Toxic_Lake",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Funky_River",
   "location": {
     "x": 87,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 87,
+      "y": 7
+    },
+    "topRight": {
+      "x": 88,
+      "y": 7
+    },
+    "right": {
+      "x": 88,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 88,
+      "y": 5
+    },
+    "bottom": {
+      "x": 87,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 86,
+      "y": 5
+    },
+    "left": {
+      "x": 86,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 86,
+      "y": 7
+    }
   }
 }

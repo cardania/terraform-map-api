@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05874",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05874",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmS9UDrbzDyTqvHtd9wD8T4GaH8ZU7jLKvPEbxRX5LM35G",
+  "token_name": "Terraform16175",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16175",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmahpJ4cJiXqnJYzDyKAjWR8RLjJE57SKvoni5THCgGoxw",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 5,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 56,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 3
+    },
+    "topRight": {
+      "x": 57,
+      "y": 3
+    },
+    "right": {
+      "x": 57,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 1
+    },
+    "bottom": {
+      "x": 56,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 1
+    },
+    "left": {
+      "x": 55,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 3
+    }
   }
 }

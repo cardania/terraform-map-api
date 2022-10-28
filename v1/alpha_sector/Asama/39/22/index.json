@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10997",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10997",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmULvs7ojaRgbNwnpibcgFStPXUQvs3ZEnz5uRdYBEuNcm",
+  "token_name": "Terraform09908",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09908",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPUtyiMZm2yXTdfodvgvWT8E5JS4wnoXEvdEUBAAjJ2RN",
   "alpha_sector": "Asama",
   "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 8,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
+  "quantum_flux": 6,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Void_Shrine",
+  "water": "Cursed_River",
   "location": {
     "x": 39,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 23
+    },
+    "topRight": {
+      "x": 40,
+      "y": 23
+    },
+    "right": {
+      "x": 40,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 21
+    },
+    "bottom": {
+      "x": 39,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 21
+    },
+    "left": {
+      "x": 38,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 23
+    }
   }
 }

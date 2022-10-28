@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14246",
+  "token_name": "Terraform00751",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14246",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmczyaf5vnCRPxyHr9p7xwpHzG1V9rmYHp4FyNSNuADY7X",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00751",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbeyV7ECDuq8sVYdT9kUBgEFXC1Xo1YHEPc2KYm2G2riU",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "None",
   "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Solar_Shrine",
   "water": "None",
   "location": {
     "x": 5,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 5,
+      "y": 86
+    },
+    "topRight": {
+      "x": 6,
+      "y": 86
+    },
+    "right": {
+      "x": 6,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 6,
+      "y": 84
+    },
+    "bottom": {
+      "x": 5,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 4,
+      "y": 84
+    },
+    "left": {
+      "x": 4,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 4,
+      "y": 86
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11815",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11815",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYb91eDpikVu8fRmHNK9vyv6pL4cwDzaoR7Sir99P3bBe",
+  "token_name": "Terraform09651",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09651",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQrawES9wLTugHATXJqerXnzaSAdY3K2bKJUoZLmWVxYk",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Prismatic_Motes",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Prismaleaf",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 8,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "quantum_flux": 2,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 39,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 37
+    },
+    "topRight": {
+      "x": 40,
+      "y": 37
+    },
+    "right": {
+      "x": 40,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 35
+    },
+    "bottom": {
+      "x": 39,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 35
+    },
+    "left": {
+      "x": 38,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 37
+    }
   }
 }

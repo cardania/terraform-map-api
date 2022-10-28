@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15887",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15887",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWpVeG7AZqN9EX5ppyVRTXd23mrmfV3PTsdKUQs68xKYL",
+  "token_name": "Terraform14345",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14345",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSue1mSgfGoCggzjpHgkYP2GhahBVM1PWWLscW7h5hYjy",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "forests": "None",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "None",
   "power_level": 2,
   "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
+  "primary_minerals": "Copper",
   "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Timelost",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 65,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 65,
+      "y": 7
+    },
+    "topRight": {
+      "x": 66,
+      "y": 7
+    },
+    "right": {
+      "x": 66,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 66,
+      "y": 5
+    },
+    "bottom": {
+      "x": 65,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 64,
+      "y": 5
+    },
+    "left": {
+      "x": 64,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 64,
+      "y": 7
+    }
   }
 }

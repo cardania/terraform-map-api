@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00982",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00982",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPdRVcMJ9iHYiWgakwrP9PJJWAwbSybA6HRbmiPSWvGHM",
+  "token_name": "Terraform15915",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15915",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSqG9dMgb3C6zP7itv1CjBBK4Y7h1Es6HmnDX7oSnQcM1",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "None",
-  "fauna": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 9,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Orange",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 7,
+  "quantum_flux": 8,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 83,
     "y": 42
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 43
+    },
+    "topRight": {
+      "x": 84,
+      "y": 43
+    },
+    "right": {
+      "x": 84,
+      "y": 42
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 41
+    },
+    "bottom": {
+      "x": 83,
+      "y": 41
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 41
+    },
+    "left": {
+      "x": 82,
+      "y": 42
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 43
+    }
   }
 }

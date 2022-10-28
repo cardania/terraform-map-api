@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00790",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00790",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXvsaAe9ojaK986ZMCFVJycZyNvmXX52f3E6uECxeEnCQ",
+  "token_name": "Terraform07468",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07468",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVc7vi3XjMAPphGVHc4wUwTwkBr1vkDXBz4J77JGvqZJi",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "Evergreen",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 7,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Compacted_Machinery",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 1,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 93,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 93,
+      "y": 5
+    },
+    "topRight": {
+      "x": 94,
+      "y": 5
+    },
+    "right": {
+      "x": 94,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 94,
+      "y": 3
+    },
+    "bottom": {
+      "x": 93,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 92,
+      "y": 3
+    },
+    "left": {
+      "x": 92,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 92,
+      "y": 5
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03159",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03159",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRdiWuqYZFNotQDBdgc8jAxEKTBWx1prhBiKW6UwAkfKm",
+  "token_name": "Terraform06121",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06121",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbCnG7D5xgiQHV1VJB1UG24KdLqh6v4Z2mD6dceJxL18F",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Funky_Lake",
   "location": {
     "x": 36,
     "y": 14
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 15
+    },
+    "topRight": {
+      "x": 37,
+      "y": 15
+    },
+    "right": {
+      "x": 37,
+      "y": 14
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 13
+    },
+    "bottom": {
+      "x": 36,
+      "y": 13
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 13
+    },
+    "left": {
+      "x": 35,
+      "y": 14
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 15
+    }
   }
 }

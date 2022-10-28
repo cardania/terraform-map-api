@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05235",
+  "token_name": "Terraform05705",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05235",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdddGX3GZNJRGzUKfJnkvA44KbaUf5LgRHq5AU9B6FF9x",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05705",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSRtXEszebZuX9vjbEM9GPGT5pPTKqqai5Tg2SH6BBBvD",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "Palms",
   "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "power_level": 7,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 5,
     "y": 21
+  },
+  "neighbors": {
+    "top": {
+      "x": 5,
+      "y": 22
+    },
+    "topRight": {
+      "x": 6,
+      "y": 22
+    },
+    "right": {
+      "x": 6,
+      "y": 21
+    },
+    "bottomRight": {
+      "x": 6,
+      "y": 20
+    },
+    "bottom": {
+      "x": 5,
+      "y": 20
+    },
+    "bottonLeft": {
+      "x": 4,
+      "y": 20
+    },
+    "left": {
+      "x": 4,
+      "y": 21
+    },
+    "topLeft": {
+      "x": 4,
+      "y": 22
+    }
   }
 }

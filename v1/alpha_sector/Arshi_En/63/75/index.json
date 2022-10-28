@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14863",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14863",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZjvzdqbixEFxUFhGuN1MpGt9GgKC94v4NsQcWjriV9WG",
+  "token_name": "Terraform06642",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06642",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZMfgMFCCHyiyBjDgCvUnn6Vts5NqdyND2yxoEjjdyvAX",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "Livestock",
   "forests": "Prismaleaf",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 1,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 63,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 63,
+      "y": 76
+    },
+    "topRight": {
+      "x": 64,
+      "y": 76
+    },
+    "right": {
+      "x": 64,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 64,
+      "y": 74
+    },
+    "bottom": {
+      "x": 63,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 62,
+      "y": 74
+    },
+    "left": {
+      "x": 62,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 62,
+      "y": 76
+    }
   }
 }

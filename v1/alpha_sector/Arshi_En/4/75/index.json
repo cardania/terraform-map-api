@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02452",
+  "token_name": "Terraform11012",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02452",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV3e8hXJewqBvc4F9Rv9GqnYChqKrMC8xV5dqyHWEH4Gr",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11012",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWFK7ZjrYT1oHVZ5LAAHnyEjEru51wP6j6QZgS8MyU4j8",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 1,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 4,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 4,
+      "y": 76
+    },
+    "topRight": {
+      "x": 5,
+      "y": 76
+    },
+    "right": {
+      "x": 5,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 5,
+      "y": 74
+    },
+    "bottom": {
+      "x": 4,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 3,
+      "y": 74
+    },
+    "left": {
+      "x": 3,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 3,
+      "y": 76
+    }
   }
 }

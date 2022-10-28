@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12882",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12882",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmX6Pt1WCZuUvdz7S3EaFjWxVWWHTAwnhfVbA4bfgJrpPR",
+  "token_name": "Terraform15150",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15150",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbKDcqYMcCS3MorFkNdcG1Gt1i5mMBUxM8RL6XWxWdcEW",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 8,
+  "power_level": 2,
+  "quantum_flux": 1,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "None",
   "location": {
     "x": 86,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 37
+    },
+    "topRight": {
+      "x": 87,
+      "y": 37
+    },
+    "right": {
+      "x": 87,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 35
+    },
+    "bottom": {
+      "x": 86,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 35
+    },
+    "left": {
+      "x": 85,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 37
+    }
   }
 }

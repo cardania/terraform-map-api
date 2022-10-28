@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform12057",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12057",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUcvhSE8zHgwcKLtmPqsfmMafFkX9TiMv8rSqNns54WyN",
+  "token_name": "Terraform04288",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04288",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmR54px7vwcFXW2wuaXs1zdurzQ7MRtBvezcw5xdJMQtYS",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 2,
+  "quantum_flux": 9,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 84,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 84,
+      "y": 69
+    },
+    "topRight": {
+      "x": 85,
+      "y": 69
+    },
+    "right": {
+      "x": 85,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 85,
+      "y": 67
+    },
+    "bottom": {
+      "x": 84,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 83,
+      "y": 67
+    },
+    "left": {
+      "x": 83,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 83,
+      "y": 69
+    }
   }
 }

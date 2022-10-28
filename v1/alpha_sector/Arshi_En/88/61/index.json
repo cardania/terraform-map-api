@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16837",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16837",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNsJJpk1D2ypx4YWreNz3LK6LxhNFR51iTiDPGhU3Gz5h",
+  "token_name": "Terraform03932",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03932",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRttaxyTxh7j5cdGx2aPCDfKvTdaAFaMQ2PKjqfcJte4J",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "power_level": 3,
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 88,
     "y": 61
+  },
+  "neighbors": {
+    "top": {
+      "x": 88,
+      "y": 62
+    },
+    "topRight": {
+      "x": 89,
+      "y": 62
+    },
+    "right": {
+      "x": 89,
+      "y": 61
+    },
+    "bottomRight": {
+      "x": 89,
+      "y": 60
+    },
+    "bottom": {
+      "x": 88,
+      "y": 60
+    },
+    "bottonLeft": {
+      "x": 87,
+      "y": 60
+    },
+    "left": {
+      "x": 87,
+      "y": 61
+    },
+    "topLeft": {
+      "x": 87,
+      "y": 62
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00503",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00503",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWQ2miTe5PF93NtrhaLf5LXX1FPrvHKQLRKu4cSzA873U",
+  "token_name": "Terraform16156",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16156",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUEKTvaDPC3PuZR8NTBjcSxJfRoX2wNcooQoNKVsBF6F2",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 4,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 39,
     "y": 90
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 91
+    },
+    "topRight": {
+      "x": 40,
+      "y": 91
+    },
+    "right": {
+      "x": 40,
+      "y": 90
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 89
+    },
+    "bottom": {
+      "x": 39,
+      "y": 89
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 89
+    },
+    "left": {
+      "x": 38,
+      "y": 90
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 91
+    }
   }
 }

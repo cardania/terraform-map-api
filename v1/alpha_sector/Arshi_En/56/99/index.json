@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform01252",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01252",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPo8Nz2pv4PNGYmA4DgSZ68wCvHmNXLF6cwb6KG2zSthP",
+  "token_name": "Terraform01551",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01551",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeVbcCrwmfpywa3qWXZSMfCCBiQHSf9WsiM5CEdp1g2xF",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 1,
+  "power_level": 5,
   "quantum_flux": 7,
-  "primary_minerals": "Radium",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 56,
     "y": 99
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 100
+    },
+    "topRight": {
+      "x": 57,
+      "y": 100
+    },
+    "right": {
+      "x": 57,
+      "y": 99
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 98
+    },
+    "bottom": {
+      "x": 56,
+      "y": 98
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 98
+    },
+    "left": {
+      "x": 55,
+      "y": 99
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 100
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14009",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14009",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXEB8r3DWt7vmkmGsH7yXJKuQfqvS6qzApsvxS8AcCC9a",
+  "token_name": "Terraform16750",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16750",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmW53cEGXqJgkJwjyvnNpSez97cigeMxXNhRP5Ah7QhjTn",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 84,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 84,
+      "y": 26
+    },
+    "topRight": {
+      "x": 85,
+      "y": 26
+    },
+    "right": {
+      "x": 85,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 85,
+      "y": 24
+    },
+    "bottom": {
+      "x": 84,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 83,
+      "y": 24
+    },
+    "left": {
+      "x": 83,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 83,
+      "y": 26
+    }
   }
 }

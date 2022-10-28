@@ -1,17 +1,17 @@
 {
-  "token_name": "Terraform17427",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17427",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQhwFinxnxTMSRLgq1dDmb3r8tuo3C8o2skNEZTbu3vS4",
+  "token_name": "Terraform17682",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17682",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbvG438depzBqKhRLjWSZZ6d4KyktW1H9zTgk8HGPfDYZ",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 7,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
   "quantum_flux": 3,
   "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 82,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 82,
+      "y": 4
+    },
+    "topRight": {
+      "x": 83,
+      "y": 4
+    },
+    "right": {
+      "x": 83,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 83,
+      "y": 2
+    },
+    "bottom": {
+      "x": 82,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 81,
+      "y": 2
+    },
+    "left": {
+      "x": 81,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 81,
+      "y": 4
+    }
   }
 }

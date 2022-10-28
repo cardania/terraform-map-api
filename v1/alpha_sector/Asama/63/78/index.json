@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00514",
+  "token_name": "Terraform13008",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00514",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXMYhq3u8p2mqFKnCDqEA78UVJp6BLnjnwZZFE7PFDump",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13008",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRSsD3buYCKRit4LhV41tuf7co1uFDLf2XY6vcZmrWCVT",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 5,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 63,
     "y": 78
+  },
+  "neighbors": {
+    "top": {
+      "x": 63,
+      "y": 79
+    },
+    "topRight": {
+      "x": 64,
+      "y": 79
+    },
+    "right": {
+      "x": 64,
+      "y": 78
+    },
+    "bottomRight": {
+      "x": 64,
+      "y": 77
+    },
+    "bottom": {
+      "x": 63,
+      "y": 77
+    },
+    "bottonLeft": {
+      "x": 62,
+      "y": 77
+    },
+    "left": {
+      "x": 62,
+      "y": 78
+    },
+    "topLeft": {
+      "x": 62,
+      "y": 79
+    }
   }
 }

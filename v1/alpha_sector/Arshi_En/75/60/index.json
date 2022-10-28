@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15196",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15196",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXbkPaTn7tqAvNFsQL8sEb8GHxDshaA5gTKZBs4eGtBrP",
+  "token_name": "Terraform13405",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13405",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTEUhRiXrxDuwkXRAnE6LF7HrjKsTHAhHrS41mZDPEj4p",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 6,
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 2,
   "quantum_flux": 2,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
-  "water": "None",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Golden_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 75,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 61
+    },
+    "topRight": {
+      "x": 76,
+      "y": 61
+    },
+    "right": {
+      "x": 76,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 59
+    },
+    "bottom": {
+      "x": 75,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 59
+    },
+    "left": {
+      "x": 74,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 61
+    }
   }
 }

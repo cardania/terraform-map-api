@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05606",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05606",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSiPUfto67csVSxRQYkmj3wASfoin2Hv3AHm3FHJnMG2U",
+  "token_name": "Terraform17582",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17582",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRuCiQqGNDL242JzvvtrgUsu1UADb8wBfdziYqxLxz8T7",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Cardanium",
+  "power_level": 8,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "None",
-  "water": "Toxic_Lake",
+  "ruins": "None",
+  "shrine": "Solar_Shrine",
+  "water": "None",
   "location": {
     "x": 38,
     "y": 17
+  },
+  "neighbors": {
+    "top": {
+      "x": 38,
+      "y": 18
+    },
+    "topRight": {
+      "x": 39,
+      "y": 18
+    },
+    "right": {
+      "x": 39,
+      "y": 17
+    },
+    "bottomRight": {
+      "x": 39,
+      "y": 16
+    },
+    "bottom": {
+      "x": 38,
+      "y": 16
+    },
+    "bottonLeft": {
+      "x": 37,
+      "y": 16
+    },
+    "left": {
+      "x": 37,
+      "y": 17
+    },
+    "topLeft": {
+      "x": 37,
+      "y": 18
+    }
   }
 }

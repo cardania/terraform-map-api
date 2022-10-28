@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17216",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17216",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTzqvaYuVgjQGutLrYu6Yu1ovpBKvtko2tHGCBGNvvipn",
+  "token_name": "Terraform17943",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17943",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qma3RCTtahJL6i6jLkk9DQZ4ypmutcdwjZNEaA3i3J2tuC",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 2,
+  "power_level": 3,
   "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "None",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 85,
     "y": 95
+  },
+  "neighbors": {
+    "top": {
+      "x": 85,
+      "y": 96
+    },
+    "topRight": {
+      "x": 86,
+      "y": 96
+    },
+    "right": {
+      "x": 86,
+      "y": 95
+    },
+    "bottomRight": {
+      "x": 86,
+      "y": 94
+    },
+    "bottom": {
+      "x": 85,
+      "y": 94
+    },
+    "bottonLeft": {
+      "x": 84,
+      "y": 94
+    },
+    "left": {
+      "x": 84,
+      "y": 95
+    },
+    "topLeft": {
+      "x": 84,
+      "y": 96
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10643",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10643",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVUVi9mmrYS3akkzH5gJKBmVHKem1Pw6KbJkXu2Tusmo5",
+  "token_name": "Terraform02095",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02095",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeD9EPr2DQhR8orK9SUcB3HAYYa8LV7m2pms85TBr2Q1u",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 6,
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 4,
   "quantum_flux": 4,
-  "primary_minerals": "None",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Cursed_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 96,
     "y": 63
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 64
+    },
+    "topRight": {
+      "x": 97,
+      "y": 64
+    },
+    "right": {
+      "x": 97,
+      "y": 63
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 62
+    },
+    "bottom": {
+      "x": 96,
+      "y": 62
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 62
+    },
+    "left": {
+      "x": 95,
+      "y": 63
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 64
+    }
   }
 }

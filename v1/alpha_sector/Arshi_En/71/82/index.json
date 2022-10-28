@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07300",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07300",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYpSFaUWiBLh3KDMQVbHR7mU1kZA7cLNvz3K5bFt1AC12",
+  "token_name": "Terraform06126",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06126",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeDd14jaL8qv8eDuqDnsAo64FoAe3gxjw7565s5WkqAZM",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
+  "fauna": "Critters",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "Alien_Technology_Red",
-  "shrine": "Void_Shrine",
-  "water": "Cursed_Lake",
+  "shrine": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 71,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 71,
+      "y": 83
+    },
+    "topRight": {
+      "x": 72,
+      "y": 83
+    },
+    "right": {
+      "x": 72,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 72,
+      "y": 81
+    },
+    "bottom": {
+      "x": 71,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 70,
+      "y": 81
+    },
+    "left": {
+      "x": 70,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 70,
+      "y": 83
+    }
   }
 }

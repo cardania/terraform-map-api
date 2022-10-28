@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02536",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02536",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaGR2Tpw12CjoTvWd95rGcaXWUE6RmamqnBeMJVbBoPZk",
+  "token_name": "Terraform07371",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07371",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTm4vGpf1sj25g5gwfYbJLAoefSas5bp52Gj7WHpAU6bC",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 1,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 7,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 33,
     "y": 71
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 72
+    },
+    "topRight": {
+      "x": 34,
+      "y": 72
+    },
+    "right": {
+      "x": 34,
+      "y": 71
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 70
+    },
+    "bottom": {
+      "x": 33,
+      "y": 70
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 70
+    },
+    "left": {
+      "x": 32,
+      "y": 71
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 72
+    }
   }
 }

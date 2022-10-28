@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07024",
+  "token_name": "Terraform15619",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07024",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeVGRS1xWj2VBZVggABQ8ZzTLn1WMLjtp417UypxwcKeB",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15619",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUNxdwFbgX8MYUvUMv9M7qauaquGpEV3H6AswWDZ2uAfT",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
-  "quantum_flux": 8,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "power_level": 3,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 88,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 88,
+      "y": 23
+    },
+    "topRight": {
+      "x": 89,
+      "y": 23
+    },
+    "right": {
+      "x": 89,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 89,
+      "y": 21
+    },
+    "bottom": {
+      "x": 88,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 87,
+      "y": 21
+    },
+    "left": {
+      "x": 87,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 87,
+      "y": 23
+    }
   }
 }

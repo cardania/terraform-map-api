@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12271",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12271",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW1sD5Ne9DVoK8DGCJK5rSg6SDhpxGpm7yt7C1btk1TWH",
+  "token_name": "Terraform18887",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18887",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZUfp9xnxm43qKzmVyHkfs7XvSThXedeCtEb6oai4SxzT",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
   "power_level": 6,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Saltwater_River",
   "location": {
     "x": 75,
     "y": 81
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 82
+    },
+    "topRight": {
+      "x": 76,
+      "y": 82
+    },
+    "right": {
+      "x": 76,
+      "y": 81
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 80
+    },
+    "bottom": {
+      "x": 75,
+      "y": 80
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 80
+    },
+    "left": {
+      "x": 74,
+      "y": 81
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 82
+    }
   }
 }

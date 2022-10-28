@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07489",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07489",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmR3zyQEr4MXNSV45ir232rGxedxCdZy7Du3PwSE4sV9eV",
+  "token_name": "Terraform18816",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18816",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ1tWT3q7xAdqrhBxLZL4468isrFy8N86Sp5DjkbvRmXN",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 1,
-  "quantum_flux": 7,
+  "quantum_flux": 5,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "Funky_River",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 92,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 92,
+      "y": 37
+    },
+    "topRight": {
+      "x": 93,
+      "y": 37
+    },
+    "right": {
+      "x": 93,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 93,
+      "y": 35
+    },
+    "bottom": {
+      "x": 92,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 91,
+      "y": 35
+    },
+    "left": {
+      "x": 91,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 91,
+      "y": 37
+    }
   }
 }

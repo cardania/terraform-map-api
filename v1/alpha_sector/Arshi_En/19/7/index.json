@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16704",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16704",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWoY19tiJnQpLE2jMs2Qut55mFqoK8ereHVfb5nQYsoxx",
+  "token_name": "Terraform17861",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17861",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXPBt4LN1vvC3hMYFoKs87o6UZPKXH3jhyeFjri9VPc4q",
   "alpha_sector": "Arshi_En",
   "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "Evergreen",
   "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "power_level": 4,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "ruins": "None",
   "shrine": "Machine_Shrine",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 19,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 19,
+      "y": 8
+    },
+    "topRight": {
+      "x": 20,
+      "y": 8
+    },
+    "right": {
+      "x": 20,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 20,
+      "y": 6
+    },
+    "bottom": {
+      "x": 19,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 18,
+      "y": 6
+    },
+    "left": {
+      "x": 18,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 18,
+      "y": 8
+    }
   }
 }

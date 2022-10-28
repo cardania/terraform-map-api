@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07718",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07718",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdinz2xBwWUMnyN4RcwsQbFt6QnXs8Zf9pDJkFW3boX4E",
+  "token_name": "Terraform14264",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14264",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXocLuJEHFvN4tyrouBkZBzQRQq84c7qkJwgAKUexzN4u",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 6,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 8,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "Alien_Technology_Green",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 28,
     "y": 41
+  },
+  "neighbors": {
+    "top": {
+      "x": 28,
+      "y": 42
+    },
+    "topRight": {
+      "x": 29,
+      "y": 42
+    },
+    "right": {
+      "x": 29,
+      "y": 41
+    },
+    "bottomRight": {
+      "x": 29,
+      "y": 40
+    },
+    "bottom": {
+      "x": 28,
+      "y": 40
+    },
+    "bottonLeft": {
+      "x": 27,
+      "y": 40
+    },
+    "left": {
+      "x": 27,
+      "y": 41
+    },
+    "topLeft": {
+      "x": 27,
+      "y": 42
+    }
   }
 }

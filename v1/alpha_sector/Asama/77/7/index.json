@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14429",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14429",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSCvy1AtdNVVa53MmbTqUCm4PVqVqSLMY8ckVNcZvRhWa",
+  "token_name": "Terraform01373",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01373",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUtKNNK4TptoRzx6yALnkqaxxioiPfhyozU4ajQyMcKXN",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "power_level": 1,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 77,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 77,
+      "y": 8
+    },
+    "topRight": {
+      "x": 78,
+      "y": 8
+    },
+    "right": {
+      "x": 78,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 78,
+      "y": 6
+    },
+    "bottom": {
+      "x": 77,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 76,
+      "y": 6
+    },
+    "left": {
+      "x": 76,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 76,
+      "y": 8
+    }
   }
 }

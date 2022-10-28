@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19835",
+  "token_name": "Terraform19913",
   "land_type": "Prismatic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19835",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYTyipGvXSMpHY92woEfc4yUXSuMQEJoaVkHhUjBn8rbh",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19913",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTgwqQ4fCpSqvSCoFVajWrpQ1iTFJ8gorimp11De8mhcu",
   "alpha_sector": "Foundation",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
-  "quantum_flux": 1,
-  "primary_minerals": "Radium",
+  "power_level": 2,
+  "quantum_flux": 6,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_River",
+  "shrine": "Quantum_Shrine",
+  "water": "None",
   "location": {
     "x": 9,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 7
+    },
+    "topRight": {
+      "x": 10,
+      "y": 7
+    },
+    "right": {
+      "x": 10,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 5
+    },
+    "bottom": {
+      "x": 9,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 5
+    },
+    "left": {
+      "x": 8,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 7
+    }
   }
 }

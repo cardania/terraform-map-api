@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06025",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06025",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc2iVYh78bkAREzfNrPnmd6Uy9aGHNprwjSWngU61yFVr",
+  "token_name": "Terraform05694",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05694",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZvhr3Q5eEswKvBY5D32zRioj3kc8SwtQTajKg6du9QCf",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 33,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 23
+    },
+    "topRight": {
+      "x": 34,
+      "y": 23
+    },
+    "right": {
+      "x": 34,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 21
+    },
+    "bottom": {
+      "x": 33,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 21
+    },
+    "left": {
+      "x": 32,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 23
+    }
   }
 }

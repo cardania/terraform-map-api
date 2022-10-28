@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00206",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00206",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbU5azQsQ6C5tgkgDnqXigYwYAAHyEa2xUapdn56YPJvM",
+  "token_name": "Terraform17211",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17211",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qma7Ab8Usq4SBMXkizQGa2RVs5VWTpqYRuZCdw5nu2ghHM",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Ultrasaurs",
+  "activity": "None",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 7,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Saltwater_River",
   "location": {
     "x": 15,
     "y": 62
+  },
+  "neighbors": {
+    "top": {
+      "x": 15,
+      "y": 63
+    },
+    "topRight": {
+      "x": 16,
+      "y": 63
+    },
+    "right": {
+      "x": 16,
+      "y": 62
+    },
+    "bottomRight": {
+      "x": 16,
+      "y": 61
+    },
+    "bottom": {
+      "x": 15,
+      "y": 61
+    },
+    "bottonLeft": {
+      "x": 14,
+      "y": 61
+    },
+    "left": {
+      "x": 14,
+      "y": 62
+    },
+    "topLeft": {
+      "x": 14,
+      "y": 63
+    }
   }
 }

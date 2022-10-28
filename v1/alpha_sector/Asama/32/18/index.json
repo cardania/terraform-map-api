@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19479",
+  "token_name": "Terraform05520",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19479",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTmwyw7Y4dtvNhuj4aLixx9RGPNv3MqSgrnuNcD1o1QKw",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05520",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXqfFARJ5BMfrUs99VPxr9iPzX24saQXpMwkASQbud2sg",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "None",
+  "forests": "Prismaleaf",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 9,
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 32,
     "y": 18
+  },
+  "neighbors": {
+    "top": {
+      "x": 32,
+      "y": 19
+    },
+    "topRight": {
+      "x": 33,
+      "y": 19
+    },
+    "right": {
+      "x": 33,
+      "y": 18
+    },
+    "bottomRight": {
+      "x": 33,
+      "y": 17
+    },
+    "bottom": {
+      "x": 32,
+      "y": 17
+    },
+    "bottonLeft": {
+      "x": 31,
+      "y": 17
+    },
+    "left": {
+      "x": 31,
+      "y": 18
+    },
+    "topLeft": {
+      "x": 31,
+      "y": 19
+    }
   }
 }

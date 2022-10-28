@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11964",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11964",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUJnoxLCVJQ8yjsmqHbjuUBLf5Q2ntKkwUTgzJRHk7L4B",
+  "token_name": "Terraform10682",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10682",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmP8Hm9p6TGy8Qe3kVuP4dPFEaDm2vVZ1WVoGx2sfeoWpe",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 5,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Void_Shrine",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
+  "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 39,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 21
+    },
+    "topRight": {
+      "x": 40,
+      "y": 21
+    },
+    "right": {
+      "x": 40,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 19
+    },
+    "bottom": {
+      "x": 39,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 19
+    },
+    "left": {
+      "x": 38,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 21
+    }
   }
 }

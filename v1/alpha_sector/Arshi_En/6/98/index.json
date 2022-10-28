@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07510",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07510",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbK23L9FcBPK6VZdmEGkkWYMJgoYaA3TpaAQ6CFGZFqXS",
+  "token_name": "Terraform00841",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00841",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXrAn7KFcrKY4xCPA3jQ668vEazBpuwp2D1KsY4NJB249",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 6,
-  "quantum_flux": 1,
-  "primary_minerals": "Copper",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 6,
     "y": 98
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 99
+    },
+    "topRight": {
+      "x": 7,
+      "y": 99
+    },
+    "right": {
+      "x": 7,
+      "y": 98
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 97
+    },
+    "bottom": {
+      "x": 6,
+      "y": 97
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 97
+    },
+    "left": {
+      "x": 5,
+      "y": 98
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 99
+    }
   }
 }

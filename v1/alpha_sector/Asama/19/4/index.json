@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12494",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12494",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW7nbYXx6Uu5bWg6eYFG6zg5VcmCbnnWJedBSNQxHdFcZ",
+  "token_name": "Terraform10434",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10434",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmU2LoXztRZNCEmvukhSvUGZxcoBFsLgFnRZ6riFeH2F4R",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
+  "fauna": "None",
+  "forests": "Palms",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 9,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 2,
+  "quantum_flux": 5,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 19,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 19,
+      "y": 5
+    },
+    "topRight": {
+      "x": 20,
+      "y": 5
+    },
+    "right": {
+      "x": 20,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 20,
+      "y": 3
+    },
+    "bottom": {
+      "x": 19,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 18,
+      "y": 3
+    },
+    "left": {
+      "x": 18,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 18,
+      "y": 5
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02914",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02914",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdHovQtRZEaB8J2uEHMbTNpkNSYegcFj6mUthVJvgUEGF",
+  "token_name": "Terraform18032",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18032",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeufeX5YVxMtF9sFeqNQDSyj49uy13PBh2Dc4yCFejQxG",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 6,
+  "forests": "Palms",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 5,
+  "quantum_flux": 5,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "Fungal_Shrine",
-  "water": "Saltwater_River",
+  "water": "Toxic_River",
   "location": {
     "x": 79,
     "y": 76
+  },
+  "neighbors": {
+    "top": {
+      "x": 79,
+      "y": 77
+    },
+    "topRight": {
+      "x": 80,
+      "y": 77
+    },
+    "right": {
+      "x": 80,
+      "y": 76
+    },
+    "bottomRight": {
+      "x": 80,
+      "y": 75
+    },
+    "bottom": {
+      "x": 79,
+      "y": 75
+    },
+    "bottonLeft": {
+      "x": 78,
+      "y": 75
+    },
+    "left": {
+      "x": 78,
+      "y": 76
+    },
+    "topLeft": {
+      "x": 78,
+      "y": 77
+    }
   }
 }

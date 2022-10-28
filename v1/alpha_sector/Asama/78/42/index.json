@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09233",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09233",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVNW6yTaR813RWzEfKf8GmTDCGZ2PhCXkqACbEEKvaUzA",
+  "token_name": "Terraform03820",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03820",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUr1M3Vf1VjGaUFc5Q94TyX93h1MXcAEMuouVwbV4qrxA",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 4,
   "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 78,
     "y": 42
+  },
+  "neighbors": {
+    "top": {
+      "x": 78,
+      "y": 43
+    },
+    "topRight": {
+      "x": 79,
+      "y": 43
+    },
+    "right": {
+      "x": 79,
+      "y": 42
+    },
+    "bottomRight": {
+      "x": 79,
+      "y": 41
+    },
+    "bottom": {
+      "x": 78,
+      "y": 41
+    },
+    "bottonLeft": {
+      "x": 77,
+      "y": 41
+    },
+    "left": {
+      "x": 77,
+      "y": 42
+    },
+    "topLeft": {
+      "x": 77,
+      "y": 43
+    }
   }
 }

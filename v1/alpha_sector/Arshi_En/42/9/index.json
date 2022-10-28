@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00547",
+  "token_name": "Terraform15841",
   "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00547",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeDBiCVbqP9QrRyBdDZmb1Qk7HuevM8iiNPLrfPKBmMgb",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15841",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZHnen7dWzHvppK7gpbVuxNbFWDb6dZz2jXY1kRRY3NiD",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 6,
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "shrine": "Solar_Shrine",
+  "water": "None",
   "location": {
     "x": 42,
     "y": 9
+  },
+  "neighbors": {
+    "top": {
+      "x": 42,
+      "y": 10
+    },
+    "topRight": {
+      "x": 43,
+      "y": 10
+    },
+    "right": {
+      "x": 43,
+      "y": 9
+    },
+    "bottomRight": {
+      "x": 43,
+      "y": 8
+    },
+    "bottom": {
+      "x": 42,
+      "y": 8
+    },
+    "bottonLeft": {
+      "x": 41,
+      "y": 8
+    },
+    "left": {
+      "x": 41,
+      "y": 9
+    },
+    "topLeft": {
+      "x": 41,
+      "y": 10
+    }
   }
 }

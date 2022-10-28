@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08171",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08171",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZHKUbJ3JJkmTKCRQoSkbCJMUf6XDJreeywSchgnK5TbN",
+  "token_name": "Terraform08851",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08851",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTr6za12uXCdA7UeqdmCbwF9THPor5cNs9yaXHLcMTeNk",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "Iron",
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 66,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 66,
+      "y": 53
+    },
+    "topRight": {
+      "x": 67,
+      "y": 53
+    },
+    "right": {
+      "x": 67,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 67,
+      "y": 51
+    },
+    "bottom": {
+      "x": 66,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 65,
+      "y": 51
+    },
+    "left": {
+      "x": 65,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 65,
+      "y": 53
+    }
   }
 }

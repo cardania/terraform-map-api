@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01154",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01154",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeHhPEFoN1AqsNpXjJ6wAKPNESX386YAMtQK1myqaLjzV",
+  "token_name": "Terraform00369",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00369",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQoNLtzb6UsKiYfZ9Q21dwcEwuL2eVCsYUhj14yLsKtmM",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
+  "power_level": 5,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "None",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "None",
+  "water": "Funky_River",
   "location": {
     "x": 73,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 73,
+      "y": 9
+    },
+    "topRight": {
+      "x": 74,
+      "y": 9
+    },
+    "right": {
+      "x": 74,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 74,
+      "y": 7
+    },
+    "bottom": {
+      "x": 73,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 72,
+      "y": 7
+    },
+    "left": {
+      "x": 72,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 72,
+      "y": 9
+    }
   }
 }

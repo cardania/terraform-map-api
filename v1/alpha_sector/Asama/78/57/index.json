@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12171",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12171",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaHD5yBJFyvoqfWP49TirfCRn3RWAE2pKFfCK5QXvNcde",
+  "token_name": "Terraform08510",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08510",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYidJ1NFitg698noSk3Hxoovvwkfpy8UMHehCfdMRmdTM",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 4,
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 2,
   "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 78,
     "y": 57
+  },
+  "neighbors": {
+    "top": {
+      "x": 78,
+      "y": 58
+    },
+    "topRight": {
+      "x": 79,
+      "y": 58
+    },
+    "right": {
+      "x": 79,
+      "y": 57
+    },
+    "bottomRight": {
+      "x": 79,
+      "y": 56
+    },
+    "bottom": {
+      "x": 78,
+      "y": 56
+    },
+    "bottonLeft": {
+      "x": 77,
+      "y": 56
+    },
+    "left": {
+      "x": 77,
+      "y": 57
+    },
+    "topLeft": {
+      "x": 77,
+      "y": 58
+    }
   }
 }

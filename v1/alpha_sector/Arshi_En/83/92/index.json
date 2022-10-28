@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15195",
+  "token_name": "Terraform09900",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15195",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbnzg9i5fDmgrZteZfqgZEsNLqUGxp7CxLL6ghmghKgMe",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09900",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmcb63Avg2GUmGKW7WojVd7qLPatm3hjGBjGtecHa6RagQ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 83,
     "y": 92
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 93
+    },
+    "topRight": {
+      "x": 84,
+      "y": 93
+    },
+    "right": {
+      "x": 84,
+      "y": 92
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 91
+    },
+    "bottom": {
+      "x": 83,
+      "y": 91
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 91
+    },
+    "left": {
+      "x": 82,
+      "y": 92
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 93
+    }
   }
 }

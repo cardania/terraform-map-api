@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19527",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19527",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeSdwfiKhp8DhozFgVus3ymJz9fQbQC1pHjn5mGydM7Ap",
+  "token_name": "Terraform16066",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16066",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRahsk9U3oWU34ZqAvX9EMu1ShHw9W8vi6BsfXSgzTqoC",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Red",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 7,
+  "quantum_flux": 4,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 83,
     "y": 69
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 70
+    },
+    "topRight": {
+      "x": 84,
+      "y": 70
+    },
+    "right": {
+      "x": 84,
+      "y": 69
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 68
+    },
+    "bottom": {
+      "x": 83,
+      "y": 68
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 68
+    },
+    "left": {
+      "x": 82,
+      "y": 69
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 70
+    }
   }
 }

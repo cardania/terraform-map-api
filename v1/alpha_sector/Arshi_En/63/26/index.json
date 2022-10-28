@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17405",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17405",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVJdqjVMNAKgAGwnosFVyqbrJtBzDdaTbWFVWDvjg67UQ",
+  "token_name": "Terraform12482",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12482",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmV52iQBHfgxPrwWRnbhtqDeK3ZofXvHunJUDPxUoD8rs6",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 9,
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 2,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 63,
     "y": 26
+  },
+  "neighbors": {
+    "top": {
+      "x": 63,
+      "y": 27
+    },
+    "topRight": {
+      "x": 64,
+      "y": 27
+    },
+    "right": {
+      "x": 64,
+      "y": 26
+    },
+    "bottomRight": {
+      "x": 64,
+      "y": 25
+    },
+    "bottom": {
+      "x": 63,
+      "y": 25
+    },
+    "bottonLeft": {
+      "x": 62,
+      "y": 25
+    },
+    "left": {
+      "x": 62,
+      "y": 26
+    },
+    "topLeft": {
+      "x": 62,
+      "y": 27
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06302",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06302",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUXunLhXe1pLpU4wkwAdhZmiSiT1ZzXWwfwqiQa43aCqA",
+  "token_name": "Terraform05994",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05994",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNhnJ4Juqxmo8ecYFA87jKCw2Kbh742LKMEHyRYB9kZqd",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
+  "fauna": "None",
+  "forests": "Palms",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
+  "power_level": 4,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 25,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 25,
+      "y": 53
+    },
+    "topRight": {
+      "x": 26,
+      "y": 53
+    },
+    "right": {
+      "x": 26,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 26,
+      "y": 51
+    },
+    "bottom": {
+      "x": 25,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 24,
+      "y": 51
+    },
+    "left": {
+      "x": 24,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 24,
+      "y": 53
+    }
   }
 }

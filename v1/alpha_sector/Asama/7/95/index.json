@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02873",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02873",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmekKB1amvM1ASKiL4bxtWESzNk1XY5ZbnUq18TMpxPBy5",
+  "token_name": "Terraform07088",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07088",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYWgcZASNsLVS4VEkRuTWE3bxthrxAcg63bUcAATWeP9Y",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "None",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 7,
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 1,
+  "quantum_flux": 4,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 7,
     "y": 95
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 96
+    },
+    "topRight": {
+      "x": 8,
+      "y": 96
+    },
+    "right": {
+      "x": 8,
+      "y": 95
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 94
+    },
+    "bottom": {
+      "x": 7,
+      "y": 94
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 94
+    },
+    "left": {
+      "x": 6,
+      "y": 95
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 96
+    }
   }
 }

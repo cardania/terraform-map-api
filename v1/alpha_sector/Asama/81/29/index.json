@@ -1,8 +1,8 @@
 {
-  "token_name": "Terraform16182",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16182",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVPu5XVFAk6RQpe27jiZc4XVRhBPsM5f2badf27243YHX",
+  "token_name": "Terraform00390",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00390",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbqHcQ39fupfbXNXEgZCnTLJ33s7b5asgXTSbj3wBFJtW",
   "alpha_sector": "Asama",
   "activity": "Geothermal_Activity",
   "atmosphere": "None",
@@ -10,16 +10,50 @@
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 6,
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 1,
   "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 81,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 30
+    },
+    "topRight": {
+      "x": 82,
+      "y": 30
+    },
+    "right": {
+      "x": 82,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 28
+    },
+    "bottom": {
+      "x": 81,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 28
+    },
+    "left": {
+      "x": 80,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 30
+    }
   }
 }

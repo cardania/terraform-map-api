@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10692",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10692",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV4BLNYHhTDVhwwsGE9im8K9Tio2HAmUzy84vZEV4cZH3",
+  "token_name": "Terraform08147",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08147",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd3ExuoqKgcfreawrt5sDAjF8TLCAWzJkSkNkBeYJtgYz",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 4,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "quantum_flux": 1,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 69,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 69,
+      "y": 14
+    },
+    "topRight": {
+      "x": 70,
+      "y": 14
+    },
+    "right": {
+      "x": 70,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 70,
+      "y": 12
+    },
+    "bottom": {
+      "x": 69,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 68,
+      "y": 12
+    },
+    "left": {
+      "x": 68,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 68,
+      "y": 14
+    }
   }
 }

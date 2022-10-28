@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10450",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10450",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWkA9z9nZRxRLa5oYL3L1rSv53fEY7e2jvmPnxtJ8QBhg",
+  "token_name": "Terraform14195",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14195",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYfhM9XVUBJKRUmuHGy4P4TkVzusnEraCRNxeQ6dbr3Yw",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Evergreen",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 1,
   "quantum_flux": 6,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "Alien_Technology_Green",
-  "shrine": "None",
-  "water": "Cursed_Lake",
+  "shrine": "Void_Shrine",
+  "water": "Toxic_Lake",
   "location": {
     "x": 52,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 3
+    },
+    "topRight": {
+      "x": 53,
+      "y": 3
+    },
+    "right": {
+      "x": 53,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 1
+    },
+    "bottom": {
+      "x": 52,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 1
+    },
+    "left": {
+      "x": 51,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 3
+    }
   }
 }

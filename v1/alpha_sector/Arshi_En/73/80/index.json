@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07061",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07061",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcdCv3MzuwJNDNqG5am1Vg5zxM5S7obv7CFZ4vLVZakQ5",
+  "token_name": "Terraform00105",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00105",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmR3PCpVp3MdfFfrUTiMeEVKexN5Z8NcEKpnZSb6pLTWhU",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "Evergreen",
   "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 6,
+  "power_level": 1,
   "quantum_flux": 4,
   "primary_minerals": "Radium",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Void_Shrine",
+  "water": "Funky_River",
   "location": {
     "x": 73,
     "y": 80
+  },
+  "neighbors": {
+    "top": {
+      "x": 73,
+      "y": 81
+    },
+    "topRight": {
+      "x": 74,
+      "y": 81
+    },
+    "right": {
+      "x": 74,
+      "y": 80
+    },
+    "bottomRight": {
+      "x": 74,
+      "y": 79
+    },
+    "bottom": {
+      "x": 73,
+      "y": 79
+    },
+    "bottonLeft": {
+      "x": 72,
+      "y": 79
+    },
+    "left": {
+      "x": 72,
+      "y": 80
+    },
+    "topLeft": {
+      "x": 72,
+      "y": 81
+    }
   }
 }

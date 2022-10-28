@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11963",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11963",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZZNfgkMcB1QViB8HzUXRrYnovA6TyLFBe6djsiWEXeKJ",
+  "token_name": "Terraform11094",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11094",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmT6BNPcsx3hdVg9WD3MbPgf5xHjoqXA9a9UMFguRjs69Q",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 8,
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
   "quantum_flux": 1,
-  "primary_minerals": "Iron",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Toxic_River",
   "location": {
     "x": 11,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 11,
+      "y": 65
+    },
+    "topRight": {
+      "x": 12,
+      "y": 65
+    },
+    "right": {
+      "x": 12,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 12,
+      "y": 63
+    },
+    "bottom": {
+      "x": 11,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 10,
+      "y": 63
+    },
+    "left": {
+      "x": 10,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 10,
+      "y": 65
+    }
   }
 }

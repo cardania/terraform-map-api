@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17927",
+  "token_name": "Terraform04306",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17927",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXtJLoJNm62szCc9rXNakebjbZWq1vR56RPGr6XpxnsRh",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04306",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmccCbWKWwRFYpgktthUNARZWw7zw8SG8AdeaGfMHccnPR",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 1,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 79,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 79,
+      "y": 86
+    },
+    "topRight": {
+      "x": 80,
+      "y": 86
+    },
+    "right": {
+      "x": 80,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 80,
+      "y": 84
+    },
+    "bottom": {
+      "x": 79,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 78,
+      "y": 84
+    },
+    "left": {
+      "x": 78,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 78,
+      "y": 86
+    }
   }
 }

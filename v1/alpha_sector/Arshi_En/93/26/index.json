@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09528",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09528",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPQBifp1GEYCXCeB6jUzpGW8reP9XmJxZojBA2xU9V7nj",
+  "token_name": "Terraform01256",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01256",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdVf8UU6S6mVLZAtxkG4DMmcofmoimpUY7UJ1cwsEgCBC",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 93,
     "y": 26
+  },
+  "neighbors": {
+    "top": {
+      "x": 93,
+      "y": 27
+    },
+    "topRight": {
+      "x": 94,
+      "y": 27
+    },
+    "right": {
+      "x": 94,
+      "y": 26
+    },
+    "bottomRight": {
+      "x": 94,
+      "y": 25
+    },
+    "bottom": {
+      "x": 93,
+      "y": 25
+    },
+    "bottonLeft": {
+      "x": 92,
+      "y": 25
+    },
+    "left": {
+      "x": 92,
+      "y": 26
+    },
+    "topLeft": {
+      "x": 92,
+      "y": 27
+    }
   }
 }

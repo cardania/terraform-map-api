@@ -1,17 +1,17 @@
 {
-  "token_name": "Terraform03801",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03801",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWJ82hBAAV2ggcp83rNYarZ4VBHwm3JQkc1jq13Rapg8m",
+  "token_name": "Terraform04993",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04993",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUiLLsWysX6tPc1hokNybEFpx5zg9dieSHhgy5Xv7jBJU",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 1,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 5,
   "quantum_flux": 3,
   "primary_minerals": "None",
   "secondary_minerals": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 30,
     "y": 83
+  },
+  "neighbors": {
+    "top": {
+      "x": 30,
+      "y": 84
+    },
+    "topRight": {
+      "x": 31,
+      "y": 84
+    },
+    "right": {
+      "x": 31,
+      "y": 83
+    },
+    "bottomRight": {
+      "x": 31,
+      "y": 82
+    },
+    "bottom": {
+      "x": 30,
+      "y": 82
+    },
+    "bottonLeft": {
+      "x": 29,
+      "y": 82
+    },
+    "left": {
+      "x": 29,
+      "y": 83
+    },
+    "topLeft": {
+      "x": 29,
+      "y": 84
+    }
   }
 }

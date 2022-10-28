@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01829",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01829",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc59RJwcBD7qV2M1RqiHFpnFL2ae7Lfzj2BW39iYyRYKG",
+  "token_name": "Terraform18590",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18590",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdt158t5CtXVwY8zvpTNjD1NovxkzMLr8fpcai2tLkoV7",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "Cursed_River",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 57,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 57,
+      "y": 50
+    },
+    "topRight": {
+      "x": 58,
+      "y": 50
+    },
+    "right": {
+      "x": 58,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 58,
+      "y": 48
+    },
+    "bottom": {
+      "x": 57,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 56,
+      "y": 48
+    },
+    "left": {
+      "x": 56,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 56,
+      "y": 50
+    }
   }
 }

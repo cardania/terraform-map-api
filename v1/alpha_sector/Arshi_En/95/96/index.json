@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06655",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06655",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWu95jkLKvwTxvRNQjYG7jMbuWQ9maBvN2YHyiE53DMKz",
+  "token_name": "Terraform14917",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14917",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmP5bV1RNeBbeniU5RVmzPcxMiJmiPgQ7QCTHCkfhUMSwk",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
-  "quantum_flux": 4,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 3,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 95,
     "y": 96
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 97
+    },
+    "topRight": {
+      "x": 96,
+      "y": 97
+    },
+    "right": {
+      "x": 96,
+      "y": 96
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 95
+    },
+    "bottom": {
+      "x": 95,
+      "y": 95
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 95
+    },
+    "left": {
+      "x": 94,
+      "y": 96
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 97
+    }
   }
 }

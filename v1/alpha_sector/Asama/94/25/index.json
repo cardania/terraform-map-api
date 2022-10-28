@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17632",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17632",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaV7sDCv2EbdgHvwneRqPg4LNM2PygfZKmZkmZoDWFRFQ",
+  "token_name": "Terraform19053",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19053",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWLSrTypQ8xs3TfYCmwEqbAfkYaAXu7RiRT3DNgnvLFpj",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Cursed_River",
+  "shrine": "Golden_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 94,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 94,
+      "y": 26
+    },
+    "topRight": {
+      "x": 95,
+      "y": 26
+    },
+    "right": {
+      "x": 95,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 95,
+      "y": 24
+    },
+    "bottom": {
+      "x": 94,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 93,
+      "y": 24
+    },
+    "left": {
+      "x": 93,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 93,
+      "y": 26
+    }
   }
 }

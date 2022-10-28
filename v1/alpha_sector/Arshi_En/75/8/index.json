@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12511",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12511",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmefGk8dhdaoC3YCZhjp1gi7qiFjNTagCVacNGKCE8hbHS",
+  "token_name": "Terraform10935",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10935",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmU2Bu1iGoTQ2spCNji5GT6MywCphNkCftfKk2hawLBtFD",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 7,
   "quantum_flux": 2,
-  "primary_minerals": "None",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Void_Shrine",
   "water": "Freshwater_Lake",
   "location": {
     "x": 75,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 9
+    },
+    "topRight": {
+      "x": 76,
+      "y": 9
+    },
+    "right": {
+      "x": 76,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 7
+    },
+    "bottom": {
+      "x": 75,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 7
+    },
+    "left": {
+      "x": 74,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 9
+    }
   }
 }

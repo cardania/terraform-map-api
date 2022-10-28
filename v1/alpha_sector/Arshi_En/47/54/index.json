@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03507",
+  "token_name": "Terraform06522",
   "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03507",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZc7kVnZ736BcjinWnweXrvniWhGtDLbRfKtFm6DaaNUz",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06522",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPePXaUFHQSAxjnux5cXbDcHSXBdXhXfCnesBK6sjfXCL",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
-  "quantum_flux": 5,
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 9,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Toxic_River",
+  "shrine": "Quantum_Shrine",
+  "water": "Funky_River",
   "location": {
     "x": 47,
     "y": 54
+  },
+  "neighbors": {
+    "top": {
+      "x": 47,
+      "y": 55
+    },
+    "topRight": {
+      "x": 48,
+      "y": 55
+    },
+    "right": {
+      "x": 48,
+      "y": 54
+    },
+    "bottomRight": {
+      "x": 48,
+      "y": 53
+    },
+    "bottom": {
+      "x": 47,
+      "y": 53
+    },
+    "bottonLeft": {
+      "x": 46,
+      "y": 53
+    },
+    "left": {
+      "x": 46,
+      "y": 54
+    },
+    "topLeft": {
+      "x": 46,
+      "y": 55
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10158",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10158",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSrqKyJB3CS6AaaVVVXQu1S5f5mQ5RGeBKk4DTiM9NjRi",
+  "token_name": "Terraform08201",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08201",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUkasp8XTTnEQmsRQPgpvLvv3AtV8X9e6ZqeRsvgxu6yc",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
   "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_River",
+  "quantum_flux": 9,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 93,
     "y": 10
+  },
+  "neighbors": {
+    "top": {
+      "x": 93,
+      "y": 11
+    },
+    "topRight": {
+      "x": 94,
+      "y": 11
+    },
+    "right": {
+      "x": 94,
+      "y": 10
+    },
+    "bottomRight": {
+      "x": 94,
+      "y": 9
+    },
+    "bottom": {
+      "x": 93,
+      "y": 9
+    },
+    "bottonLeft": {
+      "x": 92,
+      "y": 9
+    },
+    "left": {
+      "x": 92,
+      "y": 10
+    },
+    "topLeft": {
+      "x": 92,
+      "y": 11
+    }
   }
 }

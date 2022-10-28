@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07557",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07557",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYQTvPoghv7XB5W9dG9mSaG4HQeWxFm1P7pZnh7SzrwJr",
+  "token_name": "Terraform08770",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08770",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNS3oztvCVpLdW54HJvmVPySC15s25Da9Fn9gGd9Lvqda",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 5,
   "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Machine_Shrine",
+  "water": "Toxic_River",
   "location": {
     "x": 81,
     "y": 83
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 84
+    },
+    "topRight": {
+      "x": 82,
+      "y": 84
+    },
+    "right": {
+      "x": 82,
+      "y": 83
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 82
+    },
+    "bottom": {
+      "x": 81,
+      "y": 82
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 82
+    },
+    "left": {
+      "x": 80,
+      "y": 83
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 84
+    }
   }
 }

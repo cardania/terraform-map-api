@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13367",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13367",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdLmENFk1nuViz1rLZN581WBZ4ifL8kt9hypRZrXLhH2D",
+  "token_name": "Terraform08610",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08610",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmepjedvzNWi7V4KQNnD1zNzzPvFZAUoBXUzhNxu7DZsDc",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "power_level": 7,
+  "quantum_flux": 9,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Funky_Lake",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 45,
     "y": 59
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 60
+    },
+    "topRight": {
+      "x": 46,
+      "y": 60
+    },
+    "right": {
+      "x": 46,
+      "y": 59
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 58
+    },
+    "bottom": {
+      "x": 45,
+      "y": 58
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 58
+    },
+    "left": {
+      "x": 44,
+      "y": 59
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 60
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05541",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05541",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdujdc2dmFES8RLFu2R3gujGzFj1PmvFg9YuMPZAeenr9",
+  "token_name": "Terraform03235",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03235",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeDKmnhMWXqpgutC6M9tyfp7wPdkwHvWUZCEQfsatp8hB",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Cardanium",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 8,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 90,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 90,
+      "y": 4
+    },
+    "topRight": {
+      "x": 91,
+      "y": 4
+    },
+    "right": {
+      "x": 91,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 91,
+      "y": 2
+    },
+    "bottom": {
+      "x": 90,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 89,
+      "y": 2
+    },
+    "left": {
+      "x": 89,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 89,
+      "y": 4
+    }
   }
 }

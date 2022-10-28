@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13698",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13698",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaDKSok9bJcvPJGR3xgEfwdnB6m8AcVULhmWUAb7iBmwB",
+  "token_name": "Terraform18545",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18545",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVT4cc5u2dH6oQu9Mf54U89Su9r82UiLotSLXpGPqyR5y",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
-  "quantum_flux": 1,
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 4,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 24,
     "y": 51
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 52
+    },
+    "topRight": {
+      "x": 25,
+      "y": 52
+    },
+    "right": {
+      "x": 25,
+      "y": 51
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 50
+    },
+    "bottom": {
+      "x": 24,
+      "y": 50
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 50
+    },
+    "left": {
+      "x": 23,
+      "y": 51
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 52
+    }
   }
 }

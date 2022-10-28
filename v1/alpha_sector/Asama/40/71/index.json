@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02746",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02746",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcBrP62THPh4eFoVQqubCTUuGbaj3WiLHELo6BE5djTPL",
+  "token_name": "Terraform16374",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16374",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmY1wEskYfjdex2aAF7CcXsX659ZKEYmxPQrBx291qTv9j",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Palms",
+  "fauna": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "lithoglyphs": "None",
   "power_level": 4,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 40,
     "y": 71
+  },
+  "neighbors": {
+    "top": {
+      "x": 40,
+      "y": 72
+    },
+    "topRight": {
+      "x": 41,
+      "y": 72
+    },
+    "right": {
+      "x": 41,
+      "y": 71
+    },
+    "bottomRight": {
+      "x": 41,
+      "y": 70
+    },
+    "bottom": {
+      "x": 40,
+      "y": 70
+    },
+    "bottonLeft": {
+      "x": 39,
+      "y": 70
+    },
+    "left": {
+      "x": 39,
+      "y": 71
+    },
+    "topLeft": {
+      "x": 39,
+      "y": 72
+    }
   }
 }

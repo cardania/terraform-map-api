@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13482",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13482",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmemzVHYhwRjcunumdk25ZefRERi9N3Tni85s1ZHMBJm8S",
+  "token_name": "Terraform08092",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08092",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmV7i971GK2iGJZcJ3SQDRVQKFxED8RpUcGGaQVrWZ2wQT",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Golden_Shrine",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 7,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 4,
     "y": 41
+  },
+  "neighbors": {
+    "top": {
+      "x": 4,
+      "y": 42
+    },
+    "topRight": {
+      "x": 5,
+      "y": 42
+    },
+    "right": {
+      "x": 5,
+      "y": 41
+    },
+    "bottomRight": {
+      "x": 5,
+      "y": 40
+    },
+    "bottom": {
+      "x": 4,
+      "y": 40
+    },
+    "bottonLeft": {
+      "x": 3,
+      "y": 40
+    },
+    "left": {
+      "x": 3,
+      "y": 41
+    },
+    "topLeft": {
+      "x": 3,
+      "y": 42
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02842",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02842",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW6qzRuxtipVT1Pp6aHVAvXSNECFK24hea2XWM7kxBqBL",
+  "token_name": "Terraform18421",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18421",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRYzB3kQ6bvsK9QexAiUqJEZJujEmNpHqJCAadnFRA8Hd",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 6,
-  "quantum_flux": 7,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 3,
+  "quantum_flux": 5,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "Saltwater_River",
+  "ruins": "Ancient_Ruins",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 2,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 2,
+      "y": 86
+    },
+    "topRight": {
+      "x": 3,
+      "y": 86
+    },
+    "right": {
+      "x": 3,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 3,
+      "y": 84
+    },
+    "bottom": {
+      "x": 2,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 1,
+      "y": 84
+    },
+    "left": {
+      "x": 1,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 1,
+      "y": 86
+    }
   }
 }

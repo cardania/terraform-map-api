@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05609",
+  "token_name": "Terraform17531",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05609",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUHoDDxKrM1EogaskMVMuwp1jbKDS9vQgu3hfgMtVFZjc",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17531",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVemQfZAri7Qj9rTckhCjD5bP4dMrkQehsr2KXP8fmoXQ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 1,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 3,
   "quantum_flux": 7,
-  "primary_minerals": "None",
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "None",
   "location": {
     "x": 51,
     "y": 51
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 52
+    },
+    "topRight": {
+      "x": 52,
+      "y": 52
+    },
+    "right": {
+      "x": 52,
+      "y": 51
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 50
+    },
+    "bottom": {
+      "x": 51,
+      "y": 50
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 50
+    },
+    "left": {
+      "x": 50,
+      "y": 51
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 52
+    }
   }
 }

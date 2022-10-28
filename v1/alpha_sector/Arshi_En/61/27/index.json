@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10276",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10276",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfYVorLLpj6aYDicNCzywhZvFheeSQG6K4fifurppC19J",
+  "token_name": "Terraform16238",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16238",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWetpUPqGbqEzw8UJwkjdVp4KgCBKyanDWZBxbGEvAL7s",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "forests": "Palms",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 61,
     "y": 27
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 28
+    },
+    "topRight": {
+      "x": 62,
+      "y": 28
+    },
+    "right": {
+      "x": 62,
+      "y": 27
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 26
+    },
+    "bottom": {
+      "x": 61,
+      "y": 26
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 26
+    },
+    "left": {
+      "x": 60,
+      "y": 27
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 28
+    }
   }
 }

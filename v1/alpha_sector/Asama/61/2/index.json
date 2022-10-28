@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08165",
+  "token_name": "Terraform03679",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08165",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWkWFhbgRN1cPLbFVLkGvNB5oo6AiREKQ9ohb8rNCkeAc",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03679",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUxsfZCJK2Y8tD1xFkxH2qkqjTj2Fd7zGDRfsdrbEGwCx",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 5,
+  "power_level": 3,
+  "quantum_flux": 9,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 61,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 3
+    },
+    "topRight": {
+      "x": 62,
+      "y": 3
+    },
+    "right": {
+      "x": 62,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 1
+    },
+    "bottom": {
+      "x": 61,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 1
+    },
+    "left": {
+      "x": 60,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 3
+    }
   }
 }

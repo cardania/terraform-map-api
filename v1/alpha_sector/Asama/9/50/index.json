@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13597",
+  "token_name": "Terraform16658",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13597",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV2s2PzpFCRfYT4kvcuEKCfVy4LDDJMmbVe8U9SSEc3Za",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16658",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdPJoAcLjLD1PHUhwgwKz6YctxbKi7nrtohZwViB11bV7",
   "alpha_sector": "Asama",
   "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
   "power_level": 2,
-  "quantum_flux": 6,
+  "quantum_flux": 2,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 9,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 51
+    },
+    "topRight": {
+      "x": 10,
+      "y": 51
+    },
+    "right": {
+      "x": 10,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 49
+    },
+    "bottom": {
+      "x": 9,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 49
+    },
+    "left": {
+      "x": 8,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 51
+    }
   }
 }

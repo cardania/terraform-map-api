@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07118",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07118",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZDyRbBHVQG1Y9hbJV8vP1jJtDfo4sTySFaoeHkDEf9vt",
+  "token_name": "Terraform18447",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18447",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYh8AYvJ6CTFpFQiZipYXaQCjdBXPEY7HhfgbyREt3ACM",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 4,
   "quantum_flux": 2,
   "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 77,
     "y": 62
+  },
+  "neighbors": {
+    "top": {
+      "x": 77,
+      "y": 63
+    },
+    "topRight": {
+      "x": 78,
+      "y": 63
+    },
+    "right": {
+      "x": 78,
+      "y": 62
+    },
+    "bottomRight": {
+      "x": 78,
+      "y": 61
+    },
+    "bottom": {
+      "x": 77,
+      "y": 61
+    },
+    "bottonLeft": {
+      "x": 76,
+      "y": 61
+    },
+    "left": {
+      "x": 76,
+      "y": 62
+    },
+    "topLeft": {
+      "x": 76,
+      "y": 63
+    }
   }
 }

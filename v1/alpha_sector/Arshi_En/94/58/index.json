@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17197",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17197",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW7xK9e5NmYK7VXDwuVVRU6fEmFsMAKtjeA29wv8E2964",
+  "token_name": "Terraform07064",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07064",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRuW98ZKwRjA1TgBkH5tgNqhiDY5sj8Lrma1BeMSwAXrk",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Red",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 94,
     "y": 58
+  },
+  "neighbors": {
+    "top": {
+      "x": 94,
+      "y": 59
+    },
+    "topRight": {
+      "x": 95,
+      "y": 59
+    },
+    "right": {
+      "x": 95,
+      "y": 58
+    },
+    "bottomRight": {
+      "x": 95,
+      "y": 57
+    },
+    "bottom": {
+      "x": 94,
+      "y": 57
+    },
+    "bottonLeft": {
+      "x": 93,
+      "y": 57
+    },
+    "left": {
+      "x": 93,
+      "y": 58
+    },
+    "topLeft": {
+      "x": 93,
+      "y": 59
+    }
   }
 }

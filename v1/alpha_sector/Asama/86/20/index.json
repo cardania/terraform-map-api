@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16615",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16615",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmaqj5GQUszqX8zV6gKuVtVpv8BtdpSs6XDZZsHrQ7f9sR",
+  "token_name": "Terraform06408",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06408",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmT4fNxbCAzBUvXNyuSVuoDnNJNaVnvDGdDwWoQXCzxk8F",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Antigravity_Cloud",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 1,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 86,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 21
+    },
+    "topRight": {
+      "x": 87,
+      "y": 21
+    },
+    "right": {
+      "x": 87,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 19
+    },
+    "bottom": {
+      "x": 86,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 19
+    },
+    "left": {
+      "x": 85,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 21
+    }
   }
 }

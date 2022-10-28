@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10310",
+  "token_name": "Terraform02498",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10310",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUBzmiFunXuzoLuYQz9chc7aFgQksiusr7HHkzSbTYHaC",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02498",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQPGSxGJ94esNxWPpBBM97Me1uJJRBstgdpG13DxTNsrP",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "None",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 5,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 7,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Cursed_Lake",
   "location": {
     "x": 21,
     "y": 21
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 22
+    },
+    "topRight": {
+      "x": 22,
+      "y": 22
+    },
+    "right": {
+      "x": 22,
+      "y": 21
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 20
+    },
+    "bottom": {
+      "x": 21,
+      "y": 20
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 20
+    },
+    "left": {
+      "x": 20,
+      "y": 21
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 22
+    }
   }
 }

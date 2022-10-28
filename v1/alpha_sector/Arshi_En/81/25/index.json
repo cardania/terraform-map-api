@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03233",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03233",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcoPBb8aoiYrKDSJcnFaqoLighNe4YRQTRcWRP96AGjNc",
+  "token_name": "Terraform08576",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08576",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmX7eUz9gxcbKrC3Qi7TDu92Cf7T7vakAwy7VhGGbtjh2W",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 7,
   "quantum_flux": 1,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "None",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
   "water": "None",
   "location": {
     "x": 81,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 26
+    },
+    "topRight": {
+      "x": 82,
+      "y": 26
+    },
+    "right": {
+      "x": 82,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 24
+    },
+    "bottom": {
+      "x": 81,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 24
+    },
+    "left": {
+      "x": 80,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 26
+    }
   }
 }

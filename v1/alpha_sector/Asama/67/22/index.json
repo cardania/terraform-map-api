@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10369",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10369",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWeiPzMp4ZEZPHf5wCvF34C7UJ4aZjdPFLrGeKG4WZgP2",
+  "token_name": "Terraform05998",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05998",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXjBXo2RaNBoxAYDYfkgVr86PTEUYCQLGPfUb8yD5gmBH",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 3,
   "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Gemstones",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 67,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 67,
+      "y": 23
+    },
+    "topRight": {
+      "x": 68,
+      "y": 23
+    },
+    "right": {
+      "x": 68,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 68,
+      "y": 21
+    },
+    "bottom": {
+      "x": 67,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 66,
+      "y": 21
+    },
+    "left": {
+      "x": 66,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 66,
+      "y": 23
+    }
   }
 }

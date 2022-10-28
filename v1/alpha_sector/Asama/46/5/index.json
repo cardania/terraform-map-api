@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13908",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13908",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbdyfBGwC29SA1qUV8FxYe9hoi3Jb97y95VanQtAtUT84",
+  "token_name": "Terraform15307",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15307",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmefYz7xWrggEENkDSs2z4FoB73GWUERqNY6eFBKjAu6Xi",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 1,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 46,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 46,
+      "y": 6
+    },
+    "topRight": {
+      "x": 47,
+      "y": 6
+    },
+    "right": {
+      "x": 47,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 47,
+      "y": 4
+    },
+    "bottom": {
+      "x": 46,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 45,
+      "y": 4
+    },
+    "left": {
+      "x": 45,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 45,
+      "y": 6
+    }
   }
 }

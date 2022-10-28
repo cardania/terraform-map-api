@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00976",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00976",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWfUvoNcG2LzCieJgppkbUsDFw3VM1ZXWejeaogtmkV48",
+  "token_name": "Terraform05697",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05697",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmafYTmz1Bm1PCW8MJAU5omA1aLk7hNrQ1qBV4ce7D2YLG",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 2,
+  "power_level": 3,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Timelost",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 63,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 63,
+      "y": 83
+    },
+    "topRight": {
+      "x": 64,
+      "y": 83
+    },
+    "right": {
+      "x": 64,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 64,
+      "y": 81
+    },
+    "bottom": {
+      "x": 63,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 62,
+      "y": 81
+    },
+    "left": {
+      "x": 62,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 62,
+      "y": 83
+    }
   }
 }

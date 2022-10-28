@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11313",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11313",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVURfvYnfsKpNNQpSKw7gfexCZ4oXypkRe9oYDnPBULRf",
+  "token_name": "Terraform08734",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08734",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYqAofGUqG9yW7cnGmFN9fkvoDmiV73yhp7aFZskUQDCb",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 32,
     "y": 34
+  },
+  "neighbors": {
+    "top": {
+      "x": 32,
+      "y": 35
+    },
+    "topRight": {
+      "x": 33,
+      "y": 35
+    },
+    "right": {
+      "x": 33,
+      "y": 34
+    },
+    "bottomRight": {
+      "x": 33,
+      "y": 33
+    },
+    "bottom": {
+      "x": 32,
+      "y": 33
+    },
+    "bottonLeft": {
+      "x": 31,
+      "y": 33
+    },
+    "left": {
+      "x": 31,
+      "y": 34
+    },
+    "topLeft": {
+      "x": 31,
+      "y": 35
+    }
   }
 }

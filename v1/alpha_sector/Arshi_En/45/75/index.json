@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14224",
+  "token_name": "Terraform19143",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14224",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qma7bi4QR2WsJRvWqffU1qGsEG7FURX2oNpnBqXueAojsE",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19143",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmX695nszAauKy5YJk447MibkQb5LtT7T6ResV8vTj4yjr",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_Lake",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 9,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 45,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 76
+    },
+    "topRight": {
+      "x": 46,
+      "y": 76
+    },
+    "right": {
+      "x": 46,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 74
+    },
+    "bottom": {
+      "x": 45,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 74
+    },
+    "left": {
+      "x": 44,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 76
+    }
   }
 }

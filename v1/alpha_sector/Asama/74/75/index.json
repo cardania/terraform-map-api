@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01807",
+  "token_name": "Terraform06308",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01807",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUPFxaYgTGAi39ExxSzKR6oYQk1XnFLa5iiSV2TVXd5RV",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06308",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmesN1RW4jM2ZfR632v4Jxog3ApAGdfNo5kDzhudLKVrM5",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
-  "quantum_flux": 7,
+  "power_level": 4,
+  "quantum_flux": 1,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Golden_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 74,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 76
+    },
+    "topRight": {
+      "x": 75,
+      "y": 76
+    },
+    "right": {
+      "x": 75,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 74
+    },
+    "bottom": {
+      "x": 74,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 74
+    },
+    "left": {
+      "x": 73,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 76
+    }
   }
 }

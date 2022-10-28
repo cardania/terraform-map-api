@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05494",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05494",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRcYpzXi7V391Tuv9U9Jt7LnhVzBhqM626JUWWCf54uhA",
+  "token_name": "Terraform10389",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10389",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ2SNGsVES3p5hzGKJFtpSvaSkSywqxwGjkfbAegbpyYV",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Timelost_Shrine",
-  "water": "Toxic_River",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 36,
     "y": 9
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 10
+    },
+    "topRight": {
+      "x": 37,
+      "y": 10
+    },
+    "right": {
+      "x": 37,
+      "y": 9
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 8
+    },
+    "bottom": {
+      "x": 36,
+      "y": 8
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 8
+    },
+    "left": {
+      "x": 35,
+      "y": 9
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 10
+    }
   }
 }

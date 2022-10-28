@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04303",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04303",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZKhsp5n5Bz5y4qqRjJs5ryb1FbZCbqcBmME4MjcxfYdE",
+  "token_name": "Terraform05026",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05026",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSsiJBkkV3XxU8dQA3Bwjuh3ksEiEgDxE8pdK2VG26UfZ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Golden_Shrine",
   "water": "Freshwater_Lake",
   "location": {
     "x": 59,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 59,
+      "y": 61
+    },
+    "topRight": {
+      "x": 60,
+      "y": 61
+    },
+    "right": {
+      "x": 60,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 60,
+      "y": 59
+    },
+    "bottom": {
+      "x": 59,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 58,
+      "y": 59
+    },
+    "left": {
+      "x": 58,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 58,
+      "y": 61
+    }
   }
 }

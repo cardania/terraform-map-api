@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03665",
+  "token_name": "Terraform05358",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03665",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPJtvA66y6UwbJcDHA4xwmBbV2jCpqMfeLaYos9F3u1yH",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05358",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmagAayMUftFVUxt5DZuNwCuwTioxWLGuUdz6p2tBkpz9k",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 6,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Funky_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 64,
     "y": 67
+  },
+  "neighbors": {
+    "top": {
+      "x": 64,
+      "y": 68
+    },
+    "topRight": {
+      "x": 65,
+      "y": 68
+    },
+    "right": {
+      "x": 65,
+      "y": 67
+    },
+    "bottomRight": {
+      "x": 65,
+      "y": 66
+    },
+    "bottom": {
+      "x": 64,
+      "y": 66
+    },
+    "bottonLeft": {
+      "x": 63,
+      "y": 66
+    },
+    "left": {
+      "x": 63,
+      "y": 67
+    },
+    "topLeft": {
+      "x": 63,
+      "y": 68
+    }
   }
 }

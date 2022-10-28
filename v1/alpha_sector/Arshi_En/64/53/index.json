@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18816",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18816",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ1tWT3q7xAdqrhBxLZL4468isrFy8N86Sp5DjkbvRmXN",
+  "token_name": "Terraform05269",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05269",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXqZvcNcTCdrJ8aryWLUEBMRspiw1TeyA3EiX9L4Prw9p",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 8,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "None",
   "location": {
     "x": 64,
     "y": 53
+  },
+  "neighbors": {
+    "top": {
+      "x": 64,
+      "y": 54
+    },
+    "topRight": {
+      "x": 65,
+      "y": 54
+    },
+    "right": {
+      "x": 65,
+      "y": 53
+    },
+    "bottomRight": {
+      "x": 65,
+      "y": 52
+    },
+    "bottom": {
+      "x": 64,
+      "y": 52
+    },
+    "bottonLeft": {
+      "x": 63,
+      "y": 52
+    },
+    "left": {
+      "x": 63,
+      "y": 53
+    },
+    "topLeft": {
+      "x": 63,
+      "y": 54
+    }
   }
 }

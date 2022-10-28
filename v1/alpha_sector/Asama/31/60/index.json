@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07948",
+  "token_name": "Terraform13999",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07948",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmS34AH9aCSRyJV1FbkKpYAu9YuKyxNE7qYhxXZeZX9cPG",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13999",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUMKNYnLVTFABC7oiPKA5uAwTiCxL33oyA19TBJUYUoSo",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 31,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 31,
+      "y": 61
+    },
+    "topRight": {
+      "x": 32,
+      "y": 61
+    },
+    "right": {
+      "x": 32,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 32,
+      "y": 59
+    },
+    "bottom": {
+      "x": 31,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 30,
+      "y": 59
+    },
+    "left": {
+      "x": 30,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 30,
+      "y": 61
+    }
   }
 }

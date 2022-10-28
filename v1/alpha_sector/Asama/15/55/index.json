@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00020",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00020",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSVNRUA9wzMDkdgbweyQiUcnht1C3CCrfHUpZfq56SMtz",
+  "token_name": "Terraform06541",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06541",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZR1shrH1ZiWAahN7AQwo1u3aT7sZd8pQbzApLeW4hwc6",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
   "power_level": 5,
   "quantum_flux": 4,
-  "primary_minerals": "Iron",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Fungal_Shrine",
   "water": "None",
   "location": {
     "x": 15,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 15,
+      "y": 56
+    },
+    "topRight": {
+      "x": 16,
+      "y": 56
+    },
+    "right": {
+      "x": 16,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 16,
+      "y": 54
+    },
+    "bottom": {
+      "x": 15,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 14,
+      "y": 54
+    },
+    "left": {
+      "x": 14,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 14,
+      "y": 56
+    }
   }
 }

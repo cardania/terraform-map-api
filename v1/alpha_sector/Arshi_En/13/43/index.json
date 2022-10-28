@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13758",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13758",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmP7mu9xAM2Xf9gyAx6SCT6Gjfvq3oyuc3jRczax9FGSN7",
+  "token_name": "Terraform02431",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02431",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaQbKuenzTx3kjHg7AGt4zH1XxGJTDqpYkH3dRHU4xDpn",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Palms",
-  "hazardous_flora": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 8,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 13,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 44
+    },
+    "topRight": {
+      "x": 14,
+      "y": 44
+    },
+    "right": {
+      "x": 14,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 42
+    },
+    "bottom": {
+      "x": 13,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 42
+    },
+    "left": {
+      "x": 12,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 44
+    }
   }
 }

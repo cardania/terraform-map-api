@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05084",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05084",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRxQq8g2gQQZqAVXv7vPmqbJpjKUCwJyVPWhHd2Rd5juV",
+  "token_name": "Terraform01223",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01223",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYLtVG51BbtSLnBrLKYc7zSYR9mkuZdNP5FPwqrZaEP7d",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "lithoglyphs": "None",
   "power_level": 3,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 34,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 34,
+      "y": 7
+    },
+    "topRight": {
+      "x": 35,
+      "y": 7
+    },
+    "right": {
+      "x": 35,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 35,
+      "y": 5
+    },
+    "bottom": {
+      "x": 34,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 33,
+      "y": 5
+    },
+    "left": {
+      "x": 33,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 33,
+      "y": 7
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00179",
+  "token_name": "Terraform03113",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00179",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf1rtUZxSc838Ut9dNeKA84575A7AdKUTYoJCXZ64RqWA",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03113",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmReuY12V9PAgLDyc1BgkZqaae7ULSaWT3RhNtf57APAHa",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 8,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 6,
+  "quantum_flux": 3,
   "primary_minerals": "Iron",
   "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Solar_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 88,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 88,
+      "y": 5
+    },
+    "topRight": {
+      "x": 89,
+      "y": 5
+    },
+    "right": {
+      "x": 89,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 89,
+      "y": 3
+    },
+    "bottom": {
+      "x": 88,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 87,
+      "y": 3
+    },
+    "left": {
+      "x": 87,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 87,
+      "y": 5
+    }
   }
 }

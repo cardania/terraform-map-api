@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04171",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04171",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qme899N8VRgS4L1cSsnRBkhuUiBuUVVe4T3BJDyJviN4Km",
+  "token_name": "Terraform18867",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18867",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSu7iF3Fzwz5EbVFVH3dtCdsbnzENGaHYUmaPAj7DCm3X",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 9,
+  "power_level": 1,
+  "quantum_flux": 7,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
-  "water": "Funky_Lake",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 8,
     "y": 67
+  },
+  "neighbors": {
+    "top": {
+      "x": 8,
+      "y": 68
+    },
+    "topRight": {
+      "x": 9,
+      "y": 68
+    },
+    "right": {
+      "x": 9,
+      "y": 67
+    },
+    "bottomRight": {
+      "x": 9,
+      "y": 66
+    },
+    "bottom": {
+      "x": 8,
+      "y": 66
+    },
+    "bottonLeft": {
+      "x": 7,
+      "y": 66
+    },
+    "left": {
+      "x": 7,
+      "y": 67
+    },
+    "topLeft": {
+      "x": 7,
+      "y": 68
+    }
   }
 }

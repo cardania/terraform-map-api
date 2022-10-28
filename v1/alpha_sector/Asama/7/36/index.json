@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10106",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10106",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQfiY5ZzzBTvfRpyUshbmy5R1wi9LCXwHtYLpdAb4reeC",
+  "token_name": "Terraform03773",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03773",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSDeEiL9ynHDDgMgTJEWrFpdwtDFj79zRJKLzZT3ABk6q",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "power_level": 5,
+  "quantum_flux": 6,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Solar_Shrine",
   "water": "Freshwater_Lake",
   "location": {
     "x": 7,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 37
+    },
+    "topRight": {
+      "x": 8,
+      "y": 37
+    },
+    "right": {
+      "x": 8,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 35
+    },
+    "bottom": {
+      "x": 7,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 35
+    },
+    "left": {
+      "x": 6,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 37
+    }
   }
 }

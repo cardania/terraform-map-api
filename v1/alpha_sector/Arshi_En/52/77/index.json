@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01097",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01097",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbJ4hKCMerDkGjQsVBLLNiHiK77VCMj5VJHkCigy4JCi8",
+  "token_name": "Terraform17252",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17252",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVofZQP3pnemz2WPCpkt2BDWZpPQDowpa4LbT2kuv6jaF",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Solar_Shrine",
-  "water": "Freshwater_River",
+  "power_level": 2,
+  "quantum_flux": 9,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 52,
     "y": 77
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 78
+    },
+    "topRight": {
+      "x": 53,
+      "y": 78
+    },
+    "right": {
+      "x": 53,
+      "y": 77
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 76
+    },
+    "bottom": {
+      "x": 52,
+      "y": 76
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 76
+    },
+    "left": {
+      "x": 51,
+      "y": 77
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 78
+    }
   }
 }

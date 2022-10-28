@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02554",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02554",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZqNSbC3nPHE4GXce7DVb8yoGDTqg7CfNX6ZhxZoR1zDZ",
+  "token_name": "Terraform05470",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05470",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmS1SjPH6jEDF1kFK1vU153S6rRkCB6aWKsvXToyecGrBk",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
-  "quantum_flux": 1,
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 7,
   "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Saltwater_River",
   "location": {
     "x": 59,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 59,
+      "y": 56
+    },
+    "topRight": {
+      "x": 60,
+      "y": 56
+    },
+    "right": {
+      "x": 60,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 60,
+      "y": 54
+    },
+    "bottom": {
+      "x": 59,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 58,
+      "y": 54
+    },
+    "left": {
+      "x": 58,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 58,
+      "y": 56
+    }
   }
 }

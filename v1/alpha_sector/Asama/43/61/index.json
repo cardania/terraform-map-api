@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15039",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15039",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWz95hWDsNR7G4Qgan7ZLtjmDMpfexXQ5hYnWxxgh7A3u",
+  "token_name": "Terraform15300",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15300",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSeVrsCdHkG77wvhDoFP4P6F4gBn18MYhyTnHzbG6Gm3n",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
-  "shrine": "Quantum_Shrine",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 43,
     "y": 61
+  },
+  "neighbors": {
+    "top": {
+      "x": 43,
+      "y": 62
+    },
+    "topRight": {
+      "x": 44,
+      "y": 62
+    },
+    "right": {
+      "x": 44,
+      "y": 61
+    },
+    "bottomRight": {
+      "x": 44,
+      "y": 60
+    },
+    "bottom": {
+      "x": 43,
+      "y": 60
+    },
+    "bottonLeft": {
+      "x": 42,
+      "y": 60
+    },
+    "left": {
+      "x": 42,
+      "y": 61
+    },
+    "topLeft": {
+      "x": 42,
+      "y": 62
+    }
   }
 }

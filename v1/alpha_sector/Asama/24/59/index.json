@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18934",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18934",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd8bMrpjZJ8JbuKqW2WAeq5ormGa87PeLJ3mAn4GoHKLy",
+  "token_name": "Terraform04012",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04012",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRjs9tHCyD7vFEaak8epNHXGnJ7ns63QsKTLQe5VARZ1i",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Cursed_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 4,
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 7,
+  "quantum_flux": 2,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_River",
   "location": {
     "x": 24,
     "y": 59
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 60
+    },
+    "topRight": {
+      "x": 25,
+      "y": 60
+    },
+    "right": {
+      "x": 25,
+      "y": 59
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 58
+    },
+    "bottom": {
+      "x": 24,
+      "y": 58
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 58
+    },
+    "left": {
+      "x": 23,
+      "y": 59
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 60
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07393",
+  "token_name": "Terraform17199",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07393",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQgVJV9ndPeTMxjaPgSFG4CEWVsXmHPKx9UN48tbwHm2j",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17199",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQn7dHHNouiJfGNNdnppZ5LSbU14Rwooan6p6CoQyCb62",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Cursed_Lake",
   "location": {
     "x": 13,
     "y": 11
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 12
+    },
+    "topRight": {
+      "x": 14,
+      "y": 12
+    },
+    "right": {
+      "x": 14,
+      "y": 11
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 10
+    },
+    "bottom": {
+      "x": 13,
+      "y": 10
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 10
+    },
+    "left": {
+      "x": 12,
+      "y": 11
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 12
+    }
   }
 }

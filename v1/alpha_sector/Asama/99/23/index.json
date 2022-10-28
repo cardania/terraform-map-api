@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18229",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18229",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNZRgRSuVFBtz61suiUTP9jmbHgXVKTPHcDrdg9vr4ipC",
+  "token_name": "Terraform08354",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08354",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRBdWC6rBjFaVUNGbf6Yysa2EG6EPAg1SyXZsj6t6cEBE",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "Cursed_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 99,
     "y": 23
+  },
+  "neighbors": {
+    "top": {
+      "x": 99,
+      "y": 24
+    },
+    "topRight": {
+      "x": 100,
+      "y": 24
+    },
+    "right": {
+      "x": 100,
+      "y": 23
+    },
+    "bottomRight": {
+      "x": 100,
+      "y": 22
+    },
+    "bottom": {
+      "x": 99,
+      "y": 22
+    },
+    "bottonLeft": {
+      "x": 98,
+      "y": 22
+    },
+    "left": {
+      "x": 98,
+      "y": 23
+    },
+    "topLeft": {
+      "x": 98,
+      "y": 24
+    }
   }
 }

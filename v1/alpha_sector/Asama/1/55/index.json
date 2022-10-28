@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11553",
+  "token_name": "Terraform12547",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11553",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNes6B9aBC2H1T1sQt1qYhScMFGBrkCqDsb52K5BeZwJv",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12547",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUUgodYBocVKx5zSac9rBNUdirHknnkPeMtGTtz9Ht1Py",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 1,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "quantum_flux": 1,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Funky_River",
+  "shrine": "Void_Shrine",
+  "water": "Saltwater_River",
   "location": {
     "x": 1,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 1,
+      "y": 56
+    },
+    "topRight": {
+      "x": 2,
+      "y": 56
+    },
+    "right": {
+      "x": 2,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 2,
+      "y": 54
+    },
+    "bottom": {
+      "x": 1,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 0,
+      "y": 54
+    },
+    "left": {
+      "x": 0,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 0,
+      "y": 56
+    }
   }
 }

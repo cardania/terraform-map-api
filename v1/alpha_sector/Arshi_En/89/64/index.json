@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03004",
+  "token_name": "Terraform01554",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03004",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWJzUJU4W4EEk1H7jBF8tsKp7WY34tTmSii1RMwjRoQqg",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01554",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdo3LzqSyE7bEsNpGAZK2khtosjreZ737ZiDzhhmcubsi",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 6,
+  "quantum_flux": 9,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 89,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 65
+    },
+    "topRight": {
+      "x": 90,
+      "y": 65
+    },
+    "right": {
+      "x": 90,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 63
+    },
+    "bottom": {
+      "x": 89,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 63
+    },
+    "left": {
+      "x": 88,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 65
+    }
   }
 }

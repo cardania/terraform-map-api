@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13182",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13182",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUMjQbpqZ3r5M1uX1hrUHgVEZ4WGFvU6YA4zgQz8zEULx",
+  "token_name": "Terraform08922",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08922",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQBxWSYvLmJAx12cT8dFrGr18HvacpUyb5wLcSwymGY9Q",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
+  "power_level": 7,
+  "quantum_flux": 6,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 33,
     "y": 41
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 42
+    },
+    "topRight": {
+      "x": 34,
+      "y": 42
+    },
+    "right": {
+      "x": 34,
+      "y": 41
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 40
+    },
+    "bottom": {
+      "x": 33,
+      "y": 40
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 40
+    },
+    "left": {
+      "x": 32,
+      "y": 41
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 42
+    }
   }
 }

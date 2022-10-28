@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02640",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02640",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUUengVQaDk3XStChBsxoPQfwd15V9qEcSC3ggMJqVeqY",
+  "token_name": "Terraform13288",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13288",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmT64aBU4EbvbuCLiqMT1k7YuEfKUs19yEtYiKzPwZi8Vv",
   "alpha_sector": "Arshi_En",
   "activity": "Geothermal_Activity",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 8,
-  "quantum_flux": 4,
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 4,
+  "quantum_flux": 5,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "Solar_Shrine",
   "water": "None",
   "location": {
     "x": 75,
     "y": 16
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 17
+    },
+    "topRight": {
+      "x": 76,
+      "y": 17
+    },
+    "right": {
+      "x": 76,
+      "y": 16
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 15
+    },
+    "bottom": {
+      "x": 75,
+      "y": 15
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 15
+    },
+    "left": {
+      "x": 74,
+      "y": 16
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 17
+    }
   }
 }

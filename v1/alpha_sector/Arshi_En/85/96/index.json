@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17681",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17681",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfGjm3zy2FzXL668rSpMqZuyn8fishmLsSZH7RRPFBdEp",
+  "token_name": "Terraform17451",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17451",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNb6BQTGxXrDJYAZ3gjEcVPLgTZWreD13e82rcG7ArqiG",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 1,
-  "quantum_flux": 7,
+  "quantum_flux": 4,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 85,
     "y": 96
+  },
+  "neighbors": {
+    "top": {
+      "x": 85,
+      "y": 97
+    },
+    "topRight": {
+      "x": 86,
+      "y": 97
+    },
+    "right": {
+      "x": 86,
+      "y": 96
+    },
+    "bottomRight": {
+      "x": 86,
+      "y": 95
+    },
+    "bottom": {
+      "x": 85,
+      "y": 95
+    },
+    "bottonLeft": {
+      "x": 84,
+      "y": 95
+    },
+    "left": {
+      "x": 84,
+      "y": 96
+    },
+    "topLeft": {
+      "x": 84,
+      "y": 97
+    }
   }
 }

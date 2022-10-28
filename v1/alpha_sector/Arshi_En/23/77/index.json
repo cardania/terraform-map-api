@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07473",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07473",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXDD3QEDSzUKF3G9gt5AodquX1Zaygvq3ruDA7JxbBSp2",
+  "token_name": "Terraform14777",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14777",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeLsh34UQvbkASu5CrWeN7SUH978BGsZDt2KnSNd5ux2b",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Melodious_Mantrap",
   "lithoglyphs": "None",
   "power_level": 8,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Toxic_River",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 23,
     "y": 77
+  },
+  "neighbors": {
+    "top": {
+      "x": 23,
+      "y": 78
+    },
+    "topRight": {
+      "x": 24,
+      "y": 78
+    },
+    "right": {
+      "x": 24,
+      "y": 77
+    },
+    "bottomRight": {
+      "x": 24,
+      "y": 76
+    },
+    "bottom": {
+      "x": 23,
+      "y": 76
+    },
+    "bottonLeft": {
+      "x": 22,
+      "y": 76
+    },
+    "left": {
+      "x": 22,
+      "y": 77
+    },
+    "topLeft": {
+      "x": 22,
+      "y": 78
+    }
   }
 }

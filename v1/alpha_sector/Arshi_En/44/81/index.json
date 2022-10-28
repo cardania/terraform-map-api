@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform00957",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00957",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmecjbjTMrSWrpQ5avPxuY8RQUyyFYWnEQsb6rWbJthn6f",
+  "token_name": "Terraform05064",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05064",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmV22p6ZpuPkCz4TxiQmY5ByMHSyqrBE4U1wHq1ur9Vxgf",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "Cardanium",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 44,
     "y": 81
+  },
+  "neighbors": {
+    "top": {
+      "x": 44,
+      "y": 82
+    },
+    "topRight": {
+      "x": 45,
+      "y": 82
+    },
+    "right": {
+      "x": 45,
+      "y": 81
+    },
+    "bottomRight": {
+      "x": 45,
+      "y": 80
+    },
+    "bottom": {
+      "x": 44,
+      "y": 80
+    },
+    "bottonLeft": {
+      "x": 43,
+      "y": 80
+    },
+    "left": {
+      "x": 43,
+      "y": 81
+    },
+    "topLeft": {
+      "x": 43,
+      "y": 82
+    }
   }
 }

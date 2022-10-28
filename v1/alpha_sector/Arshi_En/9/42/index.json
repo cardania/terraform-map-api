@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03996",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03996",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXX62HVti8FyeXMgRbBtpTa9gkuYi9uo5xWnPXDyUzeCX",
+  "token_name": "Terraform18169",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18169",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdH4UFLaHRyswGcbPSwxrn7TYhGdQnCxg7vz1tixbU1Ye",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "Cardanium_Bunker",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "Prismaleaf",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 9,
     "y": 42
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 43
+    },
+    "topRight": {
+      "x": 10,
+      "y": 43
+    },
+    "right": {
+      "x": 10,
+      "y": 42
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 41
+    },
+    "bottom": {
+      "x": 9,
+      "y": 41
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 41
+    },
+    "left": {
+      "x": 8,
+      "y": 42
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 43
+    }
   }
 }

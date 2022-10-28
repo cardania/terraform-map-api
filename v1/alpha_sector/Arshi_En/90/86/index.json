@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03010",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03010",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYTGpn3FDzoq7Lp2HNFK9jKjn1Zm8htiwM7xB2s5BNmZA",
+  "token_name": "Terraform00883",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00883",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdUQX1akit8N2ZKVcGytye1sc5esKc35FKjYAEXovEbaZ",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
+  "fauna": "Critters",
+  "forests": "Palms",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 8,
+  "lithoglyphs": "None",
+  "power_level": 3,
   "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 90,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 90,
+      "y": 87
+    },
+    "topRight": {
+      "x": 91,
+      "y": 87
+    },
+    "right": {
+      "x": 91,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 91,
+      "y": 85
+    },
+    "bottom": {
+      "x": 90,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 89,
+      "y": 85
+    },
+    "left": {
+      "x": 89,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 89,
+      "y": 87
+    }
   }
 }

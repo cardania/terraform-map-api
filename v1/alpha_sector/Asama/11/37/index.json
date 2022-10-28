@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18032",
+  "token_name": "Terraform09517",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18032",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeufeX5YVxMtF9sFeqNQDSyj49uy13PBh2Dc4yCFejQxG",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09517",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb8rA7kRjnnpyUYJWcgiDJ2KLFcdJgKtGhRHtzH9yfSH4",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Toxic_River",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 4,
+  "quantum_flux": 9,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 11,
     "y": 37
+  },
+  "neighbors": {
+    "top": {
+      "x": 11,
+      "y": 38
+    },
+    "topRight": {
+      "x": 12,
+      "y": 38
+    },
+    "right": {
+      "x": 12,
+      "y": 37
+    },
+    "bottomRight": {
+      "x": 12,
+      "y": 36
+    },
+    "bottom": {
+      "x": 11,
+      "y": 36
+    },
+    "bottonLeft": {
+      "x": 10,
+      "y": 36
+    },
+    "left": {
+      "x": 10,
+      "y": 37
+    },
+    "topLeft": {
+      "x": 10,
+      "y": 38
+    }
   }
 }

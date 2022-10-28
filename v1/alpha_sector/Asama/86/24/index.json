@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01618",
+  "token_name": "Terraform09973",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01618",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWFYvd3DGAdfgCzXExKXLZjmdnsTdvMjEovoiApXBjfGm",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09973",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSxz2zfyMHwoyavNY8W7Ea4njH7bMJ7d5BGQtoCEmFSPq",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Cardanium_Bunker",
   "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 1,
+  "quantum_flux": 9,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "None",
   "location": {
     "x": 86,
     "y": 24
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 25
+    },
+    "topRight": {
+      "x": 87,
+      "y": 25
+    },
+    "right": {
+      "x": 87,
+      "y": 24
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 23
+    },
+    "bottom": {
+      "x": 86,
+      "y": 23
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 23
+    },
+    "left": {
+      "x": 85,
+      "y": 24
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 25
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06052",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06052",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZGVoFa5Ufyfct6QFCqPjoKKfjTW81BciSMPSXvJmkiRN",
+  "token_name": "Terraform16195",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16195",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWh2mxVy3cPh4rpuxdRkMTi7BorGpfPepayTphjdNZVo5",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Critters",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 9,
-  "quantum_flux": 3,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 6,
   "primary_minerals": "None",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "None",
   "location": {
     "x": 4,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 4,
+      "y": 6
+    },
+    "topRight": {
+      "x": 5,
+      "y": 6
+    },
+    "right": {
+      "x": 5,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 5,
+      "y": 4
+    },
+    "bottom": {
+      "x": 4,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 3,
+      "y": 4
+    },
+    "left": {
+      "x": 3,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 3,
+      "y": 6
+    }
   }
 }

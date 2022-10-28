@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16492",
+  "token_name": "Terraform16639",
   "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16492",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeWMh1NzoNYMhVUcebeFt7WB7sXKHZCdvSMvYyPiTbBFa",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16639",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTDdTH8uGYLz2SNtRfNhsWknUZVzR2VgEKpbSGHQhfj1N",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
   "power_level": 2,
-  "quantum_flux": 7,
+  "quantum_flux": 1,
   "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 92,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 92,
+      "y": 50
+    },
+    "topRight": {
+      "x": 93,
+      "y": 50
+    },
+    "right": {
+      "x": 93,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 93,
+      "y": 48
+    },
+    "bottom": {
+      "x": 92,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 91,
+      "y": 48
+    },
+    "left": {
+      "x": 91,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 91,
+      "y": 50
+    }
   }
 }

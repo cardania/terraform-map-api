@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform01575",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01575",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmScKGWBmyxzde3k2HKFe3AubVHarSEE1ZXthi56ngynj9",
+  "token_name": "Terraform01877",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01877",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmS1QZhxrk2MUqMyphnpPE1DAuBWHUGyL8bYpuEqyMzeK4",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 4,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
+  "power_level": 6,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 17,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 69
+    },
+    "topRight": {
+      "x": 18,
+      "y": 69
+    },
+    "right": {
+      "x": 18,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 67
+    },
+    "bottom": {
+      "x": 17,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 67
+    },
+    "left": {
+      "x": 16,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 69
+    }
   }
 }

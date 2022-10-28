@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02052",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02052",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW2KZCXcdZYgMPKYJAHXsKEfFeqHY4jWAuDxoqm45U6Xq",
+  "token_name": "Terraform04852",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04852",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfGTwBr6VWeNRz38VQt7YKevsfcZruXBvDNBZdYZ7rfih",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_River",
   "location": {
     "x": 18,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 18,
+      "y": 7
+    },
+    "topRight": {
+      "x": 19,
+      "y": 7
+    },
+    "right": {
+      "x": 19,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 19,
+      "y": 5
+    },
+    "bottom": {
+      "x": 18,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 17,
+      "y": 5
+    },
+    "left": {
+      "x": 17,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 17,
+      "y": 7
+    }
   }
 }

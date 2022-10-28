@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15691",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15691",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmStAhh8LVr2149KGs4cMmBKGx146UEcmxvcMa7bqgTQ2r",
+  "token_name": "Terraform09780",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09780",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTcrbFZPfdpARDjQVR3bvYWLKyEGqF7VXDXfHZHFE5k3y",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Cursed_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 1,
   "quantum_flux": 2,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Saltwater_River",
+  "shrine": "Void_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 14,
     "y": 44
+  },
+  "neighbors": {
+    "top": {
+      "x": 14,
+      "y": 45
+    },
+    "topRight": {
+      "x": 15,
+      "y": 45
+    },
+    "right": {
+      "x": 15,
+      "y": 44
+    },
+    "bottomRight": {
+      "x": 15,
+      "y": 43
+    },
+    "bottom": {
+      "x": 14,
+      "y": 43
+    },
+    "bottonLeft": {
+      "x": 13,
+      "y": 43
+    },
+    "left": {
+      "x": 13,
+      "y": 44
+    },
+    "topLeft": {
+      "x": 13,
+      "y": 45
+    }
   }
 }

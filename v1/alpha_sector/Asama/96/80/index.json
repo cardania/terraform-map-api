@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05692",
+  "token_name": "Terraform01578",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05692",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmS2cJbwjxWf8LbJpcrt29GYJT586BDkhBMn8J3cwhRVfy",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01578",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRwPreyU5RQ3jzY5Z4ucgWXi5km7XmCCNs6vjZEEu7LXX",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 2,
+  "activity": "None",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Saltwater_River",
   "location": {
     "x": 96,
     "y": 80
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 81
+    },
+    "topRight": {
+      "x": 97,
+      "y": 81
+    },
+    "right": {
+      "x": 97,
+      "y": 80
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 79
+    },
+    "bottom": {
+      "x": 96,
+      "y": 79
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 79
+    },
+    "left": {
+      "x": 95,
+      "y": 80
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 81
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17104",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17104",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdYr89WreEDemLKRVPLSrjrT7ebBPTwNKDeCKXEVgz6ru",
+  "token_name": "Terraform00075",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00075",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTu7p3XJkmPNRSQq8NeA3aftzFYoKmqUU1xrWM6wHjbu5",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 6,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 7,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "None",
   "location": {
     "x": 34,
     "y": 57
+  },
+  "neighbors": {
+    "top": {
+      "x": 34,
+      "y": 58
+    },
+    "topRight": {
+      "x": 35,
+      "y": 58
+    },
+    "right": {
+      "x": 35,
+      "y": 57
+    },
+    "bottomRight": {
+      "x": 35,
+      "y": 56
+    },
+    "bottom": {
+      "x": 34,
+      "y": 56
+    },
+    "bottonLeft": {
+      "x": 33,
+      "y": 56
+    },
+    "left": {
+      "x": 33,
+      "y": 57
+    },
+    "topLeft": {
+      "x": 33,
+      "y": 58
+    }
   }
 }

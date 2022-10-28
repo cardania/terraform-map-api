@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18961",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18961",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUiSGZFEhrU9b6Mh7UuGbtHj6HbZ4bSNwsiHrbSmQrtv5",
+  "token_name": "Terraform17091",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17091",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNij6Dbmmqh7en4RYbte26A2NBdP76Xh9tgco7pYWib1k",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 14,
     "y": 23
+  },
+  "neighbors": {
+    "top": {
+      "x": 14,
+      "y": 24
+    },
+    "topRight": {
+      "x": 15,
+      "y": 24
+    },
+    "right": {
+      "x": 15,
+      "y": 23
+    },
+    "bottomRight": {
+      "x": 15,
+      "y": 22
+    },
+    "bottom": {
+      "x": 14,
+      "y": 22
+    },
+    "bottonLeft": {
+      "x": 13,
+      "y": 22
+    },
+    "left": {
+      "x": 13,
+      "y": 23
+    },
+    "topLeft": {
+      "x": 13,
+      "y": 24
+    }
   }
 }

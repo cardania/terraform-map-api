@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01498",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01498",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcbPAJwpKRtU3iAHqYRgUDYCCN36CPMJXBnPyEqcG2UjD",
+  "token_name": "Terraform15094",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15094",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZWbp6u4RNiamkwR9vJU7TtV48RVkuPs2JYhqVwAQhi3r",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 7,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 74,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 50
+    },
+    "topRight": {
+      "x": 75,
+      "y": 50
+    },
+    "right": {
+      "x": 75,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 48
+    },
+    "bottom": {
+      "x": 74,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 48
+    },
+    "left": {
+      "x": 73,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 50
+    }
   }
 }

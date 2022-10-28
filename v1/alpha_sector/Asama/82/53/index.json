@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19548",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19548",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYwZBX6Xdzs3Ndvge6VqHnDzzy1CVfPVXgm8isTNsUazK",
+  "token_name": "Terraform14002",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14002",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPYodtvhSGMn7BHgk2dejUCcF1WVVnuConw6LJBbDAJEQ",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 7,
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 82,
     "y": 53
+  },
+  "neighbors": {
+    "top": {
+      "x": 82,
+      "y": 54
+    },
+    "topRight": {
+      "x": 83,
+      "y": 54
+    },
+    "right": {
+      "x": 83,
+      "y": 53
+    },
+    "bottomRight": {
+      "x": 83,
+      "y": 52
+    },
+    "bottom": {
+      "x": 82,
+      "y": 52
+    },
+    "bottonLeft": {
+      "x": 81,
+      "y": 52
+    },
+    "left": {
+      "x": 81,
+      "y": 53
+    },
+    "topLeft": {
+      "x": 81,
+      "y": 54
+    }
   }
 }

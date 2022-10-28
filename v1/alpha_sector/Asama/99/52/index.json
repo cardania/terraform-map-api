@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18725",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18725",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmaiaf5vXs282Pjd72LGGarbNeAZXyhNyDcDTixK2WbhnE",
+  "token_name": "Terraform15710",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15710",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXEM1QcohgSUHd7kc1KLi33mWVZ96w4xhuWnBGbQiSXW1",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Evergreen",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 9,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 99,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 99,
+      "y": 53
+    },
+    "topRight": {
+      "x": 100,
+      "y": 53
+    },
+    "right": {
+      "x": 100,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 100,
+      "y": 51
+    },
+    "bottom": {
+      "x": 99,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 98,
+      "y": 51
+    },
+    "left": {
+      "x": 98,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 98,
+      "y": 53
+    }
   }
 }

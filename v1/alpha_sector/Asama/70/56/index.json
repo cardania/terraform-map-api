@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16664",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16664",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbjVs8Ni4SPeoZdmKH4qc3ydsVF1puhR5YPKtS6db6YeE",
+  "token_name": "Terraform09352",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09352",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRfsjksNLhqY8hSmG5X3V5E586FZ8WhdvoEoHCUNA5fVi",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Melodious_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Cursed_Lake",
   "location": {
     "x": 70,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 57
+    },
+    "topRight": {
+      "x": 71,
+      "y": 57
+    },
+    "right": {
+      "x": 71,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 55
+    },
+    "bottom": {
+      "x": 70,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 55
+    },
+    "left": {
+      "x": 69,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 57
+    }
   }
 }

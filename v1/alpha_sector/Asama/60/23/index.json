@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01734",
+  "token_name": "Terraform19352",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01734",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdCnzTuYX9zXpW5uEVPi1NUXDbvi9qteRNBacu5KBkGuk",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19352",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdFXzPxCpXKKT7cFXjz9XbPLk8MCeX16tPVAN4Upx3ndj",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 7,
-  "quantum_flux": 6,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Timelost_Shrine",
-  "water": "Freshwater_Lake",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 60,
     "y": 23
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 24
+    },
+    "topRight": {
+      "x": 61,
+      "y": 24
+    },
+    "right": {
+      "x": 61,
+      "y": 23
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 22
+    },
+    "bottom": {
+      "x": 60,
+      "y": 22
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 22
+    },
+    "left": {
+      "x": 59,
+      "y": 23
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 24
+    }
   }
 }

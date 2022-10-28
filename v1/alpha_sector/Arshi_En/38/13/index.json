@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15945",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15945",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTTpqz19jeaLxKpd8gurdrCqvJGtprm5qZK9Q7pXjjHGm",
+  "token_name": "Terraform15946",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15946",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbk1HRKpGv6iJuj3fiH7E4VFTc6gFsseWrKsv8ZoqwfZJ",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 9,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Gemstones",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 6,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 38,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 38,
+      "y": 14
+    },
+    "topRight": {
+      "x": 39,
+      "y": 14
+    },
+    "right": {
+      "x": 39,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 39,
+      "y": 12
+    },
+    "bottom": {
+      "x": 38,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 37,
+      "y": 12
+    },
+    "left": {
+      "x": 37,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 37,
+      "y": 14
+    }
   }
 }

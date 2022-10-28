@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform03953",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03953",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUQKL78UHuN2Nets73cbE37GZEDKysJza69P1MrzixE2b",
+  "token_name": "Terraform16001",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16001",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcRzK3Z2immyC5zfs4kFQ1pe43HJhtqWbYoSnKazqTArE",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
+  "quantum_flux": 1,
+  "primary_minerals": "None",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 45,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 30
+    },
+    "topRight": {
+      "x": 46,
+      "y": 30
+    },
+    "right": {
+      "x": 46,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 28
+    },
+    "bottom": {
+      "x": 45,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 28
+    },
+    "left": {
+      "x": 44,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 30
+    }
   }
 }

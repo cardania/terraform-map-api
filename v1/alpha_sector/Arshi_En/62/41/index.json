@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07808",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07808",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVxBj9JwPGbow8mzMqDudjm7d9uPJJGDoUsHBso4S84fC",
+  "token_name": "Terraform06828",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06828",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVRdVkU9nMwEZrK9F2Uow8Wb9wswn9zSUbUeGtrGk7i3p",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 4,
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 2,
   "quantum_flux": 2,
-  "primary_minerals": "None",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 62,
     "y": 41
+  },
+  "neighbors": {
+    "top": {
+      "x": 62,
+      "y": 42
+    },
+    "topRight": {
+      "x": 63,
+      "y": 42
+    },
+    "right": {
+      "x": 63,
+      "y": 41
+    },
+    "bottomRight": {
+      "x": 63,
+      "y": 40
+    },
+    "bottom": {
+      "x": 62,
+      "y": 40
+    },
+    "bottonLeft": {
+      "x": 61,
+      "y": 40
+    },
+    "left": {
+      "x": 61,
+      "y": 41
+    },
+    "topLeft": {
+      "x": 61,
+      "y": 42
+    }
   }
 }

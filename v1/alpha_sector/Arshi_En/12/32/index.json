@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10985",
+  "token_name": "Terraform15428",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10985",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcLuQszUKTytzMZqet971kVBeJDKQpnP7sm5ZwPDQGZfV",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15428",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWMtFV2UR4GQ8kktqwPf9HKfSGLQbFE8DNt2tf8sjUuD6",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 5,
-  "quantum_flux": 7,
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
+  "quantum_flux": 4,
   "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Saltwater_River",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 12,
     "y": 32
+  },
+  "neighbors": {
+    "top": {
+      "x": 12,
+      "y": 33
+    },
+    "topRight": {
+      "x": 13,
+      "y": 33
+    },
+    "right": {
+      "x": 13,
+      "y": 32
+    },
+    "bottomRight": {
+      "x": 13,
+      "y": 31
+    },
+    "bottom": {
+      "x": 12,
+      "y": 31
+    },
+    "bottonLeft": {
+      "x": 11,
+      "y": 31
+    },
+    "left": {
+      "x": 11,
+      "y": 32
+    },
+    "topLeft": {
+      "x": 11,
+      "y": 33
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10917",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10917",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZWfXpwXRSe5VAnpBiwtU6jTCLjs9mpyPeJMoWeF9pmYT",
+  "token_name": "Terraform03640",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03640",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcvhCoijSfa4uSQa3mSRD6PvSzKCpD2WQ5jTogUmRmT3B",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
   "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Saltwater_River",
   "location": {
     "x": 52,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 7
+    },
+    "topRight": {
+      "x": 53,
+      "y": 7
+    },
+    "right": {
+      "x": 53,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 5
+    },
+    "bottom": {
+      "x": 52,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 5
+    },
+    "left": {
+      "x": 51,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 7
+    }
   }
 }

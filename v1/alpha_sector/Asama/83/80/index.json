@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16133",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16133",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNedNM2RreyBfw4LyfJwyA53hek7n3DyxP31vx7PmN3JG",
+  "token_name": "Terraform06021",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06021",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaHuQRxnK67t3CWvTb888Eyoo79Lcq8f1mfCqmL9KtKaY",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "lithoglyphs": "None",
   "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Fungal_Shrine",
-  "water": "None",
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 83,
     "y": 80
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 81
+    },
+    "topRight": {
+      "x": 84,
+      "y": 81
+    },
+    "right": {
+      "x": 84,
+      "y": 80
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 79
+    },
+    "bottom": {
+      "x": 83,
+      "y": 79
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 79
+    },
+    "left": {
+      "x": 82,
+      "y": 80
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 81
+    }
   }
 }

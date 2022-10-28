@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10096",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10096",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmR9vh2ZUmVM2JhnY2rk2QZRPVZqHnSAJjujpNTgYPSRKK",
+  "token_name": "Terraform07728",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07728",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdmAQMWXtQrE5A7H8APdpYhixgEuNvnRfSpD1vUhuE3c8",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
+  "quantum_flux": 9,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "None",
   "location": {
     "x": 86,
     "y": 51
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 52
+    },
+    "topRight": {
+      "x": 87,
+      "y": 52
+    },
+    "right": {
+      "x": 87,
+      "y": 51
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 50
+    },
+    "bottom": {
+      "x": 86,
+      "y": 50
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 50
+    },
+    "left": {
+      "x": 85,
+      "y": 51
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 52
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09794",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09794",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZAXSyBgZgcmgVd6B7QFmYRrS342sgnq3YxFTuc5z5Cqn",
+  "token_name": "Terraform10099",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10099",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXoHyB32AqggExvcH6PsLs1XL65EPcQdmXVbB83a5wT44",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 8,
-  "primary_minerals": "Iron",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "ruins": "None",
+  "shrine": "Golden_Shrine",
+  "water": "Toxic_River",
   "location": {
     "x": 43,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 43,
+      "y": 61
+    },
+    "topRight": {
+      "x": 44,
+      "y": 61
+    },
+    "right": {
+      "x": 44,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 44,
+      "y": 59
+    },
+    "bottom": {
+      "x": 43,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 42,
+      "y": 59
+    },
+    "left": {
+      "x": 42,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 42,
+      "y": 61
+    }
   }
 }

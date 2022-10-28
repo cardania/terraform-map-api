@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15726",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15726",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPpmAJXNS2MsGJWh2Q1sk8xQV1ePYf99WbMm2qHVBrD5D",
+  "token_name": "Terraform15707",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15707",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUym24SSfDu941rPCMFEwwrKAeEL8pBb9KJ5SQigWPme8",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Timelost_Shrine",
-  "water": "None",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Void_Shrine",
+  "water": "Toxic_River",
   "location": {
     "x": 80,
     "y": 57
+  },
+  "neighbors": {
+    "top": {
+      "x": 80,
+      "y": 58
+    },
+    "topRight": {
+      "x": 81,
+      "y": 58
+    },
+    "right": {
+      "x": 81,
+      "y": 57
+    },
+    "bottomRight": {
+      "x": 81,
+      "y": 56
+    },
+    "bottom": {
+      "x": 80,
+      "y": 56
+    },
+    "bottonLeft": {
+      "x": 79,
+      "y": 56
+    },
+    "left": {
+      "x": 79,
+      "y": 57
+    },
+    "topLeft": {
+      "x": 79,
+      "y": 58
+    }
   }
 }

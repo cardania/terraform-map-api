@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07550",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07550",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXUYq3RxgZnP5wFRRWb1CZ9y4ajnECf1GffLdsfUymafg",
+  "token_name": "Terraform08603",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08603",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUBqzKq3Xa1nAS9seUv5mYXpkRkWK8Q2ZwRLuQxRWDuub",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 9,
+  "quantum_flux": 7,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 90,
     "y": 72
+  },
+  "neighbors": {
+    "top": {
+      "x": 90,
+      "y": 73
+    },
+    "topRight": {
+      "x": 91,
+      "y": 73
+    },
+    "right": {
+      "x": 91,
+      "y": 72
+    },
+    "bottomRight": {
+      "x": 91,
+      "y": 71
+    },
+    "bottom": {
+      "x": 90,
+      "y": 71
+    },
+    "bottonLeft": {
+      "x": 89,
+      "y": 71
+    },
+    "left": {
+      "x": 89,
+      "y": 72
+    },
+    "topLeft": {
+      "x": 89,
+      "y": 73
+    }
   }
 }

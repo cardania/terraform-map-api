@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02037",
+  "token_name": "Terraform01071",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02037",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmP1hvxAfq7qtBHjfD8WMCM7GhZEEzgqByXfvS5pJXjArL",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01071",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXyR8RwYp9mH6z4M19Cphtj8xNYRtmTdF87haxv3nZgNP",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Quantum_Shrine",
-  "water": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 71,
     "y": 92
+  },
+  "neighbors": {
+    "top": {
+      "x": 71,
+      "y": 93
+    },
+    "topRight": {
+      "x": 72,
+      "y": 93
+    },
+    "right": {
+      "x": 72,
+      "y": 92
+    },
+    "bottomRight": {
+      "x": 72,
+      "y": 91
+    },
+    "bottom": {
+      "x": 71,
+      "y": 91
+    },
+    "bottonLeft": {
+      "x": 70,
+      "y": 91
+    },
+    "left": {
+      "x": 70,
+      "y": 92
+    },
+    "topLeft": {
+      "x": 70,
+      "y": 93
+    }
   }
 }

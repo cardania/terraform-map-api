@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06844",
+  "token_name": "Terraform17296",
   "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06844",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUKJTowzK98Jadn6mQ9oRmbRQoGim8EFoHwdhyy8gRfwA",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17296",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZUVc4fTJQ8zC4MmhiV8GGPpNTLxjgsjGk5NUuWiWpeoQ",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Prismaleaf",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 7,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 96,
     "y": 32
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 33
+    },
+    "topRight": {
+      "x": 97,
+      "y": 33
+    },
+    "right": {
+      "x": 97,
+      "y": 32
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 31
+    },
+    "bottom": {
+      "x": 96,
+      "y": 31
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 31
+    },
+    "left": {
+      "x": 95,
+      "y": 32
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 33
+    }
   }
 }

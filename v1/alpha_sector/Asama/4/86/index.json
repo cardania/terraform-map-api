@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12287",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12287",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVrDYNSPJo3obM5e5amEVLf6qosyC8SDX7b5ZDjxM5iuC",
+  "token_name": "Terraform17446",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17446",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmaw9Lk2J3jzyuWeKysLnRmSgukFTgbiPvmhCFeyw8EBau",
   "alpha_sector": "Asama",
   "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 1,
-  "quantum_flux": 3,
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 2,
+  "quantum_flux": 2,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Toxic_River",
+  "shrine": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 4,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 4,
+      "y": 87
+    },
+    "topRight": {
+      "x": 5,
+      "y": 87
+    },
+    "right": {
+      "x": 5,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 5,
+      "y": 85
+    },
+    "bottom": {
+      "x": 4,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 3,
+      "y": 85
+    },
+    "left": {
+      "x": 3,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 3,
+      "y": 87
+    }
   }
 }

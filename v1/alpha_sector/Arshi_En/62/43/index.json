@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17949",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17949",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV3oSMnqvXqpZkt8YKdYNJAwDuRdJimXf44sbBxZnCHyV",
+  "token_name": "Terraform07704",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07704",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfRGhGMHENctAt89BFqitfLNSnU2Go8xiXmDJrUSGabU4",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 1,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 62,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 62,
+      "y": 44
+    },
+    "topRight": {
+      "x": 63,
+      "y": 44
+    },
+    "right": {
+      "x": 63,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 63,
+      "y": 42
+    },
+    "bottom": {
+      "x": 62,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 61,
+      "y": 42
+    },
+    "left": {
+      "x": 61,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 61,
+      "y": 44
+    }
   }
 }

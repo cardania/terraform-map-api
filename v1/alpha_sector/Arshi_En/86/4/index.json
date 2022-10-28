@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09112",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09112",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRsR1pjeK7KhYxpzGsPUVCrdFyqoQvpSVrBw1pAKPyQRn",
+  "token_name": "Terraform08450",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08450",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPrkFPfY6kjrny4gbtp2RKR7PStyvbKByBscVniYHmUtG",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 1,
-  "primary_minerals": "Cardanium",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 86,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 5
+    },
+    "topRight": {
+      "x": 87,
+      "y": 5
+    },
+    "right": {
+      "x": 87,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 3
+    },
+    "bottom": {
+      "x": 86,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 3
+    },
+    "left": {
+      "x": 85,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 5
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08777",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08777",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQTQEAU2G7B3APJCkRGVtv6SMLX6uWQuDHksagcgRMbuk",
+  "token_name": "Terraform00226",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00226",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNNVYVPb7H11nh4TVmGJGsCHbtfgsUA3bKQVUEkVnv4ox",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 7,
-  "quantum_flux": 9,
-  "primary_minerals": "Cardanium",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Toxic_River",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 9,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 5
+    },
+    "topRight": {
+      "x": 10,
+      "y": 5
+    },
+    "right": {
+      "x": 10,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 3
+    },
+    "bottom": {
+      "x": 9,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 3
+    },
+    "left": {
+      "x": 8,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 5
+    }
   }
 }

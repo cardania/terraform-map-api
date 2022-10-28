@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00846",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00846",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUHMGxfk7h39gZ1qbHqChPGf8xpmMh7n9pwmMxrdiXZgv",
+  "token_name": "Terraform15610",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15610",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVbjBgMfPnjhJEVSnwr3jJufKUQxG8vJX8h1M5szS7SAX",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
+  "fauna": "None",
+  "forests": "Palms",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 9,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "power_level": 1,
+  "quantum_flux": 1,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 13,
     "y": 81
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 82
+    },
+    "topRight": {
+      "x": 14,
+      "y": 82
+    },
+    "right": {
+      "x": 14,
+      "y": 81
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 80
+    },
+    "bottom": {
+      "x": 13,
+      "y": 80
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 80
+    },
+    "left": {
+      "x": 12,
+      "y": 81
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 82
+    }
   }
 }

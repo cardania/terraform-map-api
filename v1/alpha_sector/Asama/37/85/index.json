@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15147",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15147",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfGkBRb3JSiRvCN7N9SvGBQ1Hx2gyqdd8j9S55qnbK47W",
+  "token_name": "Terraform08904",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08904",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmY4sByPZMwDcXpBqeU6nD85z6ndQ1m5g7GC5PXPYfxcVB",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 5,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 37,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 37,
+      "y": 86
+    },
+    "topRight": {
+      "x": 38,
+      "y": 86
+    },
+    "right": {
+      "x": 38,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 38,
+      "y": 84
+    },
+    "bottom": {
+      "x": 37,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 36,
+      "y": 84
+    },
+    "left": {
+      "x": 36,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 36,
+      "y": 86
+    }
   }
 }

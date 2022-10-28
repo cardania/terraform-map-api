@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11203",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11203",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPWCJABNCVjv87uQRhKnqGD2XVaciLDXFgxM8ib4QQiN6",
+  "token_name": "Terraform03487",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03487",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTtXGL5EArygBHvNuyRE9GrRbXoWeKmukj4jfeeDWXMmT",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
   "power_level": 5,
-  "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 54,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 54,
+      "y": 57
+    },
+    "topRight": {
+      "x": 55,
+      "y": 57
+    },
+    "right": {
+      "x": 55,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 55,
+      "y": 55
+    },
+    "bottom": {
+      "x": 54,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 53,
+      "y": 55
+    },
+    "left": {
+      "x": 53,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 53,
+      "y": 57
+    }
   }
 }

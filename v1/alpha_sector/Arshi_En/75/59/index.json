@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05957",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05957",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qme46szwfdHD1o8PyQM77pYu5VPcfNYtxNvVSW8j2jAwW3",
+  "token_name": "Terraform07683",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07683",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaCe1k1uLjk2P4xKYP1RUXLvP8VjMBQF3vB4nDhBR65z4",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 4,
+  "power_level": 3,
+  "quantum_flux": 5,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 75,
     "y": 59
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 60
+    },
+    "topRight": {
+      "x": 76,
+      "y": 60
+    },
+    "right": {
+      "x": 76,
+      "y": 59
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 58
+    },
+    "bottom": {
+      "x": 75,
+      "y": 58
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 58
+    },
+    "left": {
+      "x": 74,
+      "y": 59
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 60
+    }
   }
 }

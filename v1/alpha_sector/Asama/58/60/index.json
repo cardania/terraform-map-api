@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12795",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12795",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRbJ6corsSdh2hkMq9BDUTALBavMZNwuJ4vVs2CxcDdsA",
+  "token_name": "Terraform06945",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06945",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdrhkGv7dvAJ6wwELpLvDj7NbZv4euippHJKBdAyRP2zC",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
+  "shrine": "Solar_Shrine",
   "water": "None",
   "location": {
     "x": 58,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 58,
+      "y": 61
+    },
+    "topRight": {
+      "x": 59,
+      "y": 61
+    },
+    "right": {
+      "x": 59,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 59,
+      "y": 59
+    },
+    "bottom": {
+      "x": 58,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 57,
+      "y": 59
+    },
+    "left": {
+      "x": 57,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 57,
+      "y": 61
+    }
   }
 }

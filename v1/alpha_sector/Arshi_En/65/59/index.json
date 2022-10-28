@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01478",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01478",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaQJV6eChMyc5w3Wj71hZqahmvjEN1knrnZNwc8VPYouj",
+  "token_name": "Terraform07785",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07785",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXXe8jrRggi8QyUoADAvHEHPzMBkwBnomKuMze9UDSWMx",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "Radium",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 6,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 65,
     "y": 59
+  },
+  "neighbors": {
+    "top": {
+      "x": 65,
+      "y": 60
+    },
+    "topRight": {
+      "x": 66,
+      "y": 60
+    },
+    "right": {
+      "x": 66,
+      "y": 59
+    },
+    "bottomRight": {
+      "x": 66,
+      "y": 58
+    },
+    "bottom": {
+      "x": 65,
+      "y": 58
+    },
+    "bottonLeft": {
+      "x": 64,
+      "y": 58
+    },
+    "left": {
+      "x": 64,
+      "y": 59
+    },
+    "topLeft": {
+      "x": 64,
+      "y": 60
+    }
   }
 }

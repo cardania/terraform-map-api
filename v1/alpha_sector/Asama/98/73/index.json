@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01748",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01748",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQywHrWCGAmdBtgVifW28ga7Km3Mw3ijqq4nhqLvL9aTN",
+  "token_name": "Terraform12552",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12552",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmezHh3UHJH5HQwiqSxfTeD8Lhq7a5ccD6cnn1RERoKvV6",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 5,
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 7,
   "quantum_flux": 6,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 98,
     "y": 73
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 74
+    },
+    "topRight": {
+      "x": 99,
+      "y": 74
+    },
+    "right": {
+      "x": 99,
+      "y": 73
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 72
+    },
+    "bottom": {
+      "x": 98,
+      "y": 72
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 72
+    },
+    "left": {
+      "x": 97,
+      "y": 73
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 74
+    }
   }
 }

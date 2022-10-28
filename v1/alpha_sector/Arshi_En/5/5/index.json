@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform11807",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11807",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd9STFCx9K3m1LujtSpmw3zY31EbHSJ38SFM5vQjGJsPk",
+  "token_name": "Terraform07910",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07910",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUhVt2xXmWELjsKpnew4v81nvoK6P5ruAUE1bTjhgs6v3",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
   "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
   "power_level": 4,
-  "quantum_flux": 7,
-  "primary_minerals": "Cardanium",
+  "quantum_flux": 5,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 5,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 5,
+      "y": 6
+    },
+    "topRight": {
+      "x": 6,
+      "y": 6
+    },
+    "right": {
+      "x": 6,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 6,
+      "y": 4
+    },
+    "bottom": {
+      "x": 5,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 4,
+      "y": 4
+    },
+    "left": {
+      "x": 4,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 4,
+      "y": 6
+    }
   }
 }

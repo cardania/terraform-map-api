@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16585",
+  "token_name": "Terraform01260",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16585",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSDoBUFwdma6Xyj6UwVXitDNz1Pp5Cx7Zd34pS1VuAnrK",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01260",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYYnvuKgS1wrrSJeiCx5uzxWErJkkBZk9vkp5L61sR1L8",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 7,
+  "power_level": 2,
+  "quantum_flux": 2,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 25,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 25,
+      "y": 65
+    },
+    "topRight": {
+      "x": 26,
+      "y": 65
+    },
+    "right": {
+      "x": 26,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 26,
+      "y": 63
+    },
+    "bottom": {
+      "x": 25,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 24,
+      "y": 63
+    },
+    "left": {
+      "x": 24,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 24,
+      "y": 65
+    }
   }
 }

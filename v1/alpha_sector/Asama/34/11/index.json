@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02366",
+  "token_name": "Terraform17562",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02366",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVxyt3sft8wypdQ5jZSc9ArFminJzX2uA7bonD1QqM17v",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17562",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZA4EpuzvK1vdLe79sY2CAKtupvZxjdTsLafRThcXNhHV",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
+  "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 34,
     "y": 11
+  },
+  "neighbors": {
+    "top": {
+      "x": 34,
+      "y": 12
+    },
+    "topRight": {
+      "x": 35,
+      "y": 12
+    },
+    "right": {
+      "x": 35,
+      "y": 11
+    },
+    "bottomRight": {
+      "x": 35,
+      "y": 10
+    },
+    "bottom": {
+      "x": 34,
+      "y": 10
+    },
+    "bottonLeft": {
+      "x": 33,
+      "y": 10
+    },
+    "left": {
+      "x": 33,
+      "y": 11
+    },
+    "topLeft": {
+      "x": 33,
+      "y": 12
+    }
   }
 }

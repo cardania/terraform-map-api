@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15117",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15117",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTrmjtcADVb8JjJe4ytEdWUnkJRB6cHha8fk7w8ayyZJi",
+  "token_name": "Terraform02911",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02911",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qma2K66ogmFL7meC82vZpJbdgkGvtbF8re2FgxFHD8xxty",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
-  "quantum_flux": 9,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 1,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 22,
     "y": 47
+  },
+  "neighbors": {
+    "top": {
+      "x": 22,
+      "y": 48
+    },
+    "topRight": {
+      "x": 23,
+      "y": 48
+    },
+    "right": {
+      "x": 23,
+      "y": 47
+    },
+    "bottomRight": {
+      "x": 23,
+      "y": 46
+    },
+    "bottom": {
+      "x": 22,
+      "y": 46
+    },
+    "bottonLeft": {
+      "x": 21,
+      "y": 46
+    },
+    "left": {
+      "x": 21,
+      "y": 47
+    },
+    "topLeft": {
+      "x": 21,
+      "y": 48
+    }
   }
 }

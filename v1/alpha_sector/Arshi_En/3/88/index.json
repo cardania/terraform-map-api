@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08617",
+  "token_name": "Terraform16783",
   "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08617",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZSjciQauHe2AL8SgH5zqtCwFTVvvcTcxAERc2G54D5pj",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16783",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPKkUqHNDyRha8mhS6zcTpVQRwzn76wuhbx8MLLDAPiny",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 7,
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 3,
   "quantum_flux": 8,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Purple",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 3,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 3,
+      "y": 89
+    },
+    "topRight": {
+      "x": 4,
+      "y": 89
+    },
+    "right": {
+      "x": 4,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 4,
+      "y": 87
+    },
+    "bottom": {
+      "x": 3,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 2,
+      "y": 87
+    },
+    "left": {
+      "x": 2,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 2,
+      "y": 89
+    }
   }
 }

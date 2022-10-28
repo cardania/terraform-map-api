@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19458",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19458",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSccUwrkwGzENXSPMLnPw3N243BEWNS49KiMRggFVKhR3",
+  "token_name": "Terraform11010",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11010",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmamGUMj7kGfvBm3N5VtXu3CMvgnWkKcrfXNX7U6eheELS",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
   "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Timelost",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_Lake",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 48,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 44
+    },
+    "topRight": {
+      "x": 49,
+      "y": 44
+    },
+    "right": {
+      "x": 49,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 42
+    },
+    "bottom": {
+      "x": 48,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 42
+    },
+    "left": {
+      "x": 47,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 44
+    }
   }
 }

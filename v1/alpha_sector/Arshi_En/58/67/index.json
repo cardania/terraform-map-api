@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05360",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05360",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNfVouRZuV3XPdPuDY6xUE64TnJeYmRpYiqXvmVz3seki",
+  "token_name": "Terraform11532",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11532",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZe1aChWenG2vsecopjvHnYSR9zPNuhQeSzHbq3g5xNhj",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
-  "quantum_flux": 1,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 5,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 58,
     "y": 67
+  },
+  "neighbors": {
+    "top": {
+      "x": 58,
+      "y": 68
+    },
+    "topRight": {
+      "x": 59,
+      "y": 68
+    },
+    "right": {
+      "x": 59,
+      "y": 67
+    },
+    "bottomRight": {
+      "x": 59,
+      "y": 66
+    },
+    "bottom": {
+      "x": 58,
+      "y": 66
+    },
+    "bottonLeft": {
+      "x": 57,
+      "y": 66
+    },
+    "left": {
+      "x": 57,
+      "y": 67
+    },
+    "topLeft": {
+      "x": 57,
+      "y": 68
+    }
   }
 }

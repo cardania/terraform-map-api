@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16012",
+  "token_name": "Terraform04772",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16012",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSTZnnsJpraL2C7asEQCHt2P1k7zuiC1vpdR6TXQYJTjc",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04772",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYGKbMpKt9rKfHiKtsQZuvhnm9H96PB531pAqxfcSBayb",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_River",
+  "power_level": 4,
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 58,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 58,
+      "y": 89
+    },
+    "topRight": {
+      "x": 59,
+      "y": 89
+    },
+    "right": {
+      "x": 59,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 59,
+      "y": 87
+    },
+    "bottom": {
+      "x": 58,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 57,
+      "y": 87
+    },
+    "left": {
+      "x": 57,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 57,
+      "y": 89
+    }
   }
 }

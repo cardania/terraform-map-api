@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10201",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10201",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRL9JpzTQVZfKADUkegNJSpiXZ1hwiUD3knRajXThtAsh",
+  "token_name": "Terraform09128",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09128",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZrZrPRPDQQ73dTXFNPrHcDkzuhYUYdh77oSUKxDhvNqY",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Red",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 36,
     "y": 94
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 95
+    },
+    "topRight": {
+      "x": 37,
+      "y": 95
+    },
+    "right": {
+      "x": 37,
+      "y": 94
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 93
+    },
+    "bottom": {
+      "x": 36,
+      "y": 93
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 93
+    },
+    "left": {
+      "x": 35,
+      "y": 94
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 95
+    }
   }
 }

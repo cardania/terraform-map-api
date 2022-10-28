@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14769",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14769",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZHBYRfcHNwCz4Ra3L2jiEAYDP2ZFjF1GezWe21YJiHeT",
+  "token_name": "Terraform07817",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07817",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmP6pycX8cBJGbmpvFXaxAz2bHnmCpQu1xcQsZmuDNboZn",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 6,
-  "quantum_flux": 6,
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "Timelost_Shrine",
+  "water": "Toxic_Lake",
   "location": {
     "x": 75,
     "y": 15
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 16
+    },
+    "topRight": {
+      "x": 76,
+      "y": 16
+    },
+    "right": {
+      "x": 76,
+      "y": 15
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 14
+    },
+    "bottom": {
+      "x": 75,
+      "y": 14
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 14
+    },
+    "left": {
+      "x": 74,
+      "y": 15
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 16
+    }
   }
 }

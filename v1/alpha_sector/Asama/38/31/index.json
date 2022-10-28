@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08558",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08558",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXhSdgyQB1RR6iioFoTyEvLjYBmdnSdghnD2Xj9pRUR6g",
+  "token_name": "Terraform14243",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14243",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmamdkv8e5Lc2U1AzyWPeGaHrcRWvcmTHVNKEsgPwUVL8i",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 38,
     "y": 31
+  },
+  "neighbors": {
+    "top": {
+      "x": 38,
+      "y": 32
+    },
+    "topRight": {
+      "x": 39,
+      "y": 32
+    },
+    "right": {
+      "x": 39,
+      "y": 31
+    },
+    "bottomRight": {
+      "x": 39,
+      "y": 30
+    },
+    "bottom": {
+      "x": 38,
+      "y": 30
+    },
+    "bottonLeft": {
+      "x": 37,
+      "y": 30
+    },
+    "left": {
+      "x": 37,
+      "y": 31
+    },
+    "topLeft": {
+      "x": 37,
+      "y": 32
+    }
   }
 }

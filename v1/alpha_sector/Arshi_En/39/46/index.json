@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03591",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03591",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNM5A2vdHq4Y6VzFzz2kknWWbJJkagxRqQ8WU1AFYhEgx",
+  "token_name": "Terraform13437",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13437",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUD5uCcsdj9gG24BjGp8KqKyJ3e4rF15b3DVY387tWPsS",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
+  "power_level": 7,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 39,
     "y": 46
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 47
+    },
+    "topRight": {
+      "x": 40,
+      "y": 47
+    },
+    "right": {
+      "x": 40,
+      "y": 46
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 45
+    },
+    "bottom": {
+      "x": 39,
+      "y": 45
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 45
+    },
+    "left": {
+      "x": 38,
+      "y": 46
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 47
+    }
   }
 }

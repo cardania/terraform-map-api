@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform17455",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17455",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeugE6LFU6mR73E5bFEUBQCh8B6v9Ee9ggF5zfHXpDJEE",
+  "token_name": "Terraform11454",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11454",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVu6QaM7V9i2ML7JJsCvQKwK7yG4Z4Tk6G6VgnFF4qRua",
   "alpha_sector": "Arshi_En",
   "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 7,
-  "primary_minerals": "Iron",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 76,
     "y": 65
+  },
+  "neighbors": {
+    "top": {
+      "x": 76,
+      "y": 66
+    },
+    "topRight": {
+      "x": 77,
+      "y": 66
+    },
+    "right": {
+      "x": 77,
+      "y": 65
+    },
+    "bottomRight": {
+      "x": 77,
+      "y": 64
+    },
+    "bottom": {
+      "x": 76,
+      "y": 64
+    },
+    "bottonLeft": {
+      "x": 75,
+      "y": 64
+    },
+    "left": {
+      "x": 75,
+      "y": 65
+    },
+    "topLeft": {
+      "x": 75,
+      "y": 66
+    }
   }
 }

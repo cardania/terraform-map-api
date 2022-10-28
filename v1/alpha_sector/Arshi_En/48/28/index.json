@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14631",
+  "token_name": "Terraform12679",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14631",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfH9UfVveYGVaXSuDPVrUtWfDSS1N7Aj4WLNaQ5TpVC3v",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12679",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcSuPY867XoWdgTyyg6MH9hUcRZpngVoiikSJ8v8eNHj5",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 7,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 48,
     "y": 28
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 29
+    },
+    "topRight": {
+      "x": 49,
+      "y": 29
+    },
+    "right": {
+      "x": 49,
+      "y": 28
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 27
+    },
+    "bottom": {
+      "x": 48,
+      "y": 27
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 27
+    },
+    "left": {
+      "x": 47,
+      "y": 28
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 29
+    }
   }
 }

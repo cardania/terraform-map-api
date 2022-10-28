@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09853",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09853",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXy3D7B1UEm9MZ4CQ2UfyYVdk4YruKXYfs9DDoy4ZAntt",
+  "token_name": "Terraform16850",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16850",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUEmxysUhN6u78uR55xShCn9NtBcDHdKzRuZRkWMG9HGs",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 6,
   "quantum_flux": 2,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Toxic_River",
   "location": {
     "x": 74,
     "y": 12
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 13
+    },
+    "topRight": {
+      "x": 75,
+      "y": 13
+    },
+    "right": {
+      "x": 75,
+      "y": 12
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 11
+    },
+    "bottom": {
+      "x": 74,
+      "y": 11
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 11
+    },
+    "left": {
+      "x": 73,
+      "y": 12
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 13
+    }
   }
 }

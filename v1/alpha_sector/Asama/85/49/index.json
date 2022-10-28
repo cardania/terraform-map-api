@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09403",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09403",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXg3ecivMNT1WNjrDT35nwfnYdG4RFnYMQgpzHueujapw",
+  "token_name": "Terraform06049",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06049",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbxdemhgNSburNJnAbUSNRYnc5ny2ERvE5PxTyBGdFbSv",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 1,
-  "quantum_flux": 7,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "None",
   "location": {
     "x": 85,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 85,
+      "y": 50
+    },
+    "topRight": {
+      "x": 86,
+      "y": 50
+    },
+    "right": {
+      "x": 86,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 86,
+      "y": 48
+    },
+    "bottom": {
+      "x": 85,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 84,
+      "y": 48
+    },
+    "left": {
+      "x": 84,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 84,
+      "y": 50
+    }
   }
 }

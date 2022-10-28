@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17787",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17787",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdASpe39rM5CAr6qqQN3zXNjvQtE1yysazxDnxLQo3Ayz",
+  "token_name": "Terraform15546",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15546",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZskHTdQmn2GvdL89oB8HUmPWZx5UyFRuWdxDSjC9pAyF",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 8,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Purple",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 77,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 77,
+      "y": 76
+    },
+    "topRight": {
+      "x": 78,
+      "y": 76
+    },
+    "right": {
+      "x": 78,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 78,
+      "y": 74
+    },
+    "bottom": {
+      "x": 77,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 76,
+      "y": 74
+    },
+    "left": {
+      "x": 76,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 76,
+      "y": 76
+    }
   }
 }

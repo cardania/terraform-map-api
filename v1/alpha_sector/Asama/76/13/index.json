@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16529",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16529",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbEQhcZo8NqCTTonQuZjtQRYwJBAiCThq9X1hwVTpHqbH",
+  "token_name": "Terraform15088",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15088",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qma48ioMNKRCTzZwLqgfEMpuBUPBGdxSf42JdXQD6CRKt8",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 5,
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 8,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 76,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 76,
+      "y": 14
+    },
+    "topRight": {
+      "x": 77,
+      "y": 14
+    },
+    "right": {
+      "x": 77,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 77,
+      "y": 12
+    },
+    "bottom": {
+      "x": 76,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 75,
+      "y": 12
+    },
+    "left": {
+      "x": 75,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 75,
+      "y": 14
+    }
   }
 }

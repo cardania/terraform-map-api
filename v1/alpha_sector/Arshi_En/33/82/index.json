@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08972",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08972",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYhQhnqdr9CVSY7x1g7YdabRAntJkLA8iWmS8XC4iveeL",
+  "token_name": "Terraform19247",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19247",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVunvPZbu2WyZyBhm3WYFoA8badhd7QEdjoUtQgQtp926",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "None",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Saltwater_River",
   "location": {
     "x": 33,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 83
+    },
+    "topRight": {
+      "x": 34,
+      "y": 83
+    },
+    "right": {
+      "x": 34,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 81
+    },
+    "bottom": {
+      "x": 33,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 81
+    },
+    "left": {
+      "x": 32,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 83
+    }
   }
 }

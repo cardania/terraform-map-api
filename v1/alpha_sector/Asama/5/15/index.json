@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04345",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04345",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPsGvVfkJRFFJe2QBfqq1T1A3U2KTkUcSojDNJCqTQuJh",
+  "token_name": "Terraform03593",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03593",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb8a2hkejbSdcHjcw7wXc7DYDu91MQvK5vXW3kaZyYYGS",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
   "power_level": 3,
   "quantum_flux": 3,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "Void_Shrine",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
   "water": "None",
   "location": {
     "x": 5,
     "y": 15
+  },
+  "neighbors": {
+    "top": {
+      "x": 5,
+      "y": 16
+    },
+    "topRight": {
+      "x": 6,
+      "y": 16
+    },
+    "right": {
+      "x": 6,
+      "y": 15
+    },
+    "bottomRight": {
+      "x": 6,
+      "y": 14
+    },
+    "bottom": {
+      "x": 5,
+      "y": 14
+    },
+    "bottonLeft": {
+      "x": 4,
+      "y": 14
+    },
+    "left": {
+      "x": 4,
+      "y": 15
+    },
+    "topLeft": {
+      "x": 4,
+      "y": 16
+    }
   }
 }

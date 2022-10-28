@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01119",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01119",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSjXovd5jGU64kuytPd7SeiozWoKmTkUWTNPPTTzXuXgz",
+  "token_name": "Terraform11039",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11039",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXdAGysMmXNdkTreSWDnoBjxK1iZFJsaUH5LMU2DJvx5h",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
+  "forests": "Palms",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 98,
     "y": 34
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 35
+    },
+    "topRight": {
+      "x": 99,
+      "y": 35
+    },
+    "right": {
+      "x": 99,
+      "y": 34
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 33
+    },
+    "bottom": {
+      "x": 98,
+      "y": 33
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 33
+    },
+    "left": {
+      "x": 97,
+      "y": 34
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 35
+    }
   }
 }

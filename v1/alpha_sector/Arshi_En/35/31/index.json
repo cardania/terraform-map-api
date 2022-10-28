@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00013",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00013",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf9kvPU1GZpziAjyfNFpzmVNaaB9Pv2VhDLQWxNfTYKXJ",
+  "token_name": "Terraform15518",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15518",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaueJ1gpH6avummpWsyT8oYBemhnWUuPij1E4JThLtQ8z",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 4,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 4,
+  "quantum_flux": 5,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 35,
     "y": 31
+  },
+  "neighbors": {
+    "top": {
+      "x": 35,
+      "y": 32
+    },
+    "topRight": {
+      "x": 36,
+      "y": 32
+    },
+    "right": {
+      "x": 36,
+      "y": 31
+    },
+    "bottomRight": {
+      "x": 36,
+      "y": 30
+    },
+    "bottom": {
+      "x": 35,
+      "y": 30
+    },
+    "bottonLeft": {
+      "x": 34,
+      "y": 30
+    },
+    "left": {
+      "x": 34,
+      "y": 31
+    },
+    "topLeft": {
+      "x": 34,
+      "y": 32
+    }
   }
 }

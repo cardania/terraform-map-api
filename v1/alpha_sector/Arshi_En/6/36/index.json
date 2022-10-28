@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09611",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09611",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYJnGqDZ1tb3NGrD2M7aRa41XzEy3Pv8LFp5JdUXaMnmm",
+  "token_name": "Terraform18150",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18150",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSnPnKMd5qMEBN762UM7EtoUcicAm6fzKVuUKQYAiFtim",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "quantum_flux": 9,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 6,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 37
+    },
+    "topRight": {
+      "x": 7,
+      "y": 37
+    },
+    "right": {
+      "x": 7,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 35
+    },
+    "bottom": {
+      "x": 6,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 35
+    },
+    "left": {
+      "x": 5,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 37
+    }
   }
 }

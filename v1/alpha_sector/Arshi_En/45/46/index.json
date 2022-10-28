@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14248",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14248",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVhaFXKw5Wa1vPN6moeY8KTRKe6NFoXetvZdq72NgAkWz",
+  "token_name": "Terraform14401",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14401",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfPYTKHPC3WL9haNEYDTCaysAg32LN31juqfndJLJYdj2",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 8,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 45,
     "y": 46
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 47
+    },
+    "topRight": {
+      "x": 46,
+      "y": 47
+    },
+    "right": {
+      "x": 46,
+      "y": 46
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 45
+    },
+    "bottom": {
+      "x": 45,
+      "y": 45
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 45
+    },
+    "left": {
+      "x": 44,
+      "y": 46
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 47
+    }
   }
 }

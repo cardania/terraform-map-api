@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13362",
+  "token_name": "Terraform12394",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13362",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNYd1rdErrAWY3WAwLN7MwVFn4sHEvEama3sHdu8B5SJu",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12394",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZGwVVdqP7q3decV97dCpBBu2BASia4pEhCrjwF9ioBoC",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 2,
+  "quantum_flux": 7,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "Cursed_Lake",
   "location": {
     "x": 9,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 65
+    },
+    "topRight": {
+      "x": 10,
+      "y": 65
+    },
+    "right": {
+      "x": 10,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 63
+    },
+    "bottom": {
+      "x": 9,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 63
+    },
+    "left": {
+      "x": 8,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 65
+    }
   }
 }

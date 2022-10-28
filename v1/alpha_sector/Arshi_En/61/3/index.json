@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09054",
+  "token_name": "Terraform01654",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09054",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYp2vyZ6dxkw4tvMLYbxzcwpHXc9yS3wp88nGLHWVpy7k",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01654",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXVMHxxrqdzCzokjiq6DNeM2m3mWYavuBNmX5qK531qLk",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 61,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 4
+    },
+    "topRight": {
+      "x": 62,
+      "y": 4
+    },
+    "right": {
+      "x": 62,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 2
+    },
+    "bottom": {
+      "x": 61,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 2
+    },
+    "left": {
+      "x": 60,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 4
+    }
   }
 }

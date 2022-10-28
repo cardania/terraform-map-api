@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05049",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05049",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdNyuAJbPiLUZNL6PnPTwwDv5sC98RMzoG2QRJGee1PJ4",
+  "token_name": "Terraform02630",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02630",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQM3LMxf8fh2sjb6Z8RPnk7zV7FReYfhWoiaBHNT47aDe",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
-  "quantum_flux": 3,
+  "power_level": 1,
+  "quantum_flux": 5,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
-  "water": "Toxic_River",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "Toxic_Lake",
   "location": {
     "x": 44,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 44,
+      "y": 86
+    },
+    "topRight": {
+      "x": 45,
+      "y": 86
+    },
+    "right": {
+      "x": 45,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 45,
+      "y": 84
+    },
+    "bottom": {
+      "x": 44,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 43,
+      "y": 84
+    },
+    "left": {
+      "x": 43,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 43,
+      "y": 86
+    }
   }
 }

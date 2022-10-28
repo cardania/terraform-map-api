@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19335",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19335",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qme4qDE6FQTB1meshTEtP997qj8TTUmmrsZScR2dUMMp7F",
+  "token_name": "Terraform01091",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01091",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdt1KwVP64rJ6bfLzZUrsEf216axq9MHMmVhqH2vs25ar",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 6,
-  "quantum_flux": 1,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 44,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 44,
+      "y": 65
+    },
+    "topRight": {
+      "x": 45,
+      "y": 65
+    },
+    "right": {
+      "x": 45,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 45,
+      "y": 63
+    },
+    "bottom": {
+      "x": 44,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 43,
+      "y": 63
+    },
+    "left": {
+      "x": 43,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 43,
+      "y": 65
+    }
   }
 }

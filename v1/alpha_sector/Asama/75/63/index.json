@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11492",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11492",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSuu44DV4xfiMGADrn954b7SHesQSne1q3pLQi44zwTJt",
+  "token_name": "Terraform07075",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07075",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSnzYw65eqGikf1MW9e2QTSNR7PMTWaGyrcbtsY5jZn9p",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 7,
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 3,
   "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 75,
     "y": 63
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 64
+    },
+    "topRight": {
+      "x": 76,
+      "y": 64
+    },
+    "right": {
+      "x": 76,
+      "y": 63
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 62
+    },
+    "bottom": {
+      "x": 75,
+      "y": 62
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 62
+    },
+    "left": {
+      "x": 74,
+      "y": 63
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 64
+    }
   }
 }

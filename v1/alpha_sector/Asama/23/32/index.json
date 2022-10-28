@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16708",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16708",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPGpvDuXZNVP47PcyCb7XPr3xfgkrpWEA6myozUaaQKyr",
+  "token_name": "Terraform05287",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05287",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmW9iEWBDCcUfCDRLvpETT8wAns5714uauP3AvLF6QJvxH",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 7,
-  "quantum_flux": 8,
-  "primary_minerals": "Cardanium",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Solar_Shrine",
+  "ruins": "None",
+  "shrine": "Quantum_Shrine",
   "water": "Freshwater_Lake",
   "location": {
     "x": 23,
     "y": 32
+  },
+  "neighbors": {
+    "top": {
+      "x": 23,
+      "y": 33
+    },
+    "topRight": {
+      "x": 24,
+      "y": 33
+    },
+    "right": {
+      "x": 24,
+      "y": 32
+    },
+    "bottomRight": {
+      "x": 24,
+      "y": 31
+    },
+    "bottom": {
+      "x": 23,
+      "y": 31
+    },
+    "bottonLeft": {
+      "x": 22,
+      "y": 31
+    },
+    "left": {
+      "x": 22,
+      "y": 32
+    },
+    "topLeft": {
+      "x": 22,
+      "y": 33
+    }
   }
 }

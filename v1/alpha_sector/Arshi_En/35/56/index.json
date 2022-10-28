@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13315",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13315",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbUmE31QAX5XEJ1SbxVAD8NYgsPNUWPfauMUQUY1Z4qef",
+  "token_name": "Terraform06381",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06381",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRPKXD7q7QjdjHb2cGmWGUJ9cxAmwSrngB2BeGZTyRUnj",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "None",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 35,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 35,
+      "y": 57
+    },
+    "topRight": {
+      "x": 36,
+      "y": 57
+    },
+    "right": {
+      "x": 36,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 36,
+      "y": 55
+    },
+    "bottom": {
+      "x": 35,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 34,
+      "y": 55
+    },
+    "left": {
+      "x": 34,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 34,
+      "y": 57
+    }
   }
 }

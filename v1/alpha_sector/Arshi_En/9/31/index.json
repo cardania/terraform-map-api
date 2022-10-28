@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02417",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02417",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXNxD5Req3QStkZHmxBdpSM9jrRu5tTFaH5vGhM43YE9M",
+  "token_name": "Terraform07479",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07479",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZvaPwwG9n6sp9hbEW2PdUsP8i3penMGkoXK3oUtDxDsv",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 1,
   "quantum_flux": 2,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Void_Shrine",
-  "water": "None",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 9,
     "y": 31
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 32
+    },
+    "topRight": {
+      "x": 10,
+      "y": 32
+    },
+    "right": {
+      "x": 10,
+      "y": 31
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 30
+    },
+    "bottom": {
+      "x": 9,
+      "y": 30
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 30
+    },
+    "left": {
+      "x": 8,
+      "y": 31
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 32
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02468",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02468",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPgpsrZb9HvV7L1KMznjXEzqvcqiNFKQW45vpbutAg9LS",
+  "token_name": "Terraform05627",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05627",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcN9cNBgVTEoY1ya5HKaEz38hrF2N6xjgY4x6EMfJyq85",
   "alpha_sector": "Asama",
   "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 5,
-  "quantum_flux": 8,
-  "primary_minerals": "Radium",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "Toxic_River",
   "location": {
     "x": 72,
     "y": 93
+  },
+  "neighbors": {
+    "top": {
+      "x": 72,
+      "y": 94
+    },
+    "topRight": {
+      "x": 73,
+      "y": 94
+    },
+    "right": {
+      "x": 73,
+      "y": 93
+    },
+    "bottomRight": {
+      "x": 73,
+      "y": 92
+    },
+    "bottom": {
+      "x": 72,
+      "y": 92
+    },
+    "bottonLeft": {
+      "x": 71,
+      "y": 92
+    },
+    "left": {
+      "x": 71,
+      "y": 93
+    },
+    "topLeft": {
+      "x": 71,
+      "y": 94
+    }
   }
 }

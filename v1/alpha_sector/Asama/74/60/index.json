@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01128",
+  "token_name": "Terraform09257",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01128",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUA1kn54woQVxDoJpSW99jNPAqkfjyhp3JxJpf8eznh69",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09257",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWj3ombcKtjYzoPGq8Ak61qngEiUmtV1CwSaqkbEGz8qe",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 4,
-  "quantum_flux": 9,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 2,
+  "quantum_flux": 8,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Toxic_River",
   "location": {
     "x": 74,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 61
+    },
+    "topRight": {
+      "x": 75,
+      "y": 61
+    },
+    "right": {
+      "x": 75,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 59
+    },
+    "bottom": {
+      "x": 74,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 59
+    },
+    "left": {
+      "x": 73,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 61
+    }
   }
 }

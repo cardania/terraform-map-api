@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16550",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16550",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTKYGJDMY4kGvYxPgJMjJjbLuKt7BqgSXKRuyyVBVqb9h",
+  "token_name": "Terraform10865",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10865",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaWbYx2jnaHChfCNyuR8MKUizZB2jiPgZTUKWBm44xgqN",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Palms",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 4,
   "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_Lake",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 76,
     "y": 35
+  },
+  "neighbors": {
+    "top": {
+      "x": 76,
+      "y": 36
+    },
+    "topRight": {
+      "x": 77,
+      "y": 36
+    },
+    "right": {
+      "x": 77,
+      "y": 35
+    },
+    "bottomRight": {
+      "x": 77,
+      "y": 34
+    },
+    "bottom": {
+      "x": 76,
+      "y": 34
+    },
+    "bottonLeft": {
+      "x": 75,
+      "y": 34
+    },
+    "left": {
+      "x": 75,
+      "y": 35
+    },
+    "topLeft": {
+      "x": 75,
+      "y": 36
+    }
   }
 }

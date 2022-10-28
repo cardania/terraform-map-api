@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16628",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16628",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXg5y4aTV9mxHvcc12qUH9P9q7WXWMtizaX2fhuPPkPyp",
+  "token_name": "Terraform03841",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03841",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdJiBqrnaJ9dHJZK2bEWz3TMVSdFn7VFEZN5h54zezscd",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "Prismaleaf",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 6,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 3,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 43,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 43,
+      "y": 76
+    },
+    "topRight": {
+      "x": 44,
+      "y": 76
+    },
+    "right": {
+      "x": 44,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 44,
+      "y": 74
+    },
+    "bottom": {
+      "x": 43,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 42,
+      "y": 74
+    },
+    "left": {
+      "x": 42,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 42,
+      "y": 76
+    }
   }
 }

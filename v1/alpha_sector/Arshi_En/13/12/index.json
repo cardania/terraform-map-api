@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02571",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02571",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmac9t34i4FX5ru7nyaj1w7c7szt1MUQmnakd46dNcUwek",
+  "token_name": "Terraform05874",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05874",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmS9UDrbzDyTqvHtd9wD8T4GaH8ZU7jLKvPEbxRX5LM35G",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 3,
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 5,
   "quantum_flux": 1,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 13,
     "y": 12
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 13
+    },
+    "topRight": {
+      "x": 14,
+      "y": 13
+    },
+    "right": {
+      "x": 14,
+      "y": 12
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 11
+    },
+    "bottom": {
+      "x": 13,
+      "y": 11
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 11
+    },
+    "left": {
+      "x": 12,
+      "y": 12
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 13
+    }
   }
 }

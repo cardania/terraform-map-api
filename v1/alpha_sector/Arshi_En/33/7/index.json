@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11662",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11662",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmU1TEgc79Qb3cBXsxAF8zz6vNHqzeqZikZ9sqXi3mK7yX",
+  "token_name": "Terraform00019",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00019",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSNVtFz94UXy8jD4kocyVTXr9joEnWtVpygAhTCkuPD9Z",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "power_level": 7,
+  "quantum_flux": 8,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Saltwater_Lake",
+  "shrine": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 33,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 8
+    },
+    "topRight": {
+      "x": 34,
+      "y": 8
+    },
+    "right": {
+      "x": 34,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 6
+    },
+    "bottom": {
+      "x": 33,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 6
+    },
+    "left": {
+      "x": 32,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 8
+    }
   }
 }

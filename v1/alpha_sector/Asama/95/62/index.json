@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08075",
+  "token_name": "Terraform01706",
   "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08075",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSCC8oFAHjjUH7uJPp9KbQWbShmNLRcEEVqgMJhhxLrWM",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01706",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRc57bhebqrcTqDLEN4jQkgwUfMoUqZLtVDWnrsfL52nP",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 3,
-  "quantum_flux": 9,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 95,
     "y": 62
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 63
+    },
+    "topRight": {
+      "x": 96,
+      "y": 63
+    },
+    "right": {
+      "x": 96,
+      "y": 62
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 61
+    },
+    "bottom": {
+      "x": 95,
+      "y": 61
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 61
+    },
+    "left": {
+      "x": 94,
+      "y": 62
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 63
+    }
   }
 }

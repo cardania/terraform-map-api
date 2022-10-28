@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10667",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10667",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSqPRDB8jQNtHpWSUXRa7PJRpUrpENiJXVV8Q273pyYAf",
+  "token_name": "Terraform16041",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16041",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVbkTcVjGEAFtGWQgLn3yH5Yo9bx44eNbjuiKZJHWeSFv",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Ultrasaurs",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 4,
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
   "quantum_flux": 7,
-  "primary_minerals": "Copper",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 84,
     "y": 45
+  },
+  "neighbors": {
+    "top": {
+      "x": 84,
+      "y": 46
+    },
+    "topRight": {
+      "x": 85,
+      "y": 46
+    },
+    "right": {
+      "x": 85,
+      "y": 45
+    },
+    "bottomRight": {
+      "x": 85,
+      "y": 44
+    },
+    "bottom": {
+      "x": 84,
+      "y": 44
+    },
+    "bottonLeft": {
+      "x": 83,
+      "y": 44
+    },
+    "left": {
+      "x": 83,
+      "y": 45
+    },
+    "topLeft": {
+      "x": 83,
+      "y": 46
+    }
   }
 }

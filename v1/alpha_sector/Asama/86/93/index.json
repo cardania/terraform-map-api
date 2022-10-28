@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16040",
+  "token_name": "Terraform14402",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16040",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUSZSova7xSH471NhSSE6Db5svNLU6fbsLV877N5hkGvi",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14402",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUxh9fQ9733H3AynUVdvg1mJeGnFBDMWprQmxM66A7Q3n",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 3,
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 4,
+  "quantum_flux": 1,
   "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 86,
     "y": 93
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 94
+    },
+    "topRight": {
+      "x": 87,
+      "y": 94
+    },
+    "right": {
+      "x": 87,
+      "y": 93
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 92
+    },
+    "bottom": {
+      "x": 86,
+      "y": 92
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 92
+    },
+    "left": {
+      "x": 85,
+      "y": 93
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 94
+    }
   }
 }

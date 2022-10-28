@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform11294",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11294",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdQ3qactXawoauL7K22TPyRu8w1VM3snTxvFtpeg6a2WX",
+  "token_name": "Terraform08762",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08762",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQsZLPNPxDVEgSWiakdsh3mqKj6tDQ9aNAXHC6nQ1kzpA",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
   "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "Radium",
+  "quantum_flux": 5,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "Ancient_Ruins",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 72,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 72,
+      "y": 87
+    },
+    "topRight": {
+      "x": 73,
+      "y": 87
+    },
+    "right": {
+      "x": 73,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 73,
+      "y": 85
+    },
+    "bottom": {
+      "x": 72,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 71,
+      "y": 85
+    },
+    "left": {
+      "x": 71,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 71,
+      "y": 87
+    }
   }
 }

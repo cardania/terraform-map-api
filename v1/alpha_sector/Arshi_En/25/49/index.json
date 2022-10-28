@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08724",
+  "token_name": "Terraform08589",
   "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08724",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcafSvLGESFPDiRqDrnWqoorpmEPo42gT4owf9NHPxWnu",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08589",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfBJePYCQiSS8wsErBxWboPxxG1HFNvx8W3qaEs4kRPTu",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "Prismatic_Motes",
-  "bunker": "Cardanium_Bunker",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 2,
+  "power_level": 2,
+  "quantum_flux": 9,
   "primary_minerals": "None",
   "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 25,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 25,
+      "y": 50
+    },
+    "topRight": {
+      "x": 26,
+      "y": 50
+    },
+    "right": {
+      "x": 26,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 26,
+      "y": 48
+    },
+    "bottom": {
+      "x": 25,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 24,
+      "y": 48
+    },
+    "left": {
+      "x": 24,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 24,
+      "y": 50
+    }
   }
 }

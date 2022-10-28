@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09033",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09033",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmS6pqSt5bZiRk2ko126FpqaUhVtYk2U2pWywENFuBr1SL",
+  "token_name": "Terraform12475",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12475",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQDhfGqTkun45R9sqF7KxmhLP5mE4Gs8MWgtq439FUvoL",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "power_level": 8,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 60,
     "y": 72
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 73
+    },
+    "topRight": {
+      "x": 61,
+      "y": 73
+    },
+    "right": {
+      "x": 61,
+      "y": 72
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 71
+    },
+    "bottom": {
+      "x": 60,
+      "y": 71
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 71
+    },
+    "left": {
+      "x": 59,
+      "y": 72
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 73
+    }
   }
 }

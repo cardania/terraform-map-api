@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17759",
+  "token_name": "Terraform04186",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17759",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbHzdm2UrHLkBjSbETo5Gxf9ZWEuNbFwS7a1ovn3Vv12C",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04186",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVz8LULzGfdYioki9DUKAVh6V8586ihUzWsvyy9PwfCoJ",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 3,
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 5,
+  "quantum_flux": 6,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 8,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 8,
+      "y": 31
+    },
+    "topRight": {
+      "x": 9,
+      "y": 31
+    },
+    "right": {
+      "x": 9,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 9,
+      "y": 29
+    },
+    "bottom": {
+      "x": 8,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 7,
+      "y": 29
+    },
+    "left": {
+      "x": 7,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 7,
+      "y": 31
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03670",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03670",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVpa3sCwpozNBQAxvqJGT5MsWz4GMyc9cS3FBcv19YJ3u",
+  "token_name": "Terraform07173",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07173",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNrqNsUBWPPg6rJMVJbUF93FH7ZY3GcLSRoU2TsvSwFt2",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "None",
-  "water": "Toxic_Lake",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "Timelost_Shrine",
+  "water": "None",
   "location": {
     "x": 13,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 8
+    },
+    "topRight": {
+      "x": 14,
+      "y": 8
+    },
+    "right": {
+      "x": 14,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 6
+    },
+    "bottom": {
+      "x": 13,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 6
+    },
+    "left": {
+      "x": 12,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 8
+    }
   }
 }

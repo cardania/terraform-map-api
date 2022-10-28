@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06004",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06004",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPEJonzLYf8MX5Nd5DHGPqwMVufWf1B88WEhsmn8gtuYD",
+  "token_name": "Terraform04912",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04912",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbQ9zttWEhgDU4BcczhNFqAiytcWwLkWNvJJUAUZxLWGa",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "Fossils",
   "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 92,
     "y": 34
+  },
+  "neighbors": {
+    "top": {
+      "x": 92,
+      "y": 35
+    },
+    "topRight": {
+      "x": 93,
+      "y": 35
+    },
+    "right": {
+      "x": 93,
+      "y": 34
+    },
+    "bottomRight": {
+      "x": 93,
+      "y": 33
+    },
+    "bottom": {
+      "x": 92,
+      "y": 33
+    },
+    "bottonLeft": {
+      "x": 91,
+      "y": 33
+    },
+    "left": {
+      "x": 91,
+      "y": 34
+    },
+    "topLeft": {
+      "x": 91,
+      "y": 35
+    }
   }
 }

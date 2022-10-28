@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18119",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18119",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPcK7DuSmVv6hDA3PckCmqpWytWJfMk29zRB4qPsngiG3",
+  "token_name": "Terraform04191",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04191",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVsjhijUen3j3hUQ3ccFrHK5n7gw42zvG3fyBFcG5L2w2",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 9,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 4,
     "y": 65
+  },
+  "neighbors": {
+    "top": {
+      "x": 4,
+      "y": 66
+    },
+    "topRight": {
+      "x": 5,
+      "y": 66
+    },
+    "right": {
+      "x": 5,
+      "y": 65
+    },
+    "bottomRight": {
+      "x": 5,
+      "y": 64
+    },
+    "bottom": {
+      "x": 4,
+      "y": 64
+    },
+    "bottonLeft": {
+      "x": 3,
+      "y": 64
+    },
+    "left": {
+      "x": 3,
+      "y": 65
+    },
+    "topLeft": {
+      "x": 3,
+      "y": 66
+    }
   }
 }

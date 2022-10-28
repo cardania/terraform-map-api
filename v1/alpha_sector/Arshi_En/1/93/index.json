@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02992",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02992",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXX2hmw3h8qSU5Tw4eEkmmDobC6nvNqjQrDknPz3ha8XT",
+  "token_name": "Terraform11619",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11619",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb4Fu8iwn3yyJNQJgCSckUP6Nqp2UFbGE2HeSVpAjiRuu",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 8,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Quantum_Shrine",
+  "ruins": "None",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 1,
     "y": 93
+  },
+  "neighbors": {
+    "top": {
+      "x": 1,
+      "y": 94
+    },
+    "topRight": {
+      "x": 2,
+      "y": 94
+    },
+    "right": {
+      "x": 2,
+      "y": 93
+    },
+    "bottomRight": {
+      "x": 2,
+      "y": 92
+    },
+    "bottom": {
+      "x": 1,
+      "y": 92
+    },
+    "bottonLeft": {
+      "x": 0,
+      "y": 92
+    },
+    "left": {
+      "x": 0,
+      "y": 93
+    },
+    "topLeft": {
+      "x": 0,
+      "y": 94
+    }
   }
 }

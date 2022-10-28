@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01192",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01192",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXqbcqAaB5uNz5GyJkuBnZNMpmiMGxw5H3qn4UNRL4VvM",
+  "token_name": "Terraform05291",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05291",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNQy9YWa3dgUppZsGfiM86XwRhX1gEiwKZwLnjWAZKtx9",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 6,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 83,
     "y": 38
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 39
+    },
+    "topRight": {
+      "x": 84,
+      "y": 39
+    },
+    "right": {
+      "x": 84,
+      "y": 38
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 37
+    },
+    "bottom": {
+      "x": 83,
+      "y": 37
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 37
+    },
+    "left": {
+      "x": 82,
+      "y": 38
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 39
+    }
   }
 }

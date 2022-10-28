@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14233",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14233",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNutEtaHwhyvXv6owHfaKciu66D4rs1UsxYcxWPXkACcP",
+  "token_name": "Terraform02293",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02293",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf6rEJYQWLXksqZsKhFYktdkU8ieXW7nKwhQb9LTBy9Ht",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
   "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Saltwater_River",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 63,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 63,
+      "y": 3
+    },
+    "topRight": {
+      "x": 64,
+      "y": 3
+    },
+    "right": {
+      "x": 64,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 64,
+      "y": 1
+    },
+    "bottom": {
+      "x": 63,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 62,
+      "y": 1
+    },
+    "left": {
+      "x": 62,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 62,
+      "y": 3
+    }
   }
 }

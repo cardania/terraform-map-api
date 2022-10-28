@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform07552",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07552",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWMYTSci8NDkTXzw1jApgShVRuwH411JBiYkVsnPTvX21",
+  "token_name": "Terraform12291",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12291",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXtMXq6MKcf31ZvpTEbyoHhnWhjULo7L1DvAkaavQSNEP",
   "alpha_sector": "Asama",
   "activity": "Magnetic_Activity",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Evergreen",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 68,
     "y": 26
+  },
+  "neighbors": {
+    "top": {
+      "x": 68,
+      "y": 27
+    },
+    "topRight": {
+      "x": 69,
+      "y": 27
+    },
+    "right": {
+      "x": 69,
+      "y": 26
+    },
+    "bottomRight": {
+      "x": 69,
+      "y": 25
+    },
+    "bottom": {
+      "x": 68,
+      "y": 25
+    },
+    "bottonLeft": {
+      "x": 67,
+      "y": 25
+    },
+    "left": {
+      "x": 67,
+      "y": 26
+    },
+    "topLeft": {
+      "x": 67,
+      "y": 27
+    }
   }
 }

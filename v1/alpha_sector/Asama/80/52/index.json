@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02304",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02304",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXEWrHm8Qu8gsVD44mwTts7Dns5AF6QqUXSoP61wpcAwF",
+  "token_name": "Terraform00589",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00589",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTNNf5FBziL2Cs7AqfvDfrw16hMGW13mc3CHCcXHHg35B",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 80,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 80,
+      "y": 53
+    },
+    "topRight": {
+      "x": 81,
+      "y": 53
+    },
+    "right": {
+      "x": 81,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 81,
+      "y": 51
+    },
+    "bottom": {
+      "x": 80,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 79,
+      "y": 51
+    },
+    "left": {
+      "x": 79,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 79,
+      "y": 53
+    }
   }
 }

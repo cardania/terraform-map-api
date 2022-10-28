@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19766",
+  "token_name": "Terraform19790",
   "land_type": "Prismatic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19766",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQKrS8BgQ4P4oy1iccRdm62RUp689yeurhv34hRB2DEum",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19790",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSfQaLgZVJyb4Qkmo7HYXKQ56DDVKeXJLgN1Cq88y57Af",
   "alpha_sector": "Foundation",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 7,
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 9,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 7,
     "y": 11
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 12
+    },
+    "topRight": {
+      "x": 8,
+      "y": 12
+    },
+    "right": {
+      "x": 8,
+      "y": 11
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 10
+    },
+    "bottom": {
+      "x": 7,
+      "y": 10
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 10
+    },
+    "left": {
+      "x": 6,
+      "y": 11
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 12
+    }
   }
 }

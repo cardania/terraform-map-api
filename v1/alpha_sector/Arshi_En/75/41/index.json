@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03477",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03477",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaaoAYgZ9RuzNLEMg5iUdwxNSzbF3WDqaWQYzsKR22KnE",
+  "token_name": "Terraform10792",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10792",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPFUjvkLnRCximqKbWE9Cr3F3Bh76UbfS8MCGwmVePQAA",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 4,
+  "quantum_flux": 7,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
-  "water": "Toxic_River",
+  "ruins": "Alien_Technology_Timelost",
+  "shrine": "Timelost_Shrine",
+  "water": "None",
   "location": {
     "x": 75,
     "y": 41
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 42
+    },
+    "topRight": {
+      "x": 76,
+      "y": 42
+    },
+    "right": {
+      "x": 76,
+      "y": 41
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 40
+    },
+    "bottom": {
+      "x": 75,
+      "y": 40
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 40
+    },
+    "left": {
+      "x": 74,
+      "y": 41
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 42
+    }
   }
 }

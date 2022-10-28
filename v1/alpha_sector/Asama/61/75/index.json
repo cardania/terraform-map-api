@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10755",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10755",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNLrJmyLB39AwjDBrPnEqma4kQxFw3Fa6ybZn6dewC4u2",
+  "token_name": "Terraform15914",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15914",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qma5v21KHJ1cn65hKt2Ycc7zYR7gEgRr8ewPajis4UhSHB",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "None",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 3,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 61,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 76
+    },
+    "topRight": {
+      "x": 62,
+      "y": 76
+    },
+    "right": {
+      "x": 62,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 74
+    },
+    "bottom": {
+      "x": 61,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 74
+    },
+    "left": {
+      "x": 60,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 76
+    }
   }
 }

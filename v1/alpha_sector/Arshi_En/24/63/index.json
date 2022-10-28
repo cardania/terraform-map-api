@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09742",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09742",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPU62oZG3JzoZDb7nGfgcrSme6PmTr8VLcEKmUNyDHYNo",
+  "token_name": "Terraform07245",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07245",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSuuMaT9ApCFJ2eVipk4VmSTVNShZavsN7oyiT5QUcejE",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 7,
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 6,
   "quantum_flux": 1,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Timelost_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 24,
     "y": 63
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 64
+    },
+    "topRight": {
+      "x": 25,
+      "y": 64
+    },
+    "right": {
+      "x": 25,
+      "y": 63
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 62
+    },
+    "bottom": {
+      "x": 24,
+      "y": 62
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 62
+    },
+    "left": {
+      "x": 23,
+      "y": 63
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 64
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09271",
+  "token_name": "Terraform15637",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09271",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmduw1BsfDx2BiEkFuEZXwkpoU232q9GTTRi9RDLgAy6Jo",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15637",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSqSy7VRq58a73t3kQHQ8sXwTnsa699Hukipd9WFijn2W",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 2,
+  "power_level": 8,
   "quantum_flux": 6,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 17,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 31
+    },
+    "topRight": {
+      "x": 18,
+      "y": 31
+    },
+    "right": {
+      "x": 18,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 29
+    },
+    "bottom": {
+      "x": 17,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 29
+    },
+    "left": {
+      "x": 16,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 31
+    }
   }
 }

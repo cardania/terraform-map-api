@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12403",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12403",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXrMEKQrzrZHNCehJdL2skxvG4G9CGFVMDWBJ2fFKKpxP",
+  "token_name": "Terraform04348",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04348",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYrghhBN1K8C2hBnww6rc8Q3FqRJMiVC5vaAEoibMBfaK",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "Critters",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
   "forests": "Palms",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "lithoglyphs": "None",
   "power_level": 5,
-  "quantum_flux": 8,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "Solar_Shrine",
+  "water": "None",
   "location": {
     "x": 81,
     "y": 70
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 71
+    },
+    "topRight": {
+      "x": 82,
+      "y": 71
+    },
+    "right": {
+      "x": 82,
+      "y": 70
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 69
+    },
+    "bottom": {
+      "x": 81,
+      "y": 69
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 69
+    },
+    "left": {
+      "x": 80,
+      "y": 70
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 71
+    }
   }
 }

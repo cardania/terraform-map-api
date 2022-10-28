@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18258",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18258",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmS18VmZzgcybjyXizHkAKaCHoZYBDxG3jdiyRuAKmY3Z9",
+  "token_name": "Terraform07546",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07546",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbjcNZhHNnLCcNUKhJCxGbajQJbe1vU5BnpcNfqTShTxe",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 9,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "power_level": 8,
+  "quantum_flux": 8,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 78,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 78,
+      "y": 3
+    },
+    "topRight": {
+      "x": 79,
+      "y": 3
+    },
+    "right": {
+      "x": 79,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 79,
+      "y": 1
+    },
+    "bottom": {
+      "x": 78,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 77,
+      "y": 1
+    },
+    "left": {
+      "x": 77,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 77,
+      "y": 3
+    }
   }
 }

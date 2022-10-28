@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11366",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11366",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZmmtQKagMbUYd6ERBDMh2bKrsuEa3MDzCWcMgH4r1uTd",
+  "token_name": "Terraform11858",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11858",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXgFa7M2p5F6u6uC7ae7coQMrBoRT8ySY58XCxRAz62PZ",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 5,
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 2,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 97,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 8
+    },
+    "topRight": {
+      "x": 98,
+      "y": 8
+    },
+    "right": {
+      "x": 98,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 6
+    },
+    "bottom": {
+      "x": 97,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 6
+    },
+    "left": {
+      "x": 96,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 8
+    }
   }
 }

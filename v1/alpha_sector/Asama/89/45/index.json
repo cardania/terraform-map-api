@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16195",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16195",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWh2mxVy3cPh4rpuxdRkMTi7BorGpfPepayTphjdNZVo5",
+  "token_name": "Terraform01380",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01380",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSDB7SSeKFuzXaaBVUDckjrNGCqCB1tqnPXRGyC1PZ4Sp",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "bunker": "None",
   "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 89,
     "y": 45
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 46
+    },
+    "topRight": {
+      "x": 90,
+      "y": 46
+    },
+    "right": {
+      "x": 90,
+      "y": 45
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 44
+    },
+    "bottom": {
+      "x": 89,
+      "y": 44
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 44
+    },
+    "left": {
+      "x": 88,
+      "y": 45
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 46
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02286",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02286",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdaEj48tgbTt9VLz4LUmcjCBVJvVWxx79x4LUQcob1RXQ",
+  "token_name": "Terraform01773",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01773",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeD87BSb2qBYyqvKKZZ9gwptjJoZY8qxnkXd9mxVkKukg",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
-  "quantum_flux": 7,
-  "primary_minerals": "Cardanium",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 37,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 37,
+      "y": 31
+    },
+    "topRight": {
+      "x": 38,
+      "y": 31
+    },
+    "right": {
+      "x": 38,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 38,
+      "y": 29
+    },
+    "bottom": {
+      "x": 37,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 36,
+      "y": 29
+    },
+    "left": {
+      "x": 36,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 36,
+      "y": 31
+    }
   }
 }

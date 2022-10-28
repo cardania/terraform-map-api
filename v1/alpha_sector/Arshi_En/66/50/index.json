@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01660",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01660",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYLUwpCNrptyDmmuooDBtGB1RXZG9hR2zMzKyw2ShLqXT",
+  "token_name": "Terraform16655",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16655",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUNqfCnVyK4stn32s7qTzsZVeABKN5mQjdnbVxEPwxeCe",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 6,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "None",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
   "water": "Freshwater_River",
   "location": {
     "x": 66,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 66,
+      "y": 51
+    },
+    "topRight": {
+      "x": 67,
+      "y": 51
+    },
+    "right": {
+      "x": 67,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 67,
+      "y": 49
+    },
+    "bottom": {
+      "x": 66,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 65,
+      "y": 49
+    },
+    "left": {
+      "x": 65,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 65,
+      "y": 51
+    }
   }
 }

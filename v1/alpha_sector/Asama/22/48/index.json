@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11844",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11844",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQhQ79BipjBe75jFJ3DxbsZz83pNuzD35wdj1rEPEadML",
+  "token_name": "Terraform19355",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19355",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf13GocSehHhPntQj5Zo1Hpm5NyV1Qqof9C3FRoyisJiL",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
+  "hazardous_flora": "Nemesis_Hydra",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
+  "power_level": 7,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 22,
     "y": 48
+  },
+  "neighbors": {
+    "top": {
+      "x": 22,
+      "y": 49
+    },
+    "topRight": {
+      "x": 23,
+      "y": 49
+    },
+    "right": {
+      "x": 23,
+      "y": 48
+    },
+    "bottomRight": {
+      "x": 23,
+      "y": 47
+    },
+    "bottom": {
+      "x": 22,
+      "y": 47
+    },
+    "bottonLeft": {
+      "x": 21,
+      "y": 47
+    },
+    "left": {
+      "x": 21,
+      "y": 48
+    },
+    "topLeft": {
+      "x": 21,
+      "y": 49
+    }
   }
 }

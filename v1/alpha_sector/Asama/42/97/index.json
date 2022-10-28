@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13530",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13530",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUEthnYnkLD4f5dVBgEmL2VJSroswDjzBHPDFMnTr2PMT",
+  "token_name": "Terraform07284",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07284",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNvWWZpkWwGPz9mUmfNQ21wjdEMiHw7WnvzjWCjiA7cGR",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "None",
   "location": {
     "x": 42,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 42,
+      "y": 98
+    },
+    "topRight": {
+      "x": 43,
+      "y": 98
+    },
+    "right": {
+      "x": 43,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 43,
+      "y": 96
+    },
+    "bottom": {
+      "x": 42,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 41,
+      "y": 96
+    },
+    "left": {
+      "x": 41,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 41,
+      "y": 98
+    }
   }
 }

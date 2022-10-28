@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14982",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14982",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb5muCdQ7ab4kHJYVdgwdNhq6AQWcDYWU6s2RoEScf4Wi",
+  "token_name": "Terraform09994",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09994",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNsoRGu5yj1Sf7UhgRQBdkK91KqYkWASn5mjsPbRiExtN",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 100,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 100,
+      "y": 50
+    },
+    "topRight": {
+      "x": 101,
+      "y": 50
+    },
+    "right": {
+      "x": 101,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 101,
+      "y": 48
+    },
+    "bottom": {
+      "x": 100,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 99,
+      "y": 48
+    },
+    "left": {
+      "x": 99,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 99,
+      "y": 50
+    }
   }
 }

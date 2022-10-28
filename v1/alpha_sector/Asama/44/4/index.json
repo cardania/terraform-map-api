@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17487",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17487",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYHTWj5UVwrTfbEVQUTwikaR59X5bkA7PbkaSssEMSkMA",
+  "token_name": "Terraform07967",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07967",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmer98AuyzvQEeT1udDsKVKNtx8Q1aBR4cQF96eKRK2p9v",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 44,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 44,
+      "y": 5
+    },
+    "topRight": {
+      "x": 45,
+      "y": 5
+    },
+    "right": {
+      "x": 45,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 45,
+      "y": 3
+    },
+    "bottom": {
+      "x": 44,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 43,
+      "y": 3
+    },
+    "left": {
+      "x": 43,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 43,
+      "y": 5
+    }
   }
 }

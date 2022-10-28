@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18787",
+  "token_name": "Terraform15132",
   "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18787",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSMndmV6RfB4BVRkFxwdG3DQeKEWSK5csYaRmxkeATB9T",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15132",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmee5TttjMH9EHZj7fy3Ue2PPTFnqqfFVvMC7pi5kcan8W",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "lithoglyphs": "None",
   "power_level": 2,
-  "quantum_flux": 8,
+  "quantum_flux": 2,
   "primary_minerals": "None",
   "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 13,
     "y": 70
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 71
+    },
+    "topRight": {
+      "x": 14,
+      "y": 71
+    },
+    "right": {
+      "x": 14,
+      "y": 70
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 69
+    },
+    "bottom": {
+      "x": 13,
+      "y": 69
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 69
+    },
+    "left": {
+      "x": 12,
+      "y": 70
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 71
+    }
   }
 }

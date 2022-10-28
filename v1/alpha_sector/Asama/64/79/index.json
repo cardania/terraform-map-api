@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18428",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18428",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPQXPs5MDYHxk7eRSafcT7EkGbQR5U16WuXrx3KNFuTDB",
+  "token_name": "Terraform12846",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12846",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmao1C5YopAKZ3GqY2VMVkgweFhYHyUu2538tQstrhmtea",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
   "power_level": 4,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 64,
     "y": 79
+  },
+  "neighbors": {
+    "top": {
+      "x": 64,
+      "y": 80
+    },
+    "topRight": {
+      "x": 65,
+      "y": 80
+    },
+    "right": {
+      "x": 65,
+      "y": 79
+    },
+    "bottomRight": {
+      "x": 65,
+      "y": 78
+    },
+    "bottom": {
+      "x": 64,
+      "y": 78
+    },
+    "bottonLeft": {
+      "x": 63,
+      "y": 78
+    },
+    "left": {
+      "x": 63,
+      "y": 79
+    },
+    "topLeft": {
+      "x": 63,
+      "y": 80
+    }
   }
 }

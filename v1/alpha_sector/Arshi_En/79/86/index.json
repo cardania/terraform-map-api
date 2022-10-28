@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13067",
+  "token_name": "Terraform06376",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13067",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQQSzX9W3Ypgnzchv6fn8JUeyqc6jFyGUtEL7jFPawoSv",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06376",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPXzaWJ8NrsNYwEJ5JVMASHmxB3cDzeh3zpdtGgeb8guz",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 3,
+  "power_level": 5,
   "quantum_flux": 9,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 79,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 79,
+      "y": 87
+    },
+    "topRight": {
+      "x": 80,
+      "y": 87
+    },
+    "right": {
+      "x": 80,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 80,
+      "y": 85
+    },
+    "bottom": {
+      "x": 79,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 78,
+      "y": 85
+    },
+    "left": {
+      "x": 78,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 78,
+      "y": 87
+    }
   }
 }

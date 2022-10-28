@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06658",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06658",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaVtCgeSPPKMPnX1bu8eYNp6yZrzfrfvCgk6c9n3i2eUy",
+  "token_name": "Terraform05794",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05794",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNp7XnTYnuFrijsBjYy26VWizcLB4Dj3Hh1sDDHPPd3w5",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 1,
-  "quantum_flux": 3,
+  "quantum_flux": 5,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 47,
     "y": 42
+  },
+  "neighbors": {
+    "top": {
+      "x": 47,
+      "y": 43
+    },
+    "topRight": {
+      "x": 48,
+      "y": 43
+    },
+    "right": {
+      "x": 48,
+      "y": 42
+    },
+    "bottomRight": {
+      "x": 48,
+      "y": 41
+    },
+    "bottom": {
+      "x": 47,
+      "y": 41
+    },
+    "bottonLeft": {
+      "x": 46,
+      "y": 41
+    },
+    "left": {
+      "x": 46,
+      "y": 42
+    },
+    "topLeft": {
+      "x": 46,
+      "y": 43
+    }
   }
 }

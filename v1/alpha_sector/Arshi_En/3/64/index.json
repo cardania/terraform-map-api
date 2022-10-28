@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11373",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11373",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXkVraB67bNNsuNddb5ZSmauZLaLpam4ajegDMmjeyagV",
+  "token_name": "Terraform10167",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10167",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmV6KZ1qBmqoiSDHyK9qGDHR8HdveqGqVfMyiPnZSCyB4C",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 4,
+  "power_level": 6,
   "quantum_flux": 1,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 3,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 3,
+      "y": 65
+    },
+    "topRight": {
+      "x": 4,
+      "y": 65
+    },
+    "right": {
+      "x": 4,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 4,
+      "y": 63
+    },
+    "bottom": {
+      "x": 3,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 2,
+      "y": 63
+    },
+    "left": {
+      "x": 2,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 2,
+      "y": 65
+    }
   }
 }

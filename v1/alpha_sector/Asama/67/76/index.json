@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform17799",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17799",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUpCiuHCW8CBe6zt39xHAi5WrrUM2k51EiFLTAH3EkboB",
+  "token_name": "Terraform13205",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13205",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPnnpxW4gtnC2JynAnjxT6AG9aKUoug8xt8bfrtha8LxS",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 5,
+  "quantum_flux": 7,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 67,
     "y": 76
+  },
+  "neighbors": {
+    "top": {
+      "x": 67,
+      "y": 77
+    },
+    "topRight": {
+      "x": 68,
+      "y": 77
+    },
+    "right": {
+      "x": 68,
+      "y": 76
+    },
+    "bottomRight": {
+      "x": 68,
+      "y": 75
+    },
+    "bottom": {
+      "x": 67,
+      "y": 75
+    },
+    "bottonLeft": {
+      "x": 66,
+      "y": 75
+    },
+    "left": {
+      "x": 66,
+      "y": 76
+    },
+    "topLeft": {
+      "x": 66,
+      "y": 77
+    }
   }
 }

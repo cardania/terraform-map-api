@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11449",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11449",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeJVZGGHEYJksxfiG7fCRMXBYFz7fESpegtDNyRj51T5g",
+  "token_name": "Terraform09702",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09702",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmScP9NMTXH8wor5qVBFXmJYbTtPbn2hxe5wiVsWZCZ5wL",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
-  "forests": "Evergreen",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 3,
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 7,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "Saltwater_River",
   "location": {
     "x": 25,
     "y": 61
+  },
+  "neighbors": {
+    "top": {
+      "x": 25,
+      "y": 62
+    },
+    "topRight": {
+      "x": 26,
+      "y": 62
+    },
+    "right": {
+      "x": 26,
+      "y": 61
+    },
+    "bottomRight": {
+      "x": 26,
+      "y": 60
+    },
+    "bottom": {
+      "x": 25,
+      "y": 60
+    },
+    "bottonLeft": {
+      "x": 24,
+      "y": 60
+    },
+    "left": {
+      "x": 24,
+      "y": 61
+    },
+    "topLeft": {
+      "x": 24,
+      "y": 62
+    }
   }
 }

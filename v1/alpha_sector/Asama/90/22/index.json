@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07409",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07409",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc9K9ekYoAC43KHdB5p2qDYnPNsDmtfxGPjVMmEWM9smS",
+  "token_name": "Terraform19698",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19698",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb1BgMDoZECLX6tPmToYwsCqDubWZUefka1HpMJSrrg2c",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 5,
-  "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Ancient_Ruins",
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "None",
   "location": {
     "x": 90,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 90,
+      "y": 23
+    },
+    "topRight": {
+      "x": 91,
+      "y": 23
+    },
+    "right": {
+      "x": 91,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 91,
+      "y": 21
+    },
+    "bottom": {
+      "x": 90,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 89,
+      "y": 21
+    },
+    "left": {
+      "x": 89,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 89,
+      "y": 23
+    }
   }
 }

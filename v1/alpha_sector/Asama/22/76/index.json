@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11234",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11234",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNQUSzpY2FFjF9ekr3sukwicLE1pqzQsbmfsLsTd8YYt9",
+  "token_name": "Terraform02812",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02812",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZLwutFsyp5nRrCrELVK9uWNRocfLCtJkKUBTnr7SKwYb",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Palms",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 7,
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 7,
+  "quantum_flux": 5,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Quantum_Shrine",
+  "water": "Cursed_Lake",
   "location": {
     "x": 22,
     "y": 76
+  },
+  "neighbors": {
+    "top": {
+      "x": 22,
+      "y": 77
+    },
+    "topRight": {
+      "x": 23,
+      "y": 77
+    },
+    "right": {
+      "x": 23,
+      "y": 76
+    },
+    "bottomRight": {
+      "x": 23,
+      "y": 75
+    },
+    "bottom": {
+      "x": 22,
+      "y": 75
+    },
+    "bottonLeft": {
+      "x": 21,
+      "y": 75
+    },
+    "left": {
+      "x": 21,
+      "y": 76
+    },
+    "topLeft": {
+      "x": 21,
+      "y": 77
+    }
   }
 }

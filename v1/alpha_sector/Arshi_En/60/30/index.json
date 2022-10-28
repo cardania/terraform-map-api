@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12922",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12922",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZKBHsVx2quNrnrgCZkKmakLF2e7y3KuJpUjNW7f52mrG",
+  "token_name": "Terraform02377",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02377",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZvbxLEenhQq1QjDurvmLUSngZPmsFZ9314ktAjUdjQDP",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Ultrasaurs",
   "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
-  "quantum_flux": 7,
-  "primary_minerals": "Iron",
+  "lithoglyphs": "None",
+  "power_level": 7,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 60,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 31
+    },
+    "topRight": {
+      "x": 61,
+      "y": 31
+    },
+    "right": {
+      "x": 61,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 29
+    },
+    "bottom": {
+      "x": 60,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 29
+    },
+    "left": {
+      "x": 59,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 31
+    }
   }
 }

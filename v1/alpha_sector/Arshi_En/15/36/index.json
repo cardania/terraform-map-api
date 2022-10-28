@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01257",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01257",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRCxpkdN3vrytMSibr4dxS7i8vLyfEgTaDHBE5UiEptbV",
+  "token_name": "Terraform10947",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10947",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdgm12MiwrtsYAksJL9FywgppuuBd4ZSG7B59xm8TRcXQ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
-  "quantum_flux": 8,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Timelost",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 15,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 15,
+      "y": 37
+    },
+    "topRight": {
+      "x": 16,
+      "y": 37
+    },
+    "right": {
+      "x": 16,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 16,
+      "y": 35
+    },
+    "bottom": {
+      "x": 15,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 14,
+      "y": 35
+    },
+    "left": {
+      "x": 14,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 14,
+      "y": 37
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07498",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07498",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQn2wUo59vwT4kXG76n9yCkGYhUSMjZLYcci8M7RhE8AT",
+  "token_name": "Terraform04074",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04074",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmappCaUJVQ9RivFLEnkJRWZR8W4ZjWs1x8ujqTUWcAkKG",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 8,
-  "primary_minerals": "Iron",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_Lake",
   "location": {
     "x": 34,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 34,
+      "y": 69
+    },
+    "topRight": {
+      "x": 35,
+      "y": 69
+    },
+    "right": {
+      "x": 35,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 35,
+      "y": 67
+    },
+    "bottom": {
+      "x": 34,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 33,
+      "y": 67
+    },
+    "left": {
+      "x": 33,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 33,
+      "y": 69
+    }
   }
 }

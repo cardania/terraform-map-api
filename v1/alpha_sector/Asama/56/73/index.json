@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09624",
+  "token_name": "Terraform03410",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09624",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWpXwpmdtTKdfJANbTAJe99dSfTVxCrHMD4o5wbP3UPkW",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03410",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZmbMpxDCzK6hzyY1ePDim5wC7oYWzkPwrCMZBc1Drxdn",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Fungal_Hydra",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 9,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
+  "power_level": 8,
+  "quantum_flux": 8,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Quantum_Shrine",
+  "water": "None",
   "location": {
     "x": 56,
     "y": 73
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 74
+    },
+    "topRight": {
+      "x": 57,
+      "y": 74
+    },
+    "right": {
+      "x": 57,
+      "y": 73
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 72
+    },
+    "bottom": {
+      "x": 56,
+      "y": 72
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 72
+    },
+    "left": {
+      "x": 55,
+      "y": 73
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 74
+    }
   }
 }

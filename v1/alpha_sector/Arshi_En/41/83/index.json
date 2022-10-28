@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02456",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02456",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZsdi8MvPR1D97BanUt4j7xpntrBFMCTbd6dbKHv3szUg",
+  "token_name": "Terraform04892",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04892",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRF8g76tPTcPb1d1t6GiGhF1zJivDe16DcCZZdnwfNoh6",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Fungal_Shrine",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 41,
     "y": 83
+  },
+  "neighbors": {
+    "top": {
+      "x": 41,
+      "y": 84
+    },
+    "topRight": {
+      "x": 42,
+      "y": 84
+    },
+    "right": {
+      "x": 42,
+      "y": 83
+    },
+    "bottomRight": {
+      "x": 42,
+      "y": 82
+    },
+    "bottom": {
+      "x": 41,
+      "y": 82
+    },
+    "bottonLeft": {
+      "x": 40,
+      "y": 82
+    },
+    "left": {
+      "x": 40,
+      "y": 83
+    },
+    "topLeft": {
+      "x": 40,
+      "y": 84
+    }
   }
 }

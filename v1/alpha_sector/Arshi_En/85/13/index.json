@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02148",
+  "token_name": "Terraform13672",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02148",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPemxN5WhArSDY5HuVf2MuqaxmX8b9fayZXV45UpQoq5r",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13672",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVZp4ak3ebd481gyzRimuUV6tW9sgnDs623UZV2GJbnXP",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
-  "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "power_level": 2,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Saltwater_River",
   "location": {
     "x": 85,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 85,
+      "y": 14
+    },
+    "topRight": {
+      "x": 86,
+      "y": 14
+    },
+    "right": {
+      "x": 86,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 86,
+      "y": 12
+    },
+    "bottom": {
+      "x": 85,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 84,
+      "y": 12
+    },
+    "left": {
+      "x": 84,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 84,
+      "y": 14
+    }
   }
 }

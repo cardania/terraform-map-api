@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03826",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03826",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVmCRPVHWeJBNnusrKyuppPxoejvwT5E7HU2uUKrxiGjy",
+  "token_name": "Terraform04394",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04394",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZij1wzw2FQjYwos97nM514esRFZJ4XagjzRwNEXr9kzC",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 4,
+  "lithoglyphs": "None",
+  "power_level": 9,
   "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
   "water": "None",
   "location": {
     "x": 51,
     "y": 14
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 15
+    },
+    "topRight": {
+      "x": 52,
+      "y": 15
+    },
+    "right": {
+      "x": 52,
+      "y": 14
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 13
+    },
+    "bottom": {
+      "x": 51,
+      "y": 13
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 13
+    },
+    "left": {
+      "x": 50,
+      "y": 14
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 15
+    }
   }
 }

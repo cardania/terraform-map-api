@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09822",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09822",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWsFxkZDfDLej6AmUnPENmx1p2EytxEPqNaHXCX44WCvp",
+  "token_name": "Terraform13931",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13931",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVKGP4rG8258HDJqTgm3HsD2P3z26N2ymDw3Fg83vpv4C",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 3,
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 9,
+  "quantum_flux": 6,
   "primary_minerals": "Iron",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Green",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "None",
   "location": {
     "x": 95,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 23
+    },
+    "topRight": {
+      "x": 96,
+      "y": 23
+    },
+    "right": {
+      "x": 96,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 21
+    },
+    "bottom": {
+      "x": 95,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 21
+    },
+    "left": {
+      "x": 94,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 23
+    }
   }
 }

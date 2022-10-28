@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08139",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08139",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRxiLVCvvEpS5DcQu6Kj8eHz9YeTJ8xceQk2ZZmkHd9uW",
+  "token_name": "Terraform04474",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04474",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdLgHcPkSqVW4ddQV5HP15kZ7Z4zpychCKBSzFv9GQzdd",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 1,
-  "quantum_flux": 5,
+  "quantum_flux": 7,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_River",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 65,
     "y": 21
+  },
+  "neighbors": {
+    "top": {
+      "x": 65,
+      "y": 22
+    },
+    "topRight": {
+      "x": 66,
+      "y": 22
+    },
+    "right": {
+      "x": 66,
+      "y": 21
+    },
+    "bottomRight": {
+      "x": 66,
+      "y": 20
+    },
+    "bottom": {
+      "x": 65,
+      "y": 20
+    },
+    "bottonLeft": {
+      "x": 64,
+      "y": 20
+    },
+    "left": {
+      "x": 64,
+      "y": 21
+    },
+    "topLeft": {
+      "x": 64,
+      "y": 22
+    }
   }
 }

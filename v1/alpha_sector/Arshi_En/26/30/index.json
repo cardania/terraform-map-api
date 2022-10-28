@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07010",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07010",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmef4Gn8bWBjaRBL3SudfLKwytRnvjDxn3CMQeEYEKNYu9",
+  "token_name": "Terraform15533",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15533",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXsMQmSnpDx6uST2LWmnDkS3XxqSfMRaD7YtvBuMh1S79",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Ultrasaurs",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 8,
+  "power_level": 2,
+  "quantum_flux": 2,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Quantum_Shrine",
-  "water": "Freshwater_Lake",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 26,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 26,
+      "y": 31
+    },
+    "topRight": {
+      "x": 27,
+      "y": 31
+    },
+    "right": {
+      "x": 27,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 27,
+      "y": 29
+    },
+    "bottom": {
+      "x": 26,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 25,
+      "y": 29
+    },
+    "left": {
+      "x": 25,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 25,
+      "y": 31
+    }
   }
 }

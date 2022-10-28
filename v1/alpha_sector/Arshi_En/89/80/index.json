@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14495",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14495",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRKb9mPzTquBVpxmsjyujRR7nVa5SQNLQqZkM7Ru4SE7M",
+  "token_name": "Terraform08944",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08944",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmR73bAbUXMALgMDyScnCZKc1ZPxX2dtruxx1FGN9zc48k",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 1,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Toxic_River",
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 89,
     "y": 80
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 81
+    },
+    "topRight": {
+      "x": 90,
+      "y": 81
+    },
+    "right": {
+      "x": 90,
+      "y": 80
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 79
+    },
+    "bottom": {
+      "x": 89,
+      "y": 79
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 79
+    },
+    "left": {
+      "x": 88,
+      "y": 80
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 81
+    }
   }
 }

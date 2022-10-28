@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14086",
+  "token_name": "Terraform10489",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14086",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaVYMPQtAbekL7V9kAcHiFBoSQFXvVVtK5QQ8uc6kYN6n",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10489",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUV1tgAuJYG7cvuoUWaSoEw4PKSYMKjp3SP914xsGpkeQ",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Cursed_Nanites",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 8,
   "quantum_flux": 3,
-  "primary_minerals": "None",
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Void_Shrine",
-  "water": "None",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 3,
     "y": 45
+  },
+  "neighbors": {
+    "top": {
+      "x": 3,
+      "y": 46
+    },
+    "topRight": {
+      "x": 4,
+      "y": 46
+    },
+    "right": {
+      "x": 4,
+      "y": 45
+    },
+    "bottomRight": {
+      "x": 4,
+      "y": 44
+    },
+    "bottom": {
+      "x": 3,
+      "y": 44
+    },
+    "bottonLeft": {
+      "x": 2,
+      "y": 44
+    },
+    "left": {
+      "x": 2,
+      "y": 45
+    },
+    "topLeft": {
+      "x": 2,
+      "y": 46
+    }
   }
 }

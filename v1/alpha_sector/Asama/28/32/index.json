@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17107",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17107",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ2x9C7QRwttBLBZofXAKaZ8qPqEqPsWhZ1enEuQhv2ya",
+  "token_name": "Terraform17659",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17659",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmT9x6V5R2LyBVsDXohMUj4HdhHDaYv9uLjpNkoycBVU9v",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 4,
+  "quantum_flux": 7,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 28,
     "y": 32
+  },
+  "neighbors": {
+    "top": {
+      "x": 28,
+      "y": 33
+    },
+    "topRight": {
+      "x": 29,
+      "y": 33
+    },
+    "right": {
+      "x": 29,
+      "y": 32
+    },
+    "bottomRight": {
+      "x": 29,
+      "y": 31
+    },
+    "bottom": {
+      "x": 28,
+      "y": 31
+    },
+    "bottonLeft": {
+      "x": 27,
+      "y": 31
+    },
+    "left": {
+      "x": 27,
+      "y": 32
+    },
+    "topLeft": {
+      "x": 27,
+      "y": 33
+    }
   }
 }

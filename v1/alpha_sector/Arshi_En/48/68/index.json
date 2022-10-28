@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01130",
+  "token_name": "Terraform05172",
   "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01130",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbXgjWN3ipLJybRU4tx12BwXkoK7RmXPZt7AAWwF64D2s",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05172",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qma7YF7mjy11rQnCkQMUwwP8WKKpwEHn7Dwxs6dUnACniS",
   "alpha_sector": "Arshi_En",
   "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 6,
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 48,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 69
+    },
+    "topRight": {
+      "x": 49,
+      "y": 69
+    },
+    "right": {
+      "x": 49,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 67
+    },
+    "bottom": {
+      "x": 48,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 67
+    },
+    "left": {
+      "x": 47,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 69
+    }
   }
 }

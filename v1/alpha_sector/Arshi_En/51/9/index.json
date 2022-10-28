@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02105",
+  "token_name": "Terraform16198",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02105",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbQKYyKEwcagnTwnzHW56La123Xvp5Jg2XbAPPKbzqSbV",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16198",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRULaELZoqrL1WZFpKN9BK9MDvrSWXVujoyK9jYpqoXW1",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
   "fauna": "None",
   "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 4,
-  "quantum_flux": 6,
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 5,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 51,
     "y": 9
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 10
+    },
+    "topRight": {
+      "x": 52,
+      "y": 10
+    },
+    "right": {
+      "x": 52,
+      "y": 9
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 8
+    },
+    "bottom": {
+      "x": 51,
+      "y": 8
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 8
+    },
+    "left": {
+      "x": 50,
+      "y": 9
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 10
+    }
   }
 }

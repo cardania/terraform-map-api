@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12207",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12207",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNjuhL8V29Sz7xDqcpBmsGTK79JvC358svAddnL8akxfc",
+  "token_name": "Terraform18523",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18523",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUMF7C975UxtNKZP6XX5YfDWTFDyMa8Ge1pY8h4Y9Rf86",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 3,
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 8,
   "quantum_flux": 4,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_Lake",
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 80,
     "y": 39
+  },
+  "neighbors": {
+    "top": {
+      "x": 80,
+      "y": 40
+    },
+    "topRight": {
+      "x": 81,
+      "y": 40
+    },
+    "right": {
+      "x": 81,
+      "y": 39
+    },
+    "bottomRight": {
+      "x": 81,
+      "y": 38
+    },
+    "bottom": {
+      "x": 80,
+      "y": 38
+    },
+    "bottonLeft": {
+      "x": 79,
+      "y": 38
+    },
+    "left": {
+      "x": 79,
+      "y": 39
+    },
+    "topLeft": {
+      "x": 79,
+      "y": 40
+    }
   }
 }

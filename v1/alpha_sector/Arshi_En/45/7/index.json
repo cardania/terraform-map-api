@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13273",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13273",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNgLx6PxYLYQDxxfx8PMZTtKmY6p6ns3nZhrKCwSag57y",
+  "token_name": "Terraform01969",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01969",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaCDdHAokiMxJri9S1ovL3rJMpTvViMZS8pCpHBk1YQje",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 4,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 7,
   "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Saltwater_Lake",
+  "shrine": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 45,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 8
+    },
+    "topRight": {
+      "x": 46,
+      "y": 8
+    },
+    "right": {
+      "x": 46,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 6
+    },
+    "bottom": {
+      "x": 45,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 6
+    },
+    "left": {
+      "x": 44,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 8
+    }
   }
 }

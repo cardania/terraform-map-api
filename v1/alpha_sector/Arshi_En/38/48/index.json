@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00996",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00996",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNRMnXA86z93cBPgSg1cobEJqvntsZk65Q1rPeBLPFrhi",
+  "token_name": "Terraform17245",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17245",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdRpfZXGGdFWcLr5FEQxeuB9vPcMKesQv8FNLVBMyDnvZ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
+  "power_level": 6,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Solar_Shrine",
-  "water": "Saltwater_River",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 38,
     "y": 48
+  },
+  "neighbors": {
+    "top": {
+      "x": 38,
+      "y": 49
+    },
+    "topRight": {
+      "x": 39,
+      "y": 49
+    },
+    "right": {
+      "x": 39,
+      "y": 48
+    },
+    "bottomRight": {
+      "x": 39,
+      "y": 47
+    },
+    "bottom": {
+      "x": 38,
+      "y": 47
+    },
+    "bottonLeft": {
+      "x": 37,
+      "y": 47
+    },
+    "left": {
+      "x": 37,
+      "y": 48
+    },
+    "topLeft": {
+      "x": 37,
+      "y": 49
+    }
   }
 }

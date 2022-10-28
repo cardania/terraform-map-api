@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18888",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18888",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc2pRQLNyEeJiBEjkqYmTdBuJmtSd51BFfhxhfGj5Up7q",
+  "token_name": "Terraform17049",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17049",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUJrXWBcqtcz7S97Nvt1Fryq4FgmCZ342v8zwgvj7i8uC",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
   "fauna": "Critters",
-  "forests": "Evergreen",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 4,
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
   "quantum_flux": 7,
-  "primary_minerals": "Radium",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "ruins": "None",
+  "shrine": "Golden_Shrine",
+  "water": "None",
   "location": {
     "x": 97,
     "y": 26
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 27
+    },
+    "topRight": {
+      "x": 98,
+      "y": 27
+    },
+    "right": {
+      "x": 98,
+      "y": 26
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 25
+    },
+    "bottom": {
+      "x": 97,
+      "y": 25
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 25
+    },
+    "left": {
+      "x": 96,
+      "y": 26
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 27
+    }
   }
 }

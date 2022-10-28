@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18720",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18720",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVwuVEJLxqi7vM1mR5MGDSCVQZQADN9vggK5qMW1AqWTg",
+  "token_name": "Terraform00939",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00939",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUGGTZ5zd388NdLAJUGuvzVBLCk3UpBf6xFBDiNZ1wPji",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 9,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Saltwater_River",
   "location": {
     "x": 22,
     "y": 1
+  },
+  "neighbors": {
+    "top": {
+      "x": 22,
+      "y": 2
+    },
+    "topRight": {
+      "x": 23,
+      "y": 2
+    },
+    "right": {
+      "x": 23,
+      "y": 1
+    },
+    "bottomRight": {
+      "x": 23,
+      "y": 0
+    },
+    "bottom": {
+      "x": 22,
+      "y": 0
+    },
+    "bottonLeft": {
+      "x": 21,
+      "y": 0
+    },
+    "left": {
+      "x": 21,
+      "y": 1
+    },
+    "topLeft": {
+      "x": 21,
+      "y": 2
+    }
   }
 }

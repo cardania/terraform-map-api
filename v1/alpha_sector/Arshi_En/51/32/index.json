@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03687",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03687",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcTvDJs9vfsNV4ET2W8kBeySHUgCenfuvDNvEjGS4m8Z1",
+  "token_name": "Terraform02756",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02756",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZVvbjQwgWGvGAZCJAqci2RDXzvigMGcsFasy1QYFpmMR",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 5,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "Saltwater_River",
+  "power_level": 2,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "Timelost_Shrine",
+  "water": "None",
   "location": {
     "x": 51,
     "y": 32
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 33
+    },
+    "topRight": {
+      "x": 52,
+      "y": 33
+    },
+    "right": {
+      "x": 52,
+      "y": 32
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 31
+    },
+    "bottom": {
+      "x": 51,
+      "y": 31
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 31
+    },
+    "left": {
+      "x": 50,
+      "y": 32
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 33
+    }
   }
 }

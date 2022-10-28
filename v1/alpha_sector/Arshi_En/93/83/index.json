@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08861",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08861",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaJeRCx3bUZAbnAKojZLzL28GQt8HGJE4xamcYNnA9HEM",
+  "token_name": "Terraform14121",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14121",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTMMt1iCbAhbVGPwjEzt8afT2A9mXqY9VQJNhLkwALJJ4",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 8,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
+  "power_level": 5,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 93,
     "y": 83
+  },
+  "neighbors": {
+    "top": {
+      "x": 93,
+      "y": 84
+    },
+    "topRight": {
+      "x": 94,
+      "y": 84
+    },
+    "right": {
+      "x": 94,
+      "y": 83
+    },
+    "bottomRight": {
+      "x": 94,
+      "y": 82
+    },
+    "bottom": {
+      "x": 93,
+      "y": 82
+    },
+    "bottonLeft": {
+      "x": 92,
+      "y": 82
+    },
+    "left": {
+      "x": 92,
+      "y": 83
+    },
+    "topLeft": {
+      "x": 92,
+      "y": 84
+    }
   }
 }

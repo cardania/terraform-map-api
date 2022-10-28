@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14868",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14868",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUnRVQfpzW7wPonDojRwVekWBoP9a6jVGLPHvmKXqTvmv",
+  "token_name": "Terraform03809",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03809",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmS8RjdqSnFp5CATgypmnvqZvTsaDD9TxjYRDgmnJL3eG1",
   "alpha_sector": "Arshi_En",
   "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 9,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "forests": "None",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 55,
     "y": 16
+  },
+  "neighbors": {
+    "top": {
+      "x": 55,
+      "y": 17
+    },
+    "topRight": {
+      "x": 56,
+      "y": 17
+    },
+    "right": {
+      "x": 56,
+      "y": 16
+    },
+    "bottomRight": {
+      "x": 56,
+      "y": 15
+    },
+    "bottom": {
+      "x": 55,
+      "y": 15
+    },
+    "bottonLeft": {
+      "x": 54,
+      "y": 15
+    },
+    "left": {
+      "x": 54,
+      "y": 16
+    },
+    "topLeft": {
+      "x": 54,
+      "y": 17
+    }
   }
 }

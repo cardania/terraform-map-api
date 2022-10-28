@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16681",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16681",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZQDUDMutQw4Uc2TEkDKLqHjV51HFQRHs2PdgzKxo4qDF",
+  "token_name": "Terraform04270",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04270",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qma1CpG6iunwFTtnDTa5fzhgT19MpWPzLspjo9K9Sygdki",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 4,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 5,
   "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Void_Shrine",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 10,
     "y": 84
+  },
+  "neighbors": {
+    "top": {
+      "x": 10,
+      "y": 85
+    },
+    "topRight": {
+      "x": 11,
+      "y": 85
+    },
+    "right": {
+      "x": 11,
+      "y": 84
+    },
+    "bottomRight": {
+      "x": 11,
+      "y": 83
+    },
+    "bottom": {
+      "x": 10,
+      "y": 83
+    },
+    "bottonLeft": {
+      "x": 9,
+      "y": 83
+    },
+    "left": {
+      "x": 9,
+      "y": 84
+    },
+    "topLeft": {
+      "x": 9,
+      "y": 85
+    }
   }
 }

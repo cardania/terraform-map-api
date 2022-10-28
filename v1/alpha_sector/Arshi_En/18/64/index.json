@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00705",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00705",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRJjAsvM9rts4hCkPyDejTEqKfyYUmXj8ojCBGu115Kmr",
+  "token_name": "Terraform06174",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06174",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVFNEHCmgWCAAdc3qJxPKc4YUrdKKYGgHcMk2CU7nkANZ",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 9,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 18,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 18,
+      "y": 65
+    },
+    "topRight": {
+      "x": 19,
+      "y": 65
+    },
+    "right": {
+      "x": 19,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 19,
+      "y": 63
+    },
+    "bottom": {
+      "x": 18,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 17,
+      "y": 63
+    },
+    "left": {
+      "x": 17,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 17,
+      "y": 65
+    }
   }
 }

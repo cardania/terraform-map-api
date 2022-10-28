@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09272",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09272",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc6FaZoJ8mkXJvqgxac2ZUCpUMFQ87cpPJG3AuFuxEyqN",
+  "token_name": "Terraform15106",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15106",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSQT8dF4M1Wn7TjCywTDc7ZT4WiPbAeR5ADaP4af5zFdq",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 4,
+  "quantum_flux": 1,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 44,
     "y": 92
+  },
+  "neighbors": {
+    "top": {
+      "x": 44,
+      "y": 93
+    },
+    "topRight": {
+      "x": 45,
+      "y": 93
+    },
+    "right": {
+      "x": 45,
+      "y": 92
+    },
+    "bottomRight": {
+      "x": 45,
+      "y": 91
+    },
+    "bottom": {
+      "x": 44,
+      "y": 91
+    },
+    "bottonLeft": {
+      "x": 43,
+      "y": 91
+    },
+    "left": {
+      "x": 43,
+      "y": 92
+    },
+    "topLeft": {
+      "x": 43,
+      "y": 93
+    }
   }
 }

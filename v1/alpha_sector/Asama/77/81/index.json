@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform18064",
+  "token_name": "Terraform09037",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18064",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZNJRyfoG2pJ6mD6DWXrzbyGbiJ47zfXDzQ86p2cmUxqd",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09037",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVtBAvwMt2cztRum54eBoxWHYFfEA8absBE2NNDcmvxzQ",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 5,
+  "power_level": 2,
   "quantum_flux": 4,
-  "primary_minerals": "None",
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 77,
     "y": 81
+  },
+  "neighbors": {
+    "top": {
+      "x": 77,
+      "y": 82
+    },
+    "topRight": {
+      "x": 78,
+      "y": 82
+    },
+    "right": {
+      "x": 78,
+      "y": 81
+    },
+    "bottomRight": {
+      "x": 78,
+      "y": 80
+    },
+    "bottom": {
+      "x": 77,
+      "y": 80
+    },
+    "bottonLeft": {
+      "x": 76,
+      "y": 80
+    },
+    "left": {
+      "x": 76,
+      "y": 81
+    },
+    "topLeft": {
+      "x": 76,
+      "y": 82
+    }
   }
 }

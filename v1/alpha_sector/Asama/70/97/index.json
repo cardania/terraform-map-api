@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04103",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04103",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfBjHUJp76zdgoGMwZ15qzEyXHZfPpyWLDT5buP2CwS9x",
+  "token_name": "Terraform05865",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05865",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTh2Fub6F8qsM7KcDFzGMLeQQND5dizX4KZpsFxCXeAiW",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "quantum_flux": 6,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Quantum_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 70,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 98
+    },
+    "topRight": {
+      "x": 71,
+      "y": 98
+    },
+    "right": {
+      "x": 71,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 96
+    },
+    "bottom": {
+      "x": 70,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 96
+    },
+    "left": {
+      "x": 69,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 98
+    }
   }
 }

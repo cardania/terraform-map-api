@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08225",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08225",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf6hcpUzDqQzxgjLpX4Qi155P3vRRuXczHeUL3zUpaZoo",
+  "token_name": "Terraform07431",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07431",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNkmUxkMJGKjapBTJvavgfBonCrwxMLqzJr4LTWuWFrGT",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
+  "power_level": 3,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 33,
     "y": 10
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 11
+    },
+    "topRight": {
+      "x": 34,
+      "y": 11
+    },
+    "right": {
+      "x": 34,
+      "y": 10
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 9
+    },
+    "bottom": {
+      "x": 33,
+      "y": 9
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 9
+    },
+    "left": {
+      "x": 32,
+      "y": 10
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 11
+    }
   }
 }

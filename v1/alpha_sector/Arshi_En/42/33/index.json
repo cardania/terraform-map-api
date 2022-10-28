@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09861",
+  "token_name": "Terraform12199",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09861",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNQg7kY3vKJS2dXqt6Puh5SUMDfkiPpQcYYj3k32TfuxE",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12199",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYx9C1weeMyhQsf5hhMWaTce4ACU8FdAWXBfq7ApD78ht",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "Palms",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 4,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Gemstones",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 42,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 42,
+      "y": 34
+    },
+    "topRight": {
+      "x": 43,
+      "y": 34
+    },
+    "right": {
+      "x": 43,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 43,
+      "y": 32
+    },
+    "bottom": {
+      "x": 42,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 41,
+      "y": 32
+    },
+    "left": {
+      "x": 41,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 41,
+      "y": 34
+    }
   }
 }

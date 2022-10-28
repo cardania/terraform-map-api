@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00711",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00711",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV4EBWhLRPtSRuvbQ7omehKyUQzEF7wWVL29ZapcEy61p",
+  "token_name": "Terraform14419",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14419",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmea9oKJPe6bWhn9iDcNbMihEyLLUQWUQx2Cp7yfrVD4YR",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 8,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 1,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "None",
   "location": {
     "x": 50,
     "y": 62
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 63
+    },
+    "topRight": {
+      "x": 51,
+      "y": 63
+    },
+    "right": {
+      "x": 51,
+      "y": 62
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 61
+    },
+    "bottom": {
+      "x": 50,
+      "y": 61
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 61
+    },
+    "left": {
+      "x": 49,
+      "y": 62
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 63
+    }
   }
 }

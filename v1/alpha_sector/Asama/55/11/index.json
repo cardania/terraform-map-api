@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00470",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00470",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmahFg1gzXpDpwKKReR8YNDDuxjXtVHGrxvk8XnbwLig7B",
+  "token_name": "Terraform16899",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16899",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmV6aGPLodjELS3dSpDDEieucmHXQvRaHA3grL3Qf7Ed68",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 5,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Toxic_Lake",
   "location": {
     "x": 55,
     "y": 11
+  },
+  "neighbors": {
+    "top": {
+      "x": 55,
+      "y": 12
+    },
+    "topRight": {
+      "x": 56,
+      "y": 12
+    },
+    "right": {
+      "x": 56,
+      "y": 11
+    },
+    "bottomRight": {
+      "x": 56,
+      "y": 10
+    },
+    "bottom": {
+      "x": 55,
+      "y": 10
+    },
+    "bottonLeft": {
+      "x": 54,
+      "y": 10
+    },
+    "left": {
+      "x": 54,
+      "y": 11
+    },
+    "topLeft": {
+      "x": 54,
+      "y": 12
+    }
   }
 }

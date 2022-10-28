@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12473",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12473",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaDpjBRTANaiSqhULL3TUPWyKSSX4EQ2HfGSvKxKYcpFZ",
+  "token_name": "Terraform14679",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14679",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZSa9wiUnajJ9NX75WUrLp9hzdWacEYCCLEG7Ksc4xMnL",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Palms",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Fungal_Shrine",
-  "water": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 7,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 50,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 89
+    },
+    "topRight": {
+      "x": 51,
+      "y": 89
+    },
+    "right": {
+      "x": 51,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 87
+    },
+    "bottom": {
+      "x": 50,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 87
+    },
+    "left": {
+      "x": 49,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 89
+    }
   }
 }

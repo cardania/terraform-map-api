@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02583",
+  "token_name": "Terraform08486",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02583",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmViX2YvupLRWeQRSs1JmcW583jWK833BUtbZczQHuRE6H",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08486",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmev6SXFCQAE1fcqKE5NnWY1kpNSbzQnRijvVH6CQYhVV5",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 30,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 30,
+      "y": 8
+    },
+    "topRight": {
+      "x": 31,
+      "y": 8
+    },
+    "right": {
+      "x": 31,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 31,
+      "y": 6
+    },
+    "bottom": {
+      "x": 30,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 29,
+      "y": 6
+    },
+    "left": {
+      "x": 29,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 29,
+      "y": 8
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09081",
+  "token_name": "Terraform00361",
   "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09081",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmabPZFjnsN6P1ZzBNH8dXGL7rveebHwxWuA2mbnnqziy8",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00361",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcoqHdwPbApimbm5WrHPurH2YhFBxesDfa1Ujj4Kv8oka",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "Cardanium_Bunker",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 2,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Cursed_River",
   "location": {
     "x": 64,
     "y": 57
+  },
+  "neighbors": {
+    "top": {
+      "x": 64,
+      "y": 58
+    },
+    "topRight": {
+      "x": 65,
+      "y": 58
+    },
+    "right": {
+      "x": 65,
+      "y": 57
+    },
+    "bottomRight": {
+      "x": 65,
+      "y": 56
+    },
+    "bottom": {
+      "x": 64,
+      "y": 56
+    },
+    "bottonLeft": {
+      "x": 63,
+      "y": 56
+    },
+    "left": {
+      "x": 63,
+      "y": 57
+    },
+    "topLeft": {
+      "x": 63,
+      "y": 58
+    }
   }
 }

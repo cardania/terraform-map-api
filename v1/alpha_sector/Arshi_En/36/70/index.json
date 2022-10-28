@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10731",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10731",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYXpZJJZwzNQUo26ijWryiFnzKnkdVHM9sm5m94f8sidG",
+  "token_name": "Terraform07260",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07260",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXCw7Eoz6fkjnTdB9ouFmN6tWyEKBTkxV3ziLEmhhrHTB",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 2,
+  "quantum_flux": 7,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 36,
     "y": 70
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 71
+    },
+    "topRight": {
+      "x": 37,
+      "y": 71
+    },
+    "right": {
+      "x": 37,
+      "y": 70
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 69
+    },
+    "bottom": {
+      "x": 36,
+      "y": 69
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 69
+    },
+    "left": {
+      "x": 35,
+      "y": 70
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 71
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01003",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01003",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZShRPhgMhT7gozCwV5u9ZYD3VFABJDVxaqmk51CgaTMB",
+  "token_name": "Terraform02094",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02094",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeyrmdGGKQrE8UrFTgKAZRUJ9zvh3CNwgAeAbK14iTLM2",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 9,
-  "quantum_flux": 4,
+  "power_level": 2,
+  "quantum_flux": 7,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 24,
     "y": 98
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 99
+    },
+    "topRight": {
+      "x": 25,
+      "y": 99
+    },
+    "right": {
+      "x": 25,
+      "y": 98
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 97
+    },
+    "bottom": {
+      "x": 24,
+      "y": 97
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 97
+    },
+    "left": {
+      "x": 23,
+      "y": 98
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 99
+    }
   }
 }

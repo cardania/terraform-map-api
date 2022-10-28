@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform07454",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07454",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmX7r5RNPiNej2nETwNkxeU6QFuZaHLPB4p13oHGxtoAYL",
+  "token_name": "Terraform03361",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03361",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPNNbhGkDi7YYtnCoFJT8VFpfnEW1ByZqGxNBxVDjEVsM",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 23,
     "y": 46
+  },
+  "neighbors": {
+    "top": {
+      "x": 23,
+      "y": 47
+    },
+    "topRight": {
+      "x": 24,
+      "y": 47
+    },
+    "right": {
+      "x": 24,
+      "y": 46
+    },
+    "bottomRight": {
+      "x": 24,
+      "y": 45
+    },
+    "bottom": {
+      "x": 23,
+      "y": 45
+    },
+    "bottonLeft": {
+      "x": 22,
+      "y": 45
+    },
+    "left": {
+      "x": 22,
+      "y": 46
+    },
+    "topLeft": {
+      "x": 22,
+      "y": 47
+    }
   }
 }

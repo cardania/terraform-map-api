@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04426",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04426",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcdsrXAzW5pvAj4jwGxGYK3Jy9yCXhgpFBKEttAyuKnaJ",
+  "token_name": "Terraform11943",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11943",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmV1dny8pTvQMDRDK9tEi6hYr1eD7YCaMBoHs83fDLjAKb",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 7,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 49,
     "y": 65
+  },
+  "neighbors": {
+    "top": {
+      "x": 49,
+      "y": 66
+    },
+    "topRight": {
+      "x": 50,
+      "y": 66
+    },
+    "right": {
+      "x": 50,
+      "y": 65
+    },
+    "bottomRight": {
+      "x": 50,
+      "y": 64
+    },
+    "bottom": {
+      "x": 49,
+      "y": 64
+    },
+    "bottonLeft": {
+      "x": 48,
+      "y": 64
+    },
+    "left": {
+      "x": 48,
+      "y": 65
+    },
+    "topLeft": {
+      "x": 48,
+      "y": 66
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07824",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07824",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQXWrvcPheZrk3m14mdcKjj8J5VgDWqkkkvt6BTdM4ZC9",
+  "token_name": "Terraform14248",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14248",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVhaFXKw5Wa1vPN6moeY8KTRKe6NFoXetvZdq72NgAkWz",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_River",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 15,
     "y": 17
+  },
+  "neighbors": {
+    "top": {
+      "x": 15,
+      "y": 18
+    },
+    "topRight": {
+      "x": 16,
+      "y": 18
+    },
+    "right": {
+      "x": 16,
+      "y": 17
+    },
+    "bottomRight": {
+      "x": 16,
+      "y": 16
+    },
+    "bottom": {
+      "x": 15,
+      "y": 16
+    },
+    "bottonLeft": {
+      "x": 14,
+      "y": 16
+    },
+    "left": {
+      "x": 14,
+      "y": 17
+    },
+    "topLeft": {
+      "x": 14,
+      "y": 18
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02974",
+  "token_name": "Terraform01443",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02974",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qma582QzE6sGye7NgEC2fmFcRoqGr3zSa2jd9XWa4pR1Nx",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01443",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmetAZqkJujAJeMKA1PKAGdfkGYv67ga4GkdpccV1aMiyH",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Golden_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 39,
     "y": 57
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 58
+    },
+    "topRight": {
+      "x": 40,
+      "y": 58
+    },
+    "right": {
+      "x": 40,
+      "y": 57
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 56
+    },
+    "bottom": {
+      "x": 39,
+      "y": 56
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 56
+    },
+    "left": {
+      "x": 38,
+      "y": 57
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 58
+    }
   }
 }

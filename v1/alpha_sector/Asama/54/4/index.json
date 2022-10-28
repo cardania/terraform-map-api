@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15916",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15916",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYWtphMft5qVfrNyWGFpDvPe5bZQAeqs8WdacsjDcfEQQ",
+  "token_name": "Terraform09952",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09952",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRDv7o8AQcptpyBU6VWqX2TUt72ZP89TnsDn2sMfCMxm3",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 4,
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 2,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Solar_Shrine",
+  "water": "None",
   "location": {
     "x": 54,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 54,
+      "y": 5
+    },
+    "topRight": {
+      "x": 55,
+      "y": 5
+    },
+    "right": {
+      "x": 55,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 55,
+      "y": 3
+    },
+    "bottom": {
+      "x": 54,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 53,
+      "y": 3
+    },
+    "left": {
+      "x": 53,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 53,
+      "y": 5
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01625",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01625",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQimyeAMv5u7rpitpVxKpDvjaZjpKhGSriLpjpck1PqRV",
+  "token_name": "Terraform12710",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12710",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSjtJwiquYiT3PCTPqypPiY2yLWFCvsw97fWEXyZx1fjr",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 8,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 90,
     "y": 90
+  },
+  "neighbors": {
+    "top": {
+      "x": 90,
+      "y": 91
+    },
+    "topRight": {
+      "x": 91,
+      "y": 91
+    },
+    "right": {
+      "x": 91,
+      "y": 90
+    },
+    "bottomRight": {
+      "x": 91,
+      "y": 89
+    },
+    "bottom": {
+      "x": 90,
+      "y": 89
+    },
+    "bottonLeft": {
+      "x": 89,
+      "y": 89
+    },
+    "left": {
+      "x": 89,
+      "y": 90
+    },
+    "topLeft": {
+      "x": 89,
+      "y": 91
+    }
   }
 }

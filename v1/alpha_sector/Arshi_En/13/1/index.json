@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15337",
+  "token_name": "Terraform10567",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15337",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcuDBcNLeVqt9bk3Hxp4KzHpyXBXxVm5HfzdRUTRqULtM",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10567",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcABnkmcN7Az1trFgBegYqb6LZmt7pZ5iGMSox5jDwNky",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 3,
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 2,
   "quantum_flux": 2,
-  "primary_minerals": "Copper",
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 13,
     "y": 1
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 2
+    },
+    "topRight": {
+      "x": 14,
+      "y": 2
+    },
+    "right": {
+      "x": 14,
+      "y": 1
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 0
+    },
+    "bottom": {
+      "x": 13,
+      "y": 0
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 0
+    },
+    "left": {
+      "x": 12,
+      "y": 1
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 2
+    }
   }
 }

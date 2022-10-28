@@ -1,18 +1,18 @@
 {
-  "token_name": "Terraform03173",
+  "token_name": "Terraform05728",
   "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03173",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTQhptn9tJKuHpGHNaPjN76WsRy3F4tkSLcoN9qct6kr8",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05728",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUD8Qqt4ueKALix4M9e4bX1WxxxBf4dHaZM2nWQcG2RFh",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
+  "activity": "None",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 6,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 1,
+  "quantum_flux": 9,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 32,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 32,
+      "y": 23
+    },
+    "topRight": {
+      "x": 33,
+      "y": 23
+    },
+    "right": {
+      "x": 33,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 33,
+      "y": 21
+    },
+    "bottom": {
+      "x": 32,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 31,
+      "y": 21
+    },
+    "left": {
+      "x": 31,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 31,
+      "y": 23
+    }
   }
 }

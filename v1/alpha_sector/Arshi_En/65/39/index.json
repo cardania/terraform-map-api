@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01480",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01480",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmchQhsVpKpuXyVyLU867Z4DAH5gGCUc4Mz7R8uNR4JFMd",
+  "token_name": "Terraform06131",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06131",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdxLmQW6mWCR7NnFZ7pCqBsuLGZK9pXtBMXGpdMtxQBkN",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
   "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_Lake",
   "location": {
     "x": 65,
     "y": 39
+  },
+  "neighbors": {
+    "top": {
+      "x": 65,
+      "y": 40
+    },
+    "topRight": {
+      "x": 66,
+      "y": 40
+    },
+    "right": {
+      "x": 66,
+      "y": 39
+    },
+    "bottomRight": {
+      "x": 66,
+      "y": 38
+    },
+    "bottom": {
+      "x": 65,
+      "y": 38
+    },
+    "bottonLeft": {
+      "x": 64,
+      "y": 38
+    },
+    "left": {
+      "x": 64,
+      "y": 39
+    },
+    "topLeft": {
+      "x": 64,
+      "y": 40
+    }
   }
 }

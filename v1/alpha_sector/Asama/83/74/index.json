@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19274",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19274",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSoPmiKpJmEmg4Vc8pmXA2De8LtsV64ideuaDQMpZbeuj",
+  "token_name": "Terraform04994",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04994",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmR1Lz3cogZ2DY4T5ner35mwqtiAPxay1APr5yRpPj7V4T",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 3,
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 1,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 83,
     "y": 74
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 75
+    },
+    "topRight": {
+      "x": 84,
+      "y": 75
+    },
+    "right": {
+      "x": 84,
+      "y": 74
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 73
+    },
+    "bottom": {
+      "x": 83,
+      "y": 73
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 73
+    },
+    "left": {
+      "x": 82,
+      "y": 74
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 75
+    }
   }
 }

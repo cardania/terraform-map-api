@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13792",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13792",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWX1tKPf79RLuuSNaWmPWecbwCFqj4QHhLcBnpJFF6BTk",
+  "token_name": "Terraform03493",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03493",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRLqeToW85hqmKNNyWxfQSfsF2efxayBLEwra2mo5QpLk",
   "alpha_sector": "Arshi_En",
   "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Timelost",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 6,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "quantum_flux": 8,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 51,
     "y": 63
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 64
+    },
+    "topRight": {
+      "x": 52,
+      "y": 64
+    },
+    "right": {
+      "x": 52,
+      "y": 63
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 62
+    },
+    "bottom": {
+      "x": 51,
+      "y": 62
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 62
+    },
+    "left": {
+      "x": 50,
+      "y": 63
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 64
+    }
   }
 }

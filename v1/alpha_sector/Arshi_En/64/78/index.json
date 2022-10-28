@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07349",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07349",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaPnG5bBap4J8xvT6BRhnE3mSneiHdAfv4ktH5GLGVcNM",
+  "token_name": "Terraform13475",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13475",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd6PzYoTXEtZMDrzoyHmeYuQhmHHtSxD42j63XnENsumj",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
   "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 9,
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 7,
+  "quantum_flux": 5,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 64,
     "y": 78
+  },
+  "neighbors": {
+    "top": {
+      "x": 64,
+      "y": 79
+    },
+    "topRight": {
+      "x": 65,
+      "y": 79
+    },
+    "right": {
+      "x": 65,
+      "y": 78
+    },
+    "bottomRight": {
+      "x": 65,
+      "y": 77
+    },
+    "bottom": {
+      "x": 64,
+      "y": 77
+    },
+    "bottonLeft": {
+      "x": 63,
+      "y": 77
+    },
+    "left": {
+      "x": 63,
+      "y": 78
+    },
+    "topLeft": {
+      "x": 63,
+      "y": 79
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06545",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06545",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRF3ZodfwZaxY9K9NqdDZ5BEgViJxckYKwokevHkhcjzn",
+  "token_name": "Terraform02513",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02513",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc7bqTykiyNuUZbMckq5eXYUQFipQcGQTZeU8kThnZHPK",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 4,
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 2,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Cursed_Lake",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 21,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 26
+    },
+    "topRight": {
+      "x": 22,
+      "y": 26
+    },
+    "right": {
+      "x": 22,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 24
+    },
+    "bottom": {
+      "x": 21,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 24
+    },
+    "left": {
+      "x": 20,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 26
+    }
   }
 }

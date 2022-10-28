@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04832",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04832",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSfP4Uo7EvCP1GfUJVC93jYMq7VPW2kGzeR7f5XxQYqkW",
+  "token_name": "Terraform06597",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06597",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUYSg2yD9aZRBLvkVbRSQycWZ3sk8pTCy21xGymNimbxH",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
   "fauna": "None",
   "forests": "Evergreen",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 66,
     "y": 23
+  },
+  "neighbors": {
+    "top": {
+      "x": 66,
+      "y": 24
+    },
+    "topRight": {
+      "x": 67,
+      "y": 24
+    },
+    "right": {
+      "x": 67,
+      "y": 23
+    },
+    "bottomRight": {
+      "x": 67,
+      "y": 22
+    },
+    "bottom": {
+      "x": 66,
+      "y": 22
+    },
+    "bottonLeft": {
+      "x": 65,
+      "y": 22
+    },
+    "left": {
+      "x": 65,
+      "y": 23
+    },
+    "topLeft": {
+      "x": 65,
+      "y": 24
+    }
   }
 }

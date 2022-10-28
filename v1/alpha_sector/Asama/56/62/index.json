@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09053",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09053",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVJnKYTNz4uqxFrdYgdHDLe177iJSTRkHeKjW1bnwkT17",
+  "token_name": "Terraform12573",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12573",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQzULM3Q9RdR5GBqAdCvXTwxTnf3kjmckZbXSEXcKcmPA",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
   "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 56,
     "y": 62
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 63
+    },
+    "topRight": {
+      "x": 57,
+      "y": 63
+    },
+    "right": {
+      "x": 57,
+      "y": 62
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 61
+    },
+    "bottom": {
+      "x": 56,
+      "y": 61
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 61
+    },
+    "left": {
+      "x": 55,
+      "y": 62
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 63
+    }
   }
 }

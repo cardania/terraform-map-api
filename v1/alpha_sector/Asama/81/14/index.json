@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15291",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15291",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUx8p293zkyf8up9ewVLsEYtr9hx8sDCSQzNrA685FWPU",
+  "token_name": "Terraform05122",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05122",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUUCNrM9v72PAxXgBPyy34BvdMn1FbxAajzq6MbCLXRig",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 8,
   "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_Lake",
   "location": {
     "x": 81,
     "y": 14
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 15
+    },
+    "topRight": {
+      "x": 82,
+      "y": 15
+    },
+    "right": {
+      "x": 82,
+      "y": 14
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 13
+    },
+    "bottom": {
+      "x": 81,
+      "y": 13
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 13
+    },
+    "left": {
+      "x": 80,
+      "y": 14
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 15
+    }
   }
 }

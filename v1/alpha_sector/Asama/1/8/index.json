@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15897",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15897",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPUTZfeG91Yn3X6w33GgGxMn6enJayX7fjNDiRZXJL7sm",
+  "token_name": "Terraform11472",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11472",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfF4Ctpd7etPyAsgKGRAR2NmfxpEN3H1MqgrQaYdrZAJQ",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 8,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Cursed_River",
   "location": {
     "x": 1,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 1,
+      "y": 9
+    },
+    "topRight": {
+      "x": 2,
+      "y": 9
+    },
+    "right": {
+      "x": 2,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 2,
+      "y": 7
+    },
+    "bottom": {
+      "x": 1,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 0,
+      "y": 7
+    },
+    "left": {
+      "x": 0,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 0,
+      "y": 9
+    }
   }
 }

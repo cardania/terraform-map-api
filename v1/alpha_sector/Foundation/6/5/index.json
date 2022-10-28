@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19918",
+  "token_name": "Terraform19808",
   "land_type": "Prismatic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19918",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZSuNHmvnG52ThPKa1AqTJR2D6YSQF6DJBpdhLGZNbsMV",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19808",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdWzPz1RADE6iqhnpVo2sNchPWkXqDCagJ6YQKhkFXqp5",
   "alpha_sector": "Foundation",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 6,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 6
+    },
+    "topRight": {
+      "x": 7,
+      "y": 6
+    },
+    "right": {
+      "x": 7,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 4
+    },
+    "bottom": {
+      "x": 6,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 4
+    },
+    "left": {
+      "x": 5,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 6
+    }
   }
 }

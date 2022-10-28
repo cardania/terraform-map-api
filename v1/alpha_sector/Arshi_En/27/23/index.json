@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14476",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14476",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUDtvZVFacGrxZeL6bgpuPwiJRCXcXaWneKqNaadzpstt",
+  "token_name": "Terraform07660",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07660",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmT97qEW2sL5XWEiLUGcNmudDdjQCL5CUwdbeEHx9sz94P",
   "alpha_sector": "Arshi_En",
   "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 7,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Gemstones",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 2,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
+  "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 27,
     "y": 23
+  },
+  "neighbors": {
+    "top": {
+      "x": 27,
+      "y": 24
+    },
+    "topRight": {
+      "x": 28,
+      "y": 24
+    },
+    "right": {
+      "x": 28,
+      "y": 23
+    },
+    "bottomRight": {
+      "x": 28,
+      "y": 22
+    },
+    "bottom": {
+      "x": 27,
+      "y": 22
+    },
+    "bottonLeft": {
+      "x": 26,
+      "y": 22
+    },
+    "left": {
+      "x": 26,
+      "y": 23
+    },
+    "topLeft": {
+      "x": 26,
+      "y": 24
+    }
   }
 }

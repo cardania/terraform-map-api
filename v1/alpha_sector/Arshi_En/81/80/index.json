@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14280",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14280",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSdcHEQgz865SU14YWd9taZtozwnnsqsBgM5bKzHcjDNq",
+  "token_name": "Terraform07992",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07992",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbShEUtVGASXX6qvNeYNobEbM9fYhcQZ49gDHvdxv9P14",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 8,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Timelost",
-  "shrine": "Timelost_Shrine",
-  "water": "Saltwater_Lake",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 7,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 81,
     "y": 80
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 81
+    },
+    "topRight": {
+      "x": 82,
+      "y": 81
+    },
+    "right": {
+      "x": 82,
+      "y": 80
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 79
+    },
+    "bottom": {
+      "x": 81,
+      "y": 79
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 79
+    },
+    "left": {
+      "x": 80,
+      "y": 80
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 81
+    }
   }
 }

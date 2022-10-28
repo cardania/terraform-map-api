@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13180",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13180",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUHrw1UtRm3cFmppByHkoQDGawrvXnrGTrUziyCjRXByd",
+  "token_name": "Terraform03269",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03269",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXvQgutdZAcTnbEEuJ4wY2sZoe5BktjhWSUrJzThcfuDo",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 8,
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
   "quantum_flux": 1,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Cursed_Lake",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Fungal_Shrine",
+  "water": "Saltwater_River",
   "location": {
     "x": 7,
     "y": 11
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 12
+    },
+    "topRight": {
+      "x": 8,
+      "y": 12
+    },
+    "right": {
+      "x": 8,
+      "y": 11
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 10
+    },
+    "bottom": {
+      "x": 7,
+      "y": 10
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 10
+    },
+    "left": {
+      "x": 6,
+      "y": 11
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 12
+    }
   }
 }

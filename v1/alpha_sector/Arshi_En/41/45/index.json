@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06484",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06484",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZj6gtaZxHAPAtxAbKbufogi6p672KdFWTtM9kDSHC2v4",
+  "token_name": "Terraform15694",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15694",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWxLWb1rs9NcXWFXvWTstrCyA2YA8J66QjSHbiCDRFtVx",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "Cardanium_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 9,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "None",
   "location": {
     "x": 41,
     "y": 45
+  },
+  "neighbors": {
+    "top": {
+      "x": 41,
+      "y": 46
+    },
+    "topRight": {
+      "x": 42,
+      "y": 46
+    },
+    "right": {
+      "x": 42,
+      "y": 45
+    },
+    "bottomRight": {
+      "x": 42,
+      "y": 44
+    },
+    "bottom": {
+      "x": 41,
+      "y": 44
+    },
+    "bottonLeft": {
+      "x": 40,
+      "y": 44
+    },
+    "left": {
+      "x": 40,
+      "y": 45
+    },
+    "topLeft": {
+      "x": 40,
+      "y": 46
+    }
   }
 }

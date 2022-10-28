@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01568",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01568",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPKHARrwgM8KQb5MEbkPybjodjvsxtH8286orjL9q1tRu",
+  "token_name": "Terraform15415",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15415",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQPCdpq8kAsCDQAxropTZb3FJ2pvQVCwrtviFHrQ7kCXx",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 6,
-  "quantum_flux": 8,
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Cursed_Lake",
   "location": {
     "x": 99,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 99,
+      "y": 34
+    },
+    "topRight": {
+      "x": 100,
+      "y": 34
+    },
+    "right": {
+      "x": 100,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 100,
+      "y": 32
+    },
+    "bottom": {
+      "x": 99,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 98,
+      "y": 32
+    },
+    "left": {
+      "x": 98,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 98,
+      "y": 34
+    }
   }
 }

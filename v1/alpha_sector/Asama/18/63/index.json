@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02432",
+  "token_name": "Terraform10905",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02432",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdFLMcP3zudgMkhyHH7gtcRVqhR4guoU4yADYGmuYv3Ve",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10905",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ1cifNfHQHjnTXCJQqpWPDAzJrV4F7CUQd7hKjQ6s1TJ",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
   "power_level": 8,
-  "quantum_flux": 3,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Fungal_Shrine",
-  "water": "None",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 18,
     "y": 63
+  },
+  "neighbors": {
+    "top": {
+      "x": 18,
+      "y": 64
+    },
+    "topRight": {
+      "x": 19,
+      "y": 64
+    },
+    "right": {
+      "x": 19,
+      "y": 63
+    },
+    "bottomRight": {
+      "x": 19,
+      "y": 62
+    },
+    "bottom": {
+      "x": 18,
+      "y": 62
+    },
+    "bottonLeft": {
+      "x": 17,
+      "y": 62
+    },
+    "left": {
+      "x": 17,
+      "y": 63
+    },
+    "topLeft": {
+      "x": 17,
+      "y": 64
+    }
   }
 }

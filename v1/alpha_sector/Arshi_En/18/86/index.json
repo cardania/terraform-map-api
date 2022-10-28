@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15603",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15603",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNtDVsYYf9CWo66VEoRmK7TQT2JxyzrSovawZhk6Ypi46",
+  "token_name": "Terraform14093",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14093",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYLiTndyNTeofkfh1i6jJZrrFLeY8sydH6PMmfiyohkFH",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Timelost",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 18,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 18,
+      "y": 87
+    },
+    "topRight": {
+      "x": 19,
+      "y": 87
+    },
+    "right": {
+      "x": 19,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 19,
+      "y": 85
+    },
+    "bottom": {
+      "x": 18,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 17,
+      "y": 85
+    },
+    "left": {
+      "x": 17,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 17,
+      "y": 87
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11442",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11442",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNVi7PkCcM62oQER2vaFSGvsfnbMvHMm92kCy8XCfGP7r",
+  "token_name": "Terraform02015",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02015",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVABzr9YN2mEoWHPuqwqsETGh8oy9YRHorx2gNaTJcrnf",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 6,
-  "quantum_flux": 1,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Void_Shrine",
-  "water": "Toxic_River",
+  "power_level": 1,
+  "quantum_flux": 9,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 59,
     "y": 40
+  },
+  "neighbors": {
+    "top": {
+      "x": 59,
+      "y": 41
+    },
+    "topRight": {
+      "x": 60,
+      "y": 41
+    },
+    "right": {
+      "x": 60,
+      "y": 40
+    },
+    "bottomRight": {
+      "x": 60,
+      "y": 39
+    },
+    "bottom": {
+      "x": 59,
+      "y": 39
+    },
+    "bottonLeft": {
+      "x": 58,
+      "y": 39
+    },
+    "left": {
+      "x": 58,
+      "y": 40
+    },
+    "topLeft": {
+      "x": 58,
+      "y": 41
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10875",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10875",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf1zXAcsM8ZYbbz9xedkFUYYYWjNnooFis6YCLQRFkvrR",
+  "token_name": "Terraform15049",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15049",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWemkedUrYi8UiJUvGLXoNcJWmkxpMBX29NuAjje3HerD",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 6,
-  "quantum_flux": 3,
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Golden_Shrine",
-  "water": "Funky_Lake",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 28,
     "y": 90
+  },
+  "neighbors": {
+    "top": {
+      "x": 28,
+      "y": 91
+    },
+    "topRight": {
+      "x": 29,
+      "y": 91
+    },
+    "right": {
+      "x": 29,
+      "y": 90
+    },
+    "bottomRight": {
+      "x": 29,
+      "y": 89
+    },
+    "bottom": {
+      "x": 28,
+      "y": 89
+    },
+    "bottonLeft": {
+      "x": 27,
+      "y": 89
+    },
+    "left": {
+      "x": 27,
+      "y": 90
+    },
+    "topLeft": {
+      "x": 27,
+      "y": 91
+    }
   }
 }

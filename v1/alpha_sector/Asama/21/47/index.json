@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03735",
+  "token_name": "Terraform02663",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03735",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmS6ft8NicPs5Z97rYHQuNQxkEo8Pf15CjTQTNdXkmGG84",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02663",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPjTAwaDsFNAV4CuAmsXsdQq2ghisAwgb28Wa9sFBKTqN",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 6,
+  "power_level": 5,
   "quantum_flux": 1,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 21,
     "y": 47
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 48
+    },
+    "topRight": {
+      "x": 22,
+      "y": 48
+    },
+    "right": {
+      "x": 22,
+      "y": 47
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 46
+    },
+    "bottom": {
+      "x": 21,
+      "y": 46
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 46
+    },
+    "left": {
+      "x": 20,
+      "y": 47
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 48
+    }
   }
 }

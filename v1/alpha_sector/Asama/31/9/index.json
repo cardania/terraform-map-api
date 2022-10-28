@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10472",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10472",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRAGw6LoDwbkoT2Ppm3UWoyeTzH4m8n1iEGuukhgbUyvv",
+  "token_name": "Terraform07207",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07207",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNex5eFo8gQynWXQpCgLhkchXs6Kj22RmJTrQpLpM2bq2",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
   "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
+  "quantum_flux": 5,
+  "primary_minerals": "None",
   "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 31,
     "y": 9
+  },
+  "neighbors": {
+    "top": {
+      "x": 31,
+      "y": 10
+    },
+    "topRight": {
+      "x": 32,
+      "y": 10
+    },
+    "right": {
+      "x": 32,
+      "y": 9
+    },
+    "bottomRight": {
+      "x": 32,
+      "y": 8
+    },
+    "bottom": {
+      "x": 31,
+      "y": 8
+    },
+    "bottonLeft": {
+      "x": 30,
+      "y": 8
+    },
+    "left": {
+      "x": 30,
+      "y": 9
+    },
+    "topLeft": {
+      "x": 30,
+      "y": 10
+    }
   }
 }

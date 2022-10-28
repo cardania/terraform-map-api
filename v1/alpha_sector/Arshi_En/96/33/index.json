@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11881",
+  "token_name": "Terraform00001",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11881",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXMWwQCaK7pEtyDYnzGVEFkttgQCYA3GX8k8HrtDtGaB8",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00001",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTAYuNrwW8KqHY9Qm92SrwKJYmA7guJEe8yjjN57tG77z",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Palms",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 5,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Saltwater_Lake",
+  "shrine": "Fungal_Shrine",
+  "water": "Funky_River",
   "location": {
     "x": 96,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 34
+    },
+    "topRight": {
+      "x": 97,
+      "y": 34
+    },
+    "right": {
+      "x": 97,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 32
+    },
+    "bottom": {
+      "x": 96,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 32
+    },
+    "left": {
+      "x": 95,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 34
+    }
   }
 }

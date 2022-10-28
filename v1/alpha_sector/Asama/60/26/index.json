@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03606",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03606",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSxBueFtWdF6SWqUMgBP8FRSGABf8yYRst4Z9bRJfgLj8",
+  "token_name": "Terraform11871",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11871",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmR9qosYmMLSvpSV4Ps619VtLW81Jxa4X8uLnUMuTyufJe",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Antigravity_Cloud",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 6,
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 8,
   "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Funky_River",
   "location": {
     "x": 60,
     "y": 26
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 27
+    },
+    "topRight": {
+      "x": 61,
+      "y": 27
+    },
+    "right": {
+      "x": 61,
+      "y": 26
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 25
+    },
+    "bottom": {
+      "x": 60,
+      "y": 25
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 25
+    },
+    "left": {
+      "x": 59,
+      "y": 26
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 27
+    }
   }
 }

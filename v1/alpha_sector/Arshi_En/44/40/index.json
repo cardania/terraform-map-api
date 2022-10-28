@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17559",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17559",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeY2DwrLE2YqhWk1BXQ2GB2Yja6dAtNvpaLKeHbQX8tZ8",
+  "token_name": "Terraform15879",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15879",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUFrqpckkehFmqcnd5NCUp27MczcQ71W1D9UPo1XQtdSG",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Palms",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "lithoglyphs": "None",
+  "power_level": 9,
+  "quantum_flux": 1,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "None",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 44,
     "y": 40
+  },
+  "neighbors": {
+    "top": {
+      "x": 44,
+      "y": 41
+    },
+    "topRight": {
+      "x": 45,
+      "y": 41
+    },
+    "right": {
+      "x": 45,
+      "y": 40
+    },
+    "bottomRight": {
+      "x": 45,
+      "y": 39
+    },
+    "bottom": {
+      "x": 44,
+      "y": 39
+    },
+    "bottonLeft": {
+      "x": 43,
+      "y": 39
+    },
+    "left": {
+      "x": 43,
+      "y": 40
+    },
+    "topLeft": {
+      "x": 43,
+      "y": 41
+    }
   }
 }

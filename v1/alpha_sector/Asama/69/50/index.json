@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12526",
+  "token_name": "Terraform08933",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12526",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWWQLipn4DTk6gQBgYejnHWYwX2MfzphFq5ETrW61CD1r",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08933",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWhaEtAC9u61367riEKgWCf4btph83ouuvQYifutYgsHD",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 5,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 69,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 69,
+      "y": 51
+    },
+    "topRight": {
+      "x": 70,
+      "y": 51
+    },
+    "right": {
+      "x": 70,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 70,
+      "y": 49
+    },
+    "bottom": {
+      "x": 69,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 68,
+      "y": 49
+    },
+    "left": {
+      "x": 68,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 68,
+      "y": 51
+    }
   }
 }

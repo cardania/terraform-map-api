@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09147",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09147",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPoWfZGV3226HnWs12XQTw3G6uoe9ac5y4T3fTKkmtsgH",
+  "token_name": "Terraform17727",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17727",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRTLAJoxPjLLcPqaQADuVZ4CEwh6GXwUpJQy5nY4ryZ19",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Cursed_River",
+  "shrine": "Machine_Shrine",
+  "water": "Funky_Lake",
   "location": {
     "x": 99,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 99,
+      "y": 53
+    },
+    "topRight": {
+      "x": 100,
+      "y": 53
+    },
+    "right": {
+      "x": 100,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 100,
+      "y": 51
+    },
+    "bottom": {
+      "x": 99,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 98,
+      "y": 51
+    },
+    "left": {
+      "x": 98,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 98,
+      "y": 53
+    }
   }
 }

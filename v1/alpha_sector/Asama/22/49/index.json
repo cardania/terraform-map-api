@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12738",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12738",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeQmTDU1d4q6SxBGjHGrm7twK6Jns8SgSUvTvfWagzSSE",
+  "token_name": "Terraform13377",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13377",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZpTaCptr6xb2WfFLagKbBACeMhVLQwwkvDhE7N8B11bJ",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 4,
+  "quantum_flux": 1,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 22,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 22,
+      "y": 50
+    },
+    "topRight": {
+      "x": 23,
+      "y": 50
+    },
+    "right": {
+      "x": 23,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 23,
+      "y": 48
+    },
+    "bottom": {
+      "x": 22,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 21,
+      "y": 48
+    },
+    "left": {
+      "x": 21,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 21,
+      "y": 50
+    }
   }
 }

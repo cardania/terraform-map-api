@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02293",
+  "token_name": "Terraform03298",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02293",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf6rEJYQWLXksqZsKhFYktdkU8ieXW7nKwhQb9LTBy9Ht",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03298",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUhaAVQJDkoC9EvtcGx3YaNnG59Y6zpkpW8xxt5NhnZyG",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "power_level": 6,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 49,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 49,
+      "y": 76
+    },
+    "topRight": {
+      "x": 50,
+      "y": 76
+    },
+    "right": {
+      "x": 50,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 50,
+      "y": 74
+    },
+    "bottom": {
+      "x": 49,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 48,
+      "y": 74
+    },
+    "left": {
+      "x": 48,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 48,
+      "y": 76
+    }
   }
 }

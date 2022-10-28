@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00607",
+  "token_name": "Terraform16715",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00607",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbycQFu1qqhtaHjYH7hhk7ruWoCN2fn523BsEbXD472vX",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16715",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXfi24XUC6PUhjMDQgWs6RTBHN2HmjRbPozAL2Aq8uafv",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 6,
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 9,
   "quantum_flux": 7,
-  "primary_minerals": "None",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 69,
     "y": 80
+  },
+  "neighbors": {
+    "top": {
+      "x": 69,
+      "y": 81
+    },
+    "topRight": {
+      "x": 70,
+      "y": 81
+    },
+    "right": {
+      "x": 70,
+      "y": 80
+    },
+    "bottomRight": {
+      "x": 70,
+      "y": 79
+    },
+    "bottom": {
+      "x": 69,
+      "y": 79
+    },
+    "bottonLeft": {
+      "x": 68,
+      "y": 79
+    },
+    "left": {
+      "x": 68,
+      "y": 80
+    },
+    "topLeft": {
+      "x": 68,
+      "y": 81
+    }
   }
 }

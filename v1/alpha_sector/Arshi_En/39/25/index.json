@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07122",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07122",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZDBwLt8UpmS3wxUV8gid51L9WYb5f5yYBht4ZnT4aBK5",
+  "token_name": "Terraform02967",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02967",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQz9N6bD9T85QA8qeGVCeFU6euPTP2FJqYjmCqPqrHWb9",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 6,
+  "power_level": 7,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "Solar_Shrine",
+  "water": "Saltwater_River",
   "location": {
     "x": 39,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 26
+    },
+    "topRight": {
+      "x": 40,
+      "y": 26
+    },
+    "right": {
+      "x": 40,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 24
+    },
+    "bottom": {
+      "x": 39,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 24
+    },
+    "left": {
+      "x": 38,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 26
+    }
   }
 }

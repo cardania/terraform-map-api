@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03129",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03129",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUwLLvnTuPpVq4LCCDCK4tFTmTsPuPJo1ZbvGZ4tJ5LZG",
+  "token_name": "Terraform07255",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07255",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRJzM3pxEQQvQSPpwhu4NLdRHPRDSoBmEn6mBmMyQD15u",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 9,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Purple",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "None",
   "location": {
     "x": 36,
     "y": 80
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 81
+    },
+    "topRight": {
+      "x": 37,
+      "y": 81
+    },
+    "right": {
+      "x": 37,
+      "y": 80
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 79
+    },
+    "bottom": {
+      "x": 36,
+      "y": 79
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 79
+    },
+    "left": {
+      "x": 35,
+      "y": 80
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 81
+    }
   }
 }

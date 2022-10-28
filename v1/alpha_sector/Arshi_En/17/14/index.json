@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06080",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06080",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZbE2zWPnX5b9ML58QecxyTCUGeedHbsUAM6h8V7j7KrW",
+  "token_name": "Terraform16598",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16598",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb6yiNVjKbRowUH3nvPJ3yohrCpTKZVXmXW413AKgMFF2",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 17,
     "y": 14
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 15
+    },
+    "topRight": {
+      "x": 18,
+      "y": 15
+    },
+    "right": {
+      "x": 18,
+      "y": 14
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 13
+    },
+    "bottom": {
+      "x": 17,
+      "y": 13
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 13
+    },
+    "left": {
+      "x": 16,
+      "y": 14
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 15
+    }
   }
 }

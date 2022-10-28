@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09947",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09947",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZcRvR1PzxUJcbGRCqLtt3hFXnhbzHknabzZCxV6qt5Ac",
+  "token_name": "Terraform15511",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15511",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbhzv5LPXj3VueyBaBP5JPXPfX4MG88UhXo1sm9pAxod7",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "Solar_Shrine",
-  "water": "Saltwater_Lake",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 15,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 15,
+      "y": 14
+    },
+    "topRight": {
+      "x": 16,
+      "y": 14
+    },
+    "right": {
+      "x": 16,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 16,
+      "y": 12
+    },
+    "bottom": {
+      "x": 15,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 14,
+      "y": 12
+    },
+    "left": {
+      "x": 14,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 14,
+      "y": 14
+    }
   }
 }

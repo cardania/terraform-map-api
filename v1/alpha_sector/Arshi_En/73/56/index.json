@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05661",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05661",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdPNh1T9BbSo5kjsM4hTZDBdvHf5qHgBWvNTF9MWscXed",
+  "token_name": "Terraform02160",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02160",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmex3pAj3gT2kHCo8dAYmsedQrhjE5Mhurb24wsXLeLiXE",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 2,
+  "quantum_flux": 1,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_River",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 73,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 73,
+      "y": 57
+    },
+    "topRight": {
+      "x": 74,
+      "y": 57
+    },
+    "right": {
+      "x": 74,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 74,
+      "y": 55
+    },
+    "bottom": {
+      "x": 73,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 72,
+      "y": 55
+    },
+    "left": {
+      "x": 72,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 72,
+      "y": 57
+    }
   }
 }

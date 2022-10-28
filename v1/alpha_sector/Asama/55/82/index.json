@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15338",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15338",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVTQA4NShKhCNQfqAE4UuR3XVpZTVtRYNwgZhDzra6jLb",
+  "token_name": "Terraform01540",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01540",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfPu95jDGTr9qW1eEkAFviNy2FNWYNqG9LnKHrvuoMvvU",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 9,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "power_level": 1,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 55,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 55,
+      "y": 83
+    },
+    "topRight": {
+      "x": 56,
+      "y": 83
+    },
+    "right": {
+      "x": 56,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 56,
+      "y": 81
+    },
+    "bottom": {
+      "x": 55,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 54,
+      "y": 81
+    },
+    "left": {
+      "x": 54,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 54,
+      "y": 83
+    }
   }
 }

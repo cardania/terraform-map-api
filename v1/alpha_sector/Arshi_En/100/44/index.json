@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08815",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08815",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb8fxdKjL6YnPYzY6VUheHwZjcmduPPs2Gy27PB5APUG2",
+  "token_name": "Terraform01207",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01207",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ8xxXNbjuSuhJfjb94qXhDyvJy1V9FrbJqNGwfi7yo5k",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 5,
-  "quantum_flux": 5,
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 9,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Funky_River",
+  "shrine": "Timelost_Shrine",
+  "water": "None",
   "location": {
     "x": 100,
     "y": 44
+  },
+  "neighbors": {
+    "top": {
+      "x": 100,
+      "y": 45
+    },
+    "topRight": {
+      "x": 101,
+      "y": 45
+    },
+    "right": {
+      "x": 101,
+      "y": 44
+    },
+    "bottomRight": {
+      "x": 101,
+      "y": 43
+    },
+    "bottom": {
+      "x": 100,
+      "y": 43
+    },
+    "bottonLeft": {
+      "x": 99,
+      "y": 43
+    },
+    "left": {
+      "x": 99,
+      "y": 44
+    },
+    "topLeft": {
+      "x": 99,
+      "y": 45
+    }
   }
 }

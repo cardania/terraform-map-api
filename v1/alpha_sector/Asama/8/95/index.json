@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12417",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12417",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeLpCtLtaCMgKRPzxzs1iyJzdwGSByjGkQuqzMchumBAx",
+  "token_name": "Terraform11567",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11567",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVFhnEgSjogCxgRGsTrXt8KwL67gFRJhne8k5bsDqEHxz",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "None",
+  "water": "Funky_Lake",
   "location": {
     "x": 8,
     "y": 95
+  },
+  "neighbors": {
+    "top": {
+      "x": 8,
+      "y": 96
+    },
+    "topRight": {
+      "x": 9,
+      "y": 96
+    },
+    "right": {
+      "x": 9,
+      "y": 95
+    },
+    "bottomRight": {
+      "x": 9,
+      "y": 94
+    },
+    "bottom": {
+      "x": 8,
+      "y": 94
+    },
+    "bottonLeft": {
+      "x": 7,
+      "y": 94
+    },
+    "left": {
+      "x": 7,
+      "y": 95
+    },
+    "topLeft": {
+      "x": 7,
+      "y": 96
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00229",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00229",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRnozH1eSJXVHhNH8nqXqB561V6aKjhArQTi9DsURDLRf",
+  "token_name": "Terraform13872",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13872",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZsG9xBSd3jWtw6YUL8WYPo2CMdNWq1zSRJ5G8Rs9E6Y1",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
   "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 39,
     "y": 90
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 91
+    },
+    "topRight": {
+      "x": 40,
+      "y": 91
+    },
+    "right": {
+      "x": 40,
+      "y": 90
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 89
+    },
+    "bottom": {
+      "x": 39,
+      "y": 89
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 89
+    },
+    "left": {
+      "x": 38,
+      "y": 90
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 91
+    }
   }
 }

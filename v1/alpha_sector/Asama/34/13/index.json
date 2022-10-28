@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04352",
+  "token_name": "Terraform18551",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04352",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf8U3hWxdKYeuhfH9e5SAUVf6Wj7EMskwDm8ms2ZGj2xZ",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18551",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSna9YJYwLukhv9Mbxwix37YQvVSEwWBTBfujZZrBhn7q",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 7,
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Cursed_River",
+  "shrine": "Machine_Shrine",
+  "water": "Funky_River",
   "location": {
     "x": 34,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 34,
+      "y": 14
+    },
+    "topRight": {
+      "x": 35,
+      "y": 14
+    },
+    "right": {
+      "x": 35,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 35,
+      "y": 12
+    },
+    "bottom": {
+      "x": 34,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 33,
+      "y": 12
+    },
+    "left": {
+      "x": 33,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 33,
+      "y": 14
+    }
   }
 }

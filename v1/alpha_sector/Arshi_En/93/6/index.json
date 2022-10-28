@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15604",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15604",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qma2qmqmwWRSMtKFHx2UyDqzADqoqGa9qWyr6RVf3VCSRD",
+  "token_name": "Terraform07375",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07375",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdR4U3E5vrbgBFHDwdUSyWiYQHaHqKGaRvkJBzS6K55xi",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 8,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 93,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 93,
+      "y": 7
+    },
+    "topRight": {
+      "x": 94,
+      "y": 7
+    },
+    "right": {
+      "x": 94,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 94,
+      "y": 5
+    },
+    "bottom": {
+      "x": 93,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 92,
+      "y": 5
+    },
+    "left": {
+      "x": 92,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 92,
+      "y": 7
+    }
   }
 }

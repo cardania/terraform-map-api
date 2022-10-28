@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00726",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00726",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW6qPBoUcKFaJe4yMfbSz6T6HdwkV1WPssTSh3mLJyQtf",
+  "token_name": "Terraform10529",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10529",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPmUKhcKXXshep5oXTWXzCvJTRNyEVMbccNZwAEY9adhX",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
   "power_level": 5,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 58,
     "y": 24
+  },
+  "neighbors": {
+    "top": {
+      "x": 58,
+      "y": 25
+    },
+    "topRight": {
+      "x": 59,
+      "y": 25
+    },
+    "right": {
+      "x": 59,
+      "y": 24
+    },
+    "bottomRight": {
+      "x": 59,
+      "y": 23
+    },
+    "bottom": {
+      "x": 58,
+      "y": 23
+    },
+    "bottonLeft": {
+      "x": 57,
+      "y": 23
+    },
+    "left": {
+      "x": 57,
+      "y": 24
+    },
+    "topLeft": {
+      "x": 57,
+      "y": 25
+    }
   }
 }

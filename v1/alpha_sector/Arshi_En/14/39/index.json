@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06879",
+  "token_name": "Terraform19188",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06879",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qme52f6kLM4qzNR2TBTQBM2y18rf6S5bgjh2eozNeJJynX",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19188",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPoKD8481sAHX5SNQ3EVTtdC6ybLn19xwHFDWqPNgFJHY",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "Iron",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 14,
     "y": 39
+  },
+  "neighbors": {
+    "top": {
+      "x": 14,
+      "y": 40
+    },
+    "topRight": {
+      "x": 15,
+      "y": 40
+    },
+    "right": {
+      "x": 15,
+      "y": 39
+    },
+    "bottomRight": {
+      "x": 15,
+      "y": 38
+    },
+    "bottom": {
+      "x": 14,
+      "y": 38
+    },
+    "bottonLeft": {
+      "x": 13,
+      "y": 38
+    },
+    "left": {
+      "x": 13,
+      "y": 39
+    },
+    "topLeft": {
+      "x": 13,
+      "y": 40
+    }
   }
 }

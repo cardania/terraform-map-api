@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16843",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16843",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVgnBmJPsHsu4ZW1sch6WoBPjNBjWE6mX8iE4fzVjoMDb",
+  "token_name": "Terraform06722",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06722",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVbJYXbvzZSwvY9yzFj9yxf7DFAQJEkygDXwTQUv9dbYA",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Prismaleaf",
+  "forests": "None",
   "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 6,
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
   "quantum_flux": 5,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 99,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 99,
+      "y": 14
+    },
+    "topRight": {
+      "x": 100,
+      "y": 14
+    },
+    "right": {
+      "x": 100,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 100,
+      "y": 12
+    },
+    "bottom": {
+      "x": 99,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 98,
+      "y": 12
+    },
+    "left": {
+      "x": 98,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 98,
+      "y": 14
+    }
   }
 }

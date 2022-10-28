@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14936",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14936",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSJ862dTHxawWbvsM8tJqwcUc271Ug478GapfX2pn6vjz",
+  "token_name": "Terraform13305",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13305",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfBPo4Jbuau9KL3Pfc7n4kp6ciZvSDm7acbEja6b2EKjn",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 2,
   "quantum_flux": 7,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Compacted_Machinery",
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Toxic_Lake",
   "location": {
     "x": 81,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 51
+    },
+    "topRight": {
+      "x": 82,
+      "y": 51
+    },
+    "right": {
+      "x": 82,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 49
+    },
+    "bottom": {
+      "x": 81,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 49
+    },
+    "left": {
+      "x": 80,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 51
+    }
   }
 }

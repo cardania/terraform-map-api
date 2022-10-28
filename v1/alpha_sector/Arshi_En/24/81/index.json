@@ -1,18 +1,18 @@
 {
-  "token_name": "Terraform04005",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04005",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSyoRZFPvK4953jAGnPMSaGRhRKRodKA3953qUkhLu3nR",
+  "token_name": "Terraform10853",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10853",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVu49VtSarMaBZyzEtcPPACxP45rQKpCGVA93bwzsvdo1",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 9,
-  "quantum_flux": 3,
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 1,
+  "quantum_flux": 6,
   "primary_minerals": "Iron",
   "secondary_minerals": "Fossils",
   "ruins": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 24,
     "y": 81
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 82
+    },
+    "topRight": {
+      "x": 25,
+      "y": 82
+    },
+    "right": {
+      "x": 25,
+      "y": 81
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 80
+    },
+    "bottom": {
+      "x": 24,
+      "y": 80
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 80
+    },
+    "left": {
+      "x": 23,
+      "y": 81
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 82
+    }
   }
 }

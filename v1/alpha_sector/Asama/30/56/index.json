@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14883",
+  "token_name": "Terraform04927",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14883",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmavtV13ELS4m2gHatDvxwbJQcvMERUufvsDViSNaxDdge",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04927",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTzR4gb6DCqKeLhn2CC5xNAe9EZcSPNBSwACG5MDv6EAB",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
-  "quantum_flux": 8,
+  "power_level": 9,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "None",
   "location": {
     "x": 30,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 30,
+      "y": 57
+    },
+    "topRight": {
+      "x": 31,
+      "y": 57
+    },
+    "right": {
+      "x": 31,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 31,
+      "y": 55
+    },
+    "bottom": {
+      "x": 30,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 29,
+      "y": 55
+    },
+    "left": {
+      "x": 29,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 29,
+      "y": 57
+    }
   }
 }

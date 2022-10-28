@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08729",
+  "token_name": "Terraform15435",
   "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08729",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfUvJP5scQbi7qaF3ZHk74k5TPorfnuy2zoHN5DLeVqYq",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15435",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTLkKnftScB8gSBL8c5gcihU786ntSK35bHLW2uZVBEe6",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 9,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Cursed_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 15,
     "y": 9
+  },
+  "neighbors": {
+    "top": {
+      "x": 15,
+      "y": 10
+    },
+    "topRight": {
+      "x": 16,
+      "y": 10
+    },
+    "right": {
+      "x": 16,
+      "y": 9
+    },
+    "bottomRight": {
+      "x": 16,
+      "y": 8
+    },
+    "bottom": {
+      "x": 15,
+      "y": 8
+    },
+    "bottonLeft": {
+      "x": 14,
+      "y": 8
+    },
+    "left": {
+      "x": 14,
+      "y": 9
+    },
+    "topLeft": {
+      "x": 14,
+      "y": 10
+    }
   }
 }

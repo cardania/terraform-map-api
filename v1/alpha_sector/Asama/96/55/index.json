@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17707",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17707",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmagbqusZ8rkJRY7Fe3i9E7BqYbJE3uYQf4rFySMSkmeYS",
+  "token_name": "Terraform18865",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18865",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUG4ZnWQ5UEcjokehfGhEGvyUdAmRpkBqxvPDVXd54s6P",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 7,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
+  "power_level": 1,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "shrine": "Golden_Shrine",
+  "water": "None",
   "location": {
     "x": 96,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 56
+    },
+    "topRight": {
+      "x": 97,
+      "y": 56
+    },
+    "right": {
+      "x": 97,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 54
+    },
+    "bottom": {
+      "x": 96,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 54
+    },
+    "left": {
+      "x": 95,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 56
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02972",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02972",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQR9uD57tmYrZjhqcQfzeu7QsGGgrHMaYxw2Ezw9tRQ5S",
+  "token_name": "Terraform10669",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10669",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc6VSPDhyd3DckHVWZd9Ha79b1AaJq8TFeiZBS8KX1ayK",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 4,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Funky_River",
   "location": {
     "x": 36,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 76
+    },
+    "topRight": {
+      "x": 37,
+      "y": 76
+    },
+    "right": {
+      "x": 37,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 74
+    },
+    "bottom": {
+      "x": 36,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 74
+    },
+    "left": {
+      "x": 35,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 76
+    }
   }
 }

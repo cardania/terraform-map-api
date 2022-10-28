@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16867",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16867",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSD8WDPdgqguKmVfjW43RGKc3mDQDoF4jyo3UDV3qYLey",
+  "token_name": "Terraform12632",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12632",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmS1BgXAhu8vtRLGfVbBgKEB9aMPCcCE8igZmt2w2ubKNc",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 1,
+  "power_level": 7,
+  "quantum_flux": 4,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Toxic_River",
   "location": {
     "x": 95,
     "y": 78
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 79
+    },
+    "topRight": {
+      "x": 96,
+      "y": 79
+    },
+    "right": {
+      "x": 96,
+      "y": 78
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 77
+    },
+    "bottom": {
+      "x": 95,
+      "y": 77
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 77
+    },
+    "left": {
+      "x": 94,
+      "y": 78
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 79
+    }
   }
 }

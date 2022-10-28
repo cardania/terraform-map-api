@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07192",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07192",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQuWRGaqckyg7SvAwzcmhJ6gVRPCbKG1YyhfZFsJM67xt",
+  "token_name": "Terraform18812",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18812",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmReTTrDHKD8G2aPgf2TqGSCDSuFETHdYPk2SN2skuDoNe",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Burning_Mantrap",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 2,
+  "power_level": 8,
   "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Purple",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 39,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 30
+    },
+    "topRight": {
+      "x": 40,
+      "y": 30
+    },
+    "right": {
+      "x": 40,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 28
+    },
+    "bottom": {
+      "x": 39,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 28
+    },
+    "left": {
+      "x": 38,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 30
+    }
   }
 }

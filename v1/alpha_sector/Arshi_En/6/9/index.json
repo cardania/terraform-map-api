@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17492",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17492",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmS56SyPgXtDJKWK4vrCy2s7SBaUBpAt6exZMHR2KgGzQX",
+  "token_name": "Terraform00794",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00794",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXsEHfzzuEPWFVTBKTDra4kMrQhrwqiK3FhJVj2Wgr4Lr",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 7,
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 2,
   "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 6,
     "y": 9
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 10
+    },
+    "topRight": {
+      "x": 7,
+      "y": 10
+    },
+    "right": {
+      "x": 7,
+      "y": 9
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 8
+    },
+    "bottom": {
+      "x": 6,
+      "y": 8
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 8
+    },
+    "left": {
+      "x": 5,
+      "y": 9
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 10
+    }
   }
 }

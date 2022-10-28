@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02515",
+  "token_name": "Terraform09958",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02515",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXRfAcMazkvCLMiZr4cNXPJgjsJbhV3jjv7ttvqx2UM6h",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09958",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmV1NpPejksH36yrxqAQdUpaZ5cBZQwyBBSEJZi8wCYzY6",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Palms",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
+  "power_level": 1,
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
   "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Machine_Shrine",
   "water": "None",
   "location": {
     "x": 36,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 5
+    },
+    "topRight": {
+      "x": 37,
+      "y": 5
+    },
+    "right": {
+      "x": 37,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 3
+    },
+    "bottom": {
+      "x": 36,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 3
+    },
+    "left": {
+      "x": 35,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 5
+    }
   }
 }

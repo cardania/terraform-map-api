@@ -1,18 +1,18 @@
 {
-  "token_name": "Terraform03154",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03154",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV8EKJRpTreFurwTyJouMVagfcdnvBvEqTLk5EYxCKNg7",
+  "token_name": "Terraform04695",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04695",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNQ6Jfq3v3mnFbdmp6qCnffR3SU32CucWFwGeUtQkchQ4",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 2,
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 9,
+  "quantum_flux": 5,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 24,
     "y": 47
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 48
+    },
+    "topRight": {
+      "x": 25,
+      "y": 48
+    },
+    "right": {
+      "x": 25,
+      "y": 47
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 46
+    },
+    "bottom": {
+      "x": 24,
+      "y": 46
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 46
+    },
+    "left": {
+      "x": 23,
+      "y": 47
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 48
+    }
   }
 }

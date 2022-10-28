@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01639",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01639",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPCAsjKu2Pv8ptEhwpND5s23gC9qD4urMga5Ju4V7x4vV",
+  "token_name": "Terraform01378",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01378",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSTub3hhGWe2UEDSEHD4w2kySJQ9XbyqFbSKt7ezqeTNq",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 5,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 73,
     "y": 46
+  },
+  "neighbors": {
+    "top": {
+      "x": 73,
+      "y": 47
+    },
+    "topRight": {
+      "x": 74,
+      "y": 47
+    },
+    "right": {
+      "x": 74,
+      "y": 46
+    },
+    "bottomRight": {
+      "x": 74,
+      "y": 45
+    },
+    "bottom": {
+      "x": 73,
+      "y": 45
+    },
+    "bottonLeft": {
+      "x": 72,
+      "y": 45
+    },
+    "left": {
+      "x": 72,
+      "y": 46
+    },
+    "topLeft": {
+      "x": 72,
+      "y": 47
+    }
   }
 }

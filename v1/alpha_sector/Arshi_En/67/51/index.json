@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06314",
+  "token_name": "Terraform18012",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06314",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZL4h2z9GYpSjbJ6FForjRzqPKKR82TT9FQMQUULcpr6M",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18012",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQiAHcC93EXJZQhvrQfVfuyDiRf16xsBTjFC9yMJPzTtf",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "Palms",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 9,
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 6,
+  "quantum_flux": 3,
   "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 67,
     "y": 51
+  },
+  "neighbors": {
+    "top": {
+      "x": 67,
+      "y": 52
+    },
+    "topRight": {
+      "x": 68,
+      "y": 52
+    },
+    "right": {
+      "x": 68,
+      "y": 51
+    },
+    "bottomRight": {
+      "x": 68,
+      "y": 50
+    },
+    "bottom": {
+      "x": 67,
+      "y": 50
+    },
+    "bottonLeft": {
+      "x": 66,
+      "y": 50
+    },
+    "left": {
+      "x": 66,
+      "y": 51
+    },
+    "topLeft": {
+      "x": 66,
+      "y": 52
+    }
   }
 }

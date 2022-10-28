@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14467",
+  "token_name": "Terraform15445",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14467",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeX3HynK2SUpwwY57CT9NtY2RYWmkSynwCRoXKoJYPrjL",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15445",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVrddf3eXRDNP1ebmnuir9eU7Kerr596Sn2TfWDUw5iZz",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 5,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 60,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 89
+    },
+    "topRight": {
+      "x": 61,
+      "y": 89
+    },
+    "right": {
+      "x": 61,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 87
+    },
+    "bottom": {
+      "x": 60,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 87
+    },
+    "left": {
+      "x": 59,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 89
+    }
   }
 }

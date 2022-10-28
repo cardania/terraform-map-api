@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03750",
+  "token_name": "Terraform04085",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03750",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmY2T7YKby3qhYfow6stDyUsQxD9EoRJjGLwTmb6RrdRWo",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04085",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeETHBuic6AGJcCJ8UHix9CU6cbHUeb3E2R5Ex5VA6NXE",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Nemesis_Hydra",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 28,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 28,
+      "y": 5
+    },
+    "topRight": {
+      "x": 29,
+      "y": 5
+    },
+    "right": {
+      "x": 29,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 29,
+      "y": 3
+    },
+    "bottom": {
+      "x": 28,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 27,
+      "y": 3
+    },
+    "left": {
+      "x": 27,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 27,
+      "y": 5
+    }
   }
 }

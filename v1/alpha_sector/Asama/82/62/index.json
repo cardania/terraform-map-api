@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15641",
+  "token_name": "Terraform01723",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15641",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmU398nBfR8KD5WgcvDNXZrXK8qYpVYztZdz3J5CcpZVom",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01723",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNyzVk6jkwnnMfKdoxkUDMJtnFAEWhymS3pjRqcxQk2D9",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 8,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 82,
     "y": 62
+  },
+  "neighbors": {
+    "top": {
+      "x": 82,
+      "y": 63
+    },
+    "topRight": {
+      "x": 83,
+      "y": 63
+    },
+    "right": {
+      "x": 83,
+      "y": 62
+    },
+    "bottomRight": {
+      "x": 83,
+      "y": 61
+    },
+    "bottom": {
+      "x": 82,
+      "y": 61
+    },
+    "bottonLeft": {
+      "x": 81,
+      "y": 61
+    },
+    "left": {
+      "x": 81,
+      "y": 62
+    },
+    "topLeft": {
+      "x": 81,
+      "y": 63
+    }
   }
 }

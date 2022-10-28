@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05137",
+  "token_name": "Terraform03147",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05137",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNNLHeZBCD74c61Mv72xRqJegq1d5ecf2epBrRN6usFU1",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03147",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPieJA7Z7abkuMSC3J8EfsK5oSnuz9VZkq7LkothKRecD",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 4,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "ruins": "None",
+  "shrine": "Quantum_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 98,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 83
+    },
+    "topRight": {
+      "x": 99,
+      "y": 83
+    },
+    "right": {
+      "x": 99,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 81
+    },
+    "bottom": {
+      "x": 98,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 81
+    },
+    "left": {
+      "x": 97,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 83
+    }
   }
 }

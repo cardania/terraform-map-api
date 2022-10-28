@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09449",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09449",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYbY1dQGzc4CAXi4wPc4RQtz13v6nWppF44pKcFZUnVgV",
+  "token_name": "Terraform13177",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13177",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXb2MbnDZwZQBJXaHEcpeY2vU643VaZTqYMRTKWqN93sy",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 51,
     "y": 39
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 40
+    },
+    "topRight": {
+      "x": 52,
+      "y": 40
+    },
+    "right": {
+      "x": 52,
+      "y": 39
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 38
+    },
+    "bottom": {
+      "x": 51,
+      "y": 38
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 38
+    },
+    "left": {
+      "x": 50,
+      "y": 39
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 40
+    }
   }
 }

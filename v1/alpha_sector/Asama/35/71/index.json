@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16363",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16363",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNQDhjFjnRLrVAiPcZ5W314jGrb2ahL1WC33Y65npuGk8",
+  "token_name": "Terraform15635",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15635",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPESpi3Byzwu9CyQrHUnfY3zWXGckP29h72Xfyu5gMwnf",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "None",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Toxic_Lake",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 3,
+  "quantum_flux": 9,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 35,
     "y": 71
+  },
+  "neighbors": {
+    "top": {
+      "x": 35,
+      "y": 72
+    },
+    "topRight": {
+      "x": 36,
+      "y": 72
+    },
+    "right": {
+      "x": 36,
+      "y": 71
+    },
+    "bottomRight": {
+      "x": 36,
+      "y": 70
+    },
+    "bottom": {
+      "x": 35,
+      "y": 70
+    },
+    "bottonLeft": {
+      "x": 34,
+      "y": 70
+    },
+    "left": {
+      "x": 34,
+      "y": 71
+    },
+    "topLeft": {
+      "x": 34,
+      "y": 72
+    }
   }
 }

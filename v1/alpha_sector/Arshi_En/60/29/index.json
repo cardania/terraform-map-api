@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05457",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05457",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbUmGyskBp49EiGwjgXKmVQgsYas9EwLq9776MRNWDELy",
+  "token_name": "Terraform14446",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14446",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTTeiAukZyVE1jxvtJJQYJPcreREfLBHHoygC6SHyQVtg",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 7,
-  "quantum_flux": 4,
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 5,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 60,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 30
+    },
+    "topRight": {
+      "x": 61,
+      "y": 30
+    },
+    "right": {
+      "x": 61,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 28
+    },
+    "bottom": {
+      "x": 60,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 28
+    },
+    "left": {
+      "x": 59,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 30
+    }
   }
 }

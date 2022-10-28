@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00952",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00952",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZVLbePwimi2tf3UR98RZnDKGReW4KgtuT4x5rHWCHJ6r",
+  "token_name": "Terraform01100",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01100",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUmuYxGZjdiKDCHPtfXqqTVfvHSBEQgvwk4iqRMb8JsTf",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
   "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "power_level": 2,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 24,
     "y": 95
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 96
+    },
+    "topRight": {
+      "x": 25,
+      "y": 96
+    },
+    "right": {
+      "x": 25,
+      "y": 95
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 94
+    },
+    "bottom": {
+      "x": 24,
+      "y": 94
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 94
+    },
+    "left": {
+      "x": 23,
+      "y": 95
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 96
+    }
   }
 }

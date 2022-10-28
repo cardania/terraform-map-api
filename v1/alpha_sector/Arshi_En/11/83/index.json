@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00167",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00167",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qme72fthih3uY3BCRMF3p8D4hFNEU5H8GFjBZ1ynbCQnFh",
+  "token_name": "Terraform10228",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10228",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSLqAfMnC7RhNiDVLpyGZEqPAvWenKq7KukFA3FmLUsQV",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Golden_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 11,
     "y": 83
+  },
+  "neighbors": {
+    "top": {
+      "x": 11,
+      "y": 84
+    },
+    "topRight": {
+      "x": 12,
+      "y": 84
+    },
+    "right": {
+      "x": 12,
+      "y": 83
+    },
+    "bottomRight": {
+      "x": 12,
+      "y": 82
+    },
+    "bottom": {
+      "x": 11,
+      "y": 82
+    },
+    "bottonLeft": {
+      "x": 10,
+      "y": 82
+    },
+    "left": {
+      "x": 10,
+      "y": 83
+    },
+    "topLeft": {
+      "x": 10,
+      "y": 84
+    }
   }
 }

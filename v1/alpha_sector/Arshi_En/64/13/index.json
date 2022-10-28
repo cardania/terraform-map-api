@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10228",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10228",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSLqAfMnC7RhNiDVLpyGZEqPAvWenKq7KukFA3FmLUsQV",
+  "token_name": "Terraform04752",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04752",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPyv5ZouTCvkMFwUPv4djCSTc4KQmriACWXCYRFJuRP6K",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "None",
   "location": {
     "x": 64,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 64,
+      "y": 14
+    },
+    "topRight": {
+      "x": 65,
+      "y": 14
+    },
+    "right": {
+      "x": 65,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 65,
+      "y": 12
+    },
+    "bottom": {
+      "x": 64,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 63,
+      "y": 12
+    },
+    "left": {
+      "x": 63,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 63,
+      "y": 14
+    }
   }
 }

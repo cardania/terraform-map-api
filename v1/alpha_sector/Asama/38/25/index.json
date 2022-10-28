@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06729",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06729",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaSL8cCkqjyuqfrVbdDfMrk2ZMwdWKeok2ymGLAPyZKqo",
+  "token_name": "Terraform09068",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09068",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPbvjCryqngko3PuC6FopdPVj9pmByGEoDis9CMjjWkQa",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 2,
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Ancient_Ruins",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 38,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 38,
+      "y": 26
+    },
+    "topRight": {
+      "x": 39,
+      "y": 26
+    },
+    "right": {
+      "x": 39,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 39,
+      "y": 24
+    },
+    "bottom": {
+      "x": 38,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 37,
+      "y": 24
+    },
+    "left": {
+      "x": 37,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 37,
+      "y": 26
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16102",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16102",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPWYuQy6wWA7FH2jaiTHCB3teXnFsUA94eDnTGJucZHws",
+  "token_name": "Terraform18825",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18825",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPAopFYAeFpwNJu2ZoHXyLLH9fia5zDW1cwSvFi2L1xtS",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "lithoglyphs": "None",
   "power_level": 2,
   "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "None",
   "location": {
     "x": 78,
     "y": 66
+  },
+  "neighbors": {
+    "top": {
+      "x": 78,
+      "y": 67
+    },
+    "topRight": {
+      "x": 79,
+      "y": 67
+    },
+    "right": {
+      "x": 79,
+      "y": 66
+    },
+    "bottomRight": {
+      "x": 79,
+      "y": 65
+    },
+    "bottom": {
+      "x": 78,
+      "y": 65
+    },
+    "bottonLeft": {
+      "x": 77,
+      "y": 65
+    },
+    "left": {
+      "x": 77,
+      "y": 66
+    },
+    "topLeft": {
+      "x": 77,
+      "y": 67
+    }
   }
 }

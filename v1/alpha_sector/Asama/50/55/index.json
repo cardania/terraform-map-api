@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12373",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12373",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRgvKk2ZD2XgBNE7Us99vWTaWEXU9xPW46W8vxdWtDWsF",
+  "token_name": "Terraform02211",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02211",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmY5mNNRKwZEcw86C9Jr7j7PRzFR1Wj3Dhse7Efx2K6W6B",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
+  "fauna": "Critters",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
-  "quantum_flux": 1,
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 2,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "Saltwater_River",
   "location": {
     "x": 50,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 56
+    },
+    "topRight": {
+      "x": 51,
+      "y": 56
+    },
+    "right": {
+      "x": 51,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 54
+    },
+    "bottom": {
+      "x": 50,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 54
+    },
+    "left": {
+      "x": 49,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 56
+    }
   }
 }

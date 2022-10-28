@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16709",
+  "token_name": "Terraform18700",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16709",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcoBhTSJENFfnZF7E7dB6xKpdzjN2BAuhucWwdXcLykdc",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18700",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWHpmFQpm4LmBj6mdtRcU8rM8ZXDgR7dUuEDMfPeLk5bP",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Melodious_Mantrap",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 8,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
+  "power_level": 3,
+  "quantum_flux": 8,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 46,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 46,
+      "y": 87
+    },
+    "topRight": {
+      "x": 47,
+      "y": 87
+    },
+    "right": {
+      "x": 47,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 47,
+      "y": 85
+    },
+    "bottom": {
+      "x": 46,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 45,
+      "y": 85
+    },
+    "left": {
+      "x": 45,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 45,
+      "y": 87
+    }
   }
 }

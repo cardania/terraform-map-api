@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12670",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12670",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVWnJzFLvJgEvtJAH2SsypaxkiELibtsExwLmfdowyWJe",
+  "token_name": "Terraform00768",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00768",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmekBsnDY9jA87JPhM9tEDBtf7Cd6phojhrShY7ywew3Db",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Nemesis_Hydra",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 7,
+  "power_level": 1,
+  "quantum_flux": 3,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Solar_Shrine",
   "water": "None",
   "location": {
     "x": 75,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 76
+    },
+    "topRight": {
+      "x": 76,
+      "y": 76
+    },
+    "right": {
+      "x": 76,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 74
+    },
+    "bottom": {
+      "x": 75,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 74
+    },
+    "left": {
+      "x": 74,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 76
+    }
   }
 }

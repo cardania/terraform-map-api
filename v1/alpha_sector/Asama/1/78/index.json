@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10547",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10547",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWgQfx74dULHPAvJ6iBTsst8ZUy8N7mGvjinFzpdixkHq",
+  "token_name": "Terraform11534",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11534",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQXsqiGZT8quSu7CucHApDstvBrWShxRcGRNKj6yfAStr",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 1,
     "y": 78
+  },
+  "neighbors": {
+    "top": {
+      "x": 1,
+      "y": 79
+    },
+    "topRight": {
+      "x": 2,
+      "y": 79
+    },
+    "right": {
+      "x": 2,
+      "y": 78
+    },
+    "bottomRight": {
+      "x": 2,
+      "y": 77
+    },
+    "bottom": {
+      "x": 1,
+      "y": 77
+    },
+    "bottonLeft": {
+      "x": 0,
+      "y": 77
+    },
+    "left": {
+      "x": 0,
+      "y": 78
+    },
+    "topLeft": {
+      "x": 0,
+      "y": 79
+    }
   }
 }

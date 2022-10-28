@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06254",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06254",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUxyuqDJvH5ET9WPo1RpYaW7WopRmF6pLki4zKaAoVqt6",
+  "token_name": "Terraform07970",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07970",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPeBfTnkWrJp8eyjMJYYdd1tvU5FbFhDuZw4sei1i6WKW",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 1,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Fungal_Shrine",
+  "water": "Funky_Lake",
   "location": {
     "x": 45,
     "y": 24
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 25
+    },
+    "topRight": {
+      "x": 46,
+      "y": 25
+    },
+    "right": {
+      "x": 46,
+      "y": 24
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 23
+    },
+    "bottom": {
+      "x": 45,
+      "y": 23
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 23
+    },
+    "left": {
+      "x": 44,
+      "y": 24
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 25
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06978",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06978",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTXh9eXm6mBwg1aH76NYHw12BDCGU8uE2RFu6kdphMsT9",
+  "token_name": "Terraform08207",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08207",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZw8WpdeovtyQt9P53CK2y2WWNzahJgveQgzUj5sFMMEh",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
   "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "Timelost_Shrine",
-  "water": "Freshwater_River",
+  "quantum_flux": 6,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 90,
     "y": 76
+  },
+  "neighbors": {
+    "top": {
+      "x": 90,
+      "y": 77
+    },
+    "topRight": {
+      "x": 91,
+      "y": 77
+    },
+    "right": {
+      "x": 91,
+      "y": 76
+    },
+    "bottomRight": {
+      "x": 91,
+      "y": 75
+    },
+    "bottom": {
+      "x": 90,
+      "y": 75
+    },
+    "bottonLeft": {
+      "x": 89,
+      "y": 75
+    },
+    "left": {
+      "x": 89,
+      "y": 76
+    },
+    "topLeft": {
+      "x": 89,
+      "y": 77
+    }
   }
 }

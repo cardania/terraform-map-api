@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04116",
+  "token_name": "Terraform06264",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04116",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNjzGWwZ4fxa1ACAJ75QcayrL7W6cdv8SteGjFVY89YaW",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06264",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmV3bMMsgFLPwAekVRaGo5FGCNHwNxrjxSa1yyYrVs9hkV",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "power_level": 7,
+  "quantum_flux": 2,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 44,
     "y": 46
+  },
+  "neighbors": {
+    "top": {
+      "x": 44,
+      "y": 47
+    },
+    "topRight": {
+      "x": 45,
+      "y": 47
+    },
+    "right": {
+      "x": 45,
+      "y": 46
+    },
+    "bottomRight": {
+      "x": 45,
+      "y": 45
+    },
+    "bottom": {
+      "x": 44,
+      "y": 45
+    },
+    "bottonLeft": {
+      "x": 43,
+      "y": 45
+    },
+    "left": {
+      "x": 43,
+      "y": 46
+    },
+    "topLeft": {
+      "x": 43,
+      "y": 47
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00301",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00301",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUbVmbuyzPieDCeYmMwNCG6NErkzuwFQ6FUFATMUhVwpp",
+  "token_name": "Terraform15424",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15424",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQD7nhyoKdkiU96hE1PSPRPP9A8B7gnnzEW4z32FFgJNi",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 63,
     "y": 77
+  },
+  "neighbors": {
+    "top": {
+      "x": 63,
+      "y": 78
+    },
+    "topRight": {
+      "x": 64,
+      "y": 78
+    },
+    "right": {
+      "x": 64,
+      "y": 77
+    },
+    "bottomRight": {
+      "x": 64,
+      "y": 76
+    },
+    "bottom": {
+      "x": 63,
+      "y": 76
+    },
+    "bottonLeft": {
+      "x": 62,
+      "y": 76
+    },
+    "left": {
+      "x": 62,
+      "y": 77
+    },
+    "topLeft": {
+      "x": 62,
+      "y": 78
+    }
   }
 }

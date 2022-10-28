@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12906",
+  "token_name": "Terraform02327",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12906",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUwntdGu9opUPgDKpsNjTJWgPajP7HvR9bZDSmuiiWYG2",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02327",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcWagZzzCfqvsNa7ucopyhaTDCWuNz9HDJn4dYKyxdiPp",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
-  "quantum_flux": 3,
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 5,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 8,
     "y": 41
+  },
+  "neighbors": {
+    "top": {
+      "x": 8,
+      "y": 42
+    },
+    "topRight": {
+      "x": 9,
+      "y": 42
+    },
+    "right": {
+      "x": 9,
+      "y": 41
+    },
+    "bottomRight": {
+      "x": 9,
+      "y": 40
+    },
+    "bottom": {
+      "x": 8,
+      "y": 40
+    },
+    "bottonLeft": {
+      "x": 7,
+      "y": 40
+    },
+    "left": {
+      "x": 7,
+      "y": 41
+    },
+    "topLeft": {
+      "x": 7,
+      "y": 42
+    }
   }
 }

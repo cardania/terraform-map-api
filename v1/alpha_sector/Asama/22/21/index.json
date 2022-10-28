@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06583",
+  "token_name": "Terraform03311",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06583",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfPz5DJeyXY6q2sJco6PZWcbyzr9qPQRCeqKbZZqYC3Dt",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03311",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbLMAmZdEu77K5APEStinmoeBVVKcT5YRHgYMzy8ZCxna",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Cursed_River",
   "location": {
     "x": 22,
     "y": 21
+  },
+  "neighbors": {
+    "top": {
+      "x": 22,
+      "y": 22
+    },
+    "topRight": {
+      "x": 23,
+      "y": 22
+    },
+    "right": {
+      "x": 23,
+      "y": 21
+    },
+    "bottomRight": {
+      "x": 23,
+      "y": 20
+    },
+    "bottom": {
+      "x": 22,
+      "y": 20
+    },
+    "bottonLeft": {
+      "x": 21,
+      "y": 20
+    },
+    "left": {
+      "x": 21,
+      "y": 21
+    },
+    "topLeft": {
+      "x": 21,
+      "y": 22
+    }
   }
 }

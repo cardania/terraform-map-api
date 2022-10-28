@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16790",
+  "token_name": "Terraform12487",
   "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16790",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmREvUcvPKh7A8R1QFD2MNai8bWjFDFj5ZLJvWcNmU5Ure",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12487",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmV77aTCm2nmBZbBYefdo9Jyv6myfKVftvUcTALif5PmTQ",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 4,
+  "lithoglyphs": "None",
+  "power_level": 9,
   "quantum_flux": 2,
-  "primary_minerals": "None",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "None",
   "location": {
     "x": 8,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 8,
+      "y": 7
+    },
+    "topRight": {
+      "x": 9,
+      "y": 7
+    },
+    "right": {
+      "x": 9,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 9,
+      "y": 5
+    },
+    "bottom": {
+      "x": 8,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 7,
+      "y": 5
+    },
+    "left": {
+      "x": 7,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 7,
+      "y": 7
+    }
   }
 }

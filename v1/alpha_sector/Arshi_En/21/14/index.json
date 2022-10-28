@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01094",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01094",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQpz4tbdmJy9mqCt6uXtiuek5Evt5W2eFxwBmZrhvULf1",
+  "token_name": "Terraform10887",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10887",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmehfDGukJa4MFpuZuiEGp4SrzJevC4FA3FDxH1docVJPH",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 4,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Solar_Shrine",
   "water": "Toxic_River",
   "location": {
     "x": 21,
     "y": 14
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 15
+    },
+    "topRight": {
+      "x": 22,
+      "y": 15
+    },
+    "right": {
+      "x": 22,
+      "y": 14
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 13
+    },
+    "bottom": {
+      "x": 21,
+      "y": 13
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 13
+    },
+    "left": {
+      "x": 20,
+      "y": 14
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 15
+    }
   }
 }

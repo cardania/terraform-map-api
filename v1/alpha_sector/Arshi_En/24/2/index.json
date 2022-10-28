@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13807",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13807",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeFDSzgNKBqxcsmZ6kEhKJHVCgaHuif111y8QxwPkb35g",
+  "token_name": "Terraform03365",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03365",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUr25GVZkqShKeKZhv2HyTbF8cnoKXNgm2TG5Wt1j6mn5",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 2,
   "quantum_flux": 6,
-  "primary_minerals": "Copper",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Fungal_Shrine",
+  "water": "Saltwater_River",
   "location": {
     "x": 24,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 3
+    },
+    "topRight": {
+      "x": 25,
+      "y": 3
+    },
+    "right": {
+      "x": 25,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 1
+    },
+    "bottom": {
+      "x": 24,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 1
+    },
+    "left": {
+      "x": 23,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 3
+    }
   }
 }

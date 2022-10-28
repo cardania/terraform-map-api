@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02505",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02505",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUwj2w3zdj85A39bdU5ZfFCToUzRsAnijGPEQhz9VvrhA",
+  "token_name": "Terraform15362",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15362",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaehzSc49ZnUiDPopSAkHqHd4rMJmera8WUYeVKzm4ZQH",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 3,
-  "quantum_flux": 2,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "Saltwater_River",
   "location": {
     "x": 65,
     "y": 87
+  },
+  "neighbors": {
+    "top": {
+      "x": 65,
+      "y": 88
+    },
+    "topRight": {
+      "x": 66,
+      "y": 88
+    },
+    "right": {
+      "x": 66,
+      "y": 87
+    },
+    "bottomRight": {
+      "x": 66,
+      "y": 86
+    },
+    "bottom": {
+      "x": 65,
+      "y": 86
+    },
+    "bottonLeft": {
+      "x": 64,
+      "y": 86
+    },
+    "left": {
+      "x": 64,
+      "y": 87
+    },
+    "topLeft": {
+      "x": 64,
+      "y": 88
+    }
   }
 }

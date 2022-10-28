@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03973",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03973",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNVUtJT2Ech9BpEESWPyQfstWj7MaEqMvwnYqmB84fnYS",
+  "token_name": "Terraform11017",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11017",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb5QnvXmNpqX6gHh2NErvZFMeYG9akiei7qcfwygGGiee",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 5,
-  "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 2,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 2,
+      "y": 56
+    },
+    "topRight": {
+      "x": 3,
+      "y": 56
+    },
+    "right": {
+      "x": 3,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 3,
+      "y": 54
+    },
+    "bottom": {
+      "x": 2,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 1,
+      "y": 54
+    },
+    "left": {
+      "x": 1,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 1,
+      "y": 56
+    }
   }
 }

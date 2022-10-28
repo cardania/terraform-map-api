@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07504",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07504",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfKE2LFta5g6wnktJAqn3XDonCgY2c8MARrPwTyf6uCrK",
+  "token_name": "Terraform02048",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02048",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWma4jBFQt7xZkuyDeFHoTYkbWWjXg4J3euMGVZi7ZR56",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Palms",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 8,
+  "quantum_flux": 8,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 96,
     "y": 65
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 66
+    },
+    "topRight": {
+      "x": 97,
+      "y": 66
+    },
+    "right": {
+      "x": 97,
+      "y": 65
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 64
+    },
+    "bottom": {
+      "x": 96,
+      "y": 64
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 64
+    },
+    "left": {
+      "x": 95,
+      "y": 65
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 66
+    }
   }
 }

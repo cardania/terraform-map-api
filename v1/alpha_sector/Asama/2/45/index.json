@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17773",
+  "token_name": "Terraform17194",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17773",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qma9sbAKQbPbAtvu6ZRzGi8rt9sXCY8ZdHxtvuYKHAgYMq",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17194",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmadKuVXY37iE6jgMRoKo3bk6ZbX5QJt3Bc6CGJs3Ay6Yp",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 4,
+  "forests": "Evergreen",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 5,
+  "quantum_flux": 5,
   "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 2,
     "y": 45
+  },
+  "neighbors": {
+    "top": {
+      "x": 2,
+      "y": 46
+    },
+    "topRight": {
+      "x": 3,
+      "y": 46
+    },
+    "right": {
+      "x": 3,
+      "y": 45
+    },
+    "bottomRight": {
+      "x": 3,
+      "y": 44
+    },
+    "bottom": {
+      "x": 2,
+      "y": 44
+    },
+    "bottonLeft": {
+      "x": 1,
+      "y": 44
+    },
+    "left": {
+      "x": 1,
+      "y": 45
+    },
+    "topLeft": {
+      "x": 1,
+      "y": 46
+    }
   }
 }

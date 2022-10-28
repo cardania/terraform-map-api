@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17078",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17078",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbsDddceEQA5NMx9JSykPpfLKQns5tpsaSeX84bVqw1uP",
+  "token_name": "Terraform08279",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08279",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbCcSq9Z1KfdnxbkVNDvdDx5778dz4j5siXa431Cg99A5",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "None",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 9,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 2,
+  "quantum_flux": 5,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 85,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 85,
+      "y": 23
+    },
+    "topRight": {
+      "x": 86,
+      "y": 23
+    },
+    "right": {
+      "x": 86,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 86,
+      "y": 21
+    },
+    "bottom": {
+      "x": 85,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 84,
+      "y": 21
+    },
+    "left": {
+      "x": 84,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 84,
+      "y": 23
+    }
   }
 }

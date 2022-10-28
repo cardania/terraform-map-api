@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05942",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05942",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcFvLcEQ2EN2wwZtYQF4jmuyLpkyxKDFAcYX4GCBCne1S",
+  "token_name": "Terraform12866",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12866",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQgQvVGKcQ7CvjUbuytdRsGtQYd9PQhPZjrmDiKCV4fsp",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Critters",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 8,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 24,
     "y": 40
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 41
+    },
+    "topRight": {
+      "x": 25,
+      "y": 41
+    },
+    "right": {
+      "x": 25,
+      "y": 40
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 39
+    },
+    "bottom": {
+      "x": 24,
+      "y": 39
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 39
+    },
+    "left": {
+      "x": 23,
+      "y": 40
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 41
+    }
   }
 }

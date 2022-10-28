@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06981",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06981",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWnQShNeCzFvZkBURxtVAkA1ZibkFoKSzJAvg3FP6F31M",
+  "token_name": "Terraform06293",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06293",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmX41BDm8wkJCUPrE1uXpkwjfyRjQnnpAbW3fz9Lahby2A",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Cursed_Nanites",
+  "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 9,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Cursed_River",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 10,
     "y": 95
+  },
+  "neighbors": {
+    "top": {
+      "x": 10,
+      "y": 96
+    },
+    "topRight": {
+      "x": 11,
+      "y": 96
+    },
+    "right": {
+      "x": 11,
+      "y": 95
+    },
+    "bottomRight": {
+      "x": 11,
+      "y": 94
+    },
+    "bottom": {
+      "x": 10,
+      "y": 94
+    },
+    "bottonLeft": {
+      "x": 9,
+      "y": 94
+    },
+    "left": {
+      "x": 9,
+      "y": 95
+    },
+    "topLeft": {
+      "x": 9,
+      "y": 96
+    }
   }
 }

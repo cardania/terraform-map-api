@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05412",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05412",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbn94QxcW9G34ZAmVsU82txWiFMDzDpkxSkNA1Aa79onS",
+  "token_name": "Terraform15830",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15830",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNNsG6cPYf6RjrMPDGcLFFmuSWWDaVWpmoF9h75Lb4bGS",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 5,
   "quantum_flux": 2,
-  "primary_minerals": "None",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Saltwater_Lake",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 5,
     "y": 35
+  },
+  "neighbors": {
+    "top": {
+      "x": 5,
+      "y": 36
+    },
+    "topRight": {
+      "x": 6,
+      "y": 36
+    },
+    "right": {
+      "x": 6,
+      "y": 35
+    },
+    "bottomRight": {
+      "x": 6,
+      "y": 34
+    },
+    "bottom": {
+      "x": 5,
+      "y": 34
+    },
+    "bottonLeft": {
+      "x": 4,
+      "y": 34
+    },
+    "left": {
+      "x": 4,
+      "y": 35
+    },
+    "topLeft": {
+      "x": 4,
+      "y": 36
+    }
   }
 }

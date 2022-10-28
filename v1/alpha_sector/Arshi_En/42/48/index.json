@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16454",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16454",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRpu5tdhieumQ2FaZpLEnzMXaSfM58nkvQJStGD2FJwQ6",
+  "token_name": "Terraform02016",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02016",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVHJLWd8pEoeSjg7BzzyT9zrzYQmrpVuF6j6eJy2CELW5",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 4,
+  "power_level": 8,
+  "quantum_flux": 2,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Toxic_Lake",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "None",
+  "water": "Funky_Lake",
   "location": {
     "x": 42,
     "y": 48
+  },
+  "neighbors": {
+    "top": {
+      "x": 42,
+      "y": 49
+    },
+    "topRight": {
+      "x": 43,
+      "y": 49
+    },
+    "right": {
+      "x": 43,
+      "y": 48
+    },
+    "bottomRight": {
+      "x": 43,
+      "y": 47
+    },
+    "bottom": {
+      "x": 42,
+      "y": 47
+    },
+    "bottonLeft": {
+      "x": 41,
+      "y": 47
+    },
+    "left": {
+      "x": 41,
+      "y": 48
+    },
+    "topLeft": {
+      "x": 41,
+      "y": 49
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18732",
+  "token_name": "Terraform10277",
   "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18732",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXK8sRddqkAtvsyig19SWJEBtsh4nRuY3PpDkD261J6KB",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10277",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRZNgBQWML5nU2KfjiSXfaFy1QwqHzkavbTH4Ut1ztUXU",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 9,
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
+  "quantum_flux": 4,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "Fungal_Shrine",
+  "water": "Cursed_River",
   "location": {
     "x": 80,
     "y": 93
+  },
+  "neighbors": {
+    "top": {
+      "x": 80,
+      "y": 94
+    },
+    "topRight": {
+      "x": 81,
+      "y": 94
+    },
+    "right": {
+      "x": 81,
+      "y": 93
+    },
+    "bottomRight": {
+      "x": 81,
+      "y": 92
+    },
+    "bottom": {
+      "x": 80,
+      "y": 92
+    },
+    "bottonLeft": {
+      "x": 79,
+      "y": 92
+    },
+    "left": {
+      "x": 79,
+      "y": 93
+    },
+    "topLeft": {
+      "x": 79,
+      "y": 94
+    }
   }
 }

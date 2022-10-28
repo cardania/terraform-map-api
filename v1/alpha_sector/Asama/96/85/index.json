@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15062",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15062",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQwUPZsBnecouYfWrNNVqLBio91ocpsK5wLnJJcEZrtG7",
+  "token_name": "Terraform03865",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03865",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVtZP3jPV1gXcuoFfc51BBJi9pPuyaHvYVUQrqwCqmrpF",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 9,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Orange",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Funky_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 96,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 86
+    },
+    "topRight": {
+      "x": 97,
+      "y": 86
+    },
+    "right": {
+      "x": 97,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 84
+    },
+    "bottom": {
+      "x": 96,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 84
+    },
+    "left": {
+      "x": 95,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 86
+    }
   }
 }

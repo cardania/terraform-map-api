@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16888",
+  "token_name": "Terraform18690",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16888",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmR2vemsWF34FNYC6LNo4U1CwqLDKpf9qeC3abFLGSt4Vf",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18690",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmP6Awk43c5aawE9CztJNZpRRJQPQpCNjfqGCp8JHY6A7c",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 6,
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 7,
+  "quantum_flux": 3,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Saltwater_Lake",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 78,
     "y": 19
+  },
+  "neighbors": {
+    "top": {
+      "x": 78,
+      "y": 20
+    },
+    "topRight": {
+      "x": 79,
+      "y": 20
+    },
+    "right": {
+      "x": 79,
+      "y": 19
+    },
+    "bottomRight": {
+      "x": 79,
+      "y": 18
+    },
+    "bottom": {
+      "x": 78,
+      "y": 18
+    },
+    "bottonLeft": {
+      "x": 77,
+      "y": 18
+    },
+    "left": {
+      "x": 77,
+      "y": 19
+    },
+    "topLeft": {
+      "x": 77,
+      "y": 20
+    }
   }
 }

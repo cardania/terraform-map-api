@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform10299",
+  "token_name": "Terraform11670",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10299",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaBBq1PYBrVaJ7xY4bK1fd6f2DLMW8rcw1PfFq73iiq6D",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11670",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZiqx5DPS6i6UseXMKHYnGMyrFFJ6Uc6C3WVisnksVPBd",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Critters",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 8,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 16,
     "y": 81
+  },
+  "neighbors": {
+    "top": {
+      "x": 16,
+      "y": 82
+    },
+    "topRight": {
+      "x": 17,
+      "y": 82
+    },
+    "right": {
+      "x": 17,
+      "y": 81
+    },
+    "bottomRight": {
+      "x": 17,
+      "y": 80
+    },
+    "bottom": {
+      "x": 16,
+      "y": 80
+    },
+    "bottonLeft": {
+      "x": 15,
+      "y": 80
+    },
+    "left": {
+      "x": 15,
+      "y": 81
+    },
+    "topLeft": {
+      "x": 15,
+      "y": 82
+    }
   }
 }

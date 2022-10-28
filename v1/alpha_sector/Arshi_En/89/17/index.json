@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09356",
+  "token_name": "Terraform03871",
   "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09356",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWVU4a7oiqn591bFzWM7VhUCQhM3zcLUiQouVUGJ5rKtM",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03871",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeuCGZW1JJYM6dewNjeDTiY6Tg6yAgZZEKeoZZavxKBb6",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Cardanium_Bunker",
   "fauna": "Ultrasaurs",
-  "forests": "Palms",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 4,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 89,
     "y": 17
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 18
+    },
+    "topRight": {
+      "x": 90,
+      "y": 18
+    },
+    "right": {
+      "x": 90,
+      "y": 17
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 16
+    },
+    "bottom": {
+      "x": 89,
+      "y": 16
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 16
+    },
+    "left": {
+      "x": 88,
+      "y": 17
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 18
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06700",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06700",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcFje2XP9FwMWGDATEWHA2MEEBVh5t2ZuKqVHzSh74DKn",
+  "token_name": "Terraform13720",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13720",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmab3hwTHGtNxdhHaqVpCh2fE75HishAgJPzzpFZ81ez9B",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
+  "power_level": 9,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_Lake",
   "location": {
     "x": 60,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 69
+    },
+    "topRight": {
+      "x": 61,
+      "y": 69
+    },
+    "right": {
+      "x": 61,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 67
+    },
+    "bottom": {
+      "x": 60,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 67
+    },
+    "left": {
+      "x": 59,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 69
+    }
   }
 }

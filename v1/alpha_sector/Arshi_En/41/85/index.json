@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11022",
+  "token_name": "Terraform09646",
   "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11022",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbimkSPKty4kb28vywsMpAQpuJfWxFzjkPEdcAtAMWkoB",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09646",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUkuBsnLgZLeWDG3VHC4q7LexcCumFVvs4Nj4B7wJcCi7",
   "alpha_sector": "Arshi_En",
   "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Prismaleaf",
+  "forests": "None",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 6,
-  "quantum_flux": 7,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 41,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 41,
+      "y": 86
+    },
+    "topRight": {
+      "x": 42,
+      "y": 86
+    },
+    "right": {
+      "x": 42,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 42,
+      "y": 84
+    },
+    "bottom": {
+      "x": 41,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 40,
+      "y": 84
+    },
+    "left": {
+      "x": 40,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 40,
+      "y": 86
+    }
   }
 }

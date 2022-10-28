@@ -1,8 +1,8 @@
 {
-  "token_name": "Terraform18731",
+  "token_name": "Terraform04225",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18731",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcL1NtKayQmt1w47iTSPtYtLrt5f19tD5GjnvEhc3FLjM",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04225",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQFM7vMtLc3hTWdKPwdWMEQVHD4M9U734uUw7XX2DuGep",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
@@ -10,16 +10,50 @@
   "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 8,
+  "quantum_flux": 9,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Saltwater_River",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 20,
     "y": 27
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 28
+    },
+    "topRight": {
+      "x": 21,
+      "y": 28
+    },
+    "right": {
+      "x": 21,
+      "y": 27
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 26
+    },
+    "bottom": {
+      "x": 20,
+      "y": 26
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 26
+    },
+    "left": {
+      "x": 19,
+      "y": 27
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 28
+    }
   }
 }

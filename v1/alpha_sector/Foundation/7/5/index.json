@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19985",
+  "token_name": "Terraform19998",
   "land_type": "Prismatic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19985",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZvoYmutnUuzoiSwcg6gbbE9zzDGdMutFNw4PtSNpTKtr",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19998",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYF25g7ATSP2WpdihPDyUXfTFoXwHoV46v8JeL1SqMMUs",
   "alpha_sector": "Foundation",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Evergreen",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
   "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 4,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Quantum_Shrine",
   "water": "None",
   "location": {
     "x": 7,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 6
+    },
+    "topRight": {
+      "x": 8,
+      "y": 6
+    },
+    "right": {
+      "x": 8,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 4
+    },
+    "bottom": {
+      "x": 7,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 4
+    },
+    "left": {
+      "x": 6,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 6
+    }
   }
 }

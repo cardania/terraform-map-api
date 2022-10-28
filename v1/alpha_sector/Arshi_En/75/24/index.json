@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18845",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18845",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRMZ6u6pSGa56r5vSiXKgchobG7mGXomQXfiD44nLGFFt",
+  "token_name": "Terraform00822",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00822",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRCx86W7sKJoRKgumJ1LbdQ8PFDGm4c3odfUXUyDionZi",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 1,
-  "quantum_flux": 8,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "quantum_flux": 9,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_River",
   "location": {
     "x": 75,
     "y": 24
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 25
+    },
+    "topRight": {
+      "x": 76,
+      "y": 25
+    },
+    "right": {
+      "x": 76,
+      "y": 24
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 23
+    },
+    "bottom": {
+      "x": 75,
+      "y": 23
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 23
+    },
+    "left": {
+      "x": 74,
+      "y": 24
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 25
+    }
   }
 }

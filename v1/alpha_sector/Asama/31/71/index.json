@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12620",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12620",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRbEaQvPm4JqLktDf3YjB4yueZUs9vkMvDJ4obRqJ5Z4J",
+  "token_name": "Terraform04686",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04686",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmewVM2oH4aemLp5TyieJBcPKei6nSzVbFmpbgRq7W8ksf",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
   "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 31,
     "y": 71
+  },
+  "neighbors": {
+    "top": {
+      "x": 31,
+      "y": 72
+    },
+    "topRight": {
+      "x": 32,
+      "y": 72
+    },
+    "right": {
+      "x": 32,
+      "y": 71
+    },
+    "bottomRight": {
+      "x": 32,
+      "y": 70
+    },
+    "bottom": {
+      "x": 31,
+      "y": 70
+    },
+    "bottonLeft": {
+      "x": 30,
+      "y": 70
+    },
+    "left": {
+      "x": 30,
+      "y": 71
+    },
+    "topLeft": {
+      "x": 30,
+      "y": 72
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15025",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15025",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWpGijwGv3fAv5mxniLMD5buz1GCsDEvc3izjaHwQbxv8",
+  "token_name": "Terraform05930",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05930",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUrMC2pKipHKYg9BFFJYjYQ6AdyVXm2AekqRZSwSNV8WY",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 4,
+  "power_level": 1,
   "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 61,
     "y": 45
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 46
+    },
+    "topRight": {
+      "x": 62,
+      "y": 46
+    },
+    "right": {
+      "x": 62,
+      "y": 45
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 44
+    },
+    "bottom": {
+      "x": 61,
+      "y": 44
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 44
+    },
+    "left": {
+      "x": 60,
+      "y": 45
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 46
+    }
   }
 }

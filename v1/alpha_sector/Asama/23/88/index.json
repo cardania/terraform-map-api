@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11875",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11875",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbs8KtqspEHHT53y3n1qyMouwivXyhgesVUhN1XpQbL1u",
+  "token_name": "Terraform00619",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00619",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQoPajj5nxmiNURdXkFvQoE3u1wCLnuS2zb5UrnMXUtgg",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
+  "power_level": 6,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Quantum_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 23,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 23,
+      "y": 89
+    },
+    "topRight": {
+      "x": 24,
+      "y": 89
+    },
+    "right": {
+      "x": 24,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 24,
+      "y": 87
+    },
+    "bottom": {
+      "x": 23,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 22,
+      "y": 87
+    },
+    "left": {
+      "x": 22,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 22,
+      "y": 89
+    }
   }
 }

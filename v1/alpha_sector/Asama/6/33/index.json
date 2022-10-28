@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18174",
+  "token_name": "Terraform05805",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18174",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcTqPFoo6imLSQeXTE9ezx149nNHAm2tSXgVdURBikvMH",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05805",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbHRhtnbcq2zFHKGceCjahx5izQdpcjGKyphLKHtgjcWC",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 7,
-  "quantum_flux": 8,
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 3,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Timelost",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 6,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 34
+    },
+    "topRight": {
+      "x": 7,
+      "y": 34
+    },
+    "right": {
+      "x": 7,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 32
+    },
+    "bottom": {
+      "x": 6,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 32
+    },
+    "left": {
+      "x": 5,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 34
+    }
   }
 }

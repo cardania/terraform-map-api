@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18596",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18596",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfN9qQa44TPrKGrY8f6GfBRR8NRNFVTYJWEas8uAxVL8o",
+  "token_name": "Terraform01972",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01972",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWiTcqBFuRPBSVQmL5hRXVgeFhpKHyot5NhGpKg6jn5RL",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 9,
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 5,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 74,
     "y": 38
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 39
+    },
+    "topRight": {
+      "x": 75,
+      "y": 39
+    },
+    "right": {
+      "x": 75,
+      "y": 38
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 37
+    },
+    "bottom": {
+      "x": 74,
+      "y": 37
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 37
+    },
+    "left": {
+      "x": 73,
+      "y": 38
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 39
+    }
   }
 }

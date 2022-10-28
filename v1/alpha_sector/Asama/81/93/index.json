@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09594",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09594",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUZtW9VYbeHVbY5YEBJ1bTpiSNxQaeZAzRpPvqzvo7RaE",
+  "token_name": "Terraform02939",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02939",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTK5Y82oevGb17TutG7Nn2bBTfSU7mgtWvr6UAMy1aL5g",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Cursed_Nanites",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 9,
+  "quantum_flux": 8,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "None",
   "location": {
     "x": 81,
     "y": 93
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 94
+    },
+    "topRight": {
+      "x": 82,
+      "y": 94
+    },
+    "right": {
+      "x": 82,
+      "y": 93
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 92
+    },
+    "bottom": {
+      "x": 81,
+      "y": 92
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 92
+    },
+    "left": {
+      "x": 80,
+      "y": 93
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 94
+    }
   }
 }

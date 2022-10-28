@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15658",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15658",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUqh7dx2sqRiY9PGFHBTN2AiBEcc2R5T5mWcEqd8iGyh1",
+  "token_name": "Terraform13651",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13651",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbU5jz2uE6iRvdSMdeKGbgcmCQjskneAsRfXvnJjk9TDR",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 14,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 14,
+      "y": 14
+    },
+    "topRight": {
+      "x": 15,
+      "y": 14
+    },
+    "right": {
+      "x": 15,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 15,
+      "y": 12
+    },
+    "bottom": {
+      "x": 14,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 13,
+      "y": 12
+    },
+    "left": {
+      "x": 13,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 13,
+      "y": 14
+    }
   }
 }

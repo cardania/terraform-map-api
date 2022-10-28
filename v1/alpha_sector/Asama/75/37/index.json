@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14891",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14891",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSMoD26HLuV3nZZZzJtQBFRctkzUuEuMQ71SqnCsys1nF",
+  "token_name": "Terraform16553",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16553",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcT1tPCHs1MKx1ZoXZVQkQfPe7wVyQLtBbjHfDYNtQHwy",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 75,
     "y": 37
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 38
+    },
+    "topRight": {
+      "x": 76,
+      "y": 38
+    },
+    "right": {
+      "x": 76,
+      "y": 37
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 36
+    },
+    "bottom": {
+      "x": 75,
+      "y": 36
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 36
+    },
+    "left": {
+      "x": 74,
+      "y": 37
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 38
+    }
   }
 }

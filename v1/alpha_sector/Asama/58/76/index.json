@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01673",
+  "token_name": "Terraform10757",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01673",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPBEPtu8PY3i9XP5mCnejeMTaQQ9cUt3oDXvCT2hpNtSp",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10757",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ1XmJKHjL2gwFZVrb4RLyUSLaqkJYx6RZQYcmNVD9WzB",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 2,
-  "quantum_flux": 7,
-  "primary_minerals": "Iron",
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 58,
     "y": 76
+  },
+  "neighbors": {
+    "top": {
+      "x": 58,
+      "y": 77
+    },
+    "topRight": {
+      "x": 59,
+      "y": 77
+    },
+    "right": {
+      "x": 59,
+      "y": 76
+    },
+    "bottomRight": {
+      "x": 59,
+      "y": 75
+    },
+    "bottom": {
+      "x": 58,
+      "y": 75
+    },
+    "bottonLeft": {
+      "x": 57,
+      "y": 75
+    },
+    "left": {
+      "x": 57,
+      "y": 76
+    },
+    "topLeft": {
+      "x": 57,
+      "y": 77
+    }
   }
 }

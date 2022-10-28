@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00309",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00309",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQUXAtPhShKMk7VA2MdMBJuEjhNMAiGBq8TuA3hwMhhsE",
+  "token_name": "Terraform15701",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15701",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXb5wQTiw2rc13Hzp4GshfJTywq8YQgesPLoxZUdqXaVS",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 7,
   "quantum_flux": 3,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Funky_River",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Solar_Shrine",
+  "water": "Toxic_Lake",
   "location": {
     "x": 24,
     "y": 66
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 67
+    },
+    "topRight": {
+      "x": 25,
+      "y": 67
+    },
+    "right": {
+      "x": 25,
+      "y": 66
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 65
+    },
+    "bottom": {
+      "x": 24,
+      "y": 65
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 65
+    },
+    "left": {
+      "x": 23,
+      "y": 66
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 67
+    }
   }
 }

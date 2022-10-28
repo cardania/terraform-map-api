@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08091",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08091",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmP4QEwDxgyxDen1E533YAS1U5G1787ynGj4ZqEgYTbyer",
+  "token_name": "Terraform18834",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18834",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbfu7n8bjfk5JTHLjPqXFsD1kWznzDS4F5FpghatB6LE5",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 4,
+  "power_level": 3,
+  "quantum_flux": 9,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 20,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 7
+    },
+    "topRight": {
+      "x": 21,
+      "y": 7
+    },
+    "right": {
+      "x": 21,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 5
+    },
+    "bottom": {
+      "x": 20,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 5
+    },
+    "left": {
+      "x": 19,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 7
+    }
   }
 }

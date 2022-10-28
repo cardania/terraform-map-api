@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15510",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15510",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeU8zCemexMQMsJo3SJA2qqRCm7RRqWwZP6QiBdTbLHEc",
+  "token_name": "Terraform10268",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10268",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSCgkgq4EGoQTNt8ENonRpsKxqswsdNUttpvJXLWtJquQ",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 7,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 70,
     "y": 16
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 17
+    },
+    "topRight": {
+      "x": 71,
+      "y": 17
+    },
+    "right": {
+      "x": 71,
+      "y": 16
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 15
+    },
+    "bottom": {
+      "x": 70,
+      "y": 15
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 15
+    },
+    "left": {
+      "x": 69,
+      "y": 16
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 17
+    }
   }
 }

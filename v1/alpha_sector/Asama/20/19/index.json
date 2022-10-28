@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08062",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08062",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZAr42psV3ug1E8y77PkPQj5tun5gBcqufjFUUDrXHAtf",
+  "token_name": "Terraform18802",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18802",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeyR9DyB3p8rWphetRJETW91yoMoha25U4ZQT9md2yT2x",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 8,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 20,
     "y": 19
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 20
+    },
+    "topRight": {
+      "x": 21,
+      "y": 20
+    },
+    "right": {
+      "x": 21,
+      "y": 19
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 18
+    },
+    "bottom": {
+      "x": 20,
+      "y": 18
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 18
+    },
+    "left": {
+      "x": 19,
+      "y": 19
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 20
+    }
   }
 }

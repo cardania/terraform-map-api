@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01649",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01649",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTXJTqXbuQgdPHEPYMGPDgY8JDTnaB8yMgWYbJ4eYCiGW",
+  "token_name": "Terraform10712",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10712",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNfRvtieRcCQFD4XWZxhrgKaU6HqP6UV5mYgCsf3C1Jq4",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 8,
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 5,
+  "quantum_flux": 7,
   "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Quantum_Shrine",
-  "water": "Freshwater_River",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "None",
+  "water": "Funky_River",
   "location": {
     "x": 96,
     "y": 74
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 75
+    },
+    "topRight": {
+      "x": 97,
+      "y": 75
+    },
+    "right": {
+      "x": 97,
+      "y": 74
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 73
+    },
+    "bottom": {
+      "x": 96,
+      "y": 73
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 73
+    },
+    "left": {
+      "x": 95,
+      "y": 74
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 75
+    }
   }
 }

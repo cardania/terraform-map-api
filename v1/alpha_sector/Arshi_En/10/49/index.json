@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02120",
+  "token_name": "Terraform12751",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02120",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmchheZTiCNUD3SpPd7RfZ53rnTaPAQDn2wG6tEQFtvFxq",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12751",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZjazfrQoGdqnMB49xBJuyN1W2etUZUfCa9xci6jPUYqG",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 3,
-  "quantum_flux": 3,
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 4,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 10,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 10,
+      "y": 50
+    },
+    "topRight": {
+      "x": 11,
+      "y": 50
+    },
+    "right": {
+      "x": 11,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 11,
+      "y": 48
+    },
+    "bottom": {
+      "x": 10,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 9,
+      "y": 48
+    },
+    "left": {
+      "x": 9,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 9,
+      "y": 50
+    }
   }
 }

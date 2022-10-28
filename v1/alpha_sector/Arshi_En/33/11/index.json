@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform12286",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12286",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQD45m643oVU4vBN3B8mrjo2Ug9gCQeHYbUA9aoSsMeaP",
+  "token_name": "Terraform04755",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04755",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcKmeLia1GWaBz4rYkbsFQHivuUHYkAZmTsF9fVmnUTaw",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Cardanium_Bunker",
   "fauna": "Ultrasaurs",
-  "forests": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 6,
-  "quantum_flux": 9,
-  "primary_minerals": "Iron",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 33,
     "y": 11
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 12
+    },
+    "topRight": {
+      "x": 34,
+      "y": 12
+    },
+    "right": {
+      "x": 34,
+      "y": 11
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 10
+    },
+    "bottom": {
+      "x": 33,
+      "y": 10
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 10
+    },
+    "left": {
+      "x": 32,
+      "y": 11
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 12
+    }
   }
 }

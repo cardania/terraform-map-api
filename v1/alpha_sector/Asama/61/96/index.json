@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08743",
+  "token_name": "Terraform08250",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08743",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbWKyPR1u8rynuNuuzjoMDFkGCwFqVA9fVJrghhZ7WaxE",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08250",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmX6EGqsA7juTrasmQ4pGCujZfCyTUik5nw7c69xJyfH3x",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Freshwater_River",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 61,
     "y": 96
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 97
+    },
+    "topRight": {
+      "x": 62,
+      "y": 97
+    },
+    "right": {
+      "x": 62,
+      "y": 96
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 95
+    },
+    "bottom": {
+      "x": 61,
+      "y": 95
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 95
+    },
+    "left": {
+      "x": 60,
+      "y": 96
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 97
+    }
   }
 }

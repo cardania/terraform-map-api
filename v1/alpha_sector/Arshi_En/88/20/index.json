@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18938",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18938",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPahjhmGgMZk9ykgX2g381B4g1c569RSppNh5ReG7TAzg",
+  "token_name": "Terraform06103",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06103",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNRgK5KXUYw2DGu7faZaH92WzNZLMudp6ngALCZ759VoW",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 1,
+  "power_level": 4,
+  "quantum_flux": 2,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
+  "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 88,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 88,
+      "y": 21
+    },
+    "topRight": {
+      "x": 89,
+      "y": 21
+    },
+    "right": {
+      "x": 89,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 89,
+      "y": 19
+    },
+    "bottom": {
+      "x": 88,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 87,
+      "y": 19
+    },
+    "left": {
+      "x": 87,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 87,
+      "y": 21
+    }
   }
 }

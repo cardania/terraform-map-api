@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07078",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07078",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfZbt6R9EAFXkyXELDHrdYx4AUPskpWNfnwX8z5rf4wBu",
+  "token_name": "Terraform03168",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03168",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNa8ruxCoVJZTcH9yJuNaUNMdJMT5dU1UW3D8jahEpAKd",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Custodial_Nanites",
+  "activity": "None",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 1,
     "y": 57
+  },
+  "neighbors": {
+    "top": {
+      "x": 1,
+      "y": 58
+    },
+    "topRight": {
+      "x": 2,
+      "y": 58
+    },
+    "right": {
+      "x": 2,
+      "y": 57
+    },
+    "bottomRight": {
+      "x": 2,
+      "y": 56
+    },
+    "bottom": {
+      "x": 1,
+      "y": 56
+    },
+    "bottonLeft": {
+      "x": 0,
+      "y": 56
+    },
+    "left": {
+      "x": 0,
+      "y": 57
+    },
+    "topLeft": {
+      "x": 0,
+      "y": 58
+    }
   }
 }

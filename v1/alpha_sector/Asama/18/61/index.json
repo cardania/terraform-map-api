@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18068",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18068",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRF8VL7kPeTzfhdFKVFkQyZwTwtnt8T1cWjohJ4aK9VZ6",
+  "token_name": "Terraform09606",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09606",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVzwNLScApjvftaWs3bRtC2J9K7XqVWLf1gbfaNwfoviU",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
+  "power_level": 6,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Void_Shrine",
+  "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 18,
     "y": 61
+  },
+  "neighbors": {
+    "top": {
+      "x": 18,
+      "y": 62
+    },
+    "topRight": {
+      "x": 19,
+      "y": 62
+    },
+    "right": {
+      "x": 19,
+      "y": 61
+    },
+    "bottomRight": {
+      "x": 19,
+      "y": 60
+    },
+    "bottom": {
+      "x": 18,
+      "y": 60
+    },
+    "bottonLeft": {
+      "x": 17,
+      "y": 60
+    },
+    "left": {
+      "x": 17,
+      "y": 61
+    },
+    "topLeft": {
+      "x": 17,
+      "y": 62
+    }
   }
 }

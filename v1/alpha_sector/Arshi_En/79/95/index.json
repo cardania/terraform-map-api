@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04720",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04720",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZbXgyjqEGjvMtwezC9zbk9S6qbPr88niYT8FWEie4Dqo",
+  "token_name": "Terraform03245",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03245",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcgmJpPCHHP7Jbim6QNRuknB2TbG7qjK4PM4tRMJL8siw",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 7,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 7,
+  "quantum_flux": 6,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 79,
     "y": 95
+  },
+  "neighbors": {
+    "top": {
+      "x": 79,
+      "y": 96
+    },
+    "topRight": {
+      "x": 80,
+      "y": 96
+    },
+    "right": {
+      "x": 80,
+      "y": 95
+    },
+    "bottomRight": {
+      "x": 80,
+      "y": 94
+    },
+    "bottom": {
+      "x": 79,
+      "y": 94
+    },
+    "bottonLeft": {
+      "x": 78,
+      "y": 94
+    },
+    "left": {
+      "x": 78,
+      "y": 95
+    },
+    "topLeft": {
+      "x": 78,
+      "y": 96
+    }
   }
 }

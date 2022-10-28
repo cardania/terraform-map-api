@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09865",
+  "token_name": "Terraform15620",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09865",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRhRrDN28mJtA9TghFtLueEUsMEYCLMWppf4abp7P6TkH",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15620",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYWc6pxQQKRHmavB4ADUT9iZBr9ZM8R554ybtpAmFxepA",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
+  "power_level": 2,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "ruins": "Alien_Technology_Timelost",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 32,
     "y": 84
+  },
+  "neighbors": {
+    "top": {
+      "x": 32,
+      "y": 85
+    },
+    "topRight": {
+      "x": 33,
+      "y": 85
+    },
+    "right": {
+      "x": 33,
+      "y": 84
+    },
+    "bottomRight": {
+      "x": 33,
+      "y": 83
+    },
+    "bottom": {
+      "x": 32,
+      "y": 83
+    },
+    "bottonLeft": {
+      "x": 31,
+      "y": 83
+    },
+    "left": {
+      "x": 31,
+      "y": 84
+    },
+    "topLeft": {
+      "x": 31,
+      "y": 85
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07374",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07374",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYY5yQ4c7jWK7PA2pd1gZ9dtJrfh7u86QyRHxe2RrtN7w",
+  "token_name": "Terraform05789",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05789",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdUFP1nvzoEvoeUEHbXsBuKCuVMjx9pG68fmg86eei7jc",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "None",
   "power_level": 1,
-  "quantum_flux": 1,
+  "quantum_flux": 2,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 24,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 3
+    },
+    "topRight": {
+      "x": 25,
+      "y": 3
+    },
+    "right": {
+      "x": 25,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 1
+    },
+    "bottom": {
+      "x": 24,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 1
+    },
+    "left": {
+      "x": 23,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 3
+    }
   }
 }

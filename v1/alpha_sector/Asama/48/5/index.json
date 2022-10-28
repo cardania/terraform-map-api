@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04974",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04974",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcUBrhXgic4w7DDHfvN3x8YeDkBYsUsuF6owzKDrGX2Q8",
+  "token_name": "Terraform15758",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15758",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVqVuQ9mKQKHijS3HzSjwZDUwAhgjVD5TfAka4jb6BEJ4",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Timelost_Shrine",
-  "water": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Funky_River",
   "location": {
     "x": 48,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 6
+    },
+    "topRight": {
+      "x": 49,
+      "y": 6
+    },
+    "right": {
+      "x": 49,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 4
+    },
+    "bottom": {
+      "x": 48,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 4
+    },
+    "left": {
+      "x": 47,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 6
+    }
   }
 }

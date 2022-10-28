@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17210",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17210",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUhjyyogJAgZnubQqd8EuVJikvECtcLuxUbsoqEMsiM3f",
+  "token_name": "Terraform00673",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00673",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmR2wsQbKGkCP87eUD2L68zieFxd5HZBZJzQpV5vunfPBf",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 5,
+  "power_level": 3,
   "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Ancient_Ruins",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 29,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 29,
+      "y": 31
+    },
+    "topRight": {
+      "x": 30,
+      "y": 31
+    },
+    "right": {
+      "x": 30,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 30,
+      "y": 29
+    },
+    "bottom": {
+      "x": 29,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 28,
+      "y": 29
+    },
+    "left": {
+      "x": 28,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 28,
+      "y": 31
+    }
   }
 }

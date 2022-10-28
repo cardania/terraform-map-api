@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform02595",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02595",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmam1VKAJuZ8rVs3SWc2R7VHz4xTJSetFB7UiHSeEGPLcp",
+  "token_name": "Terraform08828",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08828",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRRRK6Q3Fv4ntVoy2ygTwzPuAxjfLxYexYnFfSjQYAYMj",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
+  "lithoglyphs": "None",
+  "power_level": 9,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
   "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 39,
     "y": 51
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 52
+    },
+    "topRight": {
+      "x": 40,
+      "y": 52
+    },
+    "right": {
+      "x": 40,
+      "y": 51
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 50
+    },
+    "bottom": {
+      "x": 39,
+      "y": 50
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 50
+    },
+    "left": {
+      "x": 38,
+      "y": 51
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 52
+    }
   }
 }

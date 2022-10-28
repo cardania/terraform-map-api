@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03180",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03180",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQDzHMGyfsFDGQa6sSZSTMpxLQEycZvvvgmQdQHbtvDbT",
+  "token_name": "Terraform18047",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18047",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQCeK5M9tdqw3LqBfwb4cfTdJSqqT28gmSh9wLuhGdY47",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
   "power_level": 8,
-  "quantum_flux": 6,
+  "quantum_flux": 2,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 12,
     "y": 46
+  },
+  "neighbors": {
+    "top": {
+      "x": 12,
+      "y": 47
+    },
+    "topRight": {
+      "x": 13,
+      "y": 47
+    },
+    "right": {
+      "x": 13,
+      "y": 46
+    },
+    "bottomRight": {
+      "x": 13,
+      "y": 45
+    },
+    "bottom": {
+      "x": 12,
+      "y": 45
+    },
+    "bottonLeft": {
+      "x": 11,
+      "y": 45
+    },
+    "left": {
+      "x": 11,
+      "y": 46
+    },
+    "topLeft": {
+      "x": 11,
+      "y": 47
+    }
   }
 }

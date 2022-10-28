@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06698",
+  "token_name": "Terraform08447",
   "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06698",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmetY2aNEU66uKbpRk6M4447m6pML6KCcmW2KSNvamqBqT",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08447",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdwa2Wtdpp9uNeE3ZogRH3TQh4xKjD2K1KHRsf3QdLkFb",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 4,
-  "primary_minerals": "Cardanium",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 100,
     "y": 14
+  },
+  "neighbors": {
+    "top": {
+      "x": 100,
+      "y": 15
+    },
+    "topRight": {
+      "x": 101,
+      "y": 15
+    },
+    "right": {
+      "x": 101,
+      "y": 14
+    },
+    "bottomRight": {
+      "x": 101,
+      "y": 13
+    },
+    "bottom": {
+      "x": 100,
+      "y": 13
+    },
+    "bottonLeft": {
+      "x": 99,
+      "y": 13
+    },
+    "left": {
+      "x": 99,
+      "y": 14
+    },
+    "topLeft": {
+      "x": 99,
+      "y": 15
+    }
   }
 }

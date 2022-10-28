@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18394",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18394",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVbKsRDJATkvTXovjHbth9BBNXR8F2CP8j22Euq8V9gCd",
+  "token_name": "Terraform15267",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15267",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWEN8LWcqpyZHrsZjp5dEg79Xq15yXT8JAZweX6r9h5Ku",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Palms",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 74,
     "y": 1
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 2
+    },
+    "topRight": {
+      "x": 75,
+      "y": 2
+    },
+    "right": {
+      "x": 75,
+      "y": 1
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 0
+    },
+    "bottom": {
+      "x": 74,
+      "y": 0
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 0
+    },
+    "left": {
+      "x": 73,
+      "y": 1
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 2
+    }
   }
 }

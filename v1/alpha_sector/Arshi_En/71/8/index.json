@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04553",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04553",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSmkho3Z5dUrEwLS3sKAiaZS5fdtiDqS13689DrUyAYzB",
+  "token_name": "Terraform01299",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01299",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXTbZagxNhy74wpqxtswcqxaTstHn5UR7QTSrFkrcsS57",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 3,
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 7,
+  "quantum_flux": 4,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 71,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 71,
+      "y": 9
+    },
+    "topRight": {
+      "x": 72,
+      "y": 9
+    },
+    "right": {
+      "x": 72,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 72,
+      "y": 7
+    },
+    "bottom": {
+      "x": 71,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 70,
+      "y": 7
+    },
+    "left": {
+      "x": 70,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 70,
+      "y": 9
+    }
   }
 }

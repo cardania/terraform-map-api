@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01456",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01456",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRHwSM2YrdvrTFsfabyjVBqHPaX23Rx5RksVbRFonGXhV",
+  "token_name": "Terraform06513",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06513",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf3LC17hM1zeMW3SFCkW4Qvk2jPnprCbKT4dPNaWc6h7C",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 1,
-  "quantum_flux": 4,
+  "quantum_flux": 2,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 20,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 98
+    },
+    "topRight": {
+      "x": 21,
+      "y": 98
+    },
+    "right": {
+      "x": 21,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 96
+    },
+    "bottom": {
+      "x": 20,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 96
+    },
+    "left": {
+      "x": 19,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 98
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11605",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11605",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUiFHKEEnR221wBnSxnEH5w5ReraU7sY1i9BdvhvPdYg1",
+  "token_name": "Terraform12979",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12979",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQsRhAYAP6VfbC3ra2Sgh5TjdktSyVuWqY3FMMEp33yAo",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 4,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 44,
     "y": 92
+  },
+  "neighbors": {
+    "top": {
+      "x": 44,
+      "y": 93
+    },
+    "topRight": {
+      "x": 45,
+      "y": 93
+    },
+    "right": {
+      "x": 45,
+      "y": 92
+    },
+    "bottomRight": {
+      "x": 45,
+      "y": 91
+    },
+    "bottom": {
+      "x": 44,
+      "y": 91
+    },
+    "bottonLeft": {
+      "x": 43,
+      "y": 91
+    },
+    "left": {
+      "x": 43,
+      "y": 92
+    },
+    "topLeft": {
+      "x": 43,
+      "y": 93
+    }
   }
 }

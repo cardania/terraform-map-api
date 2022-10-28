@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17500",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17500",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQFXD6UnafYK1NiEdQjKp33bksp3VQmptSVZpY7SqF5st",
+  "token_name": "Terraform10518",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10518",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQa11PCGoybFSunDWk4AVyq3Y7du4ryktZsXCctz1rE7C",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 4,
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 1,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 64,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 64,
+      "y": 21
+    },
+    "topRight": {
+      "x": 65,
+      "y": 21
+    },
+    "right": {
+      "x": 65,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 65,
+      "y": 19
+    },
+    "bottom": {
+      "x": 64,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 63,
+      "y": 19
+    },
+    "left": {
+      "x": 63,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 63,
+      "y": 21
+    }
   }
 }

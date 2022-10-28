@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07281",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07281",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRDtN8XRShYLQPUwUUwCqtormc1VuossPLjc2F7nzSLWe",
+  "token_name": "Terraform14075",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14075",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQqyk9uPvtpaZMUiEcmiNKFNjFNtSVCNgZZttrToqwfZS",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 3,
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 9,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Toxic_Lake",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 6,
     "y": 93
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 94
+    },
+    "topRight": {
+      "x": 7,
+      "y": 94
+    },
+    "right": {
+      "x": 7,
+      "y": 93
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 92
+    },
+    "bottom": {
+      "x": 6,
+      "y": 92
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 92
+    },
+    "left": {
+      "x": 5,
+      "y": 93
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 94
+    }
   }
 }

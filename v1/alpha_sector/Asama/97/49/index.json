@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01463",
+  "token_name": "Terraform15481",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01463",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmT8M4fuhfc4arVkPmaV3LJ1xxFNgkebudYDgGfejMzeRg",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15481",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbHJi92mbXahMkAxxw2PV2RfhQ7F7QZhxwVTr2PTRgqt9",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 3,
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 1,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "None",
   "location": {
     "x": 97,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 50
+    },
+    "topRight": {
+      "x": 98,
+      "y": 50
+    },
+    "right": {
+      "x": 98,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 48
+    },
+    "bottom": {
+      "x": 97,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 48
+    },
+    "left": {
+      "x": 96,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 50
+    }
   }
 }

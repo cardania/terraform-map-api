@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02804",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02804",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVYVtcNkFVjhNydeTa7JZ8XQ6mXCrvKNDFvcARxNouJxD",
+  "token_name": "Terraform02589",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02589",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVtgP7Y4QTgKPTCqKEpmv5gBCZC2aopvYVhBKeCoznrwM",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 6,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "Cursed_Lake",
   "location": {
     "x": 60,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 9
+    },
+    "topRight": {
+      "x": 61,
+      "y": 9
+    },
+    "right": {
+      "x": 61,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 7
+    },
+    "bottom": {
+      "x": 60,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 7
+    },
+    "left": {
+      "x": 59,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 9
+    }
   }
 }

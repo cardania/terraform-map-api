@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18950",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18950",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYMUBvj5HMqT34Vyb2o2yu8oWT54m4bxrFYV1k1cYmAkJ",
+  "token_name": "Terraform16043",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16043",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcRU9YV18yHVVj7pzR6RpayzwK6PghiXS2xCW2rHLje16",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Purple",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 4,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "None",
   "location": {
     "x": 77,
     "y": 35
+  },
+  "neighbors": {
+    "top": {
+      "x": 77,
+      "y": 36
+    },
+    "topRight": {
+      "x": 78,
+      "y": 36
+    },
+    "right": {
+      "x": 78,
+      "y": 35
+    },
+    "bottomRight": {
+      "x": 78,
+      "y": 34
+    },
+    "bottom": {
+      "x": 77,
+      "y": 34
+    },
+    "bottonLeft": {
+      "x": 76,
+      "y": 34
+    },
+    "left": {
+      "x": 76,
+      "y": 35
+    },
+    "topLeft": {
+      "x": 76,
+      "y": 36
+    }
   }
 }

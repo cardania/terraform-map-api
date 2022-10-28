@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15136",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15136",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmas3LJFse9cU6JJgBiKGgsPZ63jqCFKyYNWnSismRx7UB",
+  "token_name": "Terraform13953",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13953",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQiufZ4tYYzPh7p6CZTCeJCQ7dzXSoDFHKfJcJcjtjv3X",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 9,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Compacted_Machinery",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 5,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 35,
     "y": 44
+  },
+  "neighbors": {
+    "top": {
+      "x": 35,
+      "y": 45
+    },
+    "topRight": {
+      "x": 36,
+      "y": 45
+    },
+    "right": {
+      "x": 36,
+      "y": 44
+    },
+    "bottomRight": {
+      "x": 36,
+      "y": 43
+    },
+    "bottom": {
+      "x": 35,
+      "y": 43
+    },
+    "bottonLeft": {
+      "x": 34,
+      "y": 43
+    },
+    "left": {
+      "x": 34,
+      "y": 44
+    },
+    "topLeft": {
+      "x": 34,
+      "y": 45
+    }
   }
 }

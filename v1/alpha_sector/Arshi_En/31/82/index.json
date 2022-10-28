@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02762",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02762",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYqXJgN3ZuJ8xDPkitWFYs7zJFyjeZQnnnNHouqbNoYsR",
+  "token_name": "Terraform17232",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17232",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRTxNR5ZjqB4TNoMyGnmuy8H2FU3c9g8do96JiLt6r9UD",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 2,
-  "quantum_flux": 6,
+  "quantum_flux": 3,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 31,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 31,
+      "y": 83
+    },
+    "topRight": {
+      "x": 32,
+      "y": 83
+    },
+    "right": {
+      "x": 32,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 32,
+      "y": 81
+    },
+    "bottom": {
+      "x": 31,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 30,
+      "y": 81
+    },
+    "left": {
+      "x": 30,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 30,
+      "y": 83
+    }
   }
 }

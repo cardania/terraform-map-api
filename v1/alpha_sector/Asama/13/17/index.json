@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11188",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11188",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYkPfxLt5jC8hbqeFaxwNsiTCkUycQzzBzkeJ7JFrvf8k",
+  "token_name": "Terraform07022",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07022",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTwjRyUsnxDFCMHRx25ETn3wk8SSqS23Bww8iYzynPSZc",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
   "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
   "power_level": 5,
   "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_Lake",
+  "water": "Saltwater_River",
   "location": {
     "x": 13,
     "y": 17
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 18
+    },
+    "topRight": {
+      "x": 14,
+      "y": 18
+    },
+    "right": {
+      "x": 14,
+      "y": 17
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 16
+    },
+    "bottom": {
+      "x": 13,
+      "y": 16
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 16
+    },
+    "left": {
+      "x": 12,
+      "y": 17
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 18
+    }
   }
 }

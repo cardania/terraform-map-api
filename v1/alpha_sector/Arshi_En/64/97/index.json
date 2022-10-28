@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08023",
+  "token_name": "Terraform17379",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08023",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZPK8qBfvU9dyMpDECfCefiJDVDFsjAMMEapGSH4R6vfA",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17379",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmR8d177A9chPNFxGGVHD9vntfrsNhKMc8rZYehfcgDdH4",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 3,
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Machine_Shrine",
-  "water": "None",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 64,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 64,
+      "y": 98
+    },
+    "topRight": {
+      "x": 65,
+      "y": 98
+    },
+    "right": {
+      "x": 65,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 65,
+      "y": 96
+    },
+    "bottom": {
+      "x": 64,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 63,
+      "y": 96
+    },
+    "left": {
+      "x": 63,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 63,
+      "y": 98
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05481",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05481",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVdbrrdQb82UQvVX8M57CxE8EaazAsTcrL6DNvo2Peurm",
+  "token_name": "Terraform15766",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15766",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQp7Ny5dD7z3nhTd8HADFq6MmFm91CCFYhn7TpdtVjHUL",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Funky_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 58,
     "y": 54
+  },
+  "neighbors": {
+    "top": {
+      "x": 58,
+      "y": 55
+    },
+    "topRight": {
+      "x": 59,
+      "y": 55
+    },
+    "right": {
+      "x": 59,
+      "y": 54
+    },
+    "bottomRight": {
+      "x": 59,
+      "y": 53
+    },
+    "bottom": {
+      "x": 58,
+      "y": 53
+    },
+    "bottonLeft": {
+      "x": 57,
+      "y": 53
+    },
+    "left": {
+      "x": 57,
+      "y": 54
+    },
+    "topLeft": {
+      "x": 57,
+      "y": 55
+    }
   }
 }

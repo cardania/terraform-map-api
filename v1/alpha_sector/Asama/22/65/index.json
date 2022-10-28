@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11960",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11960",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcCXTsyMXyGPqhXkkaKHszC9twvTChG9mFBe4JvfxMcSg",
+  "token_name": "Terraform10136",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10136",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmapppcx8nKnwBHdcBbe3hi4DUpF6B3k8Xk3YUFYeC9JQq",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
+  "power_level": 5,
   "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "None",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
   "water": "Freshwater_Lake",
   "location": {
     "x": 22,
     "y": 65
+  },
+  "neighbors": {
+    "top": {
+      "x": 22,
+      "y": 66
+    },
+    "topRight": {
+      "x": 23,
+      "y": 66
+    },
+    "right": {
+      "x": 23,
+      "y": 65
+    },
+    "bottomRight": {
+      "x": 23,
+      "y": 64
+    },
+    "bottom": {
+      "x": 22,
+      "y": 64
+    },
+    "bottonLeft": {
+      "x": 21,
+      "y": 64
+    },
+    "left": {
+      "x": 21,
+      "y": 65
+    },
+    "topLeft": {
+      "x": 21,
+      "y": 66
+    }
   }
 }

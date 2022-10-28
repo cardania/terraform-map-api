@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15107",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15107",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPksA82A559Qtqg8hd5zSy6dmZ1JaXawcdtF6s62Gbau1",
+  "token_name": "Terraform02229",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02229",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUvqSbADezDJHSSuXDW7Gc8ktFnLx71tveCAYQyDrCzGe",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 9,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "Machine_Shrine",
   "water": "Freshwater_Lake",
   "location": {
     "x": 29,
     "y": 46
+  },
+  "neighbors": {
+    "top": {
+      "x": 29,
+      "y": 47
+    },
+    "topRight": {
+      "x": 30,
+      "y": 47
+    },
+    "right": {
+      "x": 30,
+      "y": 46
+    },
+    "bottomRight": {
+      "x": 30,
+      "y": 45
+    },
+    "bottom": {
+      "x": 29,
+      "y": 45
+    },
+    "bottonLeft": {
+      "x": 28,
+      "y": 45
+    },
+    "left": {
+      "x": 28,
+      "y": 46
+    },
+    "topLeft": {
+      "x": 28,
+      "y": 47
+    }
   }
 }

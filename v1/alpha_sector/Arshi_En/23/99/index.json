@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02377",
+  "token_name": "Terraform01514",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02377",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZvbxLEenhQq1QjDurvmLUSngZPmsFZ9314ktAjUdjQDP",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01514",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPnKE819mUkAsVKucZ8LnUyp4nyxsga9YwnHXRqGfsAXE",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "None",
   "location": {
     "x": 23,
     "y": 99
+  },
+  "neighbors": {
+    "top": {
+      "x": 23,
+      "y": 100
+    },
+    "topRight": {
+      "x": 24,
+      "y": 100
+    },
+    "right": {
+      "x": 24,
+      "y": 99
+    },
+    "bottomRight": {
+      "x": 24,
+      "y": 98
+    },
+    "bottom": {
+      "x": 23,
+      "y": 98
+    },
+    "bottonLeft": {
+      "x": 22,
+      "y": 98
+    },
+    "left": {
+      "x": 22,
+      "y": 99
+    },
+    "topLeft": {
+      "x": 22,
+      "y": 100
+    }
   }
 }

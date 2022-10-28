@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01792",
+  "token_name": "Terraform03120",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01792",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmX6N4j6tpcWXFX5UWEcSV1qfAM8VK2EfrfXif8YarSEud",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03120",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXq3Wf6C9itbBex8DYQY2K39189ZcbhvUGX1cAg6fP89z",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Purple",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 7,
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Funky_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 54,
     "y": 65
+  },
+  "neighbors": {
+    "top": {
+      "x": 54,
+      "y": 66
+    },
+    "topRight": {
+      "x": 55,
+      "y": 66
+    },
+    "right": {
+      "x": 55,
+      "y": 65
+    },
+    "bottomRight": {
+      "x": 55,
+      "y": 64
+    },
+    "bottom": {
+      "x": 54,
+      "y": 64
+    },
+    "bottonLeft": {
+      "x": 53,
+      "y": 64
+    },
+    "left": {
+      "x": 53,
+      "y": 65
+    },
+    "topLeft": {
+      "x": 53,
+      "y": 66
+    }
   }
 }

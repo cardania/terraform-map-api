@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18585",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18585",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNNuVJCBMoBXFysLNtYossygfK3wsXEXu4FYC4uh8Na1x",
+  "token_name": "Terraform06427",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06427",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdoHax7usGRZZRgTgqgBCitJzmwM848rsTSMRegwTA421",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "forests": "Evergreen",
+  "hazardous_flora": "Melodious_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 2,
+  "power_level": 7,
+  "quantum_flux": 3,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Funky_Lake",
+  "water": "None",
   "location": {
     "x": 98,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 14
+    },
+    "topRight": {
+      "x": 99,
+      "y": 14
+    },
+    "right": {
+      "x": 99,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 12
+    },
+    "bottom": {
+      "x": 98,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 12
+    },
+    "left": {
+      "x": 97,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 14
+    }
   }
 }

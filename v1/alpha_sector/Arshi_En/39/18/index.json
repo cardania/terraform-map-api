@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12606",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12606",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qma47VL9PU8UPSpBjWRWoBYptCDEAvAXBWoymwDD8eQRvs",
+  "token_name": "Terraform05381",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05381",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZehdiPbYMqExXdvesaCLgdgQLci9wZXdxUeHnt2Fh3Eq",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 8,
+  "power_level": 5,
+  "quantum_flux": 5,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Toxic_Lake",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Quantum_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 39,
     "y": 18
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 19
+    },
+    "topRight": {
+      "x": 40,
+      "y": 19
+    },
+    "right": {
+      "x": 40,
+      "y": 18
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 17
+    },
+    "bottom": {
+      "x": 39,
+      "y": 17
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 17
+    },
+    "left": {
+      "x": 38,
+      "y": 18
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 19
+    }
   }
 }

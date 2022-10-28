@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform00220",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00220",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbsEP96jdiX6xreUedfMNVwnfJKDGm61Y8k5QdoDKUwaK",
+  "token_name": "Terraform16387",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16387",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQjxdp34EZJJgJuTea5wWgsS3hJWJnuDCHfAfz2mrQMTa",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Livestock",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 5,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 11,
     "y": 44
+  },
+  "neighbors": {
+    "top": {
+      "x": 11,
+      "y": 45
+    },
+    "topRight": {
+      "x": 12,
+      "y": 45
+    },
+    "right": {
+      "x": 12,
+      "y": 44
+    },
+    "bottomRight": {
+      "x": 12,
+      "y": 43
+    },
+    "bottom": {
+      "x": 11,
+      "y": 43
+    },
+    "bottonLeft": {
+      "x": 10,
+      "y": 43
+    },
+    "left": {
+      "x": 10,
+      "y": 44
+    },
+    "topLeft": {
+      "x": 10,
+      "y": 45
+    }
   }
 }

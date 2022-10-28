@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02412",
+  "token_name": "Terraform17477",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02412",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbMo5uRxxENCc8dJ6nkyqu6hoDaCtHrXNgcURvEQd2N8E",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17477",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSKLHAaWzthtsvuFBdXpcgWBcdkAHsGmxBjqjixAqAntW",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Ultrasaurs",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 7,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
+  "quantum_flux": 6,
   "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "Machine_Shrine",
-  "water": "Saltwater_River",
+  "water": "None",
   "location": {
     "x": 7,
     "y": 12
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 13
+    },
+    "topRight": {
+      "x": 8,
+      "y": 13
+    },
+    "right": {
+      "x": 8,
+      "y": 12
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 11
+    },
+    "bottom": {
+      "x": 7,
+      "y": 11
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 11
+    },
+    "left": {
+      "x": 6,
+      "y": 12
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 13
+    }
   }
 }

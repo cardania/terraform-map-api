@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18128",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18128",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUv89NHjo3PuuvFGHQmYLbYf7zm9YpcTbpDudiKNGZzBP",
+  "token_name": "Terraform12169",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12169",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUsv4dw5dvZEJUmwF3CfGutJgVfy5Beu9XATahyEuzrhY",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Ultrasaurs",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 3,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "quantum_flux": 9,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 33,
     "y": 31
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 32
+    },
+    "topRight": {
+      "x": 34,
+      "y": 32
+    },
+    "right": {
+      "x": 34,
+      "y": 31
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 30
+    },
+    "bottom": {
+      "x": 33,
+      "y": 30
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 30
+    },
+    "left": {
+      "x": 32,
+      "y": 31
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 32
+    }
   }
 }

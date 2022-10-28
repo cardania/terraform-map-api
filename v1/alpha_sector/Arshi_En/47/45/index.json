@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform00897",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00897",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUyrXSkJ578NECm7HuuE7FfiqxcPyLGZEE6iDGSKiK7B2",
+  "token_name": "Terraform10672",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10672",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUBNrYz6JypMQ5ayPnsv3r43XWvMFQJkNrx8Y3zocAdfe",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "None",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 9,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 9,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "Alien_Technology_Green",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 47,
     "y": 45
+  },
+  "neighbors": {
+    "top": {
+      "x": 47,
+      "y": 46
+    },
+    "topRight": {
+      "x": 48,
+      "y": 46
+    },
+    "right": {
+      "x": 48,
+      "y": 45
+    },
+    "bottomRight": {
+      "x": 48,
+      "y": 44
+    },
+    "bottom": {
+      "x": 47,
+      "y": 44
+    },
+    "bottonLeft": {
+      "x": 46,
+      "y": 44
+    },
+    "left": {
+      "x": 46,
+      "y": 45
+    },
+    "topLeft": {
+      "x": 46,
+      "y": 46
+    }
   }
 }

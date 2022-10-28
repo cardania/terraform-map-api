@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13750",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13750",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf36ht6hHRkbhy6yLXHSnuNRvpmcSZ5hPS9nT8c4aNvQi",
+  "token_name": "Terraform07782",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07782",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbwaBYNc4AnEzHGBkUETWxy5VUuRXTYiazGiTH58d2QkG",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 7,
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 4,
   "quantum_flux": 1,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "Fungal_Shrine",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 78,
     "y": 62
+  },
+  "neighbors": {
+    "top": {
+      "x": 78,
+      "y": 63
+    },
+    "topRight": {
+      "x": 79,
+      "y": 63
+    },
+    "right": {
+      "x": 79,
+      "y": 62
+    },
+    "bottomRight": {
+      "x": 79,
+      "y": 61
+    },
+    "bottom": {
+      "x": 78,
+      "y": 61
+    },
+    "bottonLeft": {
+      "x": 77,
+      "y": 61
+    },
+    "left": {
+      "x": 77,
+      "y": 62
+    },
+    "topLeft": {
+      "x": 77,
+      "y": 63
+    }
   }
 }

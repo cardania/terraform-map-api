@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02209",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02209",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNyPT2PCLJGfxLJGKUyfLMwSY3mg9HfgECjMMUg1uMG2M",
+  "token_name": "Terraform19385",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19385",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmU43WG3GoYtFwtPqr5diNQZYVbD8aQDtY9V1eqYH6yK2y",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
-  "quantum_flux": 1,
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 6,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Purple",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 3,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 3,
+      "y": 7
+    },
+    "topRight": {
+      "x": 4,
+      "y": 7
+    },
+    "right": {
+      "x": 4,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 4,
+      "y": 5
+    },
+    "bottom": {
+      "x": 3,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 2,
+      "y": 5
+    },
+    "left": {
+      "x": 2,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 2,
+      "y": 7
+    }
   }
 }

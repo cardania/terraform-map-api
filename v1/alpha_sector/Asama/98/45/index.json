@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17332",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17332",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcNVVq3qqRebSMdjELg5LhAjDnhRHD72piCNMQqxnLQW9",
+  "token_name": "Terraform10499",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10499",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYebgCCoNLvs1zcVQV2ndVVFzc21QgsVjoWsMc4fNJKuY",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 3,
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 6,
+  "quantum_flux": 1,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 98,
     "y": 45
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 46
+    },
+    "topRight": {
+      "x": 99,
+      "y": 46
+    },
+    "right": {
+      "x": 99,
+      "y": 45
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 44
+    },
+    "bottom": {
+      "x": 98,
+      "y": 44
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 44
+    },
+    "left": {
+      "x": 97,
+      "y": 45
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 46
+    }
   }
 }

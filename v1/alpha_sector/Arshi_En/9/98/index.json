@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17274",
+  "token_name": "Terraform18488",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17274",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWPt8rNVDAd7Q5vnY8Eq36gnNVqcoArZCetY9Qs5yJQ2g",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18488",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPaGvaqMf8dQnguTunU2iPFJDVH6nvGXioEQseynNEv7U",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Livestock",
-  "forests": "Evergreen",
+  "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 6,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 8,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 9,
     "y": 98
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 99
+    },
+    "topRight": {
+      "x": 10,
+      "y": 99
+    },
+    "right": {
+      "x": 10,
+      "y": 98
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 97
+    },
+    "bottom": {
+      "x": 9,
+      "y": 97
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 97
+    },
+    "left": {
+      "x": 8,
+      "y": 98
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 99
+    }
   }
 }

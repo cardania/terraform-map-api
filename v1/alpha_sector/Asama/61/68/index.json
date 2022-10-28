@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12671",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12671",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmU2nZqzusVPnj8sXDtGRcEdyLWdNEmbMs87fo3k4u5TkJ",
+  "token_name": "Terraform18777",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18777",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNURChAWHGHjyYehNKuffWcqsZFtGXHLSHcHz6Vhio58q",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Machine_Shrine",
-  "water": "Funky_Lake",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 4,
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 61,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 69
+    },
+    "topRight": {
+      "x": 62,
+      "y": 69
+    },
+    "right": {
+      "x": 62,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 67
+    },
+    "bottom": {
+      "x": 61,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 67
+    },
+    "left": {
+      "x": 60,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 69
+    }
   }
 }

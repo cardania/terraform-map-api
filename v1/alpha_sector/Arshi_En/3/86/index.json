@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04011",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04011",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmULqdG9XHAQu7eQxuMEkvbfGEJmioCCP7KZgtTyhpW16s",
+  "token_name": "Terraform04785",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04785",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZnNbExCW5ixozPbgKGFQWiXLXnEUKVbW6v133YQD4LyU",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 4,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 6,
   "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "primary_minerals": "None",
   "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Machine_Shrine",
   "water": "None",
   "location": {
     "x": 3,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 3,
+      "y": 87
+    },
+    "topRight": {
+      "x": 4,
+      "y": 87
+    },
+    "right": {
+      "x": 4,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 4,
+      "y": 85
+    },
+    "bottom": {
+      "x": 3,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 2,
+      "y": 85
+    },
+    "left": {
+      "x": 2,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 2,
+      "y": 87
+    }
   }
 }

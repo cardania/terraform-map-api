@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04166",
+  "token_name": "Terraform12808",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04166",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfE25NzCua2Jvvzo4i3x5m1ftXiLncHAv2hFVkhojGgVB",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12808",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmR8UQuZkyJgrcUSkVxYvPtbaUdmwo4JsTczQtVhpjLu2p",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 5,
+  "power_level": 5,
+  "quantum_flux": 6,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 30,
     "y": 95
+  },
+  "neighbors": {
+    "top": {
+      "x": 30,
+      "y": 96
+    },
+    "topRight": {
+      "x": 31,
+      "y": 96
+    },
+    "right": {
+      "x": 31,
+      "y": 95
+    },
+    "bottomRight": {
+      "x": 31,
+      "y": 94
+    },
+    "bottom": {
+      "x": 30,
+      "y": 94
+    },
+    "bottonLeft": {
+      "x": 29,
+      "y": 94
+    },
+    "left": {
+      "x": 29,
+      "y": 95
+    },
+    "topLeft": {
+      "x": 29,
+      "y": 96
+    }
   }
 }

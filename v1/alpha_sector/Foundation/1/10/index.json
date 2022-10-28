@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19989",
+  "token_name": "Terraform19841",
   "land_type": "Prismatic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19989",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW9FpT4umbxtNEZstA58Sv7feZiShdeK7P6VbtMmZ7qsc",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19841",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaVDtakqepF4WBhrqdc7SA2D4hPD3U9Vspu9VHCWFXZva",
   "alpha_sector": "Foundation",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 6,
   "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 1,
     "y": 10
+  },
+  "neighbors": {
+    "top": {
+      "x": 1,
+      "y": 11
+    },
+    "topRight": {
+      "x": 2,
+      "y": 11
+    },
+    "right": {
+      "x": 2,
+      "y": 10
+    },
+    "bottomRight": {
+      "x": 2,
+      "y": 9
+    },
+    "bottom": {
+      "x": 1,
+      "y": 9
+    },
+    "bottonLeft": {
+      "x": 0,
+      "y": 9
+    },
+    "left": {
+      "x": 0,
+      "y": 10
+    },
+    "topLeft": {
+      "x": 0,
+      "y": 11
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13887",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13887",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXoL6fDoupcTc53MAuGpzmsAYz7ZWeoASGq1v7D4cfSv3",
+  "token_name": "Terraform12527",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12527",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWJXyXwk5zBShPxHotDJuZXk4zzuG6hTYfUg8jqZK8pqR",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 4,
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
   "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "Timelost_Shrine",
-  "water": "Freshwater_River",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Funky_River",
   "location": {
     "x": 52,
     "y": 12
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 13
+    },
+    "topRight": {
+      "x": 53,
+      "y": 13
+    },
+    "right": {
+      "x": 53,
+      "y": 12
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 11
+    },
+    "bottom": {
+      "x": 52,
+      "y": 11
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 11
+    },
+    "left": {
+      "x": 51,
+      "y": 12
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 13
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18692",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18692",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSByFUE9XFAGK2FXkBKycMGK45B9graQjiHeVJBe9SgJC",
+  "token_name": "Terraform16397",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16397",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbTZZNynurKx72GJLu3zoVrgP5QZJAHbaEvFkGLscHhJd",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "None",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 4,
+  "power_level": 7,
+  "quantum_flux": 5,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "Fungal_Shrine",
   "water": "None",
   "location": {
     "x": 84,
     "y": 90
+  },
+  "neighbors": {
+    "top": {
+      "x": 84,
+      "y": 91
+    },
+    "topRight": {
+      "x": 85,
+      "y": 91
+    },
+    "right": {
+      "x": 85,
+      "y": 90
+    },
+    "bottomRight": {
+      "x": 85,
+      "y": 89
+    },
+    "bottom": {
+      "x": 84,
+      "y": 89
+    },
+    "bottonLeft": {
+      "x": 83,
+      "y": 89
+    },
+    "left": {
+      "x": 83,
+      "y": 90
+    },
+    "topLeft": {
+      "x": 83,
+      "y": 91
+    }
   }
 }

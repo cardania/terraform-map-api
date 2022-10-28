@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16900",
+  "token_name": "Terraform16676",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16900",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qma6BUbmUGHdUTvF2mnHK1eJ8pxBehkjTeryqGvDDfLNQR",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16676",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf2z5J3DTArL9y1utaKdWoHDwSZbiUgBCpEs2JtHA4n8N",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
+  "forests": "Palms",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 6,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 2,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Timelost",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 65,
     "y": 19
+  },
+  "neighbors": {
+    "top": {
+      "x": 65,
+      "y": 20
+    },
+    "topRight": {
+      "x": 66,
+      "y": 20
+    },
+    "right": {
+      "x": 66,
+      "y": 19
+    },
+    "bottomRight": {
+      "x": 66,
+      "y": 18
+    },
+    "bottom": {
+      "x": 65,
+      "y": 18
+    },
+    "bottonLeft": {
+      "x": 64,
+      "y": 18
+    },
+    "left": {
+      "x": 64,
+      "y": 19
+    },
+    "topLeft": {
+      "x": 64,
+      "y": 20
+    }
   }
 }

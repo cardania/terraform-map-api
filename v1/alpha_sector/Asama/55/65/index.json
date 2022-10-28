@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12081",
+  "token_name": "Terraform01977",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12081",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTXkBVs2eix66VqqK4PbPXScTciuCaL3y4uTo9fTWbveG",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01977",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdDfVJvjM9sXomap7Pq5pgsSkUWxX77xZCXGanvi66Y5i",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_River",
+  "forests": "Evergreen",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 5,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 55,
     "y": 65
+  },
+  "neighbors": {
+    "top": {
+      "x": 55,
+      "y": 66
+    },
+    "topRight": {
+      "x": 56,
+      "y": 66
+    },
+    "right": {
+      "x": 56,
+      "y": 65
+    },
+    "bottomRight": {
+      "x": 56,
+      "y": 64
+    },
+    "bottom": {
+      "x": 55,
+      "y": 64
+    },
+    "bottonLeft": {
+      "x": 54,
+      "y": 64
+    },
+    "left": {
+      "x": 54,
+      "y": 65
+    },
+    "topLeft": {
+      "x": 54,
+      "y": 66
+    }
   }
 }

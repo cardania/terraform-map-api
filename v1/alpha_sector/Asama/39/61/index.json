@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12876",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12876",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRLXmjGwkAiFLxrAho3vmBu2YNGeKfAVDkPJWdpTDNr5N",
+  "token_name": "Terraform10547",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10547",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWgQfx74dULHPAvJ6iBTsst8ZUy8N7mGvjinFzpdixkHq",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 8,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Saltwater_River",
   "location": {
     "x": 39,
     "y": 61
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 62
+    },
+    "topRight": {
+      "x": 40,
+      "y": 62
+    },
+    "right": {
+      "x": 40,
+      "y": 61
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 60
+    },
+    "bottom": {
+      "x": 39,
+      "y": 60
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 60
+    },
+    "left": {
+      "x": 38,
+      "y": 61
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 62
+    }
   }
 }

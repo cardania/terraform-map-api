@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03703",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03703",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSimK9bS2wpibXHHgRQDKRTwrwK1cdm7cXRYpco38gVG5",
+  "token_name": "Terraform14690",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14690",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcqNj4LheD1WyvtcHJQRYPs6eHWs5y8sthQnRGbgtsucF",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 5,
-  "quantum_flux": 6,
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 9,
+  "quantum_flux": 3,
   "primary_minerals": "Radium",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 32,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 32,
+      "y": 4
+    },
+    "topRight": {
+      "x": 33,
+      "y": 4
+    },
+    "right": {
+      "x": 33,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 33,
+      "y": 2
+    },
+    "bottom": {
+      "x": 32,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 31,
+      "y": 2
+    },
+    "left": {
+      "x": 31,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 31,
+      "y": 4
+    }
   }
 }

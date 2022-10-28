@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05563",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05563",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZEzcsvCeoMkv3Jf9cFBvf4Ly4i2ZbJo7RjdmVw3msoZF",
+  "token_name": "Terraform12574",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12574",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qma2okCRP4vuNs6jTWakD1nKSQquAqyECoK7hvTUvgtacC",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Antigravity_Cloud",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "power_level": 2,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "None",
   "location": {
     "x": 52,
     "y": 51
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 52
+    },
+    "topRight": {
+      "x": 53,
+      "y": 52
+    },
+    "right": {
+      "x": 53,
+      "y": 51
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 50
+    },
+    "bottom": {
+      "x": 52,
+      "y": 50
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 50
+    },
+    "left": {
+      "x": 51,
+      "y": 51
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 52
+    }
   }
 }

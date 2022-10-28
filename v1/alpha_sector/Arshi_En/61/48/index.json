@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12194",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12194",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdjDhQNq3Zkg6De13WmcF6Jxuc7kY8QTXEJz5LMC7kB3V",
+  "token_name": "Terraform14862",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14862",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTGTsbob2kuYRFdfJf5SfktJ5JQnBSP6PtYzvAtDfYbbC",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "power_level": 4,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 61,
     "y": 48
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 49
+    },
+    "topRight": {
+      "x": 62,
+      "y": 49
+    },
+    "right": {
+      "x": 62,
+      "y": 48
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 47
+    },
+    "bottom": {
+      "x": 61,
+      "y": 47
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 47
+    },
+    "left": {
+      "x": 60,
+      "y": 48
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 49
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08624",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08624",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdfyZmRe5VVqV2m5ypqf17sHYcEDvp5Bm6vR9LT95MUEy",
+  "token_name": "Terraform16807",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16807",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPWLZsULN2vm1dLmL2D1AVQkT9X9JsxDJL6kTeZaUksro",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 8,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 6,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "None",
   "location": {
     "x": 85,
     "y": 66
+  },
+  "neighbors": {
+    "top": {
+      "x": 85,
+      "y": 67
+    },
+    "topRight": {
+      "x": 86,
+      "y": 67
+    },
+    "right": {
+      "x": 86,
+      "y": 66
+    },
+    "bottomRight": {
+      "x": 86,
+      "y": 65
+    },
+    "bottom": {
+      "x": 85,
+      "y": 65
+    },
+    "bottonLeft": {
+      "x": 84,
+      "y": 65
+    },
+    "left": {
+      "x": 84,
+      "y": 66
+    },
+    "topLeft": {
+      "x": 84,
+      "y": 67
+    }
   }
 }

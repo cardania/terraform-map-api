@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01436",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01436",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcZEW8yp1swqxgJrGtCPQWfeh1ppk77HfaWC99t4qGVdL",
+  "token_name": "Terraform08608",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08608",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPZkfPhwVS4tidsEoJr6QQpJf7EmgZxgWudG4HeLb6jpw",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 3,
-  "quantum_flux": 2,
+  "quantum_flux": 7,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "None",
   "location": {
     "x": 96,
     "y": 83
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 84
+    },
+    "topRight": {
+      "x": 97,
+      "y": 84
+    },
+    "right": {
+      "x": 97,
+      "y": 83
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 82
+    },
+    "bottom": {
+      "x": 96,
+      "y": 82
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 82
+    },
+    "left": {
+      "x": 95,
+      "y": 83
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 84
+    }
   }
 }

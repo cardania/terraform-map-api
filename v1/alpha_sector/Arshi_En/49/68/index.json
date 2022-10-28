@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05383",
+  "token_name": "Terraform13971",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05383",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPkEzsbo96fvkXAVmZhUAxvRvja1qHLFUZxz1mSaJpq36",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13971",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeiDHsNPuzyib42Hy1AHp44wZGuWVyrUesUfZYt5mB8QF",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 1,
   "quantum_flux": 4,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Saltwater_River",
   "location": {
     "x": 49,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 49,
+      "y": 69
+    },
+    "topRight": {
+      "x": 50,
+      "y": 69
+    },
+    "right": {
+      "x": 50,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 50,
+      "y": 67
+    },
+    "bottom": {
+      "x": 49,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 48,
+      "y": 67
+    },
+    "left": {
+      "x": 48,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 48,
+      "y": 69
+    }
   }
 }

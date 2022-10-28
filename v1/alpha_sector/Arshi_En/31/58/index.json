@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07011",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07011",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbFniFBCLNKxacmtKryF9turDTyotSUwGLpccpgLEBKDJ",
+  "token_name": "Terraform10600",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10600",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSk9bngaWkKzVqWSYDD2rTnJ6J5HcQkNZuKxrnsUUQAu9",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 3,
-  "quantum_flux": 2,
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 31,
     "y": 58
+  },
+  "neighbors": {
+    "top": {
+      "x": 31,
+      "y": 59
+    },
+    "topRight": {
+      "x": 32,
+      "y": 59
+    },
+    "right": {
+      "x": 32,
+      "y": 58
+    },
+    "bottomRight": {
+      "x": 32,
+      "y": 57
+    },
+    "bottom": {
+      "x": 31,
+      "y": 57
+    },
+    "bottonLeft": {
+      "x": 30,
+      "y": 57
+    },
+    "left": {
+      "x": 30,
+      "y": 58
+    },
+    "topLeft": {
+      "x": 30,
+      "y": 59
+    }
   }
 }

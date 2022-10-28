@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15553",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15553",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRweyHJNUN4EBaxJLJKvFztK1rAt2KWKKGrDE8Ndepsy1",
+  "token_name": "Terraform18166",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18166",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb7MqhjuHMGM3sZBujFraCS7hrMxSCuSr4QfEnps2zAx8",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "None",
-  "fauna": "Critters",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Livestock",
   "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Fungal_Shrine",
-  "water": "None",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 56,
     "y": 92
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 93
+    },
+    "topRight": {
+      "x": 57,
+      "y": 93
+    },
+    "right": {
+      "x": 57,
+      "y": 92
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 91
+    },
+    "bottom": {
+      "x": 56,
+      "y": 91
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 91
+    },
+    "left": {
+      "x": 55,
+      "y": 92
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 93
+    }
   }
 }

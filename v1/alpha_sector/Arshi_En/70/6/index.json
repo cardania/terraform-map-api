@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19744",
+  "token_name": "Terraform11256",
   "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19744",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRaeFw6bgXLGhHUJekYnrDnCE2puS7xEufzKGnGDp6CSD",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11256",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmY5kCxYb5h7vPBjTyHb2hbeohGibkMnELFAfjSCP9e6nq",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
   "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 4,
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
   "quantum_flux": 2,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 70,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 7
+    },
+    "topRight": {
+      "x": 71,
+      "y": 7
+    },
+    "right": {
+      "x": 71,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 5
+    },
+    "bottom": {
+      "x": 70,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 5
+    },
+    "left": {
+      "x": 69,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 7
+    }
   }
 }

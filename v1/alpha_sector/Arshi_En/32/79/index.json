@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08211",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08211",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWkZ2XUbVDZy42oQHvD3ayDjsFJS8zYm1UBHKBE7Zr9Rc",
+  "token_name": "Terraform00255",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00255",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPLoLJ2eJiv2qyReiuxf6R1q3XbWiEuQWiYwpEPQQQsWL",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Solar_Shrine",
+  "water": "Saltwater_River",
   "location": {
     "x": 32,
     "y": 79
+  },
+  "neighbors": {
+    "top": {
+      "x": 32,
+      "y": 80
+    },
+    "topRight": {
+      "x": 33,
+      "y": 80
+    },
+    "right": {
+      "x": 33,
+      "y": 79
+    },
+    "bottomRight": {
+      "x": 33,
+      "y": 78
+    },
+    "bottom": {
+      "x": 32,
+      "y": 78
+    },
+    "bottonLeft": {
+      "x": 31,
+      "y": 78
+    },
+    "left": {
+      "x": 31,
+      "y": 79
+    },
+    "topLeft": {
+      "x": 31,
+      "y": 80
+    }
   }
 }

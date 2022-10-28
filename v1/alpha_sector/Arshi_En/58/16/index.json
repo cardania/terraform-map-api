@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02960",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02960",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYckVUigbnadAQDmtPKnqB3tvLSHtyXKvFG8o4VEcAVds",
+  "token_name": "Terraform16302",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16302",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVaBwcJkppsP965j7MDQvzYvupSH4STaetDmty2qwD86Z",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 9,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 5,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 58,
     "y": 16
+  },
+  "neighbors": {
+    "top": {
+      "x": 58,
+      "y": 17
+    },
+    "topRight": {
+      "x": 59,
+      "y": 17
+    },
+    "right": {
+      "x": 59,
+      "y": 16
+    },
+    "bottomRight": {
+      "x": 59,
+      "y": 15
+    },
+    "bottom": {
+      "x": 58,
+      "y": 15
+    },
+    "bottonLeft": {
+      "x": 57,
+      "y": 15
+    },
+    "left": {
+      "x": 57,
+      "y": 16
+    },
+    "topLeft": {
+      "x": 57,
+      "y": 17
+    }
   }
 }

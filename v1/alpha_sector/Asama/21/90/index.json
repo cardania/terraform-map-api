@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06358",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06358",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTjfNjJPxkQCdjMReMJ9yRBrkSPUPrAEWCyMTA27mkwHJ",
+  "token_name": "Terraform13719",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13719",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmREzA6136iNZ2Py8xxL7NDbJFHfKkmrZtK7Grk7RjV1AJ",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 1,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 8,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
+  "shrine": "Timelost_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 21,
     "y": 90
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 91
+    },
+    "topRight": {
+      "x": 22,
+      "y": 91
+    },
+    "right": {
+      "x": 22,
+      "y": 90
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 89
+    },
+    "bottom": {
+      "x": 21,
+      "y": 89
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 89
+    },
+    "left": {
+      "x": 20,
+      "y": 90
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 91
+    }
   }
 }

@@ -1,18 +1,18 @@
 {
-  "token_name": "Terraform07305",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07305",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSKMsFXPU7LPBad7nwa7wU46f1rtD1cCysmoxbZbytbCs",
+  "token_name": "Terraform01520",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01520",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmawTpZgKCUidZPVZCG1vEmDDB84FstVvTuAPSpK65nmWA",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Cursed_Nanites",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 1,
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 2,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 7,
     "y": 18
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 19
+    },
+    "topRight": {
+      "x": 8,
+      "y": 19
+    },
+    "right": {
+      "x": 8,
+      "y": 18
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 17
+    },
+    "bottom": {
+      "x": 7,
+      "y": 17
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 17
+    },
+    "left": {
+      "x": 6,
+      "y": 18
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 19
+    }
   }
 }

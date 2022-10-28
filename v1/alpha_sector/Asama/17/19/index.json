@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13918",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13918",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ1Jyniq1NcCJFPnuvv1X6mHXcH8GxpptL57N5aSfvMHT",
+  "token_name": "Terraform08317",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08317",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNRzE4DVHYUtANRYSrojLtSwWQyW5oWfrZCpbus8QpVBF",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 6,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 7,
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 17,
     "y": 19
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 20
+    },
+    "topRight": {
+      "x": 18,
+      "y": 20
+    },
+    "right": {
+      "x": 18,
+      "y": 19
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 18
+    },
+    "bottom": {
+      "x": 17,
+      "y": 18
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 18
+    },
+    "left": {
+      "x": 16,
+      "y": 19
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 20
+    }
   }
 }

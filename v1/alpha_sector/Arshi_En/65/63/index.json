@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12910",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12910",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTYrw9BuRexuyFBZSKTAnK22x33ayDvDdAKeZdg7WAvVK",
+  "token_name": "Terraform13333",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13333",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRko6oSswiAbXVPGcQby5aYoKPkvMmNo6QBvyKptxdFj7",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "None",
   "location": {
     "x": 65,
     "y": 63
+  },
+  "neighbors": {
+    "top": {
+      "x": 65,
+      "y": 64
+    },
+    "topRight": {
+      "x": 66,
+      "y": 64
+    },
+    "right": {
+      "x": 66,
+      "y": 63
+    },
+    "bottomRight": {
+      "x": 66,
+      "y": 62
+    },
+    "bottom": {
+      "x": 65,
+      "y": 62
+    },
+    "bottonLeft": {
+      "x": 64,
+      "y": 62
+    },
+    "left": {
+      "x": 64,
+      "y": 63
+    },
+    "topLeft": {
+      "x": 64,
+      "y": 64
+    }
   }
 }

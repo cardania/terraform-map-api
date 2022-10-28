@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07600",
+  "token_name": "Terraform11271",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07600",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUTTZFrvcZtAgdE2ARjXHxdoAVB36rz2x9AjSJnom5PH2",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11271",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZVd437R1iHTtVim7qnbiD8SLrUdouw8w7JXSEATiPdmd",
   "alpha_sector": "Arshi_En",
   "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 21,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 61
+    },
+    "topRight": {
+      "x": 22,
+      "y": 61
+    },
+    "right": {
+      "x": 22,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 59
+    },
+    "bottom": {
+      "x": 21,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 59
+    },
+    "left": {
+      "x": 20,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 61
+    }
   }
 }

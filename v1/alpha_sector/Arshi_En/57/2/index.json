@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10021",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10021",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSoQ3hBC3xFjzAZRycj8coTubaSyd4ibAyGWMxXB2G4pH",
+  "token_name": "Terraform04252",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04252",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qme74qvX7cReXzsfpQi7KHgBuxBTW8j8ZEggcqmUzUwewN",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 4,
-  "quantum_flux": 8,
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "None",
   "location": {
     "x": 57,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 57,
+      "y": 3
+    },
+    "topRight": {
+      "x": 58,
+      "y": 3
+    },
+    "right": {
+      "x": 58,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 58,
+      "y": 1
+    },
+    "bottom": {
+      "x": 57,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 56,
+      "y": 1
+    },
+    "left": {
+      "x": 56,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 56,
+      "y": 3
+    }
   }
 }

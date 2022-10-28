@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00810",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00810",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmThbfaVUcHc3Mb5JFBuzGsUJipNnMmJjE6bvmuyzemyJh",
+  "token_name": "Terraform06102",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06102",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmahi2rwz8WDzbUhvaoVoMN6Rm6vsFK5AqFtajHTdexQb9",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "Evergreen",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 1,
   "quantum_flux": 2,
-  "primary_minerals": "None",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Timelost_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 83,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 98
+    },
+    "topRight": {
+      "x": 84,
+      "y": 98
+    },
+    "right": {
+      "x": 84,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 96
+    },
+    "bottom": {
+      "x": 83,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 96
+    },
+    "left": {
+      "x": 82,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 98
+    }
   }
 }

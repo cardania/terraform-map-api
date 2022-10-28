@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19881",
+  "token_name": "Terraform19800",
   "land_type": "Prismatic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19881",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXpWUGVzWBLDTZvs1TxaaWLwogSULC25mZQygvQJKHga6",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19800",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZUqLMNCAmsTT5o9cJZ3F5xLCo5ebZP1wHdv41APWeB1r",
   "alpha_sector": "Foundation",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 7,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_River",
+  "shrine": "Void_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 20,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 9
+    },
+    "topRight": {
+      "x": 21,
+      "y": 9
+    },
+    "right": {
+      "x": 21,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 7
+    },
+    "bottom": {
+      "x": 20,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 7
+    },
+    "left": {
+      "x": 19,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 9
+    }
   }
 }

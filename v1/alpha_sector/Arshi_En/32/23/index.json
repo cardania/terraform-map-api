@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08561",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08561",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcQfFUR9jjQRFk3skZGs58E4W21dRQaPd4nLwzqR3XnmA",
+  "token_name": "Terraform02661",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02661",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmenkCQCDkAhKhi2cTvDNoGgDvfZfP3wH3dhJLtCN6EhYp",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Antigravity_Cloud",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 1,
-  "quantum_flux": 1,
-  "primary_minerals": "Copper",
+  "quantum_flux": 9,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Cursed_River",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 32,
     "y": 23
+  },
+  "neighbors": {
+    "top": {
+      "x": 32,
+      "y": 24
+    },
+    "topRight": {
+      "x": 33,
+      "y": 24
+    },
+    "right": {
+      "x": 33,
+      "y": 23
+    },
+    "bottomRight": {
+      "x": 33,
+      "y": 22
+    },
+    "bottom": {
+      "x": 32,
+      "y": 22
+    },
+    "bottonLeft": {
+      "x": 31,
+      "y": 22
+    },
+    "left": {
+      "x": 31,
+      "y": 23
+    },
+    "topLeft": {
+      "x": 31,
+      "y": 24
+    }
   }
 }

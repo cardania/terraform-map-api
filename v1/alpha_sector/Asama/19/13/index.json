@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04886",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04886",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZFwLu2jpxEXrjWCzKvav5M7ZbMFFVeyUUDrDq9tYFJgo",
+  "token_name": "Terraform11219",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11219",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYoCmTY6DDR7xNvSp7XYQhU1gjFhXr4uF2n4TaFDp7mvA",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
-  "quantum_flux": 3,
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 19,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 19,
+      "y": 14
+    },
+    "topRight": {
+      "x": 20,
+      "y": 14
+    },
+    "right": {
+      "x": 20,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 20,
+      "y": 12
+    },
+    "bottom": {
+      "x": 19,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 18,
+      "y": 12
+    },
+    "left": {
+      "x": 18,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 18,
+      "y": 14
+    }
   }
 }

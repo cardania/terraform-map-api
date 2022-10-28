@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07184",
+  "token_name": "Terraform06300",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07184",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc8tWjGEunBHfiuytod9bhftZFniNUFebhD94Hzq79dYx",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06300",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmai2Z2JAUkjk3WUDZwQzYiMUsBDTjSFkFMALM9X4VDqwR",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 6,
-  "quantum_flux": 9,
+  "power_level": 8,
+  "quantum_flux": 3,
   "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 83,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 51
+    },
+    "topRight": {
+      "x": 84,
+      "y": 51
+    },
+    "right": {
+      "x": 84,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 49
+    },
+    "bottom": {
+      "x": 83,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 49
+    },
+    "left": {
+      "x": 82,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 51
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12479",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12479",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdHiwdfDNC9xSi2a9LjK62MCJFZG54zH97TPg2pNVkhC6",
+  "token_name": "Terraform16729",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16729",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXUt5GepJ25zhsMBJKG4swvA1x1cuQF6mBcFCamDPsQSu",
   "alpha_sector": "Asama",
   "activity": "Magnetic_Activity",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 4,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 33,
     "y": 24
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 25
+    },
+    "topRight": {
+      "x": 34,
+      "y": 25
+    },
+    "right": {
+      "x": 34,
+      "y": 24
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 23
+    },
+    "bottom": {
+      "x": 33,
+      "y": 23
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 23
+    },
+    "left": {
+      "x": 32,
+      "y": 24
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 25
+    }
   }
 }

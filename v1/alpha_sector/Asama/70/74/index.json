@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17771",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17771",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeCEbUyWJpfQNDJnbWLhKeyZvVjj1QxwTFD2RdzqeqwRP",
+  "token_name": "Terraform15589",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15589",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc4TonuKoj9MmT1vhDDvZHA4iPokjUcZyF8W6Y4dBSLPq",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Prismaleaf",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 4,
-  "quantum_flux": 5,
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 2,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "secondary_minerals": "Fossils",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Solar_Shrine",
+  "water": "None",
   "location": {
     "x": 70,
     "y": 74
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 75
+    },
+    "topRight": {
+      "x": 71,
+      "y": 75
+    },
+    "right": {
+      "x": 71,
+      "y": 74
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 73
+    },
+    "bottom": {
+      "x": 70,
+      "y": 73
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 73
+    },
+    "left": {
+      "x": 69,
+      "y": 74
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 75
+    }
   }
 }

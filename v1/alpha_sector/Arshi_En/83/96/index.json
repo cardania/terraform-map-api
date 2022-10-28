@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19035",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19035",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeSqU1wJYPzFWDRYikuqAUhBBm49JF9XVwJkzTMUkUmCF",
+  "token_name": "Terraform02674",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02674",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZX4TYd2FGWCmGc7X31Y9GGzGPDQZ9Ls6wsryCLYJ8MFJ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 6,
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 4,
   "quantum_flux": 2,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 83,
     "y": 96
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 97
+    },
+    "topRight": {
+      "x": 84,
+      "y": 97
+    },
+    "right": {
+      "x": 84,
+      "y": 96
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 95
+    },
+    "bottom": {
+      "x": 83,
+      "y": 95
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 95
+    },
+    "left": {
+      "x": 82,
+      "y": 96
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 97
+    }
   }
 }

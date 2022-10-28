@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02060",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02060",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW74frCPU81twgMG6USGFFCw3RZMHqjtwHKx5R4uLTgnJ",
+  "token_name": "Terraform07161",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07161",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTwayNrm74iVBRQapcw3QB9F8NRLBbn8Xc7AZrtBNYp2t",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
   "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "None",
+  "power_level": 5,
+  "quantum_flux": 1,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 19,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 19,
+      "y": 26
+    },
+    "topRight": {
+      "x": 20,
+      "y": 26
+    },
+    "right": {
+      "x": 20,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 20,
+      "y": 24
+    },
+    "bottom": {
+      "x": 19,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 18,
+      "y": 24
+    },
+    "left": {
+      "x": 18,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 18,
+      "y": 26
+    }
   }
 }

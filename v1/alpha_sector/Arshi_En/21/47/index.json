@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03117",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03117",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb7Duzq2vPCvSEtD3mUZ7viFjBiZwDWq9G9NCuFFNPfCD",
+  "token_name": "Terraform16992",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16992",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmatN7WPyj6bvceUEJut2XjACc3HFVK1cF9nbZeUZLtU7s",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "Alien_Technology_Orange",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 21,
     "y": 47
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 48
+    },
+    "topRight": {
+      "x": 22,
+      "y": 48
+    },
+    "right": {
+      "x": 22,
+      "y": 47
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 46
+    },
+    "bottom": {
+      "x": 21,
+      "y": 46
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 46
+    },
+    "left": {
+      "x": 20,
+      "y": 47
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 48
+    }
   }
 }

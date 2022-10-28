@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06858",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06858",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQyH6C83dioCLQJXHUcmiZbvPxtconzhhEbgFgtm6BJHG",
+  "token_name": "Terraform09433",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09433",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUposdWsDtYiEzSbmWn1H3dd7XJ38T3CR1RjqTXtYsZwV",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "Solar_Shrine",
+  "power_level": 3,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 95,
     "y": 34
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 35
+    },
+    "topRight": {
+      "x": 96,
+      "y": 35
+    },
+    "right": {
+      "x": 96,
+      "y": 34
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 33
+    },
+    "bottom": {
+      "x": 95,
+      "y": 33
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 33
+    },
+    "left": {
+      "x": 94,
+      "y": 34
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 35
+    }
   }
 }

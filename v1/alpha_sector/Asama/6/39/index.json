@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05761",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05761",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV26ZKKYqcDW6tcnj8yR3Ku9xqLaCRuvBiGhQsG5jtw4z",
+  "token_name": "Terraform17498",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17498",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZAR5BnwoKSfHJdWZJ6awz9GmFREpVp6AoZUxQ72FfHve",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "None",
   "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
   "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
+  "quantum_flux": 6,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Saltwater_Lake",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 6,
     "y": 39
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 40
+    },
+    "topRight": {
+      "x": 7,
+      "y": 40
+    },
+    "right": {
+      "x": 7,
+      "y": 39
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 38
+    },
+    "bottom": {
+      "x": 6,
+      "y": 38
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 38
+    },
+    "left": {
+      "x": 5,
+      "y": 39
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 40
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08632",
+  "token_name": "Terraform02816",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08632",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdacm1wV72qqnTx9FuGKSowPnAiuiJAnN4qGyNNsXjc5s",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02816",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQm6Y5BnaV2LQmyX3QGnT5X8HfNqTjXJwHHrvjDE2jwrb",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 5,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Toxic_River",
+  "shrine": "Solar_Shrine",
+  "water": "Funky_Lake",
   "location": {
     "x": 81,
     "y": 73
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 74
+    },
+    "topRight": {
+      "x": 82,
+      "y": 74
+    },
+    "right": {
+      "x": 82,
+      "y": 73
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 72
+    },
+    "bottom": {
+      "x": 81,
+      "y": 72
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 72
+    },
+    "left": {
+      "x": 80,
+      "y": 73
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 74
+    }
   }
 }

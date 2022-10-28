@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11940",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11940",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPsir8tXCWeKfBDYtigkpsomkcsyxzjWLbYPw79rMrVVE",
+  "token_name": "Terraform09487",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09487",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRrkKJVYS6gjDWR26D8jkWTM4Rv7dM8X2BGAkCqCyjqkU",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "None",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 6,
+  "power_level": 5,
+  "quantum_flux": 4,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 22,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 22,
+      "y": 31
+    },
+    "topRight": {
+      "x": 23,
+      "y": 31
+    },
+    "right": {
+      "x": 23,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 23,
+      "y": 29
+    },
+    "bottom": {
+      "x": 22,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 21,
+      "y": 29
+    },
+    "left": {
+      "x": 21,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 21,
+      "y": 31
+    }
   }
 }

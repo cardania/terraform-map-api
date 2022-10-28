@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16237",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16237",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYVpgnkeBYsyyf3MAH1DV3BMeeuapF9VdgfRx5yYtQzr9",
+  "token_name": "Terraform17960",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17960",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdnnquCGr26Lx9sN246BtjCnf1cvKjASfrGYmkQv1moqG",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Cursed_Nanites",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 4,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 4,
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Toxic_Lake",
   "location": {
     "x": 51,
     "y": 11
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 12
+    },
+    "topRight": {
+      "x": 52,
+      "y": 12
+    },
+    "right": {
+      "x": 52,
+      "y": 11
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 10
+    },
+    "bottom": {
+      "x": 51,
+      "y": 10
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 10
+    },
+    "left": {
+      "x": 50,
+      "y": 11
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 12
+    }
   }
 }

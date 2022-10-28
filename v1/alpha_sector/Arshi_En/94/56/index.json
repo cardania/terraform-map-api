@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15041",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15041",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmT76iF22rCgFdy8bbPit5HG3FdEYHuD84h9YRJohtMCR6",
+  "token_name": "Terraform00485",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00485",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSZnY5StnY9RSpT36B1PYb3Fz8JYKjYqYFAKjVk51z15g",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "None",
-  "water": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 8,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Machine_Shrine",
+  "water": "Toxic_Lake",
   "location": {
     "x": 94,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 94,
+      "y": 57
+    },
+    "topRight": {
+      "x": 95,
+      "y": 57
+    },
+    "right": {
+      "x": 95,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 95,
+      "y": 55
+    },
+    "bottom": {
+      "x": 94,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 93,
+      "y": 55
+    },
+    "left": {
+      "x": 93,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 93,
+      "y": 57
+    }
   }
 }

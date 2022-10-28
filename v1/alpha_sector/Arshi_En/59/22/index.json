@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01447",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01447",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPhHVqRJYWY1GtawP1kQ6u6VgvJR96WQNL1B9SNpsGiCu",
+  "token_name": "Terraform14182",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14182",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmawiEszxDnV1fo4AHwj2ydQRxkfB82mhpW5e5aggETBsD",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "Reinforced_Bunker",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
   "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "quantum_flux": 1,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "None",
   "location": {
     "x": 59,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 59,
+      "y": 23
+    },
+    "topRight": {
+      "x": 60,
+      "y": 23
+    },
+    "right": {
+      "x": 60,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 60,
+      "y": 21
+    },
+    "bottom": {
+      "x": 59,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 58,
+      "y": 21
+    },
+    "left": {
+      "x": 58,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 58,
+      "y": 23
+    }
   }
 }

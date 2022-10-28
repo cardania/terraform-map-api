@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09247",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09247",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbbTgFZvsQdEi36YDTVDcJDcfG3U9FAF5BaqrLQenRJRu",
+  "token_name": "Terraform19569",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19569",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRsU1TdytebiLwaTMkQ8VDqH3pCLbU8ndLgotvY5bERLo",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 87,
     "y": 31
+  },
+  "neighbors": {
+    "top": {
+      "x": 87,
+      "y": 32
+    },
+    "topRight": {
+      "x": 88,
+      "y": 32
+    },
+    "right": {
+      "x": 88,
+      "y": 31
+    },
+    "bottomRight": {
+      "x": 88,
+      "y": 30
+    },
+    "bottom": {
+      "x": 87,
+      "y": 30
+    },
+    "bottonLeft": {
+      "x": 86,
+      "y": 30
+    },
+    "left": {
+      "x": 86,
+      "y": 31
+    },
+    "topLeft": {
+      "x": 86,
+      "y": 32
+    }
   }
 }

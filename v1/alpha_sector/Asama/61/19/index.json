@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12630",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12630",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTsS1VLY4CMhmMyJrH2f6GjJU6h2jsDGfWxc91keCTAL2",
+  "token_name": "Terraform08387",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08387",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmV9MHWvMgi45qNiVUqEcseJJwRCiH7vo3NMxgWxXyhHBV",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 5,
-  "quantum_flux": 9,
-  "primary_minerals": "Iron",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Solar_Shrine",
-  "water": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 61,
     "y": 19
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 20
+    },
+    "topRight": {
+      "x": 62,
+      "y": 20
+    },
+    "right": {
+      "x": 62,
+      "y": 19
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 18
+    },
+    "bottom": {
+      "x": 61,
+      "y": 18
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 18
+    },
+    "left": {
+      "x": 60,
+      "y": 19
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 20
+    }
   }
 }

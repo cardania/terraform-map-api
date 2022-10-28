@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10723",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10723",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbr4gdL6mbVG9mi4zq4UsqWhu7GqC6NwbP3jPVyJ9ps3d",
+  "token_name": "Terraform11287",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11287",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRZDvuYARbLzdAnDbywxptwbrmdSkQKgrqRm9k5hb3hsi",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 5,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "Freshwater_River",
+  "ruins": "Ancient_Ruins",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 6,
     "y": 96
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 97
+    },
+    "topRight": {
+      "x": 7,
+      "y": 97
+    },
+    "right": {
+      "x": 7,
+      "y": 96
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 95
+    },
+    "bottom": {
+      "x": 6,
+      "y": 95
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 95
+    },
+    "left": {
+      "x": 5,
+      "y": 96
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 97
+    }
   }
 }

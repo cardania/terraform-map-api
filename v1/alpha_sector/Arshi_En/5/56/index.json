@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13152",
+  "token_name": "Terraform00188",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13152",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRcpmhmRPHUkCwB6iPZghB5UbngHXe18PVXRth4oXRPyk",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00188",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcJufMz8Yjp1hBvtqmy9pcEsSKDcf3SkywsEZy7ncCbFa",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 8,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 6,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Funky_River",
   "location": {
     "x": 5,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 5,
+      "y": 57
+    },
+    "topRight": {
+      "x": 6,
+      "y": 57
+    },
+    "right": {
+      "x": 6,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 6,
+      "y": 55
+    },
+    "bottom": {
+      "x": 5,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 4,
+      "y": 55
+    },
+    "left": {
+      "x": 4,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 4,
+      "y": 57
+    }
   }
 }

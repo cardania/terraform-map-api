@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07993",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07993",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTZ7mcsoiwxQWSbSzadP1btqXvtxf8sHM8sCVjGgHqTUX",
+  "token_name": "Terraform18537",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18537",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd48hfzDHBm1LLiv4mVjHoHj4bskUJEupTPfdtEKVVdjy",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "None",
   "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 6,
+  "power_level": 3,
+  "quantum_flux": 5,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "None",
-  "water": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 25,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 25,
+      "y": 31
+    },
+    "topRight": {
+      "x": 26,
+      "y": 31
+    },
+    "right": {
+      "x": 26,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 26,
+      "y": 29
+    },
+    "bottom": {
+      "x": 25,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 24,
+      "y": 29
+    },
+    "left": {
+      "x": 24,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 24,
+      "y": 31
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05762",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05762",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmY3i42SkHKAXnVyLVou1WG98yu2csvy2umGJjGQKv1evc",
+  "token_name": "Terraform15898",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15898",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYd4k2HiHEM3ZoSsWEgEeKRhUKQMJDdfuCq1M1j1UGmQH",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 9,
-  "primary_minerals": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 32,
     "y": 89
+  },
+  "neighbors": {
+    "top": {
+      "x": 32,
+      "y": 90
+    },
+    "topRight": {
+      "x": 33,
+      "y": 90
+    },
+    "right": {
+      "x": 33,
+      "y": 89
+    },
+    "bottomRight": {
+      "x": 33,
+      "y": 88
+    },
+    "bottom": {
+      "x": 32,
+      "y": 88
+    },
+    "bottonLeft": {
+      "x": 31,
+      "y": 88
+    },
+    "left": {
+      "x": 31,
+      "y": 89
+    },
+    "topLeft": {
+      "x": 31,
+      "y": 90
+    }
   }
 }

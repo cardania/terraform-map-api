@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05629",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05629",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXrTxGYSm2TdUL3tkvMXzjQo62Xy82SSH5NfWo7751F7N",
+  "token_name": "Terraform16371",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16371",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQoRYxiWdE3qN3e6TPxq2v4pUkarQSyWuQMEuZZPGhaqB",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
+  "fauna": "None",
   "forests": "Evergreen",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "lithoglyphs": "None",
   "power_level": 8,
-  "quantum_flux": 1,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 20,
     "y": 9
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 10
+    },
+    "topRight": {
+      "x": 21,
+      "y": 10
+    },
+    "right": {
+      "x": 21,
+      "y": 9
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 8
+    },
+    "bottom": {
+      "x": 20,
+      "y": 8
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 8
+    },
+    "left": {
+      "x": 19,
+      "y": 9
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 10
+    }
   }
 }

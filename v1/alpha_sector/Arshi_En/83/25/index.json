@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03108",
+  "token_name": "Terraform15158",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03108",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQZuoLYXYmTRgP5xjmZZU5ZpM4BjSq2UnuhSH7jrGnpo1",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15158",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcV9FkF8y8aJEaK6BLQRR868XXB39zromKXPcuSiA68cD",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 6,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
   "quantum_flux": 1,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 83,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 26
+    },
+    "topRight": {
+      "x": 84,
+      "y": 26
+    },
+    "right": {
+      "x": 84,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 24
+    },
+    "bottom": {
+      "x": 83,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 24
+    },
+    "left": {
+      "x": 82,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 26
+    }
   }
 }

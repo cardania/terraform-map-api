@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16542",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16542",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXCuD284qE1p8nYgczjRUfrzAW7f9ELV58mPusg7LW4gh",
+  "token_name": "Terraform17692",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17692",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbbAa63jdyJq4M4W1y1mbF6qAG6jgiSMmoxPE1kxsL8CR",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "None",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 75,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 21
+    },
+    "topRight": {
+      "x": 76,
+      "y": 21
+    },
+    "right": {
+      "x": 76,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 19
+    },
+    "bottom": {
+      "x": 75,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 19
+    },
+    "left": {
+      "x": 74,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 21
+    }
   }
 }

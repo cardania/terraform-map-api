@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12385",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12385",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSiHCm2NTNPCZWiJwFT8ovpcsTJsEaKAs1nQgJKfrJDeJ",
+  "token_name": "Terraform11163",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11163",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZkzebacV2w9LNMZxKDSqUgkfdy3PcNVs1qLXDHqfnPYb",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 5,
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 8,
+  "quantum_flux": 9,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Golden_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 94,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 94,
+      "y": 34
+    },
+    "topRight": {
+      "x": 95,
+      "y": 34
+    },
+    "right": {
+      "x": 95,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 95,
+      "y": 32
+    },
+    "bottom": {
+      "x": 94,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 93,
+      "y": 32
+    },
+    "left": {
+      "x": 93,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 93,
+      "y": 34
+    }
   }
 }

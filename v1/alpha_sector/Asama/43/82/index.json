@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02254",
+  "token_name": "Terraform02913",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02254",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNZWTWPusTdFii6hAqk8DBpeJUDdapQigARMWtMNfJY16",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02913",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfF1Qn3xk3vqRLo4154BRCSAhboyfDMv5yZDrv2STbN1v",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 8,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 43,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 43,
+      "y": 83
+    },
+    "topRight": {
+      "x": 44,
+      "y": 83
+    },
+    "right": {
+      "x": 44,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 44,
+      "y": 81
+    },
+    "bottom": {
+      "x": 43,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 42,
+      "y": 81
+    },
+    "left": {
+      "x": 42,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 42,
+      "y": 83
+    }
   }
 }

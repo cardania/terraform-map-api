@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02129",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02129",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWdDjMnKLyuAPR4sY1jeAV2RP9qkuhkRnLmup1k71RbUZ",
+  "token_name": "Terraform12278",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12278",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmahbiL2KKh9iHSmQznSwbFAvJARafDBck2TBLA9BTovwp",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Toxic_River",
   "location": {
     "x": 52,
     "y": 44
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 45
+    },
+    "topRight": {
+      "x": 53,
+      "y": 45
+    },
+    "right": {
+      "x": 53,
+      "y": 44
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 43
+    },
+    "bottom": {
+      "x": 52,
+      "y": 43
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 43
+    },
+    "left": {
+      "x": 51,
+      "y": 44
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 45
+    }
   }
 }

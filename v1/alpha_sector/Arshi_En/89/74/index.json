@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02332",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02332",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXxmGKHNBFoWc4vFuJXorySJrDxSxb3XTwjoyH3f961ac",
+  "token_name": "Terraform15952",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15952",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdjDAidi877z8MZ5LEmptVkXMy9PQE2JP9kM9JgfwkviW",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Prismaleaf",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 3,
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 5,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 89,
     "y": 74
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 75
+    },
+    "topRight": {
+      "x": 90,
+      "y": 75
+    },
+    "right": {
+      "x": 90,
+      "y": 74
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 73
+    },
+    "bottom": {
+      "x": 89,
+      "y": 73
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 73
+    },
+    "left": {
+      "x": 88,
+      "y": 74
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 75
+    }
   }
 }

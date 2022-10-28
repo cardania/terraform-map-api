@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13202",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13202",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZXtQ1eRS3zmPu6BcnuWj4xojL3iicpV5DFRCuMd8VXU1",
+  "token_name": "Terraform17633",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17633",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNq3cmjRswJHn3Cx2p5yYc2kvuVZMdzfuFUAFo37uSDwE",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 9,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
   "water": "None",
   "location": {
     "x": 62,
     "y": 91
+  },
+  "neighbors": {
+    "top": {
+      "x": 62,
+      "y": 92
+    },
+    "topRight": {
+      "x": 63,
+      "y": 92
+    },
+    "right": {
+      "x": 63,
+      "y": 91
+    },
+    "bottomRight": {
+      "x": 63,
+      "y": 90
+    },
+    "bottom": {
+      "x": 62,
+      "y": 90
+    },
+    "bottonLeft": {
+      "x": 61,
+      "y": 90
+    },
+    "left": {
+      "x": 61,
+      "y": 91
+    },
+    "topLeft": {
+      "x": 61,
+      "y": 92
+    }
   }
 }

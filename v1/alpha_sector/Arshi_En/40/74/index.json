@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19177",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19177",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW3kcN78suXvvWxPYFWTxs3Ko4G3ehYy6dKxRZQE4UFYY",
+  "token_name": "Terraform14372",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14372",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmT5iSVboL3gM9FDRWNn56yKRsVeePCfpWCwsAFkDXh8et",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 5,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
   "water": "None",
   "location": {
     "x": 40,
     "y": 74
+  },
+  "neighbors": {
+    "top": {
+      "x": 40,
+      "y": 75
+    },
+    "topRight": {
+      "x": 41,
+      "y": 75
+    },
+    "right": {
+      "x": 41,
+      "y": 74
+    },
+    "bottomRight": {
+      "x": 41,
+      "y": 73
+    },
+    "bottom": {
+      "x": 40,
+      "y": 73
+    },
+    "bottonLeft": {
+      "x": 39,
+      "y": 73
+    },
+    "left": {
+      "x": 39,
+      "y": 74
+    },
+    "topLeft": {
+      "x": 39,
+      "y": 75
+    }
   }
 }

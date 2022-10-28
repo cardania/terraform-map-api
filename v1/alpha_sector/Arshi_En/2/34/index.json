@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02957",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02957",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaBisAZ9jXk66yvHb6dUT34nmE7ND98ZKZMbbCvgFC6Kc",
+  "token_name": "Terraform11772",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11772",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXDi8xsWUWficZA9cdzdF5CJBFhGmvAM4LU5yGLW6efvL",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "Critters",
-  "forests": "Evergreen",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 7,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 2,
     "y": 34
+  },
+  "neighbors": {
+    "top": {
+      "x": 2,
+      "y": 35
+    },
+    "topRight": {
+      "x": 3,
+      "y": 35
+    },
+    "right": {
+      "x": 3,
+      "y": 34
+    },
+    "bottomRight": {
+      "x": 3,
+      "y": 33
+    },
+    "bottom": {
+      "x": 2,
+      "y": 33
+    },
+    "bottonLeft": {
+      "x": 1,
+      "y": 33
+    },
+    "left": {
+      "x": 1,
+      "y": 34
+    },
+    "topLeft": {
+      "x": 1,
+      "y": 35
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17018",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17018",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQHCsnXN4jvUJ21Td2CX1VMgcb8D3ViKCVad6hUkifBcU",
+  "token_name": "Terraform16903",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16903",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbb1KRvqCQBc5ooDa4Wv5UK4X966TqAc1HK3Bzcfzkrup",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 40,
     "y": 69
+  },
+  "neighbors": {
+    "top": {
+      "x": 40,
+      "y": 70
+    },
+    "topRight": {
+      "x": 41,
+      "y": 70
+    },
+    "right": {
+      "x": 41,
+      "y": 69
+    },
+    "bottomRight": {
+      "x": 41,
+      "y": 68
+    },
+    "bottom": {
+      "x": 40,
+      "y": 68
+    },
+    "bottonLeft": {
+      "x": 39,
+      "y": 68
+    },
+    "left": {
+      "x": 39,
+      "y": 69
+    },
+    "topLeft": {
+      "x": 39,
+      "y": 70
+    }
   }
 }

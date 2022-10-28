@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11271",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11271",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZVd437R1iHTtVim7qnbiD8SLrUdouw8w7JXSEATiPdmd",
+  "token_name": "Terraform02051",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02051",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNgafNBi9ec7wciQGtjAPmBP5nTqVquQ2K2nMeSxt5HQH",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 4,
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 3,
   "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Timelost_Shrine",
+  "water": "Cursed_Lake",
   "location": {
     "x": 56,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 7
+    },
+    "topRight": {
+      "x": 57,
+      "y": 7
+    },
+    "right": {
+      "x": 57,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 5
+    },
+    "bottom": {
+      "x": 56,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 5
+    },
+    "left": {
+      "x": 55,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 7
+    }
   }
 }

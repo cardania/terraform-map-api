@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07126",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07126",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZer9cb8Z4EVHeFfqyVCA3KG43qb7Z2nC1uyJdn8huuzL",
+  "token_name": "Terraform02748",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02748",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXkRLdeY5GcLqu12ed62MWAxHVsNEGejsPXM2m9LB6uDM",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
+  "forests": "Evergreen",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 5,
+  "quantum_flux": 8,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "None",
   "location": {
     "x": 60,
     "y": 65
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 66
+    },
+    "topRight": {
+      "x": 61,
+      "y": 66
+    },
+    "right": {
+      "x": 61,
+      "y": 65
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 64
+    },
+    "bottom": {
+      "x": 60,
+      "y": 64
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 64
+    },
+    "left": {
+      "x": 59,
+      "y": 65
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 66
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13357",
+  "token_name": "Terraform02701",
   "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13357",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSxMeRTRoubKTZu7UqowfcX8GQRgF5Gb2jHzoAvTgdtjU",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02701",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZLu5f2uinbwKdE3K3hmpTUFJBpS6gdMrPgtzHA47Bxfe",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "quantum_flux": 1,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 21,
     "y": 63
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 64
+    },
+    "topRight": {
+      "x": 22,
+      "y": 64
+    },
+    "right": {
+      "x": 22,
+      "y": 63
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 62
+    },
+    "bottom": {
+      "x": 21,
+      "y": 62
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 62
+    },
+    "left": {
+      "x": 20,
+      "y": 63
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 64
+    }
   }
 }

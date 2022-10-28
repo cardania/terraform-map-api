@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01035",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01035",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXRYPsjQ5q2Evp9pNcCGgFkpJpApAg7kutXtjEqsfTC8m",
+  "token_name": "Terraform19104",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19104",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZkhSZ3p8DZvYAFqiTHzWsFTDWdEtrRBGcKaNwEGd5Trx",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 2,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 98,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 30
+    },
+    "topRight": {
+      "x": 99,
+      "y": 30
+    },
+    "right": {
+      "x": 99,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 28
+    },
+    "bottom": {
+      "x": 98,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 28
+    },
+    "left": {
+      "x": 97,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 30
+    }
   }
 }

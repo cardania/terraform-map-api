@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16923",
+  "token_name": "Terraform10257",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16923",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPYrifDXj5E8Kj9HMUsgbjBz2sFqhEZvBoT2sT9fhE1HM",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10257",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbNyE4yrG4tk7LUEZUbnad97HBbYdBd4hEtMoDaprcXyW",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Livestock",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 99,
     "y": 73
+  },
+  "neighbors": {
+    "top": {
+      "x": 99,
+      "y": 74
+    },
+    "topRight": {
+      "x": 100,
+      "y": 74
+    },
+    "right": {
+      "x": 100,
+      "y": 73
+    },
+    "bottomRight": {
+      "x": 100,
+      "y": 72
+    },
+    "bottom": {
+      "x": 99,
+      "y": 72
+    },
+    "bottonLeft": {
+      "x": 98,
+      "y": 72
+    },
+    "left": {
+      "x": 98,
+      "y": 73
+    },
+    "topLeft": {
+      "x": 98,
+      "y": 74
+    }
   }
 }

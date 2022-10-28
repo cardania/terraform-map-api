@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13005",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13005",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmepFuedStwDT8eDrxXFCvPV6u4uXNr6BxMJUGdiKsG1jx",
+  "token_name": "Terraform02897",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02897",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaLseyyYb3C3dFYCBzPGFuWmy9QAjApoKpSkZzjhZkYKj",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 4,
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
   "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Solar_Shrine",
-  "water": "Cursed_River",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 90,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 90,
+      "y": 56
+    },
+    "topRight": {
+      "x": 91,
+      "y": 56
+    },
+    "right": {
+      "x": 91,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 91,
+      "y": 54
+    },
+    "bottom": {
+      "x": 90,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 89,
+      "y": 54
+    },
+    "left": {
+      "x": 89,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 89,
+      "y": 56
+    }
   }
 }

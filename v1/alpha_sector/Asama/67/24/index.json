@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19436",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19436",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPchnBRD9udVc9qVRgL3ypWaGvreEPC4cFzU5ZJBGzb72",
+  "token_name": "Terraform12172",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12172",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYUoqUhAMLZEsWJapYec2Eu1xLXAS6ASBPNo9gac94fns",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 8,
-  "quantum_flux": 6,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 67,
     "y": 24
+  },
+  "neighbors": {
+    "top": {
+      "x": 67,
+      "y": 25
+    },
+    "topRight": {
+      "x": 68,
+      "y": 25
+    },
+    "right": {
+      "x": 68,
+      "y": 24
+    },
+    "bottomRight": {
+      "x": 68,
+      "y": 23
+    },
+    "bottom": {
+      "x": 67,
+      "y": 23
+    },
+    "bottonLeft": {
+      "x": 66,
+      "y": 23
+    },
+    "left": {
+      "x": 66,
+      "y": 24
+    },
+    "topLeft": {
+      "x": 66,
+      "y": 25
+    }
   }
 }

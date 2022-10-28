@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12124",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12124",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXi1QQkx7WZsCXG3dGuW7ZX3cbNYSYFkGpSwGCbXLRGB5",
+  "token_name": "Terraform02201",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02201",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaZxJZJLcSUu4RfQKqoPiQcyW9EGPhuY7tf99MWttehpg",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Ultrasaurs",
+  "activity": "None",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 7,
+  "power_level": 5,
+  "quantum_flux": 1,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 51,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 87
+    },
+    "topRight": {
+      "x": 52,
+      "y": 87
+    },
+    "right": {
+      "x": 52,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 85
+    },
+    "bottom": {
+      "x": 51,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 85
+    },
+    "left": {
+      "x": 50,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 87
+    }
   }
 }

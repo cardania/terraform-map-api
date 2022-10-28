@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09404",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09404",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfXaHb6atNRAAYJ76kDBbSk9ZEsJjqFXjwQYpFb4yPgMc",
+  "token_name": "Terraform18958",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18958",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmam9FdagWbLd6oq7jDvAqU9XmjiArkkyirrSYWD6LuXq5",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 5,
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 4,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Cursed_River",
+  "shrine": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 44,
     "y": 94
+  },
+  "neighbors": {
+    "top": {
+      "x": 44,
+      "y": 95
+    },
+    "topRight": {
+      "x": 45,
+      "y": 95
+    },
+    "right": {
+      "x": 45,
+      "y": 94
+    },
+    "bottomRight": {
+      "x": 45,
+      "y": 93
+    },
+    "bottom": {
+      "x": 44,
+      "y": 93
+    },
+    "bottonLeft": {
+      "x": 43,
+      "y": 93
+    },
+    "left": {
+      "x": 43,
+      "y": 94
+    },
+    "topLeft": {
+      "x": 43,
+      "y": 95
+    }
   }
 }

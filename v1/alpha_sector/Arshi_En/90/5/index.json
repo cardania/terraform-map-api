@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17316",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17316",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaR7D1K2h7e2xd7ovjgrcLENw5gWPRwm6wmghZw27aHVS",
+  "token_name": "Terraform04212",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04212",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmckuR3wuAABcBoPr3Ngk3NmdwKKaf6YaSh3exS2i3agLz",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 1,
-  "quantum_flux": 1,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Red",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 90,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 90,
+      "y": 6
+    },
+    "topRight": {
+      "x": 91,
+      "y": 6
+    },
+    "right": {
+      "x": 91,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 91,
+      "y": 4
+    },
+    "bottom": {
+      "x": 90,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 89,
+      "y": 4
+    },
+    "left": {
+      "x": 89,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 89,
+      "y": 6
+    }
   }
 }

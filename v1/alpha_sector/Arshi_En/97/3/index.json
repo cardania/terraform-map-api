@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform18625",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18625",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdCZV51qbTwK7MACApYEFfwVBQA1nrwZdQdbAKJDnRWMw",
+  "token_name": "Terraform00130",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00130",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYPjaokTu2Z84kFHYq3o4DemjeWhoQFGwiEBWpjKP5dhM",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 8,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 97,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 4
+    },
+    "topRight": {
+      "x": 98,
+      "y": 4
+    },
+    "right": {
+      "x": 98,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 2
+    },
+    "bottom": {
+      "x": 97,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 2
+    },
+    "left": {
+      "x": 96,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 4
+    }
   }
 }

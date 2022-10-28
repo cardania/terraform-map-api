@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14698",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14698",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeK3xohuE5FfHDX4tcFq2vdYryetzDFDgcXh8hjF48n6P",
+  "token_name": "Terraform19249",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19249",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQHivg5cxy8VpRWCZrBbCxi5gdbDGwFdfnKivEfgDLaoM",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 1,
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 4,
   "quantum_flux": 5,
-  "primary_minerals": "Radium",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 97,
     "y": 11
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 12
+    },
+    "topRight": {
+      "x": 98,
+      "y": 12
+    },
+    "right": {
+      "x": 98,
+      "y": 11
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 10
+    },
+    "bottom": {
+      "x": 97,
+      "y": 10
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 10
+    },
+    "left": {
+      "x": 96,
+      "y": 11
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 12
+    }
   }
 }

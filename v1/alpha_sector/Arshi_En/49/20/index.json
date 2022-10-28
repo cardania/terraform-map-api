@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10452",
+  "token_name": "Terraform15282",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10452",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNNSFXKWJ63cUjBja1eX77L2JvYaZECvaZgqkDcGyUnMc",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15282",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfZuLXne34d9xJ7xnQZRordCPhqR24QvjE2PtmJKCRjCn",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 6,
   "quantum_flux": 2,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Timelost",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "None",
   "location": {
     "x": 49,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 49,
+      "y": 21
+    },
+    "topRight": {
+      "x": 50,
+      "y": 21
+    },
+    "right": {
+      "x": 50,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 50,
+      "y": 19
+    },
+    "bottom": {
+      "x": 49,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 48,
+      "y": 19
+    },
+    "left": {
+      "x": 48,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 48,
+      "y": 21
+    }
   }
 }

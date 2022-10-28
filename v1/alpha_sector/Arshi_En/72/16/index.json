@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03280",
+  "token_name": "Terraform07691",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03280",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSDx2b2rn8JjP96iwuRFcKX1h9L3TWfmcoLNiPj3Hfzc1",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07691",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeFwA61K89SC8kPkrSbzBKBDPc5hMkxC9cUVtTaaeH4BQ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 3,
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 6,
+  "quantum_flux": 9,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 72,
     "y": 16
+  },
+  "neighbors": {
+    "top": {
+      "x": 72,
+      "y": 17
+    },
+    "topRight": {
+      "x": 73,
+      "y": 17
+    },
+    "right": {
+      "x": 73,
+      "y": 16
+    },
+    "bottomRight": {
+      "x": 73,
+      "y": 15
+    },
+    "bottom": {
+      "x": 72,
+      "y": 15
+    },
+    "bottonLeft": {
+      "x": 71,
+      "y": 15
+    },
+    "left": {
+      "x": 71,
+      "y": 16
+    },
+    "topLeft": {
+      "x": 71,
+      "y": 17
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18914",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18914",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQy4TQa4AG1j6bXwBGScAqPQSLqbPZhUqDMsyzp4o9fRG",
+  "token_name": "Terraform11110",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11110",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQwFDvr3eky7GMA46KQfTnT4UzGV6KK12XqMD2xTHJyA9",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 50,
     "y": 59
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 60
+    },
+    "topRight": {
+      "x": 51,
+      "y": 60
+    },
+    "right": {
+      "x": 51,
+      "y": 59
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 58
+    },
+    "bottom": {
+      "x": 50,
+      "y": 58
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 58
+    },
+    "left": {
+      "x": 49,
+      "y": 59
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 60
+    }
   }
 }

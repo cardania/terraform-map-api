@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01433",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01433",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmemTYFdwkAmmnbkDQkm297FkPU2yAFBxNAVTabYcwCGM9",
+  "token_name": "Terraform11105",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11105",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPpgzHsiusU6KVUWLsysCFxnnNdKg2AmsHt59tn7k6gt8",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 7,
+  "quantum_flux": 1,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 39,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 31
+    },
+    "topRight": {
+      "x": 40,
+      "y": 31
+    },
+    "right": {
+      "x": 40,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 29
+    },
+    "bottom": {
+      "x": 39,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 29
+    },
+    "left": {
+      "x": 38,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 31
+    }
   }
 }

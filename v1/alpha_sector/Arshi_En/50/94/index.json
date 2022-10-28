@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15244",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15244",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYy716EBHP2ru9BJsAL1vtx71AFa7mzMQC32fqCSeTonw",
+  "token_name": "Terraform17752",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17752",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRSRHZbJteEG9vaywpQfC5RY11SRkZxe45yFgchBw6WK3",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 7,
-  "quantum_flux": 1,
-  "primary_minerals": "Radium",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Funky_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 50,
     "y": 94
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 95
+    },
+    "topRight": {
+      "x": 51,
+      "y": 95
+    },
+    "right": {
+      "x": 51,
+      "y": 94
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 93
+    },
+    "bottom": {
+      "x": 50,
+      "y": 93
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 93
+    },
+    "left": {
+      "x": 49,
+      "y": 94
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 95
+    }
   }
 }

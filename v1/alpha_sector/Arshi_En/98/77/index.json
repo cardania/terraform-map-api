@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15040",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15040",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNjGSP3uPHsmNbAeAjyYhF3p4PHf9pJpSJHwRxSeA8oLz",
+  "token_name": "Terraform10091",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10091",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXwoaj2zbBoq4swHivmL4Ueqp54yuMfCoiCSSk788tfpw",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "power_level": 7,
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 98,
     "y": 77
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 78
+    },
+    "topRight": {
+      "x": 99,
+      "y": 78
+    },
+    "right": {
+      "x": 99,
+      "y": 77
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 76
+    },
+    "bottom": {
+      "x": 98,
+      "y": 76
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 76
+    },
+    "left": {
+      "x": 97,
+      "y": 77
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 78
+    }
   }
 }

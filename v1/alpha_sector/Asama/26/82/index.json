@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11231",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11231",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXMNjxdauhDUrp2VQmjba7V4R5GvQ8sJfDaD9opjYAkvq",
+  "token_name": "Terraform13283",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13283",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNnFTLpV2bT2Z6AiuEH4VeJyH8Zr7fxYD9x3iHD5h2Ey2",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 6,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 6,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 26,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 26,
+      "y": 83
+    },
+    "topRight": {
+      "x": 27,
+      "y": 83
+    },
+    "right": {
+      "x": 27,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 27,
+      "y": 81
+    },
+    "bottom": {
+      "x": 26,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 25,
+      "y": 81
+    },
+    "left": {
+      "x": 25,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 25,
+      "y": 83
+    }
   }
 }

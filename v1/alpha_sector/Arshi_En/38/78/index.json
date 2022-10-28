@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00537",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00537",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYAD8Sz5rLpn2djt9HUDy8CokvkPs2c31brGQafZEZpjE",
+  "token_name": "Terraform03181",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03181",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaqNP2G8GYCxMHu9jq8jpGt6oBY7vYy3wmpBPUMzjFRXL",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 7,
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 3,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Toxic_River",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 38,
     "y": 78
+  },
+  "neighbors": {
+    "top": {
+      "x": 38,
+      "y": 79
+    },
+    "topRight": {
+      "x": 39,
+      "y": 79
+    },
+    "right": {
+      "x": 39,
+      "y": 78
+    },
+    "bottomRight": {
+      "x": 39,
+      "y": 77
+    },
+    "bottom": {
+      "x": 38,
+      "y": 77
+    },
+    "bottonLeft": {
+      "x": 37,
+      "y": 77
+    },
+    "left": {
+      "x": 37,
+      "y": 78
+    },
+    "topLeft": {
+      "x": 37,
+      "y": 79
+    }
   }
 }

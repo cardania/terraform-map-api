@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform00299",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00299",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ637Zqh3Nth6giLYDEUuk9eUojMW68JoqdWRuWKFhK3M",
+  "token_name": "Terraform04700",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04700",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQzxCr3UVED37V6fnhgV3ojX3HcdK89QvaUBVn5UEYm6F",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 8,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "Alien_Technology_Orange",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 83,
     "y": 23
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 24
+    },
+    "topRight": {
+      "x": 84,
+      "y": 24
+    },
+    "right": {
+      "x": 84,
+      "y": 23
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 22
+    },
+    "bottom": {
+      "x": 83,
+      "y": 22
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 22
+    },
+    "left": {
+      "x": 82,
+      "y": 23
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 24
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06198",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06198",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXgyQKVhbW2z2hr6tcDRxhiDV6y34hLg2wxYAUgQEvVEC",
+  "token_name": "Terraform00972",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00972",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaJgugEk2K2int5nFFsZv3R4Nim2uEpKU9mQErQE1Pt75",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 5,
-  "quantum_flux": 1,
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 5,
   "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "None",
   "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Quantum_Shrine",
+  "water": "None",
   "location": {
     "x": 75,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 14
+    },
+    "topRight": {
+      "x": 76,
+      "y": 14
+    },
+    "right": {
+      "x": 76,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 12
+    },
+    "bottom": {
+      "x": 75,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 12
+    },
+    "left": {
+      "x": 74,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 14
+    }
   }
 }

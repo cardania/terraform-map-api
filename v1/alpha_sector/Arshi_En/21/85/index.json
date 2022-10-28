@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12510",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12510",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPPGx5UpB4Boe9hZmEmkeZknVNyj8aq4o1N3fbR4i61sj",
+  "token_name": "Terraform02071",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02071",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdnEqu3nQCood4bKZjHEGKwjczKMkdfiVHaEPrbK9fgkd",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Cursed_Nanites",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 6,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
+  "quantum_flux": 4,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "ruins": "None",
   "shrine": "Void_Shrine",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 21,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 86
+    },
+    "topRight": {
+      "x": 22,
+      "y": 86
+    },
+    "right": {
+      "x": 22,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 84
+    },
+    "bottom": {
+      "x": 21,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 84
+    },
+    "left": {
+      "x": 20,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 86
+    }
   }
 }

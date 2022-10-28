@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14208",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14208",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTmPgaVFqHrGRzHaV4RvghWKgxBs56VNz59r81o5kAqoy",
+  "token_name": "Terraform01089",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01089",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYU2Wu9HFCfB5o8aBd9q86UNj7y7c8oyw44KEXYwYUG3h",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 6,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 1,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 34,
     "y": 37
+  },
+  "neighbors": {
+    "top": {
+      "x": 34,
+      "y": 38
+    },
+    "topRight": {
+      "x": 35,
+      "y": 38
+    },
+    "right": {
+      "x": 35,
+      "y": 37
+    },
+    "bottomRight": {
+      "x": 35,
+      "y": 36
+    },
+    "bottom": {
+      "x": 34,
+      "y": 36
+    },
+    "bottonLeft": {
+      "x": 33,
+      "y": 36
+    },
+    "left": {
+      "x": 33,
+      "y": 37
+    },
+    "topLeft": {
+      "x": 33,
+      "y": 38
+    }
   }
 }

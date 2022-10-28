@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17938",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17938",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd5fxgM5PX6UEGZUXPnCauk9udhMJJhcsXMwzJRNX8QK8",
+  "token_name": "Terraform15961",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15961",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRTbP1kJwEVGkshpbWkT1xjmzkpEV1Nfyde8y8Ai2Ks3p",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Toxic_Lake",
+  "shrine": "Fungal_Shrine",
+  "water": "Toxic_River",
   "location": {
     "x": 54,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 54,
+      "y": 4
+    },
+    "topRight": {
+      "x": 55,
+      "y": 4
+    },
+    "right": {
+      "x": 55,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 55,
+      "y": 2
+    },
+    "bottom": {
+      "x": 54,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 53,
+      "y": 2
+    },
+    "left": {
+      "x": 53,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 53,
+      "y": 4
+    }
   }
 }

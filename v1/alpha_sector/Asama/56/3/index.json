@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04208",
+  "token_name": "Terraform09601",
   "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04208",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdnbZQbh5dtAw5APB6kBGJUxLukP87HgKsrjpL6CgiGJH",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09601",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd7EigTE5Q7kYvEFJCfSis6VoX4eMicWeCBTGn9bQacdC",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 1,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
+  "quantum_flux": 6,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 56,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 4
+    },
+    "topRight": {
+      "x": 57,
+      "y": 4
+    },
+    "right": {
+      "x": 57,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 2
+    },
+    "bottom": {
+      "x": 56,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 2
+    },
+    "left": {
+      "x": 55,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 4
+    }
   }
 }

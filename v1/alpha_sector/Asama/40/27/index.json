@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform03381",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03381",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmR89wXwwKFtXwaZJnXaC4bsufGVfhtHe2EPTEXnGMtAii",
+  "token_name": "Terraform10334",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10334",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYhnFu2y53avfHw3nTBbvR8K46miYcz1XUea8c2kuJ7NV",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 9,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "Alien_Technology_Purple",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 40,
     "y": 27
+  },
+  "neighbors": {
+    "top": {
+      "x": 40,
+      "y": 28
+    },
+    "topRight": {
+      "x": 41,
+      "y": 28
+    },
+    "right": {
+      "x": 41,
+      "y": 27
+    },
+    "bottomRight": {
+      "x": 41,
+      "y": 26
+    },
+    "bottom": {
+      "x": 40,
+      "y": 26
+    },
+    "bottonLeft": {
+      "x": 39,
+      "y": 26
+    },
+    "left": {
+      "x": 39,
+      "y": 27
+    },
+    "topLeft": {
+      "x": 39,
+      "y": 28
+    }
   }
 }

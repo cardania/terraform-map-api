@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02817",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02817",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRCLbz4shTxxn9JxtJjV4uC14qgUivFMdJ1a3AMoLGhkz",
+  "token_name": "Terraform14033",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14033",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYBySS8fg2s2Ccx7zbWqCTgKpo6G3Y7aAbueQig9XULtN",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 9,
-  "primary_minerals": "Cardanium",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 8,
+  "primary_minerals": "Copper",
   "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 46,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 46,
+      "y": 37
+    },
+    "topRight": {
+      "x": 47,
+      "y": 37
+    },
+    "right": {
+      "x": 47,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 47,
+      "y": 35
+    },
+    "bottom": {
+      "x": 46,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 45,
+      "y": 35
+    },
+    "left": {
+      "x": 45,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 45,
+      "y": 37
+    }
   }
 }

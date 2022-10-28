@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06141",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06141",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdJcGX41u6aZcuBK8u2tSxUq2NjvjhWYYrC8sTyBsr1mu",
+  "token_name": "Terraform08787",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08787",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSmbP5hPhSSL57q17spcnTP7gLeVT2Nt4RTpzsp5PWn5B",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 8,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
-  "shrine": "None",
-  "water": "Cursed_Lake",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 57,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 57,
+      "y": 51
+    },
+    "topRight": {
+      "x": 58,
+      "y": 51
+    },
+    "right": {
+      "x": 58,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 58,
+      "y": 49
+    },
+    "bottom": {
+      "x": 57,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 56,
+      "y": 49
+    },
+    "left": {
+      "x": 56,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 56,
+      "y": 51
+    }
   }
 }

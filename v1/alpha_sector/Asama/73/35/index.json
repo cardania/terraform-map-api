@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16538",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16538",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmR46Mn9vv8TPfpPeQ565CbymTp97jpx3ZDRSDurJTFmFq",
+  "token_name": "Terraform07874",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07874",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTpGeLrdiAP2re8xZEv5XE64vfHWx7KExSEpc9s37mK2q",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 5,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Saltwater_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 73,
     "y": 35
+  },
+  "neighbors": {
+    "top": {
+      "x": 73,
+      "y": 36
+    },
+    "topRight": {
+      "x": 74,
+      "y": 36
+    },
+    "right": {
+      "x": 74,
+      "y": 35
+    },
+    "bottomRight": {
+      "x": 74,
+      "y": 34
+    },
+    "bottom": {
+      "x": 73,
+      "y": 34
+    },
+    "bottonLeft": {
+      "x": 72,
+      "y": 34
+    },
+    "left": {
+      "x": 72,
+      "y": 35
+    },
+    "topLeft": {
+      "x": 72,
+      "y": 36
+    }
   }
 }

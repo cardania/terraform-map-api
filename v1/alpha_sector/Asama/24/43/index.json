@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07406",
+  "token_name": "Terraform05044",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07406",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbAXVagLwQRqfzL2oWunyJy67Cr4rQKurJtqV165fLmaB",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05044",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWLmF1USeYbcSMCaH1zBMRHozwK7gj2MGozy8PVPVa2UR",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 6,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
+  "power_level": 5,
+  "quantum_flux": 1,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
+  "shrine": "Quantum_Shrine",
   "water": "None",
   "location": {
     "x": 24,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 44
+    },
+    "topRight": {
+      "x": 25,
+      "y": 44
+    },
+    "right": {
+      "x": 25,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 42
+    },
+    "bottom": {
+      "x": 24,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 42
+    },
+    "left": {
+      "x": 23,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 44
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07380",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07380",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaC58sx21y3CCMBMWyXnPqEGx2VysQyPZ3YZCuCCMjioJ",
+  "token_name": "Terraform04812",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04812",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUZG5jLWQjKE3kaacQzV8hg4nk2pQpWD7G7XDGctzUzs4",
   "alpha_sector": "Asama",
   "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 7,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 5,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 5,
+      "y": 6
+    },
+    "topRight": {
+      "x": 6,
+      "y": 6
+    },
+    "right": {
+      "x": 6,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 6,
+      "y": 4
+    },
+    "bottom": {
+      "x": 5,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 4,
+      "y": 4
+    },
+    "left": {
+      "x": 4,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 4,
+      "y": 6
+    }
   }
 }

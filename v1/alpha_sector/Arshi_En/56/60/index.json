@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18609",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18609",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPbmFgNJSs6VBnHz26uGFx8Kuqe1VzB7f1LuhQsLHA2N7",
+  "token_name": "Terraform16674",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16674",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVR2H1M8v6fEEzu3H1YwonpNu6fxP2uzqRynp1g1KpHBe",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Timelost",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "power_level": 9,
+  "quantum_flux": 2,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 56,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 61
+    },
+    "topRight": {
+      "x": 57,
+      "y": 61
+    },
+    "right": {
+      "x": 57,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 59
+    },
+    "bottom": {
+      "x": 56,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 59
+    },
+    "left": {
+      "x": 55,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 61
+    }
   }
 }

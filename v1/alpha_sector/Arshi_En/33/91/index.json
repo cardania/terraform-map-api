@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10963",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10963",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdeLwW2XrxoJhMv2xbs598BYa26JxQLhFrRnDMW4WQbLj",
+  "token_name": "Terraform03077",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03077",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfWaa3DgxJNWe9rCNpHTmhAyaYbfVs2nchXTTMziCq7Le",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
   "power_level": 6,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 33,
     "y": 91
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 92
+    },
+    "topRight": {
+      "x": 34,
+      "y": 92
+    },
+    "right": {
+      "x": 34,
+      "y": 91
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 90
+    },
+    "bottom": {
+      "x": 33,
+      "y": 90
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 90
+    },
+    "left": {
+      "x": 32,
+      "y": 91
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 92
+    }
   }
 }

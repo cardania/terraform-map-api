@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01885",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01885",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVPkKCMPiEWHu1cEQkZNd5mzbZG3bQ9bvT88V8DPd4Z7g",
+  "token_name": "Terraform07253",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07253",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVN6zWeu2qaacjci5N5ZSYX8gMhvz3YgXRZBMfHz4rTnL",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 8,
     "y": 35
+  },
+  "neighbors": {
+    "top": {
+      "x": 8,
+      "y": 36
+    },
+    "topRight": {
+      "x": 9,
+      "y": 36
+    },
+    "right": {
+      "x": 9,
+      "y": 35
+    },
+    "bottomRight": {
+      "x": 9,
+      "y": 34
+    },
+    "bottom": {
+      "x": 8,
+      "y": 34
+    },
+    "bottonLeft": {
+      "x": 7,
+      "y": 34
+    },
+    "left": {
+      "x": 7,
+      "y": 35
+    },
+    "topLeft": {
+      "x": 7,
+      "y": 36
+    }
   }
 }

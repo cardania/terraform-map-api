@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12644",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12644",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPXwYDyM2pmbGTNRaD2KdkHeqwbh16cgHseNeGGgLWrUm",
+  "token_name": "Terraform07092",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07092",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZDW2LYSdLmioby9FnZZRxwNsDLHcsADtdyzZZCpnFyPe",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Red",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 9,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 42,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 42,
+      "y": 76
+    },
+    "topRight": {
+      "x": 43,
+      "y": 76
+    },
+    "right": {
+      "x": 43,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 43,
+      "y": 74
+    },
+    "bottom": {
+      "x": 42,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 41,
+      "y": 74
+    },
+    "left": {
+      "x": 41,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 41,
+      "y": 76
+    }
   }
 }

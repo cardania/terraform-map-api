@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09010",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09010",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPTkTz6L5PgWmZiCqWHx1aRP2WTc7tLxa36r8xQkd5fuC",
+  "token_name": "Terraform05819",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05819",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTQr4YZGRvH8V6AVx8SMvmCGt6rkYixTzuNunpSKqVh1J",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 2,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 83,
     "y": 83
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 84
+    },
+    "topRight": {
+      "x": 84,
+      "y": 84
+    },
+    "right": {
+      "x": 84,
+      "y": 83
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 82
+    },
+    "bottom": {
+      "x": 83,
+      "y": 82
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 82
+    },
+    "left": {
+      "x": 82,
+      "y": 83
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 84
+    }
   }
 }

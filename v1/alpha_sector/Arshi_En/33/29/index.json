@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05115",
+  "token_name": "Terraform03288",
   "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05115",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmY2L69GFfC77LZ6s7mAAxNQoffrhiGL87tHEBmSVGnKf8",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03288",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcL17MQAQ1BYc5uce1X2FUgkSgaLg3pu575etb6TfLKj2",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 7,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 33,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 30
+    },
+    "topRight": {
+      "x": 34,
+      "y": 30
+    },
+    "right": {
+      "x": 34,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 28
+    },
+    "bottom": {
+      "x": 33,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 28
+    },
+    "left": {
+      "x": 32,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 30
+    }
   }
 }

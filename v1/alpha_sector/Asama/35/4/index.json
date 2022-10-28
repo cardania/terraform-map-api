@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15392",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15392",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUTi3DNJToqHquy4AHPXbvBZbVnqKEWebPqQrrXQ8VUvW",
+  "token_name": "Terraform18640",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18640",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWPtADSA4QLts1bmpswgRD3jFAmPuMt3mnJU2jLu6Rp1V",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Prismaleaf",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "power_level": 2,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_River",
   "location": {
     "x": 35,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 35,
+      "y": 5
+    },
+    "topRight": {
+      "x": 36,
+      "y": 5
+    },
+    "right": {
+      "x": 36,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 36,
+      "y": 3
+    },
+    "bottom": {
+      "x": 35,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 34,
+      "y": 3
+    },
+    "left": {
+      "x": 34,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 34,
+      "y": 5
+    }
   }
 }

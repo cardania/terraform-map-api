@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09548",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09548",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaLHMrj3k2JiyX5wJRJ1bTsF9E2kCGHTVdCm3GZvB5qTU",
+  "token_name": "Terraform17394",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17394",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZw2k77sfFXMHcYd7g1jGkQUYrDyBchQifDvRubFNGYwa",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "Iron",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 5,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "Saltwater_River",
   "location": {
     "x": 65,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 65,
+      "y": 9
+    },
+    "topRight": {
+      "x": 66,
+      "y": 9
+    },
+    "right": {
+      "x": 66,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 66,
+      "y": 7
+    },
+    "bottom": {
+      "x": 65,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 64,
+      "y": 7
+    },
+    "left": {
+      "x": 64,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 64,
+      "y": 9
+    }
   }
 }

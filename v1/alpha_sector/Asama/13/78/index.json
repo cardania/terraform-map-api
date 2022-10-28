@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00780",
+  "token_name": "Terraform03405",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00780",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXvg3DDKt7wP6KjkNTywguHFY57idtLhUciRYBh76XybB",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03405",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf8tMDMdytGJqxc7dJRKexmBzukxpvpYRh9317o5YkA7C",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 6,
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 4,
   "primary_minerals": "Iron",
   "secondary_minerals": "Gemstones",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Funky_River",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 13,
     "y": 78
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 79
+    },
+    "topRight": {
+      "x": 14,
+      "y": 79
+    },
+    "right": {
+      "x": 14,
+      "y": 78
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 77
+    },
+    "bottom": {
+      "x": 13,
+      "y": 77
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 77
+    },
+    "left": {
+      "x": 12,
+      "y": 78
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 79
+    }
   }
 }

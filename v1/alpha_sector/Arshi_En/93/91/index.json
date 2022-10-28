@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16643",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16643",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRNVfrJ2beKrB9M1dpu2xNiGhiw8jhjYyYPRntS3br2c5",
+  "token_name": "Terraform16279",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16279",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmY63LxA7tvmfkkLq1PK11f8GBTur4oDQKP9bxmKFS6fbV",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 4,
-  "quantum_flux": 6,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Toxic_Lake",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 93,
     "y": 91
+  },
+  "neighbors": {
+    "top": {
+      "x": 93,
+      "y": 92
+    },
+    "topRight": {
+      "x": 94,
+      "y": 92
+    },
+    "right": {
+      "x": 94,
+      "y": 91
+    },
+    "bottomRight": {
+      "x": 94,
+      "y": 90
+    },
+    "bottom": {
+      "x": 93,
+      "y": 90
+    },
+    "bottonLeft": {
+      "x": 92,
+      "y": 90
+    },
+    "left": {
+      "x": 92,
+      "y": 91
+    },
+    "topLeft": {
+      "x": 92,
+      "y": 92
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00531",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00531",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcR91xavD9Q7sU2625nePnhYUQoCjwYQT2J7y2ZEZeS2c",
+  "token_name": "Terraform13450",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13450",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdj5uYZ9oQPpojG9vmmDGUiAD2bUYHjbpzwD7t5yUiAdD",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "forests": "None",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 45,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 5
+    },
+    "topRight": {
+      "x": 46,
+      "y": 5
+    },
+    "right": {
+      "x": 46,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 3
+    },
+    "bottom": {
+      "x": 45,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 3
+    },
+    "left": {
+      "x": 44,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 5
+    }
   }
 }

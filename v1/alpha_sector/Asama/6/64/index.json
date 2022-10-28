@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03378",
+  "token_name": "Terraform02612",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03378",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbSQ689aaoeCVCMDoYqeMctARuWbM7mSpxsai8EfWB6T8",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02612",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYkVVbHgCnenCWwGVrfhSFYoxrGKc9eKwPdASeHzmavYC",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 1,
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 6,
+  "quantum_flux": 2,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 6,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 65
+    },
+    "topRight": {
+      "x": 7,
+      "y": 65
+    },
+    "right": {
+      "x": 7,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 63
+    },
+    "bottom": {
+      "x": 6,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 63
+    },
+    "left": {
+      "x": 5,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 65
+    }
   }
 }

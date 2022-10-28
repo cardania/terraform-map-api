@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05784",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05784",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWWEnYwoJvvAP2ojD8D9Rjrq5dX4vQpQ34dh3aguV7H6h",
+  "token_name": "Terraform18005",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18005",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWv3giuojhV96BXTNY4szSqGGcqnxkNVBAig59mz3E7YV",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 5,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_Lake",
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Funky_River",
   "location": {
     "x": 81,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 26
+    },
+    "topRight": {
+      "x": 82,
+      "y": 26
+    },
+    "right": {
+      "x": 82,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 24
+    },
+    "bottom": {
+      "x": 81,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 24
+    },
+    "left": {
+      "x": 80,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 26
+    }
   }
 }

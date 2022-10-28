@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02551",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02551",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXtXsa43vEB5wRWiAuCXPiDmNoACi55VYxHrc54KXQH8x",
+  "token_name": "Terraform07132",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07132",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ9dxPjGqhrPdR9RiABCyYt2PNLdJ2m9knYXVZMrhwoXZ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 4,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 6,
+  "quantum_flux": 5,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 73,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 73,
+      "y": 51
+    },
+    "topRight": {
+      "x": 74,
+      "y": 51
+    },
+    "right": {
+      "x": 74,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 74,
+      "y": 49
+    },
+    "bottom": {
+      "x": 73,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 72,
+      "y": 49
+    },
+    "left": {
+      "x": 72,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 72,
+      "y": 51
+    }
   }
 }

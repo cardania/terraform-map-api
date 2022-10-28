@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14539",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14539",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQPnTWst5b91iVNzUDswvyLPoZHnH2FTR4Y1uqVrMe1dK",
+  "token_name": "Terraform14773",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14773",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeNxwQRYe5TkWUp6rTSNJ1u6cjX5WCD2V4QrJtiCw4H1f",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 5,
-  "quantum_flux": 1,
+  "quantum_flux": 5,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 6,
     "y": 73
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 74
+    },
+    "topRight": {
+      "x": 7,
+      "y": 74
+    },
+    "right": {
+      "x": 7,
+      "y": 73
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 72
+    },
+    "bottom": {
+      "x": 6,
+      "y": 72
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 72
+    },
+    "left": {
+      "x": 5,
+      "y": 73
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 74
+    }
   }
 }

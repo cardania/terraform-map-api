@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18493",
+  "token_name": "Terraform10195",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18493",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYXQmVNCX1ftPbDkA8mreiDd8mVcjky6gTZ8aTE4C4o1U",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10195",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVswmFCYdw1Cpr1NtS7SzAeA5EfAcFExkHX7yzEvnzLHx",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 8,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "lithoglyphs": "None",
+  "power_level": 9,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Machine_Shrine",
   "water": "None",
   "location": {
     "x": 63,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 63,
+      "y": 89
+    },
+    "topRight": {
+      "x": 64,
+      "y": 89
+    },
+    "right": {
+      "x": 64,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 64,
+      "y": 87
+    },
+    "bottom": {
+      "x": 63,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 62,
+      "y": 87
+    },
+    "left": {
+      "x": 62,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 62,
+      "y": 89
+    }
   }
 }

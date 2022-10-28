@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06654",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06654",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVthfNrBy3yt9HhnpAYpLogaztsmeRzgwhw68RChYeu7c",
+  "token_name": "Terraform13234",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13234",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSfTofWmqKW7qAdg6LwXNt3K4UvJsfcxBJTq8nSLFAZ7i",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "None",
   "fauna": "Critters",
-  "forests": "Evergreen",
+  "forests": "Prismaleaf",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_River",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 9,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 12,
     "y": 11
+  },
+  "neighbors": {
+    "top": {
+      "x": 12,
+      "y": 12
+    },
+    "topRight": {
+      "x": 13,
+      "y": 12
+    },
+    "right": {
+      "x": 13,
+      "y": 11
+    },
+    "bottomRight": {
+      "x": 13,
+      "y": 10
+    },
+    "bottom": {
+      "x": 12,
+      "y": 10
+    },
+    "bottonLeft": {
+      "x": 11,
+      "y": 10
+    },
+    "left": {
+      "x": 11,
+      "y": 11
+    },
+    "topLeft": {
+      "x": 11,
+      "y": 12
+    }
   }
 }

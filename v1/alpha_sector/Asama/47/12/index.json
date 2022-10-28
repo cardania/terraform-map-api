@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15222",
+  "token_name": "Terraform12228",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15222",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcbmXqFRzfTtPYMKYdZmuWL88bNqGcet5QkAAfHGWk1mA",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12228",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPrBQznLLZK7ttCuaru9qQDa54aNCq4Dp3mpRThvm8GxK",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Palms",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 5,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Saltwater_River",
   "location": {
     "x": 47,
     "y": 12
+  },
+  "neighbors": {
+    "top": {
+      "x": 47,
+      "y": 13
+    },
+    "topRight": {
+      "x": 48,
+      "y": 13
+    },
+    "right": {
+      "x": 48,
+      "y": 12
+    },
+    "bottomRight": {
+      "x": 48,
+      "y": 11
+    },
+    "bottom": {
+      "x": 47,
+      "y": 11
+    },
+    "bottonLeft": {
+      "x": 46,
+      "y": 11
+    },
+    "left": {
+      "x": 46,
+      "y": 12
+    },
+    "topLeft": {
+      "x": 46,
+      "y": 13
+    }
   }
 }

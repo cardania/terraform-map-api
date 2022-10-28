@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18944",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18944",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXZYDhGpr24B1Y2PXNqoXZkFUNqqTu5gGb6zvRbCdP31K",
+  "token_name": "Terraform01666",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01666",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb4xc6pq9ATsiTBdEwJ674Zwg2LdEGkdNNvnDgjJBPTFq",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "Evergreen",
   "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 8,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "power_level": 5,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 4,
     "y": 73
+  },
+  "neighbors": {
+    "top": {
+      "x": 4,
+      "y": 74
+    },
+    "topRight": {
+      "x": 5,
+      "y": 74
+    },
+    "right": {
+      "x": 5,
+      "y": 73
+    },
+    "bottomRight": {
+      "x": 5,
+      "y": 72
+    },
+    "bottom": {
+      "x": 4,
+      "y": 72
+    },
+    "bottonLeft": {
+      "x": 3,
+      "y": 72
+    },
+    "left": {
+      "x": 3,
+      "y": 73
+    },
+    "topLeft": {
+      "x": 3,
+      "y": 74
+    }
   }
 }

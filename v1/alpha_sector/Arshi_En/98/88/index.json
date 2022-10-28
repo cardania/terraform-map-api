@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06466",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06466",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmShUYJyurxNrHfXov2oaJBqKABJcu154traAaPiA8WMa4",
+  "token_name": "Terraform16112",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16112",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbegxw8MP8KiriBoUerPLM8fTyFok1xfy6tApcfhneA1i",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "None",
   "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 4,
+  "power_level": 3,
   "quantum_flux": 5,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "Saltwater_River",
   "location": {
     "x": 98,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 89
+    },
+    "topRight": {
+      "x": 99,
+      "y": 89
+    },
+    "right": {
+      "x": 99,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 87
+    },
+    "bottom": {
+      "x": 98,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 87
+    },
+    "left": {
+      "x": 97,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 89
+    }
   }
 }

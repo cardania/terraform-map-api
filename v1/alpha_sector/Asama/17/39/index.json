@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16703",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16703",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV1NWgFECtZzYmVf5NXHzHypCJu1cMqtwxmMoLSc3MME7",
+  "token_name": "Terraform00190",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00190",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXFpbekfEqDemwcrsvw9BPaq9L9ujBvQreYo1cXuDXDqG",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 4,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Fungal_Shrine",
+  "water": "Toxic_River",
   "location": {
     "x": 17,
     "y": 39
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 40
+    },
+    "topRight": {
+      "x": 18,
+      "y": 40
+    },
+    "right": {
+      "x": 18,
+      "y": 39
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 38
+    },
+    "bottom": {
+      "x": 17,
+      "y": 38
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 38
+    },
+    "left": {
+      "x": 16,
+      "y": 39
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 40
+    }
   }
 }

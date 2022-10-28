@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18377",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18377",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWdvccSwfqekQ6jVCHrAhXaTGVDUNC8Lcgm6ohvu62oaR",
+  "token_name": "Terraform02182",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02182",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRxykuownRJmpc5hKkv8ikRAh21AdFwpphrvtKF25xuKj",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 8,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_River",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 50,
     "y": 94
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 95
+    },
+    "topRight": {
+      "x": 51,
+      "y": 95
+    },
+    "right": {
+      "x": 51,
+      "y": 94
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 93
+    },
+    "bottom": {
+      "x": 50,
+      "y": 93
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 93
+    },
+    "left": {
+      "x": 49,
+      "y": 94
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 95
+    }
   }
 }

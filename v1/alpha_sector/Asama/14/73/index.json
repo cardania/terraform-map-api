@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01850",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01850",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYat2cJrLtxDU5PNKdzAJevWUcp3Yjz86S5C7aUPmY2vT",
+  "token_name": "Terraform02718",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02718",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTSbX7c6WfPyUZwTHqv9x9WidTg71hcmMWNUbnhUPhJv7",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 14,
     "y": 73
+  },
+  "neighbors": {
+    "top": {
+      "x": 14,
+      "y": 74
+    },
+    "topRight": {
+      "x": 15,
+      "y": 74
+    },
+    "right": {
+      "x": 15,
+      "y": 73
+    },
+    "bottomRight": {
+      "x": 15,
+      "y": 72
+    },
+    "bottom": {
+      "x": 14,
+      "y": 72
+    },
+    "bottonLeft": {
+      "x": 13,
+      "y": 72
+    },
+    "left": {
+      "x": 13,
+      "y": 73
+    },
+    "topLeft": {
+      "x": 13,
+      "y": 74
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06036",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06036",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmS5F5AqvLgQgyQPC4c5FBxuB4QdBRRpAwv1D11dZUx7YN",
+  "token_name": "Terraform04886",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04886",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZFwLu2jpxEXrjWCzKvav5M7ZbMFFVeyUUDrDq9tYFJgo",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "forests": "None",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 75,
     "y": 98
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 99
+    },
+    "topRight": {
+      "x": 76,
+      "y": 99
+    },
+    "right": {
+      "x": 76,
+      "y": 98
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 97
+    },
+    "bottom": {
+      "x": 75,
+      "y": 97
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 97
+    },
+    "left": {
+      "x": 74,
+      "y": 98
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 99
+    }
   }
 }

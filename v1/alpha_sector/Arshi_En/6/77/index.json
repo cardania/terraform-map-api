@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16311",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16311",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVBLmwWg2NdRRCTyDszcRreXnqH9zG1315VHvC9A5ufp6",
+  "token_name": "Terraform04122",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04122",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcjukwVqWWgFvY7SUKYdN4u93W5nnu9hWCqBNrYmMownt",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 4,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 5,
+  "quantum_flux": 9,
+  "primary_minerals": "None",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 6,
     "y": 77
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 78
+    },
+    "topRight": {
+      "x": 7,
+      "y": 78
+    },
+    "right": {
+      "x": 7,
+      "y": 77
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 76
+    },
+    "bottom": {
+      "x": 6,
+      "y": 76
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 76
+    },
+    "left": {
+      "x": 5,
+      "y": 77
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 78
+    }
   }
 }

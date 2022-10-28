@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14034",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14034",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmetYC2P8z5FgwQRmZ3De4uAZAsBtoGVcWRDkcAU5sd7Ym",
+  "token_name": "Terraform06846",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06846",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWnCADrkMp61SyhKqXXfhML72u8pGSffjWZ8P21oWWXxm",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 3,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 5,
+  "quantum_flux": 5,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "None",
   "location": {
     "x": 45,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 9
+    },
+    "topRight": {
+      "x": 46,
+      "y": 9
+    },
+    "right": {
+      "x": 46,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 7
+    },
+    "bottom": {
+      "x": 45,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 7
+    },
+    "left": {
+      "x": 44,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 9
+    }
   }
 }

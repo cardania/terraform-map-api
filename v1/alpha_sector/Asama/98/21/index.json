@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04626",
+  "token_name": "Terraform15086",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04626",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYN1wUtkZ7bvFEm5UJ1UC1gtu1jeASkt3ZffQay7m1aKa",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15086",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaJxfpBR6R96GnQBXGJDL1KL6CjoAA3JYWuFEqTCb64oG",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 98,
     "y": 21
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 22
+    },
+    "topRight": {
+      "x": 99,
+      "y": 22
+    },
+    "right": {
+      "x": 99,
+      "y": 21
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 20
+    },
+    "bottom": {
+      "x": 98,
+      "y": 20
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 20
+    },
+    "left": {
+      "x": 97,
+      "y": 21
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 22
+    }
   }
 }

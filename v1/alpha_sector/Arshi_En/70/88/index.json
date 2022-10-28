@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02566",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02566",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQAdPG8oeXeR7TL9j23a7a7woATT5QUo6dNoCUGQKGGcR",
+  "token_name": "Terraform11376",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11376",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdC5BU8ciDZe9qbcjzHGsPQapLHLZefnfqimJgbHjdwbv",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 7,
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 70,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 89
+    },
+    "topRight": {
+      "x": 71,
+      "y": 89
+    },
+    "right": {
+      "x": 71,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 87
+    },
+    "bottom": {
+      "x": 70,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 87
+    },
+    "left": {
+      "x": 69,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 89
+    }
   }
 }

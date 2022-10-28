@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18055",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18055",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVkiYuUAytgpG6oJUTpD4ccYnoBiAnJ7Gxi3s19JdUtvN",
+  "token_name": "Terraform11965",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11965",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbTsGiSaqLf5323GskbKX9jyWpmZWboAGs4wWS1ehSttz",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "None",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Timelost_Shrine",
-  "water": "None",
+  "power_level": 5,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 39,
     "y": 69
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 70
+    },
+    "topRight": {
+      "x": 40,
+      "y": 70
+    },
+    "right": {
+      "x": 40,
+      "y": 69
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 68
+    },
+    "bottom": {
+      "x": 39,
+      "y": 68
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 68
+    },
+    "left": {
+      "x": 38,
+      "y": 69
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 70
+    }
   }
 }

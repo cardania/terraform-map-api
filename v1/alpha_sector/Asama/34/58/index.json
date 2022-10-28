@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07933",
+  "token_name": "Terraform11395",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07933",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPUSEq7ZzRph44wDa4H7JMUTq67nwnWfDPaEPNooBTr8A",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11395",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmW5gLYWvkHVZ32RggvtzN48VatUJmu99s2Bntg8CSEpCA",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Toxic_Lake",
   "location": {
     "x": 34,
     "y": 58
+  },
+  "neighbors": {
+    "top": {
+      "x": 34,
+      "y": 59
+    },
+    "topRight": {
+      "x": 35,
+      "y": 59
+    },
+    "right": {
+      "x": 35,
+      "y": 58
+    },
+    "bottomRight": {
+      "x": 35,
+      "y": 57
+    },
+    "bottom": {
+      "x": 34,
+      "y": 57
+    },
+    "bottonLeft": {
+      "x": 33,
+      "y": 57
+    },
+    "left": {
+      "x": 33,
+      "y": 58
+    },
+    "topLeft": {
+      "x": 33,
+      "y": 59
+    }
   }
 }

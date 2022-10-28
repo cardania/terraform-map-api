@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05961",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05961",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmP8eCrWpMN6B3gvtcYVnQGTYX99vBR924yKtSBBPgJHNf",
+  "token_name": "Terraform05867",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05867",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQcQajZ71oHcn92CfpmspFfGhKFKQHekvYYs3mSPCNnC5",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
   "quantum_flux": 1,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 28,
     "y": 92
+  },
+  "neighbors": {
+    "top": {
+      "x": 28,
+      "y": 93
+    },
+    "topRight": {
+      "x": 29,
+      "y": 93
+    },
+    "right": {
+      "x": 29,
+      "y": 92
+    },
+    "bottomRight": {
+      "x": 29,
+      "y": 91
+    },
+    "bottom": {
+      "x": 28,
+      "y": 91
+    },
+    "bottonLeft": {
+      "x": 27,
+      "y": 91
+    },
+    "left": {
+      "x": 27,
+      "y": 92
+    },
+    "topLeft": {
+      "x": 27,
+      "y": 93
+    }
   }
 }

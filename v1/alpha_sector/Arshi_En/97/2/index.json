@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04592",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04592",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf9gqLUdzFGM4zuUoY17P9ofeGv29h1CbJbRTsJa26bsJ",
+  "token_name": "Terraform16405",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16405",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmP7M51RzNtGLVgGj8jzJH512eYhyXApDgRaUG2QHsVcox",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Toxic_River",
+  "power_level": 5,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Timelost",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 97,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 3
+    },
+    "topRight": {
+      "x": 98,
+      "y": 3
+    },
+    "right": {
+      "x": 98,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 1
+    },
+    "bottom": {
+      "x": 97,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 1
+    },
+    "left": {
+      "x": 96,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 3
+    }
   }
 }

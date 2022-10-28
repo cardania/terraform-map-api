@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03341",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03341",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWbEzZFXegPJEYpYtqw3zB39EXtrLhEZYiqs8hK3JKXDU",
+  "token_name": "Terraform00048",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00048",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdj17ivz1a2kUVYMH1a9jNVTEuFNani2ZebE5CDoNGmFw",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Gemstones",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 6,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Cursed_River",
+  "shrine": "Void_Shrine",
+  "water": "Toxic_Lake",
   "location": {
     "x": 56,
     "y": 69
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 70
+    },
+    "topRight": {
+      "x": 57,
+      "y": 70
+    },
+    "right": {
+      "x": 57,
+      "y": 69
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 68
+    },
+    "bottom": {
+      "x": 56,
+      "y": 68
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 68
+    },
+    "left": {
+      "x": 55,
+      "y": 69
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 70
+    }
   }
 }

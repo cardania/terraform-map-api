@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09443",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09443",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUBMGKC7dBafuHUjwTFctWPXNHdNrGAhNcEWz2sHujSgy",
+  "token_name": "Terraform10064",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10064",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWZUFb7Dsaa6bdrZBDFezokZwUFAmTssu6tKEK4WzcFcD",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "power_level": 8,
+  "quantum_flux": 6,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 51,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 21
+    },
+    "topRight": {
+      "x": 52,
+      "y": 21
+    },
+    "right": {
+      "x": 52,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 19
+    },
+    "bottom": {
+      "x": 51,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 19
+    },
+    "left": {
+      "x": 50,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 21
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05783",
+  "token_name": "Terraform13429",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05783",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXdVs6vr2WjBfDdPQ2t8RxK3uBrMRSE6aj1WHhzjxfo4V",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13429",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmR27axh5awiXGnJ7Mhtq4NXVkuwwq9fWHvXhNombHXBfA",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Machine_Shrine",
   "water": "Freshwater_River",
   "location": {
     "x": 58,
     "y": 42
+  },
+  "neighbors": {
+    "top": {
+      "x": 58,
+      "y": 43
+    },
+    "topRight": {
+      "x": 59,
+      "y": 43
+    },
+    "right": {
+      "x": 59,
+      "y": 42
+    },
+    "bottomRight": {
+      "x": 59,
+      "y": 41
+    },
+    "bottom": {
+      "x": 58,
+      "y": 41
+    },
+    "bottonLeft": {
+      "x": 57,
+      "y": 41
+    },
+    "left": {
+      "x": 57,
+      "y": 42
+    },
+    "topLeft": {
+      "x": 57,
+      "y": 43
+    }
   }
 }

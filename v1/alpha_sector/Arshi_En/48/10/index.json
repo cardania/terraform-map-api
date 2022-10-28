@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16160",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16160",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdb7QF17dudfwtyGkfLVayCXCg4gZLvNShk58RNy8wuc8",
+  "token_name": "Terraform10323",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10323",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQocFUsZE8MghkdFgoseRqvV2sEFuJ2kgEqFziSWa5F4j",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Funky_River",
+  "shrine": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 48,
     "y": 10
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 11
+    },
+    "topRight": {
+      "x": 49,
+      "y": 11
+    },
+    "right": {
+      "x": 49,
+      "y": 10
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 9
+    },
+    "bottom": {
+      "x": 48,
+      "y": 9
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 9
+    },
+    "left": {
+      "x": 47,
+      "y": 10
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 11
+    }
   }
 }

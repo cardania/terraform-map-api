@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16858",
+  "token_name": "Terraform05620",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16858",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTJqhqo3wwJ65tXAbSyadUNftEJBH7mg8Z1tjrTJBDJnp",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05620",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWjZ8NC53zXmsNFqCPSP9GH76d7pE6V1fMdXCvovNgfom",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 1,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Quantum_Shrine",
-  "water": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 45,
     "y": 93
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 94
+    },
+    "topRight": {
+      "x": 46,
+      "y": 94
+    },
+    "right": {
+      "x": 46,
+      "y": 93
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 92
+    },
+    "bottom": {
+      "x": 45,
+      "y": 92
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 92
+    },
+    "left": {
+      "x": 44,
+      "y": 93
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 94
+    }
   }
 }

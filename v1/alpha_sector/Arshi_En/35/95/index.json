@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05334",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05334",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXfHSzt5Yn2RSBQwFo2yqk5TYLzZqBo7QfSNYrQACaSJX",
+  "token_name": "Terraform01049",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01049",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVv7fuoSFUWwgBDKPNHC8ECtQUBPJpUUN1eDs4yfb9oUq",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 3,
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 6,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 35,
     "y": 95
+  },
+  "neighbors": {
+    "top": {
+      "x": 35,
+      "y": 96
+    },
+    "topRight": {
+      "x": 36,
+      "y": 96
+    },
+    "right": {
+      "x": 36,
+      "y": 95
+    },
+    "bottomRight": {
+      "x": 36,
+      "y": 94
+    },
+    "bottom": {
+      "x": 35,
+      "y": 94
+    },
+    "bottonLeft": {
+      "x": 34,
+      "y": 94
+    },
+    "left": {
+      "x": 34,
+      "y": 95
+    },
+    "topLeft": {
+      "x": 34,
+      "y": 96
+    }
   }
 }

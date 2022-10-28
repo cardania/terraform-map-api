@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09035",
+  "token_name": "Terraform14203",
   "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09035",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdbxgad9Sx35fcUpkeESNKpL2CmKaTuqSVuj5VnHkxy6M",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14203",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeirtSGnF1qtmwCtpWdTCQqL8E91863Z72LrZsKpGfeSd",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Orange",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 9,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "Quantum_Shrine",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 50,
     "y": 19
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 20
+    },
+    "topRight": {
+      "x": 51,
+      "y": 20
+    },
+    "right": {
+      "x": 51,
+      "y": 19
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 18
+    },
+    "bottom": {
+      "x": 50,
+      "y": 18
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 18
+    },
+    "left": {
+      "x": 49,
+      "y": 19
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 20
+    }
   }
 }

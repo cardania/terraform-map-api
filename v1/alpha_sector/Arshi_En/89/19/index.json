@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08927",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08927",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPxNRH4YfDx6HFd6Yg6bpqtuFPknmxdrkrCAbvxUdiNQ1",
+  "token_name": "Terraform05985",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05985",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVdTQqhemCJAwkAbm4pMK6kk8GQ8WUqjSnnHWgnxWjKym",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Blue",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 89,
     "y": 19
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 20
+    },
+    "topRight": {
+      "x": 90,
+      "y": 20
+    },
+    "right": {
+      "x": 90,
+      "y": 19
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 18
+    },
+    "bottom": {
+      "x": 89,
+      "y": 18
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 18
+    },
+    "left": {
+      "x": 88,
+      "y": 19
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 20
+    }
   }
 }

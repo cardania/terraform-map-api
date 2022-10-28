@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18991",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18991",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf12eYK9f6kjLNzhcEREKJEzbVvah7XW78zUL6CzD2ob4",
+  "token_name": "Terraform17349",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17349",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb4MqB6HcKUjXTKuY7aZTPMeNEi2emPMFmDRrxKdoXw1t",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "Cardanium_Bunker",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 1,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
   "quantum_flux": 8,
-  "primary_minerals": "None",
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Void_Shrine",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 87,
     "y": 10
+  },
+  "neighbors": {
+    "top": {
+      "x": 87,
+      "y": 11
+    },
+    "topRight": {
+      "x": 88,
+      "y": 11
+    },
+    "right": {
+      "x": 88,
+      "y": 10
+    },
+    "bottomRight": {
+      "x": 88,
+      "y": 9
+    },
+    "bottom": {
+      "x": 87,
+      "y": 9
+    },
+    "bottonLeft": {
+      "x": 86,
+      "y": 9
+    },
+    "left": {
+      "x": 86,
+      "y": 10
+    },
+    "topLeft": {
+      "x": 86,
+      "y": 11
+    }
   }
 }

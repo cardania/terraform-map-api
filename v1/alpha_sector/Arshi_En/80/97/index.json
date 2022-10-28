@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07922",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07922",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZBEVi5QfYbbuDPQkAZokPFSgxxbiqqTUCFKUtvnaDyUF",
+  "token_name": "Terraform03728",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03728",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmR7vNumJGWdfCA9hTuy9rAdE72YC2ud1tbutNsspkPcRU",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 6,
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 9,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Saltwater_Lake",
+  "shrine": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 80,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 80,
+      "y": 98
+    },
+    "topRight": {
+      "x": 81,
+      "y": 98
+    },
+    "right": {
+      "x": 81,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 81,
+      "y": 96
+    },
+    "bottom": {
+      "x": 80,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 79,
+      "y": 96
+    },
+    "left": {
+      "x": 79,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 79,
+      "y": 98
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16944",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16944",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWTPCGakZ3PFTGNdmckR8j6wUcxzAf27GxHwBdr7TUZok",
+  "token_name": "Terraform07744",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07744",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbn6KtAKgD8jyZai6HsXFXRwXkqV6fSphh456YhbKDh9J",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "None",
   "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Nemesis_Hydra",
   "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 5,
+  "power_level": 4,
+  "quantum_flux": 2,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Fungal_Shrine",
+  "water": "Cursed_Lake",
   "location": {
     "x": 7,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 6
+    },
+    "topRight": {
+      "x": 8,
+      "y": 6
+    },
+    "right": {
+      "x": 8,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 4
+    },
+    "bottom": {
+      "x": 7,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 4
+    },
+    "left": {
+      "x": 6,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 6
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14558",
+  "token_name": "Terraform01087",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14558",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYUhvrJP2M3ja2xqMa2ceijQgXhBhhYgutELk9FXgL8Ry",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01087",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVgMMnybCQCSvh6VvsS894BbfqQT722429sCyEUtAH4GN",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
+  "power_level": 2,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "None",
   "location": {
     "x": 38,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 38,
+      "y": 8
+    },
+    "topRight": {
+      "x": 39,
+      "y": 8
+    },
+    "right": {
+      "x": 39,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 39,
+      "y": 6
+    },
+    "bottom": {
+      "x": 38,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 37,
+      "y": 6
+    },
+    "left": {
+      "x": 37,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 37,
+      "y": 8
+    }
   }
 }

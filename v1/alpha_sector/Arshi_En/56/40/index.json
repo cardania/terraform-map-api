@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform09994",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09994",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNsoRGu5yj1Sf7UhgRQBdkK91KqYkWASn5mjsPbRiExtN",
+  "token_name": "Terraform15388",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15388",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbJGzyoaR8RcF2qhQkpdj7k5XfeedLkjfjsxYjCys848V",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 5,
-  "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 56,
     "y": 40
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 41
+    },
+    "topRight": {
+      "x": 57,
+      "y": 41
+    },
+    "right": {
+      "x": 57,
+      "y": 40
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 39
+    },
+    "bottom": {
+      "x": 56,
+      "y": 39
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 39
+    },
+    "left": {
+      "x": 55,
+      "y": 40
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 41
+    }
   }
 }

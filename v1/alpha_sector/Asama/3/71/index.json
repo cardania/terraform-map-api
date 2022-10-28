@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02183",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02183",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRD7yuveXddE8i52jaDSiZ2SufyPAzkfN6pDsG3PJYfZq",
+  "token_name": "Terraform15640",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15640",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTTipG9xoFh1SEvJrenx6QjLUuhvfE7oaE4vXrjp3upMD",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
+  "power_level": 5,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 3,
     "y": 71
+  },
+  "neighbors": {
+    "top": {
+      "x": 3,
+      "y": 72
+    },
+    "topRight": {
+      "x": 4,
+      "y": 72
+    },
+    "right": {
+      "x": 4,
+      "y": 71
+    },
+    "bottomRight": {
+      "x": 4,
+      "y": 70
+    },
+    "bottom": {
+      "x": 3,
+      "y": 70
+    },
+    "bottonLeft": {
+      "x": 2,
+      "y": 70
+    },
+    "left": {
+      "x": 2,
+      "y": 71
+    },
+    "topLeft": {
+      "x": 2,
+      "y": 72
+    }
   }
 }

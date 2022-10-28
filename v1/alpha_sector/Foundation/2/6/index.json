@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19941",
+  "token_name": "Terraform19797",
   "land_type": "Prismatic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19941",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNNvRoYVJBZ7WRcG1cRuvaA9ei9aT9gKNjDv9LPitUBkV",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19797",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYzGRyRjuH6rmPb8UYpGgHNHZCPa2ggEA9wSViaLvXApU",
   "alpha_sector": "Foundation",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 8,
+  "lithoglyphs": "None",
+  "power_level": 2,
   "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "Alien_Technology_Red",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Fungal_Shrine",
+  "water": "Cursed_Lake",
   "location": {
     "x": 2,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 2,
+      "y": 7
+    },
+    "topRight": {
+      "x": 3,
+      "y": 7
+    },
+    "right": {
+      "x": 3,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 3,
+      "y": 5
+    },
+    "bottom": {
+      "x": 2,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 1,
+      "y": 5
+    },
+    "left": {
+      "x": 1,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 1,
+      "y": 7
+    }
   }
 }

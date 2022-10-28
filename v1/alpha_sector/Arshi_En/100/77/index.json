@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09799",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09799",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPar9P1wCrFvj8UHNM9jeyvLpDifZpNckzwu4tcTZSBBZ",
+  "token_name": "Terraform02740",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02740",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQg5dQpXZM3MNgcW2pH79rDyYrf4x3r3QoseZzssRG17b",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 9,
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 4,
   "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 100,
     "y": 77
+  },
+  "neighbors": {
+    "top": {
+      "x": 100,
+      "y": 78
+    },
+    "topRight": {
+      "x": 101,
+      "y": 78
+    },
+    "right": {
+      "x": 101,
+      "y": 77
+    },
+    "bottomRight": {
+      "x": 101,
+      "y": 76
+    },
+    "bottom": {
+      "x": 100,
+      "y": 76
+    },
+    "bottonLeft": {
+      "x": 99,
+      "y": 76
+    },
+    "left": {
+      "x": 99,
+      "y": 77
+    },
+    "topLeft": {
+      "x": 99,
+      "y": 78
+    }
   }
 }

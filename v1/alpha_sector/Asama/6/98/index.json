@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16686",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16686",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZggHua2rU1XYiCYfqHXYPPs85YdZg4BhDPgz83y6vbx5",
+  "token_name": "Terraform04058",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04058",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWayrY9w8Jwkxm15mzaR77FvC2KviHnt9Bq98xLs54T2s",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Nemesis_Hydra",
   "lithoglyphs": "None",
   "power_level": 5,
-  "quantum_flux": 4,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 6,
     "y": 98
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 99
+    },
+    "topRight": {
+      "x": 7,
+      "y": 99
+    },
+    "right": {
+      "x": 7,
+      "y": 98
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 97
+    },
+    "bottom": {
+      "x": 6,
+      "y": 97
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 97
+    },
+    "left": {
+      "x": 5,
+      "y": 98
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 99
+    }
   }
 }

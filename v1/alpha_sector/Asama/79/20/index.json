@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17013",
+  "token_name": "Terraform07846",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17013",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qma4eEWMGKF1WZGFqyvoNEmjNeCdsd2EeDcvw85wZE1V8L",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07846",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQSEWuoNseoaiHaa9oRjA2fdCYfE7ZLxFJnei33cvFxox",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Critters",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 7,
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_Lake",
   "location": {
     "x": 79,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 79,
+      "y": 21
+    },
+    "topRight": {
+      "x": 80,
+      "y": 21
+    },
+    "right": {
+      "x": 80,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 80,
+      "y": 19
+    },
+    "bottom": {
+      "x": 79,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 78,
+      "y": 19
+    },
+    "left": {
+      "x": 78,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 78,
+      "y": 21
+    }
   }
 }

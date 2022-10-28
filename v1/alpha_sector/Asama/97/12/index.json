@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18524",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18524",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZECd8BEhgSGB858G1P12Q14E5PC5ut1G9rkhozy7pnbp",
+  "token_name": "Terraform02062",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02062",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qma5V9PJcJyupLB7AUnuYnBHsxzdLTKY8xo6mTf4Ddb67A",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Ancient_Ruins",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 97,
     "y": 12
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 13
+    },
+    "topRight": {
+      "x": 98,
+      "y": 13
+    },
+    "right": {
+      "x": 98,
+      "y": 12
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 11
+    },
+    "bottom": {
+      "x": 97,
+      "y": 11
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 11
+    },
+    "left": {
+      "x": 96,
+      "y": 12
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 13
+    }
   }
 }

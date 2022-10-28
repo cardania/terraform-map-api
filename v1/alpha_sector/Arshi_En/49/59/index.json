@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06709",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06709",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNeh1jCXKZ7vMPdcdiNDa8AF7H1GBoNqZFEPRhP2TZKbT",
+  "token_name": "Terraform04045",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04045",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmX3Bwei9U3JLUx9rcdHQUvC6uoyhHKtiBaUKt2wd5aJ72",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
-  "quantum_flux": 6,
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 7,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Toxic_River",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "Quantum_Shrine",
+  "water": "None",
   "location": {
     "x": 49,
     "y": 59
+  },
+  "neighbors": {
+    "top": {
+      "x": 49,
+      "y": 60
+    },
+    "topRight": {
+      "x": 50,
+      "y": 60
+    },
+    "right": {
+      "x": 50,
+      "y": 59
+    },
+    "bottomRight": {
+      "x": 50,
+      "y": 58
+    },
+    "bottom": {
+      "x": 49,
+      "y": 58
+    },
+    "bottonLeft": {
+      "x": 48,
+      "y": 58
+    },
+    "left": {
+      "x": 48,
+      "y": 59
+    },
+    "topLeft": {
+      "x": 48,
+      "y": 60
+    }
   }
 }

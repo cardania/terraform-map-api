@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18502",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18502",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmU3PTHckp3ZCrXRoex1jY42DGp5SeotVNNRCisEFn7ULK",
+  "token_name": "Terraform19165",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19165",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXHBPvfrsou9ydwkGSALQGrBRQbEAMk11PF8abQVudR5Z",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 8,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 8,
+      "y": 21
+    },
+    "topRight": {
+      "x": 9,
+      "y": 21
+    },
+    "right": {
+      "x": 9,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 9,
+      "y": 19
+    },
+    "bottom": {
+      "x": 8,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 7,
+      "y": 19
+    },
+    "left": {
+      "x": 7,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 7,
+      "y": 21
+    }
   }
 }

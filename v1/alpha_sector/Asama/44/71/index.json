@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01801",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01801",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUj5FfiM6HJKr2EuvAm8GEpELWfXfuqmULVczzGuMUqxu",
+  "token_name": "Terraform08505",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08505",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQBxD2w8JjtpFvyhHvPbL2L4VM8tthccBwy49Brf2SJph",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 44,
     "y": 71
+  },
+  "neighbors": {
+    "top": {
+      "x": 44,
+      "y": 72
+    },
+    "topRight": {
+      "x": 45,
+      "y": 72
+    },
+    "right": {
+      "x": 45,
+      "y": 71
+    },
+    "bottomRight": {
+      "x": 45,
+      "y": 70
+    },
+    "bottom": {
+      "x": 44,
+      "y": 70
+    },
+    "bottonLeft": {
+      "x": 43,
+      "y": 70
+    },
+    "left": {
+      "x": 43,
+      "y": 71
+    },
+    "topLeft": {
+      "x": 43,
+      "y": 72
+    }
   }
 }

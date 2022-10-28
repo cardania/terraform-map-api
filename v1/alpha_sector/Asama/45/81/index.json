@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07221",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07221",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaGHccQNZ11Rn8tDpor46Fu8YE5Fb8h8VCmQ9jbzJFo5C",
+  "token_name": "Terraform02414",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02414",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPcigVzAjQ8uYXYsi1i53atqGq1RbvdsPcsu2ZL3PKRyC",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Cursed_Nanites",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 2,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 7,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 45,
     "y": 81
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 82
+    },
+    "topRight": {
+      "x": 46,
+      "y": 82
+    },
+    "right": {
+      "x": 46,
+      "y": 81
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 80
+    },
+    "bottom": {
+      "x": 45,
+      "y": 80
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 80
+    },
+    "left": {
+      "x": 44,
+      "y": 81
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 82
+    }
   }
 }

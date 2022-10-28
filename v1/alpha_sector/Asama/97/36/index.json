@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00289",
+  "token_name": "Terraform05016",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00289",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbFuKehmHTPwY529uEWQumYGb1jD4twQ9XziMuPmbeTJw",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05016",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZgfro6Mzttu6XJRW6bvpEFBp8y4jkQYZy2VP1veHZvpF",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 8,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "Solar_Shrine",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 97,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 37
+    },
+    "topRight": {
+      "x": 98,
+      "y": 37
+    },
+    "right": {
+      "x": 98,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 35
+    },
+    "bottom": {
+      "x": 97,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 35
+    },
+    "left": {
+      "x": 96,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 37
+    }
   }
 }

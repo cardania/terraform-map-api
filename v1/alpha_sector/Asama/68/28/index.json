@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16626",
+  "token_name": "Terraform03283",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16626",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcuPK9GwQzkL73ANRQMXnAc5zT8ntggdxLk8tPFYZ8jrA",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03283",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb9Gc2fgWs1ypHCGaHCp3TijK7AfB2DBcXaykGv6pEj3z",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 2,
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 3,
   "quantum_flux": 4,
-  "primary_minerals": "Iron",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Timelost_Shrine",
   "water": "None",
   "location": {
     "x": 68,
     "y": 28
+  },
+  "neighbors": {
+    "top": {
+      "x": 68,
+      "y": 29
+    },
+    "topRight": {
+      "x": 69,
+      "y": 29
+    },
+    "right": {
+      "x": 69,
+      "y": 28
+    },
+    "bottomRight": {
+      "x": 69,
+      "y": 27
+    },
+    "bottom": {
+      "x": 68,
+      "y": 27
+    },
+    "bottonLeft": {
+      "x": 67,
+      "y": 27
+    },
+    "left": {
+      "x": 67,
+      "y": 28
+    },
+    "topLeft": {
+      "x": 67,
+      "y": 29
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19651",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19651",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYPJusLcouL5vKrmmp2VpLMYrnvG38YNG9cJos2P6qGoh",
+  "token_name": "Terraform00464",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00464",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRPnyZwcxDGy7jChtpfXjCYswUDbfLeaaU8BkyBSNMoWW",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 9,
-  "quantum_flux": 2,
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 3,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 93,
     "y": 78
+  },
+  "neighbors": {
+    "top": {
+      "x": 93,
+      "y": 79
+    },
+    "topRight": {
+      "x": 94,
+      "y": 79
+    },
+    "right": {
+      "x": 94,
+      "y": 78
+    },
+    "bottomRight": {
+      "x": 94,
+      "y": 77
+    },
+    "bottom": {
+      "x": 93,
+      "y": 77
+    },
+    "bottonLeft": {
+      "x": 92,
+      "y": 77
+    },
+    "left": {
+      "x": 92,
+      "y": 78
+    },
+    "topLeft": {
+      "x": 92,
+      "y": 79
+    }
   }
 }

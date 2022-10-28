@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15560",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15560",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmP1TkWg9cTX36rAh98cef7QzS5NPna9AsKoiCKKVA1rhH",
+  "token_name": "Terraform10780",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10780",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdkyk6sJRRT9vLA2LnPKFAvWjihHMG6JmMqDeTCzStx9H",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 3,
-  "quantum_flux": 9,
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 5,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Cursed_Lake",
+  "shrine": "Solar_Shrine",
+  "water": "None",
   "location": {
     "x": 42,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 42,
+      "y": 86
+    },
+    "topRight": {
+      "x": 43,
+      "y": 86
+    },
+    "right": {
+      "x": 43,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 43,
+      "y": 84
+    },
+    "bottom": {
+      "x": 42,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 41,
+      "y": 84
+    },
+    "left": {
+      "x": 41,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 41,
+      "y": 86
+    }
   }
 }

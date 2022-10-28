@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13024",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13024",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWL3pNkQPhj27bm6Nu3MHMvQh4wmH9VYPnVdyCH93t3jD",
+  "token_name": "Terraform00257",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00257",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQJD9BvcLA8ioLgqKwyxRWkEbr1pLphtVhPJkL3Sqngo9",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Prismaleaf",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 8,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Red",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "Toxic_Lake",
   "location": {
     "x": 48,
     "y": 45
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 46
+    },
+    "topRight": {
+      "x": 49,
+      "y": 46
+    },
+    "right": {
+      "x": 49,
+      "y": 45
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 44
+    },
+    "bottom": {
+      "x": 48,
+      "y": 44
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 44
+    },
+    "left": {
+      "x": 47,
+      "y": 45
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 46
+    }
   }
 }

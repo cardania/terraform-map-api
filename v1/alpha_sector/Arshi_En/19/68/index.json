@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11430",
+  "token_name": "Terraform06068",
   "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11430",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXJ3aZpHvUHuHcWmTDXkvj32bGMxCEEgRfR1TuNoSnXMi",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06068",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZALjQeWumqvEA9UEfcssvfyXP9AqHYhnVZMntJQ2RWK1",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
-  "quantum_flux": 1,
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 1,
+  "quantum_flux": 5,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "secondary_minerals": "Fossils",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Solar_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 19,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 19,
+      "y": 69
+    },
+    "topRight": {
+      "x": 20,
+      "y": 69
+    },
+    "right": {
+      "x": 20,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 20,
+      "y": 67
+    },
+    "bottom": {
+      "x": 19,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 18,
+      "y": 67
+    },
+    "left": {
+      "x": 18,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 18,
+      "y": 69
+    }
   }
 }

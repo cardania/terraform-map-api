@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03144",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03144",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYJ5i2MUeg5kxbLuJ7Qw9X8iZC9fyiY3PxVZZy8XMdYfj",
+  "token_name": "Terraform08805",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08805",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYpCxve1AGtbWk3Ysb7Rt8oTHkGc12g89sv8y5zvdJLaW",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Prismatic_Motes",
   "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
+  "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Solar_Shrine",
-  "water": "Freshwater_River",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Funky_River",
   "location": {
     "x": 45,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 6
+    },
+    "topRight": {
+      "x": 46,
+      "y": 6
+    },
+    "right": {
+      "x": 46,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 4
+    },
+    "bottom": {
+      "x": 45,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 4
+    },
+    "left": {
+      "x": 44,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 6
+    }
   }
 }

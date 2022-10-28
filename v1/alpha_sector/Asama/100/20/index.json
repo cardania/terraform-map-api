@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07842",
+  "token_name": "Terraform00613",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07842",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRMfanQVavs9EatBM6cZzfS15SkSdfX4s4GCTJXdESx5P",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00613",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNPmUy5FcxLqUqmF15QkeDRJqTh25GDXFUbAXTkFUTz7j",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 1,
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 9,
+  "quantum_flux": 3,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 100,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 100,
+      "y": 21
+    },
+    "topRight": {
+      "x": 101,
+      "y": 21
+    },
+    "right": {
+      "x": 101,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 101,
+      "y": 19
+    },
+    "bottom": {
+      "x": 100,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 99,
+      "y": 19
+    },
+    "left": {
+      "x": 99,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 99,
+      "y": 21
+    }
   }
 }

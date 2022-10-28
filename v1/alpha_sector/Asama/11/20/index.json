@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14145",
+  "token_name": "Terraform04223",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14145",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmckB6meiKuCEoXA6rYTYd9F63B7eaHNj82FoUMDZxvgSv",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04223",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmP98ihuFnZ3JZrHSczfTDqMSBiR5zwUzdYBHLXTjm1zw7",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 8,
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
   "quantum_flux": 3,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Timelost_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 11,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 11,
+      "y": 21
+    },
+    "topRight": {
+      "x": 12,
+      "y": 21
+    },
+    "right": {
+      "x": 12,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 12,
+      "y": 19
+    },
+    "bottom": {
+      "x": 11,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 10,
+      "y": 19
+    },
+    "left": {
+      "x": 10,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 10,
+      "y": 21
+    }
   }
 }

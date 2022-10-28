@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12912",
+  "token_name": "Terraform00421",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12912",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUZeZT6b6shLrtWZWmd7zgGhmdUeuuTDJmBmWQnfQQC2g",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00421",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeWv16gQTgkCufain2TQuPu5vqWcnAcdtyX8shMgJsTck",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
   "power_level": 1,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
+  "quantum_flux": 1,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Machine_Shrine",
   "water": "None",
   "location": {
     "x": 47,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 47,
+      "y": 65
+    },
+    "topRight": {
+      "x": 48,
+      "y": 65
+    },
+    "right": {
+      "x": 48,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 48,
+      "y": 63
+    },
+    "bottom": {
+      "x": 47,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 46,
+      "y": 63
+    },
+    "left": {
+      "x": 46,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 46,
+      "y": 65
+    }
   }
 }

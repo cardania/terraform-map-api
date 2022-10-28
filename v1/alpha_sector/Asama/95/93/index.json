@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18176",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18176",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPRk7fX1zCkzoMmyMCpoDSNzm2UwM3t8uXrFY33GXxdvu",
+  "token_name": "Terraform17374",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17374",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNp4b3fV8VDHfCQEQ2nSussDBbrJKHA58cXLo2o86umwW",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 1,
+  "primary_minerals": "Iron",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 95,
     "y": 93
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 94
+    },
+    "topRight": {
+      "x": 96,
+      "y": 94
+    },
+    "right": {
+      "x": 96,
+      "y": 93
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 92
+    },
+    "bottom": {
+      "x": 95,
+      "y": 92
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 92
+    },
+    "left": {
+      "x": 94,
+      "y": 93
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 94
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04383",
+  "token_name": "Terraform02394",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04383",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWfoDd7SAMTcMaXbA4hQ1idCZF8TEsEm7nPYRXNJuVRHB",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02394",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPfgDEakCzk9wiSCyw5AZn7DYA7A4ehuZYENUA1vJo7By",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
   "fauna": "Livestock",
   "forests": "Palms",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "power_level": 5,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
   "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Timelost_Shrine",
+  "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 43,
     "y": 1
+  },
+  "neighbors": {
+    "top": {
+      "x": 43,
+      "y": 2
+    },
+    "topRight": {
+      "x": 44,
+      "y": 2
+    },
+    "right": {
+      "x": 44,
+      "y": 1
+    },
+    "bottomRight": {
+      "x": 44,
+      "y": 0
+    },
+    "bottom": {
+      "x": 43,
+      "y": 0
+    },
+    "bottonLeft": {
+      "x": 42,
+      "y": 0
+    },
+    "left": {
+      "x": 42,
+      "y": 1
+    },
+    "topLeft": {
+      "x": 42,
+      "y": 2
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00950",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00950",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ3BRL3czWxyQAyUJpaQ7BVXujFLxsSpWfL8ZDjTUvZV5",
+  "token_name": "Terraform07811",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07811",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNRxpkDHhcBrhjY5cPszBkJ3qcKjh7MexQinTrouV2RZT",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "None",
+  "activity": "None",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 7,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Machine_Shrine",
   "water": "None",
   "location": {
     "x": 22,
     "y": 80
+  },
+  "neighbors": {
+    "top": {
+      "x": 22,
+      "y": 81
+    },
+    "topRight": {
+      "x": 23,
+      "y": 81
+    },
+    "right": {
+      "x": 23,
+      "y": 80
+    },
+    "bottomRight": {
+      "x": 23,
+      "y": 79
+    },
+    "bottom": {
+      "x": 22,
+      "y": 79
+    },
+    "bottonLeft": {
+      "x": 21,
+      "y": 79
+    },
+    "left": {
+      "x": 21,
+      "y": 80
+    },
+    "topLeft": {
+      "x": 21,
+      "y": 81
+    }
   }
 }

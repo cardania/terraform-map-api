@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06590",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06590",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTTASi3hNs264oT5voMbSmZqk7NYqrrYEsMeBiVdjzn7Y",
+  "token_name": "Terraform07067",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07067",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbuWd6ygXwrk9wZR8eMtmEWuxUbRcy2fwwQzV8gSYeymA",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 7,
+  "power_level": 2,
   "quantum_flux": 3,
-  "primary_minerals": "Iron",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Toxic_River",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 96,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 50
+    },
+    "topRight": {
+      "x": 97,
+      "y": 50
+    },
+    "right": {
+      "x": 97,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 48
+    },
+    "bottom": {
+      "x": 96,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 48
+    },
+    "left": {
+      "x": 95,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 50
+    }
   }
 }

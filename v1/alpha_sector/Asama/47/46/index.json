@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03413",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03413",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPUGRMevBUj4bQhEeHXu82G4pr8QXSaDbfVvSZWWjh2hR",
+  "token_name": "Terraform18347",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18347",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQELBk3eDYtxFEy9q497watPMt99YUagUPeLPNo3VMGpX",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 3,
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 6,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Purple",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 47,
     "y": 46
+  },
+  "neighbors": {
+    "top": {
+      "x": 47,
+      "y": 47
+    },
+    "topRight": {
+      "x": 48,
+      "y": 47
+    },
+    "right": {
+      "x": 48,
+      "y": 46
+    },
+    "bottomRight": {
+      "x": 48,
+      "y": 45
+    },
+    "bottom": {
+      "x": 47,
+      "y": 45
+    },
+    "bottonLeft": {
+      "x": 46,
+      "y": 45
+    },
+    "left": {
+      "x": 46,
+      "y": 46
+    },
+    "topLeft": {
+      "x": 46,
+      "y": 47
+    }
   }
 }

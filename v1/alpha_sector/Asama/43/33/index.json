@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17179",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17179",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNkmUxkMJGKjapBTJvavgfBonCrwxMLqzJr4LTWuWFrGT",
+  "token_name": "Terraform07653",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07653",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXxy5djPHukp776RL6XRzd9w3jskx57qjWDqtGmzSou4u",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 6,
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 43,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 43,
+      "y": 34
+    },
+    "topRight": {
+      "x": 44,
+      "y": 34
+    },
+    "right": {
+      "x": 44,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 44,
+      "y": 32
+    },
+    "bottom": {
+      "x": 43,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 42,
+      "y": 32
+    },
+    "left": {
+      "x": 42,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 42,
+      "y": 34
+    }
   }
 }

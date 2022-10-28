@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11850",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11850",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZvWJsVsGkX65bmxjTKCXFVZpEJBf5M7YuwHxRaaPReB4",
+  "token_name": "Terraform11516",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11516",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVZPzmC6mJFfiwDudPP2rUvQTZJELra6EFytorSupamzm",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 6,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 66,
     "y": 72
+  },
+  "neighbors": {
+    "top": {
+      "x": 66,
+      "y": 73
+    },
+    "topRight": {
+      "x": 67,
+      "y": 73
+    },
+    "right": {
+      "x": 67,
+      "y": 72
+    },
+    "bottomRight": {
+      "x": 67,
+      "y": 71
+    },
+    "bottom": {
+      "x": 66,
+      "y": 71
+    },
+    "bottonLeft": {
+      "x": 65,
+      "y": 71
+    },
+    "left": {
+      "x": 65,
+      "y": 72
+    },
+    "topLeft": {
+      "x": 65,
+      "y": 73
+    }
   }
 }

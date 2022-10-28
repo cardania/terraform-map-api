@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06617",
+  "token_name": "Terraform15772",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06617",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcXJ2BBgsXHpZdGxT8fvCKEP6mJeHjVYDJMXxj1CUmGKe",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15772",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSmN1K48yuxUpeU8XwoRqAZ5ajnUL8V1yCBQy1MBbZpDx",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 2,
   "quantum_flux": 5,
-  "primary_minerals": "Copper",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Saltwater_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 75,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 89
+    },
+    "topRight": {
+      "x": 76,
+      "y": 89
+    },
+    "right": {
+      "x": 76,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 87
+    },
+    "bottom": {
+      "x": 75,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 87
+    },
+    "left": {
+      "x": 74,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 89
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03540",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03540",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNvFgfeHcgLr8sWCa6hBBGvCCyniQXggeT4LSeTpbocQY",
+  "token_name": "Terraform14681",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14681",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbEkaCY8GA11sNYKx2iaiSJgCRfFGHkVVvyaGrovjhrVQ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "Evergreen",
+  "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 9,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "power_level": 1,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "Saltwater_River",
   "location": {
     "x": 35,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 35,
+      "y": 3
+    },
+    "topRight": {
+      "x": 36,
+      "y": 3
+    },
+    "right": {
+      "x": 36,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 36,
+      "y": 1
+    },
+    "bottom": {
+      "x": 35,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 34,
+      "y": 1
+    },
+    "left": {
+      "x": 34,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 34,
+      "y": 3
+    }
   }
 }

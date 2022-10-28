@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18184",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18184",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQvY8ehRogAD52seFntWLCXRwYdc5rnVmVPe3oycFTyNi",
+  "token_name": "Terraform10258",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10258",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZAKcPPLj3ufBGVWuu5gvxXWGQdiLxbxs4hMhZRJ3Jioa",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 6,
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
   "quantum_flux": 3,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "None",
   "location": {
     "x": 78,
     "y": 89
+  },
+  "neighbors": {
+    "top": {
+      "x": 78,
+      "y": 90
+    },
+    "topRight": {
+      "x": 79,
+      "y": 90
+    },
+    "right": {
+      "x": 79,
+      "y": 89
+    },
+    "bottomRight": {
+      "x": 79,
+      "y": 88
+    },
+    "bottom": {
+      "x": 78,
+      "y": 88
+    },
+    "bottonLeft": {
+      "x": 77,
+      "y": 88
+    },
+    "left": {
+      "x": 77,
+      "y": 89
+    },
+    "topLeft": {
+      "x": 77,
+      "y": 90
+    }
   }
 }

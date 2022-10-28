@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10666",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10666",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSTyYknTbokvHbsDGTdGKXCakCFk4JFTmeR8TVuTy1r2Y",
+  "token_name": "Terraform09363",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09363",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmcgmzb5JQGo4oQAwCLdYPD2DovhFHA1Y1VmP8jaRudRvJ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 4,
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 3,
+  "quantum_flux": 6,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "None",
+  "shrine": "Timelost_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 63,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 63,
+      "y": 61
+    },
+    "topRight": {
+      "x": 64,
+      "y": 61
+    },
+    "right": {
+      "x": 64,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 64,
+      "y": 59
+    },
+    "bottom": {
+      "x": 63,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 62,
+      "y": 59
+    },
+    "left": {
+      "x": 62,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 62,
+      "y": 61
+    }
   }
 }

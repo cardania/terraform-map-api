@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02850",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02850",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaSKtzvwYQYavd4QD2ox7LrSjCvrJdpjvJEESwXTm1pcX",
+  "token_name": "Terraform14377",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14377",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmV81LQn297aH1yXhGmkGdPy7jo5oJbbBpWVSNjVF6ydzM",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 5,
-  "quantum_flux": 3,
+  "quantum_flux": 5,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 50,
     "y": 19
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 20
+    },
+    "topRight": {
+      "x": 51,
+      "y": 20
+    },
+    "right": {
+      "x": 51,
+      "y": 19
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 18
+    },
+    "bottom": {
+      "x": 50,
+      "y": 18
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 18
+    },
+    "left": {
+      "x": 49,
+      "y": 19
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 20
+    }
   }
 }

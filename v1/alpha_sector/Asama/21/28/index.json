@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11728",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11728",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVKh544wGEcszEAgF3928NRwiH42FSFEF5NvPEJYBpcKt",
+  "token_name": "Terraform06159",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06159",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVutxiketcmTn9zApWxGrwfTKxX54WaM2HqYBHMiw7coE",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 2,
   "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 21,
     "y": 28
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 29
+    },
+    "topRight": {
+      "x": 22,
+      "y": 29
+    },
+    "right": {
+      "x": 22,
+      "y": 28
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 27
+    },
+    "bottom": {
+      "x": 21,
+      "y": 27
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 27
+    },
+    "left": {
+      "x": 20,
+      "y": 28
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 29
+    }
   }
 }

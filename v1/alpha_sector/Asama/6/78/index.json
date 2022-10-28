@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05060",
+  "token_name": "Terraform02758",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05060",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZqs6aTyKEU49v1CG2E3mqYjHVwvbrXKkydfSWV9HKyrv",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02758",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZPMeegK4SEHKmhMErtm3cezn2iHztVCdbgYpdcQkm8mw",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
-  "quantum_flux": 3,
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 7,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 6,
     "y": 78
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 79
+    },
+    "topRight": {
+      "x": 7,
+      "y": 79
+    },
+    "right": {
+      "x": 7,
+      "y": 78
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 77
+    },
+    "bottom": {
+      "x": 6,
+      "y": 77
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 77
+    },
+    "left": {
+      "x": 5,
+      "y": 78
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 79
+    }
   }
 }

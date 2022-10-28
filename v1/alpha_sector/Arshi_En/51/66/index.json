@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10404",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10404",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWsHSWgbjxJLnE1bw7DSRwi6Nemt3uH2ykhYiJc8WANhK",
+  "token_name": "Terraform11953",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11953",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUPo44M3TsJkP2X8QB9dL4qM6h9pCVPxJtgXbK8QkmdUS",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "None",
-  "water": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 4,
+  "quantum_flux": 9,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 51,
     "y": 66
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 67
+    },
+    "topRight": {
+      "x": 52,
+      "y": 67
+    },
+    "right": {
+      "x": 52,
+      "y": 66
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 65
+    },
+    "bottom": {
+      "x": 51,
+      "y": 65
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 65
+    },
+    "left": {
+      "x": 50,
+      "y": 66
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 67
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09118",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09118",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmakU9tAtthztCZqxbsTCWLjx2oceom4HaHWJh2egT3JMP",
+  "token_name": "Terraform02404",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02404",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaY4hpSZk97GXtMdPnSXbgJN4donW5ZoapryuoVE3KpZF",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Solar_Shrine",
+  "water": "None",
   "location": {
     "x": 13,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 34
+    },
+    "topRight": {
+      "x": 14,
+      "y": 34
+    },
+    "right": {
+      "x": 14,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 32
+    },
+    "bottom": {
+      "x": 13,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 32
+    },
+    "left": {
+      "x": 12,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 34
+    }
   }
 }

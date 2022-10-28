@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00330",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00330",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSTizPTNCAuQyG3MYyzrCkeZLkNeBoY3XMTMeyo4M4LMP",
+  "token_name": "Terraform05074",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05074",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmeuac1eeHdCDLH3AxMSQEwLSF2t2Zp3iccqLRC7TwWjFP",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
+  "fauna": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 7,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 40,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 40,
+      "y": 14
+    },
+    "topRight": {
+      "x": 41,
+      "y": 14
+    },
+    "right": {
+      "x": 41,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 41,
+      "y": 12
+    },
+    "bottom": {
+      "x": 40,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 39,
+      "y": 12
+    },
+    "left": {
+      "x": 39,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 39,
+      "y": 14
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11005",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11005",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmS3itaXEkiuxcwvbGrBzgkTXZ8aUd1ALaH8yJZGM7h7EF",
+  "token_name": "Terraform00312",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00312",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQQ39o4kZAumJWWYTy66JnuSvVHS5hqJMwVdJQogMJdi5",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 5,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 7,
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Cursed_Lake",
   "location": {
     "x": 99,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 99,
+      "y": 89
+    },
+    "topRight": {
+      "x": 100,
+      "y": 89
+    },
+    "right": {
+      "x": 100,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 100,
+      "y": 87
+    },
+    "bottom": {
+      "x": 99,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 98,
+      "y": 87
+    },
+    "left": {
+      "x": 98,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 98,
+      "y": 89
+    }
   }
 }

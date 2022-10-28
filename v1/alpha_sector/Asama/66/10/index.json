@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07620",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07620",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVSyjp5MiFGF19kjEXXGgMsPyBDKjKuD8th3FiarU1hUc",
+  "token_name": "Terraform06193",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06193",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRQxvWVDzCNv22cC2HBBMgW7bd4qzzgvSse2HD25Mai5L",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
-  "quantum_flux": 6,
+  "power_level": 1,
+  "quantum_flux": 8,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "Toxic_River",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 66,
     "y": 10
+  },
+  "neighbors": {
+    "top": {
+      "x": 66,
+      "y": 11
+    },
+    "topRight": {
+      "x": 67,
+      "y": 11
+    },
+    "right": {
+      "x": 67,
+      "y": 10
+    },
+    "bottomRight": {
+      "x": 67,
+      "y": 9
+    },
+    "bottom": {
+      "x": 66,
+      "y": 9
+    },
+    "bottonLeft": {
+      "x": 65,
+      "y": 9
+    },
+    "left": {
+      "x": 65,
+      "y": 10
+    },
+    "topLeft": {
+      "x": 65,
+      "y": 11
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10992",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10992",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfMSsor5Advzhf4sTzWitj3SS7DA4LbAWirpF4PR7gY8t",
+  "token_name": "Terraform16466",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16466",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVEjJi5js7Sa1GpV8teTFQYfoxGhz8SNQdTNkXf4urKrG",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 1,
-  "quantum_flux": 5,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 4,
   "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 24,
     "y": 59
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 60
+    },
+    "topRight": {
+      "x": 25,
+      "y": 60
+    },
+    "right": {
+      "x": 25,
+      "y": 59
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 58
+    },
+    "bottom": {
+      "x": 24,
+      "y": 58
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 58
+    },
+    "left": {
+      "x": 23,
+      "y": 59
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 60
+    }
   }
 }

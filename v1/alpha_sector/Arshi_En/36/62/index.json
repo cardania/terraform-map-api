@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform03419",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03419",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNYUmqySmzKsa4VrnSirZ2dXHoRirRkD9ypbPKQ8eiJdo",
+  "token_name": "Terraform03056",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03056",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZi9uB3wAYJDyRPsJPeFJfA95om4g3neTKDKpoWMwesbz",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
+  "forests": "None",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 36,
     "y": 62
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 63
+    },
+    "topRight": {
+      "x": 37,
+      "y": 63
+    },
+    "right": {
+      "x": 37,
+      "y": 62
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 61
+    },
+    "bottom": {
+      "x": 36,
+      "y": 61
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 61
+    },
+    "left": {
+      "x": 35,
+      "y": 62
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 63
+    }
   }
 }

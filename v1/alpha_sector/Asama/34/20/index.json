@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17943",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17943",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qma3RCTtahJL6i6jLkk9DQZ4ypmutcdwjZNEaA3i3J2tuC",
+  "token_name": "Terraform04550",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04550",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYQSPqaiNDZEMjySQe2NfdMV8k1zwaHzxSHKn55pMubVj",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "power_level": 5,
+  "quantum_flux": 1,
+  "primary_minerals": "Copper",
   "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Saltwater_River",
   "location": {
     "x": 34,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 34,
+      "y": 21
+    },
+    "topRight": {
+      "x": 35,
+      "y": 21
+    },
+    "right": {
+      "x": 35,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 35,
+      "y": 19
+    },
+    "bottom": {
+      "x": 34,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 33,
+      "y": 19
+    },
+    "left": {
+      "x": 33,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 33,
+      "y": 21
+    }
   }
 }

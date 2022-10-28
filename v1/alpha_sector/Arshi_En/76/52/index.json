@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15573",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15573",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmae8ABZobQCgG3ZNpDu3rQLEbzYsvq2TtGZ4SarkA51Zs",
+  "token_name": "Terraform16150",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16150",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSBJmC7HuBLn9SmwVNANTLE7XAkXDzHZpjnup8GzZD4SN",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
+  "forests": "Prismaleaf",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 76,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 76,
+      "y": 53
+    },
+    "topRight": {
+      "x": 77,
+      "y": 53
+    },
+    "right": {
+      "x": 77,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 77,
+      "y": 51
+    },
+    "bottom": {
+      "x": 76,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 75,
+      "y": 51
+    },
+    "left": {
+      "x": 75,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 75,
+      "y": 53
+    }
   }
 }

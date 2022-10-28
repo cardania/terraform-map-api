@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05707",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05707",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTGr9h9HT4im5BkXJAjtREJpwq8SFYrYXqsU2q9o7ajWa",
+  "token_name": "Terraform14887",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14887",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaJytPyopxFwKmVMZ37CPxSWUNnV4HgvKRb9cAS4XnG3m",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 5,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
   "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "Solar_Shrine",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Quantum_Shrine",
   "water": "None",
   "location": {
     "x": 70,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 6
+    },
+    "topRight": {
+      "x": 71,
+      "y": 6
+    },
+    "right": {
+      "x": 71,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 4
+    },
+    "bottom": {
+      "x": 70,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 4
+    },
+    "left": {
+      "x": 69,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 6
+    }
   }
 }

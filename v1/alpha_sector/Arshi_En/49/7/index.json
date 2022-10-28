@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01164",
+  "token_name": "Terraform06386",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01164",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNVCm2ZDAzAgov6BbhpSp9Pgvp2S3CU3md3opcHNCao77",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06386",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZVh81DLCUdrtAHdEE1zRS8bbef52DcECHL4JE8QAtSV1",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 2,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 49,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 49,
+      "y": 8
+    },
+    "topRight": {
+      "x": 50,
+      "y": 8
+    },
+    "right": {
+      "x": 50,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 50,
+      "y": 6
+    },
+    "bottom": {
+      "x": 49,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 48,
+      "y": 6
+    },
+    "left": {
+      "x": 48,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 48,
+      "y": 8
+    }
   }
 }

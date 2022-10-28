@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14282",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14282",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd9nJh5YURhK24oEeRX2GdszQxhEwwARk4LwyATup5bNu",
+  "token_name": "Terraform04767",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04767",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ3FKafy17X2NvSqyLQELufSQcywoEamhVtyABcykC2Km",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 7,
   "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "None",
   "location": {
     "x": 62,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 62,
+      "y": 89
+    },
+    "topRight": {
+      "x": 63,
+      "y": 89
+    },
+    "right": {
+      "x": 63,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 63,
+      "y": 87
+    },
+    "bottom": {
+      "x": 62,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 61,
+      "y": 87
+    },
+    "left": {
+      "x": 61,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 61,
+      "y": 89
+    }
   }
 }

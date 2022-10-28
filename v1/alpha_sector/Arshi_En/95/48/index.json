@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15239",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15239",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTpGYjqNnjGWhnwAy9yBmq4ruXH2xDEDKetaPUB87okEw",
+  "token_name": "Terraform11543",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11543",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVDhGvJmh9ywVyaxxs4hb2skLaWj92hFabCWmTvWY6VTV",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "None",
-  "fauna": "None",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 4,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 1,
+  "primary_minerals": "Iron",
   "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 95,
     "y": 48
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 49
+    },
+    "topRight": {
+      "x": 96,
+      "y": 49
+    },
+    "right": {
+      "x": 96,
+      "y": 48
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 47
+    },
+    "bottom": {
+      "x": 95,
+      "y": 47
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 47
+    },
+    "left": {
+      "x": 94,
+      "y": 48
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 49
+    }
   }
 }

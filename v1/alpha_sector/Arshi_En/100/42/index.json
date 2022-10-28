@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17591",
+  "token_name": "Terraform18849",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17591",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQPyH6sBTpMdXN8o29eLnEG4nbgd5gQoTmATQsD9rsKUz",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18849",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVRJGic4faQh2Gf3qTPtwiiP19dPf9TYxuqKr155FePpW",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 3,
-  "quantum_flux": 8,
-  "primary_minerals": "Cardanium",
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 100,
     "y": 42
+  },
+  "neighbors": {
+    "top": {
+      "x": 100,
+      "y": 43
+    },
+    "topRight": {
+      "x": 101,
+      "y": 43
+    },
+    "right": {
+      "x": 101,
+      "y": 42
+    },
+    "bottomRight": {
+      "x": 101,
+      "y": 41
+    },
+    "bottom": {
+      "x": 100,
+      "y": 41
+    },
+    "bottonLeft": {
+      "x": 99,
+      "y": 41
+    },
+    "left": {
+      "x": 99,
+      "y": 42
+    },
+    "topLeft": {
+      "x": 99,
+      "y": 43
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09940",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09940",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc7Cr8ANr3nMUYXTowruSvso7DsKD5pqYYS7u3X2CSCNE",
+  "token_name": "Terraform04609",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04609",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWugNVn7SXLReAFRCfe9FuxmVAKTqJYnnj2hsa5bvvHsk",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "Quantum_Shrine",
-  "water": "Freshwater_River",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 100,
     "y": 58
+  },
+  "neighbors": {
+    "top": {
+      "x": 100,
+      "y": 59
+    },
+    "topRight": {
+      "x": 101,
+      "y": 59
+    },
+    "right": {
+      "x": 101,
+      "y": 58
+    },
+    "bottomRight": {
+      "x": 101,
+      "y": 57
+    },
+    "bottom": {
+      "x": 100,
+      "y": 57
+    },
+    "bottonLeft": {
+      "x": 99,
+      "y": 57
+    },
+    "left": {
+      "x": 99,
+      "y": 58
+    },
+    "topLeft": {
+      "x": 99,
+      "y": 59
+    }
   }
 }

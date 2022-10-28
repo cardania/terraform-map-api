@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform02451",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02451",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWni4wcLNMPAGVeVahpNdyDKzZFBBxnYtoP7E5tQxGhGN",
+  "token_name": "Terraform09241",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09241",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZmHyEhc1RUqG9nmcYf4GUmmq46dD5yaP7kT5tMNGPHVK",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 5,
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
   "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 95,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 57
+    },
+    "topRight": {
+      "x": 96,
+      "y": 57
+    },
+    "right": {
+      "x": 96,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 55
+    },
+    "bottom": {
+      "x": 95,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 55
+    },
+    "left": {
+      "x": 94,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 57
+    }
   }
 }

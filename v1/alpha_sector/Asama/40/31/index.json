@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06677",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06677",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZarz3ZA2kTLam66BNigz49F1dwPh3q5kqAeZYCkPAapQ",
+  "token_name": "Terraform17185",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17185",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNWXxwXgTSZcfs3Uf3WynwBojFwnRmsL6SLcPHBecsTcc",
   "alpha_sector": "Asama",
   "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 7,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 40,
     "y": 31
+  },
+  "neighbors": {
+    "top": {
+      "x": 40,
+      "y": 32
+    },
+    "topRight": {
+      "x": 41,
+      "y": 32
+    },
+    "right": {
+      "x": 41,
+      "y": 31
+    },
+    "bottomRight": {
+      "x": 41,
+      "y": 30
+    },
+    "bottom": {
+      "x": 40,
+      "y": 30
+    },
+    "bottonLeft": {
+      "x": 39,
+      "y": 30
+    },
+    "left": {
+      "x": 39,
+      "y": 31
+    },
+    "topLeft": {
+      "x": 39,
+      "y": 32
+    }
   }
 }

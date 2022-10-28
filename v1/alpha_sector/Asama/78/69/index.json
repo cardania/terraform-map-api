@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15375",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15375",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYKfBi55Gvg3VMXdZb8w8DbFGJ2eVEM4H29CGTEcG687w",
+  "token_name": "Terraform00212",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00212",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVVVzkZyaho2W72QrGPMy6xRiBbw9ifvxrUzbuGCqpgvo",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Melodious_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "power_level": 3,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Timelost_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 78,
     "y": 69
+  },
+  "neighbors": {
+    "top": {
+      "x": 78,
+      "y": 70
+    },
+    "topRight": {
+      "x": 79,
+      "y": 70
+    },
+    "right": {
+      "x": 79,
+      "y": 69
+    },
+    "bottomRight": {
+      "x": 79,
+      "y": 68
+    },
+    "bottom": {
+      "x": 78,
+      "y": 68
+    },
+    "bottonLeft": {
+      "x": 77,
+      "y": 68
+    },
+    "left": {
+      "x": 77,
+      "y": 69
+    },
+    "topLeft": {
+      "x": 77,
+      "y": 70
+    }
   }
 }

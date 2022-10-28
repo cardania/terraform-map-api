@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18698",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18698",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmX4GLoUEPZ1dKwR1kP9XxLKGJ7XfKGeRcVRn2p4yiiVc5",
+  "token_name": "Terraform05710",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05710",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmW8PajUwsCPMcaqEUdAgvC1RefwGXGcCzGRin2GhmGxLw",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 2,
   "quantum_flux": 3,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 7,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 83
+    },
+    "topRight": {
+      "x": 8,
+      "y": 83
+    },
+    "right": {
+      "x": 8,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 81
+    },
+    "bottom": {
+      "x": 7,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 81
+    },
+    "left": {
+      "x": 6,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 83
+    }
   }
 }

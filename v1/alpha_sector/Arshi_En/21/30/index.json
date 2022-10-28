@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03015",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03015",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRYmT4NQFwEFt3Qm6Yhd9JQUQHjthYQKsk9fd9aByNc5B",
+  "token_name": "Terraform17166",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17166",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXV2Bd6Qqna4kaHr7opLUxr9N1ng4fNJDa6Vw4p3uuQiV",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "Critters",
-  "forests": "Palms",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "Golden_Shrine",
+  "water": "Cursed_Lake",
   "location": {
     "x": 21,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 31
+    },
+    "topRight": {
+      "x": 22,
+      "y": 31
+    },
+    "right": {
+      "x": 22,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 29
+    },
+    "bottom": {
+      "x": 21,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 29
+    },
+    "left": {
+      "x": 20,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 31
+    }
   }
 }

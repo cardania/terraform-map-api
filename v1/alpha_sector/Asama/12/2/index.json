@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07135",
+  "token_name": "Terraform09598",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07135",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbTa6hRFqKT9LuxW2ryN9qQuKnTTZvHCJbBEAHUbqXXod",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09598",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQaEYkFhSzWiBQzn85rgrXzQ2YZt5J4iVc5VUHC44DrH5",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 9,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 12,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 12,
+      "y": 3
+    },
+    "topRight": {
+      "x": 13,
+      "y": 3
+    },
+    "right": {
+      "x": 13,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 13,
+      "y": 1
+    },
+    "bottom": {
+      "x": 12,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 11,
+      "y": 1
+    },
+    "left": {
+      "x": 11,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 11,
+      "y": 3
+    }
   }
 }

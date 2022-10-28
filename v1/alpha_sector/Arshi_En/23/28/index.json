@@ -1,18 +1,18 @@
 {
-  "token_name": "Terraform08208",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08208",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdFuoXgL9evwanCZAPrTpSHVTCVnmZFFuSimt9QjXwrHf",
+  "token_name": "Terraform16471",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16471",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVRYficcmvJUUFvu1cAhKXyoZojbT9TJGRq1deT4Byi9t",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 7,
+  "power_level": 1,
+  "quantum_flux": 4,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 23,
     "y": 28
+  },
+  "neighbors": {
+    "top": {
+      "x": 23,
+      "y": 29
+    },
+    "topRight": {
+      "x": 24,
+      "y": 29
+    },
+    "right": {
+      "x": 24,
+      "y": 28
+    },
+    "bottomRight": {
+      "x": 24,
+      "y": 27
+    },
+    "bottom": {
+      "x": 23,
+      "y": 27
+    },
+    "bottonLeft": {
+      "x": 22,
+      "y": 27
+    },
+    "left": {
+      "x": 22,
+      "y": 28
+    },
+    "topLeft": {
+      "x": 22,
+      "y": 29
+    }
   }
 }

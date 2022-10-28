@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07787",
+  "token_name": "Terraform17429",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07787",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSfPg9xCFsMRtgvpiHQkz4D2CN7EJSyFH9j6fsADcJnc1",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17429",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcqCo3H36KSN7Je1d33x64SPYvAj5owXBhLjNW7xHNrUg",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 3,
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 7,
+  "quantum_flux": 5,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Funky_Lake",
   "location": {
     "x": 22,
     "y": 57
+  },
+  "neighbors": {
+    "top": {
+      "x": 22,
+      "y": 58
+    },
+    "topRight": {
+      "x": 23,
+      "y": 58
+    },
+    "right": {
+      "x": 23,
+      "y": 57
+    },
+    "bottomRight": {
+      "x": 23,
+      "y": 56
+    },
+    "bottom": {
+      "x": 22,
+      "y": 56
+    },
+    "bottonLeft": {
+      "x": 21,
+      "y": 56
+    },
+    "left": {
+      "x": 21,
+      "y": 57
+    },
+    "topLeft": {
+      "x": 21,
+      "y": 58
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01500",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01500",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmR5wNC8obcLD2Yxnsrbaz5PGKnuqBaRqrALC6GNwrD2EK",
+  "token_name": "Terraform17533",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17533",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNLpPEvg7NPPf7nK7NCjHNqJ8XyeDXmCmkWEVwu9EpzGo",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Prismaleaf",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 3,
+  "power_level": 1,
   "quantum_flux": 7,
-  "primary_minerals": "None",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 44,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 44,
+      "y": 3
+    },
+    "topRight": {
+      "x": 45,
+      "y": 3
+    },
+    "right": {
+      "x": 45,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 45,
+      "y": 1
+    },
+    "bottom": {
+      "x": 44,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 43,
+      "y": 1
+    },
+    "left": {
+      "x": 43,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 43,
+      "y": 3
+    }
   }
 }

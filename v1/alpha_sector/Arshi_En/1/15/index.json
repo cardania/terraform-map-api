@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06580",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06580",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbXV7AGjBsskGm8xxS6Kn6bRZG3pGjwNC16fjinGKt6Rx",
+  "token_name": "Terraform08584",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08584",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeuuB81jdQw8PoGxEzXRmH4JziGoQaa7U4htc8R4KzVMD",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 4,
+  "forests": "Evergreen",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 3,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 1,
     "y": 15
+  },
+  "neighbors": {
+    "top": {
+      "x": 1,
+      "y": 16
+    },
+    "topRight": {
+      "x": 2,
+      "y": 16
+    },
+    "right": {
+      "x": 2,
+      "y": 15
+    },
+    "bottomRight": {
+      "x": 2,
+      "y": 14
+    },
+    "bottom": {
+      "x": 1,
+      "y": 14
+    },
+    "bottonLeft": {
+      "x": 0,
+      "y": 14
+    },
+    "left": {
+      "x": 0,
+      "y": 15
+    },
+    "topLeft": {
+      "x": 0,
+      "y": 16
+    }
   }
 }

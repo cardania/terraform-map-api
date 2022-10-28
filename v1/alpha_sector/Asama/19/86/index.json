@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10961",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10961",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qma8B8xqcAdGKE4v2DkD6fvF4aMzueA5A9dZa4BBJqCYmz",
+  "token_name": "Terraform01628",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01628",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUuyqYAv784K8RgPcrsVtJzDYLLi4z6yJDroCfpwBjtDU",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Cursed_Nanites",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 4,
-  "quantum_flux": 6,
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 3,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "None",
   "location": {
     "x": 19,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 19,
+      "y": 87
+    },
+    "topRight": {
+      "x": 20,
+      "y": 87
+    },
+    "right": {
+      "x": 20,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 20,
+      "y": 85
+    },
+    "bottom": {
+      "x": 19,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 18,
+      "y": 85
+    },
+    "left": {
+      "x": 18,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 18,
+      "y": 87
+    }
   }
 }

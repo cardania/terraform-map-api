@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17353",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17353",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSmfHh33seX1FbzCgPVHRyMgX66vGLNz21b6eVdoUvUPC",
+  "token_name": "Terraform08292",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08292",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVznB49wAwm2hcyDtFBjYwQQeUAHcvwEUabiZpzS3YhR1",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 8,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Quantum_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 75,
     "y": 69
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 70
+    },
+    "topRight": {
+      "x": 76,
+      "y": 70
+    },
+    "right": {
+      "x": 76,
+      "y": 69
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 68
+    },
+    "bottom": {
+      "x": 75,
+      "y": 68
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 68
+    },
+    "left": {
+      "x": 74,
+      "y": 69
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 70
+    }
   }
 }

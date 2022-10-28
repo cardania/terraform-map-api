@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12090",
+  "token_name": "Terraform17612",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12090",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUtuNYGv18bwyPxUrxbHiuxVHrkV1Lz1n3Pdo2iExhfU6",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17612",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSLp8YM8W2eAcwnn5z3aPjLWHjbsd6FixqsDwHoQSUs8D",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 1,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 3,
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "Timelost_Shrine",
   "water": "None",
   "location": {
     "x": 33,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 7
+    },
+    "topRight": {
+      "x": 34,
+      "y": 7
+    },
+    "right": {
+      "x": 34,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 5
+    },
+    "bottom": {
+      "x": 33,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 5
+    },
+    "left": {
+      "x": 32,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 7
+    }
   }
 }

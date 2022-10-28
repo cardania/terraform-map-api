@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03184",
+  "token_name": "Terraform11408",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03184",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRj6fSvN9SoUHjXc1Ese7ngCiK9jxJ1G7taWYYzcTXFP5",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11408",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaXBnNFvdcFZrdUGwoQrY47vR5mzvf8Z2CMAM3qqLLTSK",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 4,
+  "power_level": 1,
+  "quantum_flux": 8,
   "primary_minerals": "Iron",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 20,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 44
+    },
+    "topRight": {
+      "x": 21,
+      "y": 44
+    },
+    "right": {
+      "x": 21,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 42
+    },
+    "bottom": {
+      "x": 20,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 42
+    },
+    "left": {
+      "x": 19,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 44
+    }
   }
 }

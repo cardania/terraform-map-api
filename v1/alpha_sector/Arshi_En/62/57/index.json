@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02137",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02137",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSDoBNFktL4QgtfSKYaMVqLxx7AjTEEk9TX1eksxPHd1M",
+  "token_name": "Terraform10992",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10992",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfMSsor5Advzhf4sTzWitj3SS7DA4LbAWirpF4PR7gY8t",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 7,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 1,
   "quantum_flux": 5,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 62,
     "y": 57
+  },
+  "neighbors": {
+    "top": {
+      "x": 62,
+      "y": 58
+    },
+    "topRight": {
+      "x": 63,
+      "y": 58
+    },
+    "right": {
+      "x": 63,
+      "y": 57
+    },
+    "bottomRight": {
+      "x": 63,
+      "y": 56
+    },
+    "bottom": {
+      "x": 62,
+      "y": 56
+    },
+    "bottonLeft": {
+      "x": 61,
+      "y": 56
+    },
+    "left": {
+      "x": 61,
+      "y": 57
+    },
+    "topLeft": {
+      "x": 61,
+      "y": 58
+    }
   }
 }

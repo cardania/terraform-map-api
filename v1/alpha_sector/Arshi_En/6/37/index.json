@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08891",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08891",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qma82ygREnAL63iFp25rzUSVGiVmGvH8Tfjb2WraHmJN13",
+  "token_name": "Terraform03471",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03471",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTm5vW6K86G5PBZznoGDz2triBYxew81BYeFMgEcTTc3a",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 4,
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
   "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "Machine_Shrine",
+  "water": "Funky_River",
   "location": {
     "x": 6,
     "y": 37
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 38
+    },
+    "topRight": {
+      "x": 7,
+      "y": 38
+    },
+    "right": {
+      "x": 7,
+      "y": 37
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 36
+    },
+    "bottom": {
+      "x": 6,
+      "y": 36
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 36
+    },
+    "left": {
+      "x": 5,
+      "y": 37
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 38
+    }
   }
 }

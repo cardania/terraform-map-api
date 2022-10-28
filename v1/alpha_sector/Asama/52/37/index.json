@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11654",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11654",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRg9WhAPHoPMwcoFW6v71P1xQSWHArhcAsCXY7mdfKNyp",
+  "token_name": "Terraform12549",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12549",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWsD11BdgipVEVsvzz5hXiS4K9cGf7EJd6k5Vq9A7hKTz",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Orange",
+  "power_level": 9,
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "Void_Shrine",
-  "water": "Cursed_Lake",
+  "water": "Saltwater_River",
   "location": {
     "x": 52,
     "y": 37
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 38
+    },
+    "topRight": {
+      "x": 53,
+      "y": 38
+    },
+    "right": {
+      "x": 53,
+      "y": 37
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 36
+    },
+    "bottom": {
+      "x": 52,
+      "y": 36
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 36
+    },
+    "left": {
+      "x": 51,
+      "y": 37
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 38
+    }
   }
 }

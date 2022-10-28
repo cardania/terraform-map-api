@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00917",
+  "token_name": "Terraform00845",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00917",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRQi91fU8d11x2sv17YoMC5BHMwASLmKzCvGYWaY2ree2",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00845",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmURYhzA4vJMUNeowbwv1PwGWyftMG4b95pn2DsPWQi6XT",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 4,
-  "quantum_flux": 5,
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 67,
     "y": 92
+  },
+  "neighbors": {
+    "top": {
+      "x": 67,
+      "y": 93
+    },
+    "topRight": {
+      "x": 68,
+      "y": 93
+    },
+    "right": {
+      "x": 68,
+      "y": 92
+    },
+    "bottomRight": {
+      "x": 68,
+      "y": 91
+    },
+    "bottom": {
+      "x": 67,
+      "y": 91
+    },
+    "bottonLeft": {
+      "x": 66,
+      "y": 91
+    },
+    "left": {
+      "x": 66,
+      "y": 92
+    },
+    "topLeft": {
+      "x": 66,
+      "y": 93
+    }
   }
 }

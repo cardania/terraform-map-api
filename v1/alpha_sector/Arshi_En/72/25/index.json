@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10175",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10175",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYv8eMg5YJDMf3fuxvPTQdDFkcPr2tbt1He7PNi8SD8Yb",
+  "token_name": "Terraform10841",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10841",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVcS6igYvLXGf4v5ziA3Wwwugfgad6dsLZhahCtzqmXVj",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "Saltwater_River",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 5,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 72,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 72,
+      "y": 26
+    },
+    "topRight": {
+      "x": 73,
+      "y": 26
+    },
+    "right": {
+      "x": 73,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 73,
+      "y": 24
+    },
+    "bottom": {
+      "x": 72,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 71,
+      "y": 24
+    },
+    "left": {
+      "x": 71,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 71,
+      "y": 26
+    }
   }
 }

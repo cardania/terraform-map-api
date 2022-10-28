@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15072",
+  "token_name": "Terraform18847",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15072",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmU3mY36xhH15mT9vqpswRGUXgyuVbaepGVpVnqMPS5wCC",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18847",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRqhdgYCftEVTMy2fSsZVqpmAjEErR9c53v2VL3977vhy",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
+  "power_level": 1,
   "quantum_flux": 7,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 20,
     "y": 17
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 18
+    },
+    "topRight": {
+      "x": 21,
+      "y": 18
+    },
+    "right": {
+      "x": 21,
+      "y": 17
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 16
+    },
+    "bottom": {
+      "x": 20,
+      "y": 16
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 16
+    },
+    "left": {
+      "x": 19,
+      "y": 17
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 18
+    }
   }
 }

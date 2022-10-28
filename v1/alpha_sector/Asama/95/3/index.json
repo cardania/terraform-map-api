@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04618",
+  "token_name": "Terraform10557",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04618",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qme5qfqbE7N4YNV4M8QndeZeAbcp7SAztj1WJXdjnmjbk5",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10557",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSz5G4d6yqxdas9sQW4rPUfmraexUbFcHUroFn9cT7fv7",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "Palms",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
   "power_level": 3,
-  "quantum_flux": 1,
-  "primary_minerals": "Radium",
+  "quantum_flux": 7,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
-  "shrine": "None",
-  "water": "Saltwater_River",
+  "ruins": "None",
+  "shrine": "Quantum_Shrine",
+  "water": "None",
   "location": {
     "x": 95,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 4
+    },
+    "topRight": {
+      "x": 96,
+      "y": 4
+    },
+    "right": {
+      "x": 96,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 2
+    },
+    "bottom": {
+      "x": 95,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 2
+    },
+    "left": {
+      "x": 94,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 4
+    }
   }
 }

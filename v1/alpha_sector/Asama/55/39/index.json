@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03802",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03802",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVPNP51zv45mDVUfDKJXSVAFGGkYWPmZrYGzBXVo9rjTx",
+  "token_name": "Terraform05353",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05353",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTZUJryjTthK2uNqiBdUddJ8qx1dtRcgrxxz3T1oGSoh5",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 6,
+  "power_level": 7,
+  "quantum_flux": 8,
   "primary_minerals": "Copper",
   "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Red",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 55,
     "y": 39
+  },
+  "neighbors": {
+    "top": {
+      "x": 55,
+      "y": 40
+    },
+    "topRight": {
+      "x": 56,
+      "y": 40
+    },
+    "right": {
+      "x": 56,
+      "y": 39
+    },
+    "bottomRight": {
+      "x": 56,
+      "y": 38
+    },
+    "bottom": {
+      "x": 55,
+      "y": 38
+    },
+    "bottonLeft": {
+      "x": 54,
+      "y": 38
+    },
+    "left": {
+      "x": 54,
+      "y": 39
+    },
+    "topLeft": {
+      "x": 54,
+      "y": 40
+    }
   }
 }

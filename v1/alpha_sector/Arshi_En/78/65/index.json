@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10564",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10564",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYna9qpXjQ9aDEvUWtSCgbnYexfLz8Aw4v7grvehsjLLU",
+  "token_name": "Terraform06104",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06104",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWVRZwheTwEKPgvZn7btguKEVPxmRdzt2f12aSDx78Rrp",
   "alpha_sector": "Arshi_En",
   "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 2,
-  "quantum_flux": 2,
+  "quantum_flux": 3,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 78,
     "y": 65
+  },
+  "neighbors": {
+    "top": {
+      "x": 78,
+      "y": 66
+    },
+    "topRight": {
+      "x": 79,
+      "y": 66
+    },
+    "right": {
+      "x": 79,
+      "y": 65
+    },
+    "bottomRight": {
+      "x": 79,
+      "y": 64
+    },
+    "bottom": {
+      "x": 78,
+      "y": 64
+    },
+    "bottonLeft": {
+      "x": 77,
+      "y": 64
+    },
+    "left": {
+      "x": 77,
+      "y": 65
+    },
+    "topLeft": {
+      "x": 77,
+      "y": 66
+    }
   }
 }

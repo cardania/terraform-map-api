@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04310",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04310",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUUxpjdjonrsRZAudo4SKR8seutg8LyZe1vQSu7msbXNq",
+  "token_name": "Terraform15348",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15348",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTXHNqeD1pGhw6yfWD5rCUFbuFg2TxAG81s6pQUWyckyU",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Ultrasaurs",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 7,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 35,
     "y": 40
+  },
+  "neighbors": {
+    "top": {
+      "x": 35,
+      "y": 41
+    },
+    "topRight": {
+      "x": 36,
+      "y": 41
+    },
+    "right": {
+      "x": 36,
+      "y": 40
+    },
+    "bottomRight": {
+      "x": 36,
+      "y": 39
+    },
+    "bottom": {
+      "x": 35,
+      "y": 39
+    },
+    "bottonLeft": {
+      "x": 34,
+      "y": 39
+    },
+    "left": {
+      "x": 34,
+      "y": 40
+    },
+    "topLeft": {
+      "x": 34,
+      "y": 41
+    }
   }
 }

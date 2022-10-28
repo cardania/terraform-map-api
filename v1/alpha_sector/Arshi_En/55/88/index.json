@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10271",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10271",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWukPXeNssQG2F43A4Coiy5vYHWq5KpeBX6Aww3V3Rubo",
+  "token_name": "Terraform01950",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01950",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbHGnnBGWKhViMreFdTSHGFzRvYy8CZjTwTRtwAe6xQv2",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Cursed_Nanites",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 6,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 8,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Toxic_Lake",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "Quantum_Shrine",
+  "water": "None",
   "location": {
     "x": 55,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 55,
+      "y": 89
+    },
+    "topRight": {
+      "x": 56,
+      "y": 89
+    },
+    "right": {
+      "x": 56,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 56,
+      "y": 87
+    },
+    "bottom": {
+      "x": 55,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 54,
+      "y": 87
+    },
+    "left": {
+      "x": 54,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 54,
+      "y": 89
+    }
   }
 }

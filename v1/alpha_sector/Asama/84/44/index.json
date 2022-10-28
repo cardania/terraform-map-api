@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06034",
+  "token_name": "Terraform00263",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06034",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYseyojGdFZ8TEaM1eDYHZ131Ymg8GDUPBXnk6pBVcspN",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00263",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaRwTBHjMhW9H3pns5Z4UMT1AcPE3DgwWAQR66XdoinCn",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 2,
   "quantum_flux": 3,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Freshwater_Lake",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 84,
     "y": 44
+  },
+  "neighbors": {
+    "top": {
+      "x": 84,
+      "y": 45
+    },
+    "topRight": {
+      "x": 85,
+      "y": 45
+    },
+    "right": {
+      "x": 85,
+      "y": 44
+    },
+    "bottomRight": {
+      "x": 85,
+      "y": 43
+    },
+    "bottom": {
+      "x": 84,
+      "y": 43
+    },
+    "bottonLeft": {
+      "x": 83,
+      "y": 43
+    },
+    "left": {
+      "x": 83,
+      "y": 44
+    },
+    "topLeft": {
+      "x": 83,
+      "y": 45
+    }
   }
 }

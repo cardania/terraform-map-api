@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06311",
+  "token_name": "Terraform13945",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06311",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVZm4JP9L9ceL3M7EP65hJ7TfWcVRzERzBsmdHndAtvTS",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13945",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmT4Q9EokKmFUBdWNnRa5QQNftzzxFmHSrFsQreaH9mg8P",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 2,
     "y": 32
+  },
+  "neighbors": {
+    "top": {
+      "x": 2,
+      "y": 33
+    },
+    "topRight": {
+      "x": 3,
+      "y": 33
+    },
+    "right": {
+      "x": 3,
+      "y": 32
+    },
+    "bottomRight": {
+      "x": 3,
+      "y": 31
+    },
+    "bottom": {
+      "x": 2,
+      "y": 31
+    },
+    "bottonLeft": {
+      "x": 1,
+      "y": 31
+    },
+    "left": {
+      "x": 1,
+      "y": 32
+    },
+    "topLeft": {
+      "x": 1,
+      "y": 33
+    }
   }
 }

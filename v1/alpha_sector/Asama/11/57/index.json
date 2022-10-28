@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17801",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17801",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXsUyJ9FeW23fFUQGpUnyUwM8PFo69AJWiZ66PnRnsAhN",
+  "token_name": "Terraform15203",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15203",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbKUMKMLztiYLAzcfQ2DZUHdJvGKKUW3Afvyp728jouGk",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Melodious_Mantrap",
+  "forests": "None",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
   "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "Toxic_Lake",
   "location": {
     "x": 11,
     "y": 57
+  },
+  "neighbors": {
+    "top": {
+      "x": 11,
+      "y": 58
+    },
+    "topRight": {
+      "x": 12,
+      "y": 58
+    },
+    "right": {
+      "x": 12,
+      "y": 57
+    },
+    "bottomRight": {
+      "x": 12,
+      "y": 56
+    },
+    "bottom": {
+      "x": 11,
+      "y": 56
+    },
+    "bottonLeft": {
+      "x": 10,
+      "y": 56
+    },
+    "left": {
+      "x": 10,
+      "y": 57
+    },
+    "topLeft": {
+      "x": 10,
+      "y": 58
+    }
   }
 }

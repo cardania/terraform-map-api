@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15653",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15653",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTq9ktbx5ToUwc3XWP1gJneMqjXcK3gS5JCUPt7m5Qiyy",
+  "token_name": "Terraform16949",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16949",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRqoZPnZ5q5GEQmV4oUq9WWaS78SRehrbxDJiJqSH8oys",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
+  "power_level": 4,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 95,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 30
+    },
+    "topRight": {
+      "x": 96,
+      "y": 30
+    },
+    "right": {
+      "x": 96,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 28
+    },
+    "bottom": {
+      "x": 95,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 28
+    },
+    "left": {
+      "x": 94,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 30
+    }
   }
 }

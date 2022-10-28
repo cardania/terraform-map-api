@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00821",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00821",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXUSwXrzRqqQm4Ts5Je5XuwyFDnPh5YevB4QQCF2tzf47",
+  "token_name": "Terraform02953",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02953",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRnMoVfrERPKXr6xisRuEpc296RX4j6Q4w5BZr3hBro6L",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 8,
   "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 87,
     "y": 63
+  },
+  "neighbors": {
+    "top": {
+      "x": 87,
+      "y": 64
+    },
+    "topRight": {
+      "x": 88,
+      "y": 64
+    },
+    "right": {
+      "x": 88,
+      "y": 63
+    },
+    "bottomRight": {
+      "x": 88,
+      "y": 62
+    },
+    "bottom": {
+      "x": 87,
+      "y": 62
+    },
+    "bottonLeft": {
+      "x": 86,
+      "y": 62
+    },
+    "left": {
+      "x": 86,
+      "y": 63
+    },
+    "topLeft": {
+      "x": 86,
+      "y": 64
+    }
   }
 }

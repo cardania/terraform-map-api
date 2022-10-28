@@ -1,17 +1,17 @@
 {
-  "token_name": "Terraform15131",
+  "token_name": "Terraform15182",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15131",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaztXRScs6vpJV3HM1MW48JJZWizwyrriC1psUebrTTFe",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15182",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVR8jDPQL2GzWdYFZYvakeuzMnCztWe4ebZHAZ5P5jVTx",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 6,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
   "quantum_flux": 3,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 49,
     "y": 61
+  },
+  "neighbors": {
+    "top": {
+      "x": 49,
+      "y": 62
+    },
+    "topRight": {
+      "x": 50,
+      "y": 62
+    },
+    "right": {
+      "x": 50,
+      "y": 61
+    },
+    "bottomRight": {
+      "x": 50,
+      "y": 60
+    },
+    "bottom": {
+      "x": 49,
+      "y": 60
+    },
+    "bottonLeft": {
+      "x": 48,
+      "y": 60
+    },
+    "left": {
+      "x": 48,
+      "y": 61
+    },
+    "topLeft": {
+      "x": 48,
+      "y": 62
+    }
   }
 }

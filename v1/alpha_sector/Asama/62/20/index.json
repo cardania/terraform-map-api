@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04573",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04573",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaxLYqHHGLD9rW6K4VjvxiBowmUZzArgohM8krwn7uUXc",
+  "token_name": "Terraform17776",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17776",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUzEssUfnpVczeKPyRnbLpcEk7f8kCpuoeaUNnvoVgxdw",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 2,
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 9,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "Saltwater_River",
   "location": {
     "x": 62,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 62,
+      "y": 21
+    },
+    "topRight": {
+      "x": 63,
+      "y": 21
+    },
+    "right": {
+      "x": 63,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 63,
+      "y": 19
+    },
+    "bottom": {
+      "x": 62,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 61,
+      "y": 19
+    },
+    "left": {
+      "x": 61,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 61,
+      "y": 21
+    }
   }
 }

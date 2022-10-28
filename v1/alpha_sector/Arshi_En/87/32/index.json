@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05925",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05925",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmX4QW2aKXetD41z2B4a7kKE2GxjkcEmAomKabXrqRXyDg",
+  "token_name": "Terraform03060",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03060",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUosQ5inMJxNwxde2MtPMFzi6XDLmjmZ8Ks15YmMee3sV",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "power_level": 8,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 87,
     "y": 32
+  },
+  "neighbors": {
+    "top": {
+      "x": 87,
+      "y": 33
+    },
+    "topRight": {
+      "x": 88,
+      "y": 33
+    },
+    "right": {
+      "x": 88,
+      "y": 32
+    },
+    "bottomRight": {
+      "x": 88,
+      "y": 31
+    },
+    "bottom": {
+      "x": 87,
+      "y": 31
+    },
+    "bottonLeft": {
+      "x": 86,
+      "y": 31
+    },
+    "left": {
+      "x": 86,
+      "y": 32
+    },
+    "topLeft": {
+      "x": 86,
+      "y": 33
+    }
   }
 }

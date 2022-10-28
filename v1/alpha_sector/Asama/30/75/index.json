@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02839",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02839",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdA2BK8SsiqpRg5ru22SRvXKr4vUNDrs8T6aDHNXYkHFK",
+  "token_name": "Terraform12663",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12663",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYbWvGKRzsroR2J58b8VZJo1eje7GrA6m27ny2eMRjMWs",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "Iron",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Solar_Shrine",
+  "water": "None",
   "location": {
     "x": 30,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 30,
+      "y": 76
+    },
+    "topRight": {
+      "x": 31,
+      "y": 76
+    },
+    "right": {
+      "x": 31,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 31,
+      "y": 74
+    },
+    "bottom": {
+      "x": 30,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 29,
+      "y": 74
+    },
+    "left": {
+      "x": 29,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 29,
+      "y": 76
+    }
   }
 }

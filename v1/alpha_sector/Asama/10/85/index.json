@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform06463",
+  "token_name": "Terraform02066",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06463",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRyaUDSbZu9jHaqBwgmx7JygFoMoBEuCMRY5wjhtGVYBY",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02066",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYvDjrdDF8bfkPz2kvyHbqHyhKoL6sMw8ALBqcciJseyx",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Palms",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 7,
-  "primary_minerals": "Iron",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 10,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 10,
+      "y": 86
+    },
+    "topRight": {
+      "x": 11,
+      "y": 86
+    },
+    "right": {
+      "x": 11,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 11,
+      "y": 84
+    },
+    "bottom": {
+      "x": 10,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 9,
+      "y": 84
+    },
+    "left": {
+      "x": 9,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 9,
+      "y": 86
+    }
   }
 }

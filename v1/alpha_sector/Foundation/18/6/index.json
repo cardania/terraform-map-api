@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19996",
+  "token_name": "Terraform19930",
   "land_type": "Prismatic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19996",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVTrgjoMghCQPcbCZ6cLHRwFDPYRWS1ce5isxPT13yLGo",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19930",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdy7fVeQMNH1YDto5hvv56vq1mGGZHc74s3V7pQjDFiFF",
   "alpha_sector": "Foundation",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 1,
-  "quantum_flux": 8,
+  "quantum_flux": 4,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "None",
+  "shrine": "Quantum_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 18,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 18,
+      "y": 7
+    },
+    "topRight": {
+      "x": 19,
+      "y": 7
+    },
+    "right": {
+      "x": 19,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 19,
+      "y": 5
+    },
+    "bottom": {
+      "x": 18,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 17,
+      "y": 5
+    },
+    "left": {
+      "x": 17,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 17,
+      "y": 7
+    }
   }
 }

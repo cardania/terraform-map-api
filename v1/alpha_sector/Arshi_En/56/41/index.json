@@ -1,8 +1,8 @@
 {
-  "token_name": "Terraform01777",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01777",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQKaJuncCYdjU4RLsnMPUJUYzDwVQUF7yoAz9mdEmfTgX",
+  "token_name": "Terraform06558",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06558",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYKr2CGDN2X1sEccuZLTXGDAJBbFnejfhFqdrqSVvUvCy",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
@@ -10,16 +10,50 @@
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 56,
     "y": 41
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 42
+    },
+    "topRight": {
+      "x": 57,
+      "y": 42
+    },
+    "right": {
+      "x": 57,
+      "y": 41
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 40
+    },
+    "bottom": {
+      "x": 56,
+      "y": 40
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 40
+    },
+    "left": {
+      "x": 55,
+      "y": 41
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 42
+    }
   }
 }

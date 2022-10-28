@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03303",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03303",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmX2nQpUFi41uLQQC8NmGbkhtxbwhn3DU6MmQFL9H9oUKu",
+  "token_name": "Terraform06914",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06914",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXLcfL992BUqGRJ9rUDsCU17ipiT2AfqeXfvEYxMcBY6h",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 18,
     "y": 66
+  },
+  "neighbors": {
+    "top": {
+      "x": 18,
+      "y": 67
+    },
+    "topRight": {
+      "x": 19,
+      "y": 67
+    },
+    "right": {
+      "x": 19,
+      "y": 66
+    },
+    "bottomRight": {
+      "x": 19,
+      "y": 65
+    },
+    "bottom": {
+      "x": 18,
+      "y": 65
+    },
+    "bottonLeft": {
+      "x": 17,
+      "y": 65
+    },
+    "left": {
+      "x": 17,
+      "y": 66
+    },
+    "topLeft": {
+      "x": 17,
+      "y": 67
+    }
   }
 }

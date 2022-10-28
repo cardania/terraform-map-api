@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03211",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03211",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdfwoLkHdwQ7KfZtNrVnSKcgEjNkrKHPK2Y8B6TpUmTEg",
+  "token_name": "Terraform19164",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19164",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTSKTmQDGZ546YEr83kcDjRkzkF6EPtftcAuePArAYcAL",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Orange",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 7,
+  "quantum_flux": 6,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 57,
     "y": 81
+  },
+  "neighbors": {
+    "top": {
+      "x": 57,
+      "y": 82
+    },
+    "topRight": {
+      "x": 58,
+      "y": 82
+    },
+    "right": {
+      "x": 58,
+      "y": 81
+    },
+    "bottomRight": {
+      "x": 58,
+      "y": 80
+    },
+    "bottom": {
+      "x": 57,
+      "y": 80
+    },
+    "bottonLeft": {
+      "x": 56,
+      "y": 80
+    },
+    "left": {
+      "x": 56,
+      "y": 81
+    },
+    "topLeft": {
+      "x": 56,
+      "y": 82
+    }
   }
 }

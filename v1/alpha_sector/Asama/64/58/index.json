@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01240",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01240",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaBEai2znCJDsewYNMvGa6mSMmB3miFxsmfhYj4yqqRk3",
+  "token_name": "Terraform00420",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00420",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXtAyuzHTuYUE6XwZYyWQp6L6oZ7xQpUqb68ri1VZYwza",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 7,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_Lake",
   "location": {
     "x": 64,
     "y": 58
+  },
+  "neighbors": {
+    "top": {
+      "x": 64,
+      "y": 59
+    },
+    "topRight": {
+      "x": 65,
+      "y": 59
+    },
+    "right": {
+      "x": 65,
+      "y": 58
+    },
+    "bottomRight": {
+      "x": 65,
+      "y": 57
+    },
+    "bottom": {
+      "x": 64,
+      "y": 57
+    },
+    "bottonLeft": {
+      "x": 63,
+      "y": 57
+    },
+    "left": {
+      "x": 63,
+      "y": 58
+    },
+    "topLeft": {
+      "x": 63,
+      "y": 59
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06739",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06739",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSLa4pCGYXbowiccykFyJ1ULPQSZzPJ65uULP6EAJGdU1",
+  "token_name": "Terraform06328",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06328",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVgRXdDkAm7hFtBXTwTaZYTvQXAVwPso5f7o6FxRARQ5h",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 2,
   "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 100,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 100,
+      "y": 3
+    },
+    "topRight": {
+      "x": 101,
+      "y": 3
+    },
+    "right": {
+      "x": 101,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 101,
+      "y": 1
+    },
+    "bottom": {
+      "x": 100,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 99,
+      "y": 1
+    },
+    "left": {
+      "x": 99,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 99,
+      "y": 3
+    }
   }
 }

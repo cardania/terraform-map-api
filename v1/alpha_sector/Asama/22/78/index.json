@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11830",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11830",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVBxwEHRNDgfYdvQSGpxqpM7VDzgWZRbYdtSPs6eDpxTn",
+  "token_name": "Terraform08873",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08873",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcG7Ki3LDYa6TzpuqVxWTHDahCJtjWMoFe5oz3pkPdsrL",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Fungal_Shrine",
-  "water": "Cursed_Lake",
+  "power_level": 5,
+  "quantum_flux": 8,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 22,
     "y": 78
+  },
+  "neighbors": {
+    "top": {
+      "x": 22,
+      "y": 79
+    },
+    "topRight": {
+      "x": 23,
+      "y": 79
+    },
+    "right": {
+      "x": 23,
+      "y": 78
+    },
+    "bottomRight": {
+      "x": 23,
+      "y": 77
+    },
+    "bottom": {
+      "x": 22,
+      "y": 77
+    },
+    "bottonLeft": {
+      "x": 21,
+      "y": 77
+    },
+    "left": {
+      "x": 21,
+      "y": 78
+    },
+    "topLeft": {
+      "x": 21,
+      "y": 79
+    }
   }
 }

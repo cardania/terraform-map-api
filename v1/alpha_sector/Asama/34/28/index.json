@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15522",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15522",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNpouuRasgcUhjap9oWFVgu2UrgNHUDn4MTjyFwJc4UDu",
+  "token_name": "Terraform01526",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01526",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTpDhK3ACD6hr5cRfT71qb42yZxSHgEBMnJTbtWoaDCAh",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 8,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Timelost",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 34,
     "y": 28
+  },
+  "neighbors": {
+    "top": {
+      "x": 34,
+      "y": 29
+    },
+    "topRight": {
+      "x": 35,
+      "y": 29
+    },
+    "right": {
+      "x": 35,
+      "y": 28
+    },
+    "bottomRight": {
+      "x": 35,
+      "y": 27
+    },
+    "bottom": {
+      "x": 34,
+      "y": 27
+    },
+    "bottonLeft": {
+      "x": 33,
+      "y": 27
+    },
+    "left": {
+      "x": 33,
+      "y": 28
+    },
+    "topLeft": {
+      "x": 33,
+      "y": 29
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10087",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10087",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSRe3Qka256yRwN4xe1w87488GL7kSZUiyW4KUfdPCdDe",
+  "token_name": "Terraform06306",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06306",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPS9KAEHVE7AEHgyVUy36xgGRM8W4rGjwH3nxREpqoe8S",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 3,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 4,
+  "quantum_flux": 6,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 39,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 9
+    },
+    "topRight": {
+      "x": 40,
+      "y": 9
+    },
+    "right": {
+      "x": 40,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 7
+    },
+    "bottom": {
+      "x": 39,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 7
+    },
+    "left": {
+      "x": 38,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 9
+    }
   }
 }

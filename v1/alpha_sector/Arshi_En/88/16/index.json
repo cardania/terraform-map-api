@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09034",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09034",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfQSXi9WD4St8KqjmxUaGmpop5m7oLbXmofhNbHfdC12E",
+  "token_name": "Terraform19551",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19551",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNYFXYr6ww9pMiXxTv8koTTPbEBoJGaXURd1m2H4W8W2c",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Ancient_Ruins",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 88,
     "y": 16
+  },
+  "neighbors": {
+    "top": {
+      "x": 88,
+      "y": 17
+    },
+    "topRight": {
+      "x": 89,
+      "y": 17
+    },
+    "right": {
+      "x": 89,
+      "y": 16
+    },
+    "bottomRight": {
+      "x": 89,
+      "y": 15
+    },
+    "bottom": {
+      "x": 88,
+      "y": 15
+    },
+    "bottonLeft": {
+      "x": 87,
+      "y": 15
+    },
+    "left": {
+      "x": 87,
+      "y": 16
+    },
+    "topLeft": {
+      "x": 87,
+      "y": 17
+    }
   }
 }

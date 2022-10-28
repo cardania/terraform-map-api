@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06124",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06124",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUBNeXPz6SzLLvcj6NL62WxMm1b3ZeKzKMVWcRiKX5GgV",
+  "token_name": "Terraform09205",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09205",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbRFQACpEWboE79oYT3YCfzfFo9Q5f9hhf9ExBGUbN6Vm",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Quantum_Shrine",
-  "water": "Freshwater_River",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 87,
     "y": 84
+  },
+  "neighbors": {
+    "top": {
+      "x": 87,
+      "y": 85
+    },
+    "topRight": {
+      "x": 88,
+      "y": 85
+    },
+    "right": {
+      "x": 88,
+      "y": 84
+    },
+    "bottomRight": {
+      "x": 88,
+      "y": 83
+    },
+    "bottom": {
+      "x": 87,
+      "y": 83
+    },
+    "bottonLeft": {
+      "x": 86,
+      "y": 83
+    },
+    "left": {
+      "x": 86,
+      "y": 84
+    },
+    "topLeft": {
+      "x": 86,
+      "y": 85
+    }
   }
 }

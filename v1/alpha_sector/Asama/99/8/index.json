@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19587",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19587",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQDCmzDNoo7ReGsM8qL1E94yt5BvzJ1pbCW3yMkGkzZji",
+  "token_name": "Terraform13802",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13802",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUd645vAqa9tC897K7eEvrzYMwotxSqHtLGphF7uJFmts",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Cardanium_Bunker",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 8,
-  "primary_minerals": "Radium",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 99,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 99,
+      "y": 9
+    },
+    "topRight": {
+      "x": 100,
+      "y": 9
+    },
+    "right": {
+      "x": 100,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 100,
+      "y": 7
+    },
+    "bottom": {
+      "x": 99,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 98,
+      "y": 7
+    },
+    "left": {
+      "x": 98,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 98,
+      "y": 9
+    }
   }
 }

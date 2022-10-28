@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01645",
+  "token_name": "Terraform01160",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01645",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTGPZdQyRdJGcZbY1NZEECCX8KUEZefAfMYGbHcATdS7c",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01160",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmemgiLmx3tcFssurqyvd2h855jYz2cZdPCHvKdVB1ye1n",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "Prismatic_Motes",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Ultrasaurs",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "Evergreen",
   "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "power_level": 2,
+  "quantum_flux": 5,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 86,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 44
+    },
+    "topRight": {
+      "x": 87,
+      "y": 44
+    },
+    "right": {
+      "x": 87,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 42
+    },
+    "bottom": {
+      "x": 86,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 42
+    },
+    "left": {
+      "x": 85,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 44
+    }
   }
 }

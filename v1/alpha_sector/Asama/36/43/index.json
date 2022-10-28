@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12854",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12854",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUSdPdmx3v6nFZZJnZtsYzPktLJprJzwYhemTwvgZNXQg",
+  "token_name": "Terraform12378",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12378",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmewUqn8mNFEESxpXUJmm6EcinqUz2CHya1f15kwJCK4WL",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 5,
-  "quantum_flux": 4,
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 5,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Funky_Lake",
+  "shrine": "Quantum_Shrine",
+  "water": "None",
   "location": {
     "x": 36,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 44
+    },
+    "topRight": {
+      "x": 37,
+      "y": 44
+    },
+    "right": {
+      "x": 37,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 42
+    },
+    "bottom": {
+      "x": 36,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 42
+    },
+    "left": {
+      "x": 35,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 44
+    }
   }
 }

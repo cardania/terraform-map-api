@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04747",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04747",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRnDq1jLezNwBQ8VuVJj7yR6DUhkDQqonvbGQKRCTdRR3",
+  "token_name": "Terraform11682",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11682",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmai6NXJ1nEjL3p3PKcwFq3vuWvsRBQQUmfPY4sNief7ib",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 8,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 4,
   "quantum_flux": 6,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 95,
     "y": 59
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 60
+    },
+    "topRight": {
+      "x": 96,
+      "y": 60
+    },
+    "right": {
+      "x": 96,
+      "y": 59
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 58
+    },
+    "bottom": {
+      "x": 95,
+      "y": 58
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 58
+    },
+    "left": {
+      "x": 94,
+      "y": 59
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 60
+    }
   }
 }

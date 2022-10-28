@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03960",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03960",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSVs47FGYvkaG7RUcuztyf4xJdvRWDf6bx73gAWpW3foh",
+  "token_name": "Terraform00817",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00817",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeEbnaVwr15CWq55wC3ZoJVUKbjuiJfWBARk7AwEk5mny",
   "alpha_sector": "Arshi_En",
   "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 2,
+  "quantum_flux": 1,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Fungal_Shrine",
   "water": "Freshwater_River",
   "location": {
     "x": 74,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 30
+    },
+    "topRight": {
+      "x": 75,
+      "y": 30
+    },
+    "right": {
+      "x": 75,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 28
+    },
+    "bottom": {
+      "x": 74,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 28
+    },
+    "left": {
+      "x": 73,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 30
+    }
   }
 }

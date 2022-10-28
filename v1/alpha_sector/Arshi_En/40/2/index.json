@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02189",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02189",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVyy8RoCaXQzCRSMk5p6inWAjjiKBtgdVHi6auoSPhURh",
+  "token_name": "Terraform14545",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14545",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXKerM7ZoCPRcSW4eVnQEh86DavG24bEMGhbUCWSSPY5j",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 40,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 40,
+      "y": 3
+    },
+    "topRight": {
+      "x": 41,
+      "y": 3
+    },
+    "right": {
+      "x": 41,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 41,
+      "y": 1
+    },
+    "bottom": {
+      "x": 40,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 39,
+      "y": 1
+    },
+    "left": {
+      "x": 39,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 39,
+      "y": 3
+    }
   }
 }

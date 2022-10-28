@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01422",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01422",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ8KQU9tWfALotMKyvUEtmcww5Fiwort7oBX6GFdJCJPK",
+  "token_name": "Terraform12083",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12083",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfZir9q8cFfSFwf1P2BKGHEUqAccrQ3GrXNZT7FVjhJb2",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Nemesis_Hydra",
   "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "power_level": 9,
+  "quantum_flux": 7,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Funky_River",
+  "shrine": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 91,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 91,
+      "y": 69
+    },
+    "topRight": {
+      "x": 92,
+      "y": 69
+    },
+    "right": {
+      "x": 92,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 92,
+      "y": 67
+    },
+    "bottom": {
+      "x": 91,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 90,
+      "y": 67
+    },
+    "left": {
+      "x": 90,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 90,
+      "y": 69
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17428",
+  "token_name": "Terraform13386",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17428",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeXa5kKxCy5GyBSqos56EpfiaUYwgdfQZLR4MG7MqVWGj",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13386",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc9iGQPc4wBRiwSs2uysmvyrk46D62ATRsWj2DySCFdrG",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 5,
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 23,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 23,
+      "y": 9
+    },
+    "topRight": {
+      "x": 24,
+      "y": 9
+    },
+    "right": {
+      "x": 24,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 24,
+      "y": 7
+    },
+    "bottom": {
+      "x": 23,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 22,
+      "y": 7
+    },
+    "left": {
+      "x": 22,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 22,
+      "y": 9
+    }
   }
 }

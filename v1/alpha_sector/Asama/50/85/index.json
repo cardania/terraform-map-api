@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13079",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13079",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPXaDTBrxjyKUtdcD8DBrSCymX9MH9P8QBqLZ4xrShXMo",
+  "token_name": "Terraform12361",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12361",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdXPo6u23GFfNsDhpUuzkSnUGiEDch1o1XMeA5UC9ureE",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Giant_Mantrap",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "power_level": 2,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Timelost",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 50,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 86
+    },
+    "topRight": {
+      "x": 51,
+      "y": 86
+    },
+    "right": {
+      "x": 51,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 84
+    },
+    "bottom": {
+      "x": 50,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 84
+    },
+    "left": {
+      "x": 49,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 86
+    }
   }
 }

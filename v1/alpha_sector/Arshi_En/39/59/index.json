@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04691",
+  "token_name": "Terraform10363",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04691",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeCGubQ7Tk9xsvwfuy2nN2zu48FkfHXPqZMZgcrqPij44",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10363",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdoE9GLR7ANTTNg3Bt2wkFPHWTWWkfn7akMKEByfzsgVt",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 5,
   "quantum_flux": 3,
-  "primary_minerals": "Iron",
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 39,
     "y": 59
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 60
+    },
+    "topRight": {
+      "x": 40,
+      "y": 60
+    },
+    "right": {
+      "x": 40,
+      "y": 59
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 58
+    },
+    "bottom": {
+      "x": 39,
+      "y": 58
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 58
+    },
+    "left": {
+      "x": 38,
+      "y": 59
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 60
+    }
   }
 }

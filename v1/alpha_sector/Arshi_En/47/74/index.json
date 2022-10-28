@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02239",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02239",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ5oExJVJKYBEpYU9eA2EqZZF1R3W6YB9G9rGr66eoh55",
+  "token_name": "Terraform19601",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19601",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRgymf3twrd6VmhFFHKFXe5dgxd1eFPEwzHHNrW5xDdx4",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "quantum_flux": 5,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 47,
     "y": 74
+  },
+  "neighbors": {
+    "top": {
+      "x": 47,
+      "y": 75
+    },
+    "topRight": {
+      "x": 48,
+      "y": 75
+    },
+    "right": {
+      "x": 48,
+      "y": 74
+    },
+    "bottomRight": {
+      "x": 48,
+      "y": 73
+    },
+    "bottom": {
+      "x": 47,
+      "y": 73
+    },
+    "bottonLeft": {
+      "x": 46,
+      "y": 73
+    },
+    "left": {
+      "x": 46,
+      "y": 74
+    },
+    "topLeft": {
+      "x": 46,
+      "y": 75
+    }
   }
 }

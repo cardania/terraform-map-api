@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07301",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07301",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPNtEYhbv1hRfWWeTFe8ndPoYhqq52ogev6awWdR5vDCo",
+  "token_name": "Terraform09914",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09914",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbpehcv339MJgecXHNvcSQxNTxKscsPMpiZcnSw7Uz1K2",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 4,
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 3,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "None",
-  "water": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Solar_Shrine",
+  "water": "Toxic_Lake",
   "location": {
     "x": 4,
     "y": 16
+  },
+  "neighbors": {
+    "top": {
+      "x": 4,
+      "y": 17
+    },
+    "topRight": {
+      "x": 5,
+      "y": 17
+    },
+    "right": {
+      "x": 5,
+      "y": 16
+    },
+    "bottomRight": {
+      "x": 5,
+      "y": 15
+    },
+    "bottom": {
+      "x": 4,
+      "y": 15
+    },
+    "bottonLeft": {
+      "x": 3,
+      "y": 15
+    },
+    "left": {
+      "x": 3,
+      "y": 16
+    },
+    "topLeft": {
+      "x": 3,
+      "y": 17
+    }
   }
 }

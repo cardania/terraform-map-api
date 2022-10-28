@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15471",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15471",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRDAGYZRPuCyi2Yh8RXgQ9aLWd2DQBsLXkbr4LGpMuUez",
+  "token_name": "Terraform03766",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03766",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRKofurudEo7JBCHmm8f4rxH7VNKH2FofPKVckrmmjLyF",
   "alpha_sector": "Arshi_En",
   "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 9,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Void_Shrine",
   "water": "None",
   "location": {
     "x": 77,
     "y": 58
+  },
+  "neighbors": {
+    "top": {
+      "x": 77,
+      "y": 59
+    },
+    "topRight": {
+      "x": 78,
+      "y": 59
+    },
+    "right": {
+      "x": 78,
+      "y": 58
+    },
+    "bottomRight": {
+      "x": 78,
+      "y": 57
+    },
+    "bottom": {
+      "x": 77,
+      "y": 57
+    },
+    "bottonLeft": {
+      "x": 76,
+      "y": 57
+    },
+    "left": {
+      "x": 76,
+      "y": 58
+    },
+    "topLeft": {
+      "x": 76,
+      "y": 59
+    }
   }
 }

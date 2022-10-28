@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19829",
+  "token_name": "Terraform19815",
   "land_type": "Prismatic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19829",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXhUQSv7fJLFRSGcJC15Gh8i4C9qCZauwNcjGM347BU3M",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19815",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVPRg7JSfBo74zU1GyzFJw1WDY3knLhKPztjctHfdYfqd",
   "alpha_sector": "Foundation",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 6,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 8,
+  "quantum_flux": 5,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "Solar_Shrine",
-  "water": "Freshwater_River",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 20,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 7
+    },
+    "topRight": {
+      "x": 21,
+      "y": 7
+    },
+    "right": {
+      "x": 21,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 5
+    },
+    "bottom": {
+      "x": 20,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 5
+    },
+    "left": {
+      "x": 19,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 7
+    }
   }
 }

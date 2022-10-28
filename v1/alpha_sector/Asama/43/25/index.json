@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03995",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03995",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdcSijE1pJEZpVo4sSnpWRXbQ9VzPgyrXa77b4HQcUd1g",
+  "token_name": "Terraform09027",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09027",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPKB8WrN8Nqgg4tHidop94213VrMyPovrgbCGJcjcXAGB",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 1,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 7,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 43,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 43,
+      "y": 26
+    },
+    "topRight": {
+      "x": 44,
+      "y": 26
+    },
+    "right": {
+      "x": 44,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 44,
+      "y": 24
+    },
+    "bottom": {
+      "x": 43,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 42,
+      "y": 24
+    },
+    "left": {
+      "x": 42,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 42,
+      "y": 26
+    }
   }
 }

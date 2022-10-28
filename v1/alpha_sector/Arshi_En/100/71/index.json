@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13083",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13083",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSnE8nUAoMVFdtmQuRqoVKM4SaSoMXZw5hC9485M9Mwob",
+  "token_name": "Terraform18364",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18364",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUyMgyUQeHYhqeSWKWfwJVfTUvkZHBcHia271hCjn3fmn",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "quantum_flux": 6,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 100,
     "y": 71
+  },
+  "neighbors": {
+    "top": {
+      "x": 100,
+      "y": 72
+    },
+    "topRight": {
+      "x": 101,
+      "y": 72
+    },
+    "right": {
+      "x": 101,
+      "y": 71
+    },
+    "bottomRight": {
+      "x": 101,
+      "y": 70
+    },
+    "bottom": {
+      "x": 100,
+      "y": 70
+    },
+    "bottonLeft": {
+      "x": 99,
+      "y": 70
+    },
+    "left": {
+      "x": 99,
+      "y": 71
+    },
+    "topLeft": {
+      "x": 99,
+      "y": 72
+    }
   }
 }

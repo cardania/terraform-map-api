@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02159",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02159",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbx3eEMHoh4jmfNAhm8YXHgR2g3C2Jb3MErLys9emDaac",
+  "token_name": "Terraform03646",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03646",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfA9Mov3NwvctreHnjcGUQuoyLdUrPwnAHPEFaqKLzfMS",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 8,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 96,
     "y": 76
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 77
+    },
+    "topRight": {
+      "x": 97,
+      "y": 77
+    },
+    "right": {
+      "x": 97,
+      "y": 76
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 75
+    },
+    "bottom": {
+      "x": 96,
+      "y": 75
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 75
+    },
+    "left": {
+      "x": 95,
+      "y": 76
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 77
+    }
   }
 }

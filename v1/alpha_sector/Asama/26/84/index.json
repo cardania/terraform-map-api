@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform08317",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08317",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNRzE4DVHYUtANRYSrojLtSwWQyW5oWfrZCpbus8QpVBF",
+  "token_name": "Terraform07275",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07275",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVVeySccozMa5rfNXMHiexTLkJkreshkmrb4PX5bpJbVn",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "Custodial_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "power_level": 5,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 26,
     "y": 84
+  },
+  "neighbors": {
+    "top": {
+      "x": 26,
+      "y": 85
+    },
+    "topRight": {
+      "x": 27,
+      "y": 85
+    },
+    "right": {
+      "x": 27,
+      "y": 84
+    },
+    "bottomRight": {
+      "x": 27,
+      "y": 83
+    },
+    "bottom": {
+      "x": 26,
+      "y": 83
+    },
+    "bottonLeft": {
+      "x": 25,
+      "y": 83
+    },
+    "left": {
+      "x": 25,
+      "y": 84
+    },
+    "topLeft": {
+      "x": 25,
+      "y": 85
+    }
   }
 }

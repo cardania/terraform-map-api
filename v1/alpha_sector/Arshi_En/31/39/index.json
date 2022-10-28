@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09355",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09355",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdPwYgVdQZ5FKeWHXhV88YddafsFafcEX5yZw9ee6d8xS",
+  "token_name": "Terraform11394",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11394",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUSZ3W5XhydjQcniVbCyL8kuLXN4hG47fB24QVd8gd4AF",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
   "quantum_flux": 4,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 31,
     "y": 39
+  },
+  "neighbors": {
+    "top": {
+      "x": 31,
+      "y": 40
+    },
+    "topRight": {
+      "x": 32,
+      "y": 40
+    },
+    "right": {
+      "x": 32,
+      "y": 39
+    },
+    "bottomRight": {
+      "x": 32,
+      "y": 38
+    },
+    "bottom": {
+      "x": 31,
+      "y": 38
+    },
+    "bottonLeft": {
+      "x": 30,
+      "y": 38
+    },
+    "left": {
+      "x": 30,
+      "y": 39
+    },
+    "topLeft": {
+      "x": 30,
+      "y": 40
+    }
   }
 }

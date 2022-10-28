@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01177",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01177",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmReLH1hi8j3bnXix9TtwCgCbvaixA1myRHikdMtF4Drn8",
+  "token_name": "Terraform01975",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01975",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmS6oeSVNiutiEXCTwU5ph2E6uahJc8EPEDXtXbjvptP76",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 52,
     "y": 35
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 36
+    },
+    "topRight": {
+      "x": 53,
+      "y": 36
+    },
+    "right": {
+      "x": 53,
+      "y": 35
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 34
+    },
+    "bottom": {
+      "x": 52,
+      "y": 34
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 34
+    },
+    "left": {
+      "x": 51,
+      "y": 35
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 36
+    }
   }
 }

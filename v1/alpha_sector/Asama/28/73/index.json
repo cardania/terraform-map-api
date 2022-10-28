@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18793",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18793",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYAAZ2aYvsGmWD8ddnoNj67M7NyABQ6srccybnZPCkk12",
+  "token_name": "Terraform14542",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14542",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVWhBWABfk8MQH1CzDAFQCCpwAyPceyimZbqfAuwFmywZ",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Saltwater_River",
   "location": {
     "x": 28,
     "y": 73
+  },
+  "neighbors": {
+    "top": {
+      "x": 28,
+      "y": 74
+    },
+    "topRight": {
+      "x": 29,
+      "y": 74
+    },
+    "right": {
+      "x": 29,
+      "y": 73
+    },
+    "bottomRight": {
+      "x": 29,
+      "y": 72
+    },
+    "bottom": {
+      "x": 28,
+      "y": 72
+    },
+    "bottonLeft": {
+      "x": 27,
+      "y": 72
+    },
+    "left": {
+      "x": 27,
+      "y": 73
+    },
+    "topLeft": {
+      "x": 27,
+      "y": 74
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06822",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06822",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmX7V2EmJRJTYbjmE626K52bjk5fMDcQTzLUiBaNYH7mm4",
+  "token_name": "Terraform02198",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02198",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNpeuovF15VeHEGg69dnYc1E3CQ81iVUHEnqmbf38mnHy",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "Palms",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 79,
     "y": 96
+  },
+  "neighbors": {
+    "top": {
+      "x": 79,
+      "y": 97
+    },
+    "topRight": {
+      "x": 80,
+      "y": 97
+    },
+    "right": {
+      "x": 80,
+      "y": 96
+    },
+    "bottomRight": {
+      "x": 80,
+      "y": 95
+    },
+    "bottom": {
+      "x": 79,
+      "y": 95
+    },
+    "bottonLeft": {
+      "x": 78,
+      "y": 95
+    },
+    "left": {
+      "x": 78,
+      "y": 96
+    },
+    "topLeft": {
+      "x": 78,
+      "y": 97
+    }
   }
 }

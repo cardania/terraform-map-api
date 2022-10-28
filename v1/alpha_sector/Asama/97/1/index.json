@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform01708",
+  "token_name": "Terraform09181",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01708",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUPVCFkYsck9PtVMwZwP8LLbgyjmUaACheYdExtMeXJhF",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09181",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmT1WS2KH8qFt5QvZtcWC4otyomqKQpP9Tz5G1tggZRpPv",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 8,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 97,
     "y": 1
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 2
+    },
+    "topRight": {
+      "x": 98,
+      "y": 2
+    },
+    "right": {
+      "x": 98,
+      "y": 1
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 0
+    },
+    "bottom": {
+      "x": 97,
+      "y": 0
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 0
+    },
+    "left": {
+      "x": 96,
+      "y": 1
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 2
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08244",
+  "token_name": "Terraform06927",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08244",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWAkbWsCKRdnoUGbzXtCYKsbrTSTjj89F5mjJPeqMGHzy",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06927",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfTaHkBtjpqzbPaFGFFNQznievHgFEDaHMZqirubbZUra",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Fungal_Shrine",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 6,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 26,
     "y": 95
+  },
+  "neighbors": {
+    "top": {
+      "x": 26,
+      "y": 96
+    },
+    "topRight": {
+      "x": 27,
+      "y": 96
+    },
+    "right": {
+      "x": 27,
+      "y": 95
+    },
+    "bottomRight": {
+      "x": 27,
+      "y": 94
+    },
+    "bottom": {
+      "x": 26,
+      "y": 94
+    },
+    "bottonLeft": {
+      "x": 25,
+      "y": 94
+    },
+    "left": {
+      "x": 25,
+      "y": 95
+    },
+    "topLeft": {
+      "x": 25,
+      "y": 96
+    }
   }
 }

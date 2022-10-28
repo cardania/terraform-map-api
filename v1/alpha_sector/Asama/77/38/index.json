@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17776",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17776",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUzEssUfnpVczeKPyRnbLpcEk7f8kCpuoeaUNnvoVgxdw",
+  "token_name": "Terraform14750",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14750",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSP5tv7Xj2Qbbv6Xc1nDE6wPz6pjiuJ5o7infgQrkXhS3",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 9,
-  "quantum_flux": 4,
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 6,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "Saltwater_River",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Funky_Lake",
   "location": {
     "x": 77,
     "y": 38
+  },
+  "neighbors": {
+    "top": {
+      "x": 77,
+      "y": 39
+    },
+    "topRight": {
+      "x": 78,
+      "y": 39
+    },
+    "right": {
+      "x": 78,
+      "y": 38
+    },
+    "bottomRight": {
+      "x": 78,
+      "y": 37
+    },
+    "bottom": {
+      "x": 77,
+      "y": 37
+    },
+    "bottonLeft": {
+      "x": 76,
+      "y": 37
+    },
+    "left": {
+      "x": 76,
+      "y": 38
+    },
+    "topLeft": {
+      "x": 76,
+      "y": 39
+    }
   }
 }

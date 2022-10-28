@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11062",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11062",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNZ2Ri2TYMHknjuUhmHVU7XfpmK1ammwTCHvmMnkrYzW3",
+  "token_name": "Terraform10652",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10652",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeA9YoURBGZbxiWNp9XQnHfUDLfat4orkafRqNaidjuVY",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 8,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Solar_Shrine",
-  "water": "Cursed_Lake",
+  "ruins": "None",
+  "shrine": "Timelost_Shrine",
+  "water": "None",
   "location": {
     "x": 75,
     "y": 10
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 11
+    },
+    "topRight": {
+      "x": 76,
+      "y": 11
+    },
+    "right": {
+      "x": 76,
+      "y": 10
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 9
+    },
+    "bottom": {
+      "x": 75,
+      "y": 9
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 9
+    },
+    "left": {
+      "x": 74,
+      "y": 10
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 11
+    }
   }
 }

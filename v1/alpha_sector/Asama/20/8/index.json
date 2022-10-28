@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15707",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15707",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUym24SSfDu941rPCMFEwwrKAeEL8pBb9KJ5SQigWPme8",
+  "token_name": "Terraform17000",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17000",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcVyDCHdy7fBv1f35xnrubbPgmJdRbyCBL4uNDKPQcqoq",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Void_Shrine",
-  "water": "Toxic_River",
+  "quantum_flux": 7,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 20,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 9
+    },
+    "topRight": {
+      "x": 21,
+      "y": 9
+    },
+    "right": {
+      "x": 21,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 7
+    },
+    "bottom": {
+      "x": 20,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 7
+    },
+    "left": {
+      "x": 19,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 9
+    }
   }
 }

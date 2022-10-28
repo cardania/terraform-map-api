@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05983",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05983",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQGq2oVoSaZZPVGFXsvsWnKDPSLf1ULmywBaX7gcX2vsB",
+  "token_name": "Terraform15474",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15474",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSjfg9nuPVAJSCjjMpzhTrY7bP7eqZ6ehVF3SG1SViMK5",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Cursed_Nanites",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 5,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 81,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 98
+    },
+    "topRight": {
+      "x": 82,
+      "y": 98
+    },
+    "right": {
+      "x": 82,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 96
+    },
+    "bottom": {
+      "x": 81,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 96
+    },
+    "left": {
+      "x": 80,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 98
+    }
   }
 }

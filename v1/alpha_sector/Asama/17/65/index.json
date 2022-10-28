@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12780",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12780",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaF3y2DK8ygD1bkKGu9UVbFMFwvQHGjydgyXtu8PSH1YB",
+  "token_name": "Terraform16445",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16445",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPSDrUK4BBQmvuoRqXSSbNsbijWNykoFE2p4QknS7yhr2",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
+  "lithoglyphs": "None",
+  "power_level": 7,
   "quantum_flux": 8,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_River",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 17,
     "y": 65
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 66
+    },
+    "topRight": {
+      "x": 18,
+      "y": 66
+    },
+    "right": {
+      "x": 18,
+      "y": 65
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 64
+    },
+    "bottom": {
+      "x": 17,
+      "y": 64
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 64
+    },
+    "left": {
+      "x": 16,
+      "y": 65
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 66
+    }
   }
 }

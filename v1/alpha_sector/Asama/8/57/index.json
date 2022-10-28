@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10480",
+  "token_name": "Terraform09513",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10480",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTiMTARPLvyp3S9rXk928JnyikDAfjEVXM7oqZsg7uAAj",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09513",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRtay3twmptuYKQm5jX2HukDzMaDvnQs8SgCtvmRuHvo5",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 1,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "quantum_flux": 4,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Funky_Lake",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 8,
     "y": 57
+  },
+  "neighbors": {
+    "top": {
+      "x": 8,
+      "y": 58
+    },
+    "topRight": {
+      "x": 9,
+      "y": 58
+    },
+    "right": {
+      "x": 9,
+      "y": 57
+    },
+    "bottomRight": {
+      "x": 9,
+      "y": 56
+    },
+    "bottom": {
+      "x": 8,
+      "y": 56
+    },
+    "bottonLeft": {
+      "x": 7,
+      "y": 56
+    },
+    "left": {
+      "x": 7,
+      "y": 57
+    },
+    "topLeft": {
+      "x": 7,
+      "y": 58
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00338",
+  "token_name": "Terraform15033",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00338",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW5KAdEr2tshcAELj844a8CcvFY4Z5pvLTpwfxrfJfxSN",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15033",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPcUmQXafbTXEGcy5jojzD582wWjySz4ZEppqeAvWRrao",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 79,
     "y": 90
+  },
+  "neighbors": {
+    "top": {
+      "x": 79,
+      "y": 91
+    },
+    "topRight": {
+      "x": 80,
+      "y": 91
+    },
+    "right": {
+      "x": 80,
+      "y": 90
+    },
+    "bottomRight": {
+      "x": 80,
+      "y": 89
+    },
+    "bottom": {
+      "x": 79,
+      "y": 89
+    },
+    "bottonLeft": {
+      "x": 78,
+      "y": 89
+    },
+    "left": {
+      "x": 78,
+      "y": 90
+    },
+    "topLeft": {
+      "x": 78,
+      "y": 91
+    }
   }
 }

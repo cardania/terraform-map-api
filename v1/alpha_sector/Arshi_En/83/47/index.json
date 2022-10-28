@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06781",
+  "token_name": "Terraform05036",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06781",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVHhjTDMDFDdG4X3ke3akskuhesqAbEDQxZgoG9xEabno",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05036",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdRYtvbzLRd3RcLRSY9Ctfii9bA1gPDtQPJ1uL3usZG12",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Toxic_Lake",
   "location": {
     "x": 83,
     "y": 47
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 48
+    },
+    "topRight": {
+      "x": 84,
+      "y": 48
+    },
+    "right": {
+      "x": 84,
+      "y": 47
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 46
+    },
+    "bottom": {
+      "x": 83,
+      "y": 46
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 46
+    },
+    "left": {
+      "x": 82,
+      "y": 47
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 48
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09967",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09967",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmatRrFB4KmgPWeuFbXFxYsjSd7rnaibo9bAmjaE68yDHj",
+  "token_name": "Terraform09658",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09658",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPvvPGYfpJ8Ft3b8RFyg7Q2vocM13Cv21Rz7UvEuCAzi1",
   "alpha_sector": "Arshi_En",
   "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Palms",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 5,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Timelost_Shrine",
-  "water": "Freshwater_River",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Ancient_Ruins",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 17,
     "y": 69
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 70
+    },
+    "topRight": {
+      "x": 18,
+      "y": 70
+    },
+    "right": {
+      "x": 18,
+      "y": 69
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 68
+    },
+    "bottom": {
+      "x": 17,
+      "y": 68
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 68
+    },
+    "left": {
+      "x": 16,
+      "y": 69
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 70
+    }
   }
 }

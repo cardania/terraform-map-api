@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11281",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11281",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNn1oVxqoXtaBqAnWATyW91HzVhEdqf5LXhgt6WRrBPbm",
+  "token_name": "Terraform09549",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09549",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcXQfabzQ45TwEAdeTSiPzheDfUiULeBi1YLQkBFGckUU",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 7,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "quantum_flux": 9,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Timelost_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "Funky_Lake",
   "location": {
     "x": 27,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 27,
+      "y": 30
+    },
+    "topRight": {
+      "x": 28,
+      "y": 30
+    },
+    "right": {
+      "x": 28,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 28,
+      "y": 28
+    },
+    "bottom": {
+      "x": 27,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 26,
+      "y": 28
+    },
+    "left": {
+      "x": 26,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 26,
+      "y": 30
+    }
   }
 }

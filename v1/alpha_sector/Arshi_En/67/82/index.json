@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00005",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00005",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQMYxD3Sht92keMGGxANN6D7sXqYQYYnuY7mqTvcf8LA5",
+  "token_name": "Terraform14835",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14835",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWSVTuCzTTL2M8xR3VkP72s5UAK5wxji1icgwBUjyViZ6",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 7,
   "quantum_flux": 5,
-  "primary_minerals": "Copper",
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Quantum_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 67,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 67,
+      "y": 83
+    },
+    "topRight": {
+      "x": 68,
+      "y": 83
+    },
+    "right": {
+      "x": 68,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 68,
+      "y": 81
+    },
+    "bottom": {
+      "x": 67,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 66,
+      "y": 81
+    },
+    "left": {
+      "x": 66,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 66,
+      "y": 83
+    }
   }
 }

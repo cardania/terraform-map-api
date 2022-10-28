@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform13690",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13690",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVCeAjrkimbHJxtGXcYLXrG2guA9NWVRw3uxU4qatsNGA",
+  "token_name": "Terraform03875",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03875",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNmzFkqvV8zH4RSsP43CD1915eWpzUAhDyrUqN8aj3Aut",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 8,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 1,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 43,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 43,
+      "y": 6
+    },
+    "topRight": {
+      "x": 44,
+      "y": 6
+    },
+    "right": {
+      "x": 44,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 44,
+      "y": 4
+    },
+    "bottom": {
+      "x": 43,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 42,
+      "y": 4
+    },
+    "left": {
+      "x": 42,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 42,
+      "y": 6
+    }
   }
 }

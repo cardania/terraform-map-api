@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform08986",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08986",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaBshMAye8z4jsXcVSmvbCeNfxc9A7CrHFSqVSajbwNKZ",
+  "token_name": "Terraform16266",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16266",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbBS2CAeGWLi3CgfBZBs7SkVDdqjJV167zLybgpsmiXKD",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 7,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 75,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 83
+    },
+    "topRight": {
+      "x": 76,
+      "y": 83
+    },
+    "right": {
+      "x": 76,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 81
+    },
+    "bottom": {
+      "x": 75,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 81
+    },
+    "left": {
+      "x": 74,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 83
+    }
   }
 }

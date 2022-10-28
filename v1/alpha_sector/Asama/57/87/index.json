@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform09558",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09558",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZyWeLgSBmJTPbkRWinvBPHcMUwxqpLnrjVHgngzKjsMa",
+  "token_name": "Terraform13047",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13047",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUxJ7Q9BA4HyUsmLw6P1HcNmctDiMEhXzm3RZ2p5gxhd4",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 57,
     "y": 87
+  },
+  "neighbors": {
+    "top": {
+      "x": 57,
+      "y": 88
+    },
+    "topRight": {
+      "x": 58,
+      "y": 88
+    },
+    "right": {
+      "x": 58,
+      "y": 87
+    },
+    "bottomRight": {
+      "x": 58,
+      "y": 86
+    },
+    "bottom": {
+      "x": 57,
+      "y": 86
+    },
+    "bottonLeft": {
+      "x": 56,
+      "y": 86
+    },
+    "left": {
+      "x": 56,
+      "y": 87
+    },
+    "topLeft": {
+      "x": 56,
+      "y": 88
+    }
   }
 }

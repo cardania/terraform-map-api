@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08396",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08396",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXdZtmDBS9M4Z794UTNiCDxnDRdxeV2LAxQbHgLFzgF3W",
+  "token_name": "Terraform10705",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10705",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRuAwTLMXWs6KyoNpthg6ZLYDYk5YyXnMMx7pV3KeqKFJ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_Lake",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 50,
     "y": 34
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 35
+    },
+    "topRight": {
+      "x": 51,
+      "y": 35
+    },
+    "right": {
+      "x": 51,
+      "y": 34
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 33
+    },
+    "bottom": {
+      "x": 50,
+      "y": 33
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 33
+    },
+    "left": {
+      "x": 49,
+      "y": 34
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 35
+    }
   }
 }

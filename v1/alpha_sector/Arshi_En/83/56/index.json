@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04774",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04774",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQooUtwwS91iYTipLg9j8LrBPKfArbBoU6cvjMxMmWyQS",
+  "token_name": "Terraform07423",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07423",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdLDoDFyYwhLrEiYua7mqNZPBZDEZHHDNwj9bH7AXvvbd",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_River",
   "location": {
     "x": 83,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 57
+    },
+    "topRight": {
+      "x": 84,
+      "y": 57
+    },
+    "right": {
+      "x": 84,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 55
+    },
+    "bottom": {
+      "x": 83,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 55
+    },
+    "left": {
+      "x": 82,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 57
+    }
   }
 }

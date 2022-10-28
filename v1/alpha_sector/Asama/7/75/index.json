@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18873",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18873",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNsGaf8xCdY8RqoxuguVw9NaYpWgX1LYANo8AraMysbk8",
+  "token_name": "Terraform17273",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17273",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZdntQkA2338dRjThQziprWwRLXEyiBrTtUKJVJv5UjgG",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "None",
   "power_level": 3,
   "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_River",
   "location": {
     "x": 7,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 76
+    },
+    "topRight": {
+      "x": 8,
+      "y": 76
+    },
+    "right": {
+      "x": 8,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 74
+    },
+    "bottom": {
+      "x": 7,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 74
+    },
+    "left": {
+      "x": 6,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 76
+    }
   }
 }

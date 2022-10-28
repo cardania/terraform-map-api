@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14022",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14022",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qma9MMNut5WHYJZD2CSxcNJiTQYnUBbiuoNUkJk2ng1jWp",
+  "token_name": "Terraform12683",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12683",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPxTNxe8bhM5bHZHvfJf9sywVqebT7y8ohJKUkthRxPhs",
   "alpha_sector": "Arshi_En",
   "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 9,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 31,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 31,
+      "y": 89
+    },
+    "topRight": {
+      "x": 32,
+      "y": 89
+    },
+    "right": {
+      "x": 32,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 32,
+      "y": 87
+    },
+    "bottom": {
+      "x": 31,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 30,
+      "y": 87
+    },
+    "left": {
+      "x": 30,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 30,
+      "y": 89
+    }
   }
 }

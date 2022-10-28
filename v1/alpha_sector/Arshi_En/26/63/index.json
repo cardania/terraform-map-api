@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11041",
+  "token_name": "Terraform13934",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11041",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWuTAJ2WrTmB8hwQvpYAC7oWbe1G86jswfEmwxqN68buE",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13934",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmavSKFasZsijP3tVmPWfeZFHEA6DJ374maED9kRKPJZZq",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
+  "power_level": 8,
+  "quantum_flux": 9,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 26,
     "y": 63
+  },
+  "neighbors": {
+    "top": {
+      "x": 26,
+      "y": 64
+    },
+    "topRight": {
+      "x": 27,
+      "y": 64
+    },
+    "right": {
+      "x": 27,
+      "y": 63
+    },
+    "bottomRight": {
+      "x": 27,
+      "y": 62
+    },
+    "bottom": {
+      "x": 26,
+      "y": 62
+    },
+    "bottonLeft": {
+      "x": 25,
+      "y": 62
+    },
+    "left": {
+      "x": 25,
+      "y": 63
+    },
+    "topLeft": {
+      "x": 25,
+      "y": 64
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14824",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14824",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTnYy3vGUBrpWXetpZHwrLgReR98qPJmTr295i6WoYgxp",
+  "token_name": "Terraform19417",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19417",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVKMFjuAw6nGU1sRTP3eXmqWafRM75rt4DXrqw36pFR7e",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 3,
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 4,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Solar_Shrine",
-  "water": "Freshwater_River",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 13,
     "y": 91
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 92
+    },
+    "topRight": {
+      "x": 14,
+      "y": 92
+    },
+    "right": {
+      "x": 14,
+      "y": 91
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 90
+    },
+    "bottom": {
+      "x": 13,
+      "y": 90
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 90
+    },
+    "left": {
+      "x": 12,
+      "y": 91
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 92
+    }
   }
 }

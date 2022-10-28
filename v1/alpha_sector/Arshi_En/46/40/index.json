@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03891",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03891",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQfpXJjt6bGLaesP7UG5BjcBadePE7Qcg9osaQXMZ3x5c",
+  "token_name": "Terraform08962",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08962",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfTgfBdrQJKhieNGUeCqLbUqi8TFvyunMUq1S6dxK4VBk",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
-  "quantum_flux": 8,
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Solar_Shrine",
   "water": "None",
   "location": {
     "x": 46,
     "y": 40
+  },
+  "neighbors": {
+    "top": {
+      "x": 46,
+      "y": 41
+    },
+    "topRight": {
+      "x": 47,
+      "y": 41
+    },
+    "right": {
+      "x": 47,
+      "y": 40
+    },
+    "bottomRight": {
+      "x": 47,
+      "y": 39
+    },
+    "bottom": {
+      "x": 46,
+      "y": 39
+    },
+    "bottonLeft": {
+      "x": 45,
+      "y": 39
+    },
+    "left": {
+      "x": 45,
+      "y": 40
+    },
+    "topLeft": {
+      "x": 45,
+      "y": 41
+    }
   }
 }

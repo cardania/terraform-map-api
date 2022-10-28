@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09734",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09734",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmevFweXSwbRQ1stjGxT8pbb3Wnh8rBaNQGZMja6XUeX3d",
+  "token_name": "Terraform08667",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08667",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUJ5mss89gdmUCkvWeCzyyZnjGLhrhYgZg35Sc7GuuY1R",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 8,
-  "quantum_flux": 8,
-  "primary_minerals": "Iron",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 18,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 18,
+      "y": 53
+    },
+    "topRight": {
+      "x": 19,
+      "y": 53
+    },
+    "right": {
+      "x": 19,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 19,
+      "y": 51
+    },
+    "bottom": {
+      "x": 18,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 17,
+      "y": 51
+    },
+    "left": {
+      "x": 17,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 17,
+      "y": 53
+    }
   }
 }

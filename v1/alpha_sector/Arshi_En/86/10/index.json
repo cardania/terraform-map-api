@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00255",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00255",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPLoLJ2eJiv2qyReiuxf6R1q3XbWiEuQWiYwpEPQQQsWL",
+  "token_name": "Terraform15471",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15471",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRDAGYZRPuCyi2Yh8RXgQ9aLWd2DQBsLXkbr4LGpMuUez",
   "alpha_sector": "Arshi_En",
   "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Saltwater_River",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 86,
     "y": 10
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 11
+    },
+    "topRight": {
+      "x": 87,
+      "y": 11
+    },
+    "right": {
+      "x": 87,
+      "y": 10
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 9
+    },
+    "bottom": {
+      "x": 86,
+      "y": 9
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 9
+    },
+    "left": {
+      "x": 85,
+      "y": 10
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 11
+    }
   }
 }

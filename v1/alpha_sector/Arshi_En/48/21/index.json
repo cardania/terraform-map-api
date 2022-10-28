@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08578",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08578",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmewAM3rZzsLXgcX2BcSNbD11YoeRAnm4hFxNSngtUaHY2",
+  "token_name": "Terraform11509",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11509",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmP76LWM3KQTRGSR3EEFysqhPDMhe3cRUwzCUUmSPbnSyz",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 6,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Saltwater_River",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 48,
     "y": 21
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 22
+    },
+    "topRight": {
+      "x": 49,
+      "y": 22
+    },
+    "right": {
+      "x": 49,
+      "y": 21
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 20
+    },
+    "bottom": {
+      "x": 48,
+      "y": 20
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 20
+    },
+    "left": {
+      "x": 47,
+      "y": 21
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 22
+    }
   }
 }

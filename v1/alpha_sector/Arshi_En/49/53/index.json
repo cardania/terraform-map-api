@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04653",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04653",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQpBkNoWxStoAWEHFattYpz1r3N9j9WG69FAitgjRVWKm",
+  "token_name": "Terraform12995",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12995",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVgFTqLbBiu2sF8L79NJmX2UWHesXSKjZe1DiZ2zReme7",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 9,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 9,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 49,
     "y": 53
+  },
+  "neighbors": {
+    "top": {
+      "x": 49,
+      "y": 54
+    },
+    "topRight": {
+      "x": 50,
+      "y": 54
+    },
+    "right": {
+      "x": 50,
+      "y": 53
+    },
+    "bottomRight": {
+      "x": 50,
+      "y": 52
+    },
+    "bottom": {
+      "x": 49,
+      "y": 52
+    },
+    "bottonLeft": {
+      "x": 48,
+      "y": 52
+    },
+    "left": {
+      "x": 48,
+      "y": 53
+    },
+    "topLeft": {
+      "x": 48,
+      "y": 54
+    }
   }
 }

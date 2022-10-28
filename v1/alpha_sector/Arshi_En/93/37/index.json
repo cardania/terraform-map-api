@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04083",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04083",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcJgWohitP2YTfyAp2mVBDnuM8Q8AZhVyF5v6MHujdi4E",
+  "token_name": "Terraform02415",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02415",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTjbsw8833iiDHDJDJDDP28aEVtHaJvhhKfPQKJZ8XbMk",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Prismaleaf",
+  "forests": "Palms",
   "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
-  "quantum_flux": 4,
+  "power_level": 6,
+  "quantum_flux": 2,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Golden_Shrine",
-  "water": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 93,
     "y": 37
+  },
+  "neighbors": {
+    "top": {
+      "x": 93,
+      "y": 38
+    },
+    "topRight": {
+      "x": 94,
+      "y": 38
+    },
+    "right": {
+      "x": 94,
+      "y": 37
+    },
+    "bottomRight": {
+      "x": 94,
+      "y": 36
+    },
+    "bottom": {
+      "x": 93,
+      "y": 36
+    },
+    "bottonLeft": {
+      "x": 92,
+      "y": 36
+    },
+    "left": {
+      "x": 92,
+      "y": 37
+    },
+    "topLeft": {
+      "x": 92,
+      "y": 38
+    }
   }
 }

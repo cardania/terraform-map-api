@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07384",
+  "token_name": "Terraform15919",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07384",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWJ7F7bDTjdWt13oaun8PWPmMWoEjm3n6v851utiAx5ZD",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15919",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSFmyHMaH6eWjxhF36ZoiN9TnWAeoj5Wjit6ookhrFTAm",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 1,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Funky_River",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 69,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 69,
+      "y": 6
+    },
+    "topRight": {
+      "x": 70,
+      "y": 6
+    },
+    "right": {
+      "x": 70,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 70,
+      "y": 4
+    },
+    "bottom": {
+      "x": 69,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 68,
+      "y": 4
+    },
+    "left": {
+      "x": 68,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 68,
+      "y": 6
+    }
   }
 }

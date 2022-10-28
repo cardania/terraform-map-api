@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18764",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18764",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc1xXtA9n6pSTrwik3LMXgi641pEvJzHqKXmDvVEV6CP2",
+  "token_name": "Terraform11069",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11069",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdghs8LivZ1AQjmEsC8MAVL7oxx1YVDUkAsbtCFchYczG",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Burning_Mantrap",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 4,
+  "power_level": 2,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 48,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 9
+    },
+    "topRight": {
+      "x": 49,
+      "y": 9
+    },
+    "right": {
+      "x": 49,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 7
+    },
+    "bottom": {
+      "x": 48,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 7
+    },
+    "left": {
+      "x": 47,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 9
+    }
   }
 }

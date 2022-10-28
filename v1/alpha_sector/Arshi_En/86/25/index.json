@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform13980",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13980",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW5dYjrGwJMh3MpSSgpsNAb1tXfGEVyHVctHXqfjR2nm6",
+  "token_name": "Terraform06791",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06791",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVz3qvwn7KPuJvwjEy4Sf6QQzGcUT3oj91vwQKJiaxgcx",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "Alien_Technology_Blue",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 86,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 26
+    },
+    "topRight": {
+      "x": 87,
+      "y": 26
+    },
+    "right": {
+      "x": 87,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 24
+    },
+    "bottom": {
+      "x": 86,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 24
+    },
+    "left": {
+      "x": 85,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 26
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00143",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00143",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPYcAY5UmBvM1CYGihSpSfECommNxDb6dCtg4wvumgJUd",
+  "token_name": "Terraform09975",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09975",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVHK7ak6JbbCWJrU9fjytouE9LNL1jR5GQGxnGBQZ2uPo",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "Void_Shrine",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
+  "shrine": "Golden_Shrine",
   "water": "None",
   "location": {
     "x": 81,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 6
+    },
+    "topRight": {
+      "x": 82,
+      "y": 6
+    },
+    "right": {
+      "x": 82,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 4
+    },
+    "bottom": {
+      "x": 81,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 4
+    },
+    "left": {
+      "x": 80,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 6
+    }
   }
 }

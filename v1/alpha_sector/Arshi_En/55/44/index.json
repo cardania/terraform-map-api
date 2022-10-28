@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09893",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09893",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZStqqGusMqfFHMyDAir5DGMbPwTetVcEQyvx2KQ9GCS2",
+  "token_name": "Terraform05490",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05490",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRq8pS97Z4pRNpAgp3cYdhbJs8MS46HFKCdVKAkAJSgtv",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 4,
-  "quantum_flux": 5,
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 9,
+  "quantum_flux": 3,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 55,
     "y": 44
+  },
+  "neighbors": {
+    "top": {
+      "x": 55,
+      "y": 45
+    },
+    "topRight": {
+      "x": 56,
+      "y": 45
+    },
+    "right": {
+      "x": 56,
+      "y": 44
+    },
+    "bottomRight": {
+      "x": 56,
+      "y": 43
+    },
+    "bottom": {
+      "x": 55,
+      "y": 43
+    },
+    "bottonLeft": {
+      "x": 54,
+      "y": 43
+    },
+    "left": {
+      "x": 54,
+      "y": 44
+    },
+    "topLeft": {
+      "x": 54,
+      "y": 45
+    }
   }
 }

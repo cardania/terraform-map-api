@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13000",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13000",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVc7GjydVHqNEYR9y7VPdAaV5ZCxZBXSquvR58VGWXhiX",
+  "token_name": "Terraform03699",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03699",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYVbB7Pobd1iSN5KDeKCgfNnTLCJ1XiXc7Ev1njoHzGaV",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 4,
-  "quantum_flux": 6,
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 2,
+  "quantum_flux": 7,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Cursed_Lake",
+  "shrine": "Machine_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 30,
     "y": 9
+  },
+  "neighbors": {
+    "top": {
+      "x": 30,
+      "y": 10
+    },
+    "topRight": {
+      "x": 31,
+      "y": 10
+    },
+    "right": {
+      "x": 31,
+      "y": 9
+    },
+    "bottomRight": {
+      "x": 31,
+      "y": 8
+    },
+    "bottom": {
+      "x": 30,
+      "y": 8
+    },
+    "bottonLeft": {
+      "x": 29,
+      "y": 8
+    },
+    "left": {
+      "x": 29,
+      "y": 9
+    },
+    "topLeft": {
+      "x": 29,
+      "y": 10
+    }
   }
 }

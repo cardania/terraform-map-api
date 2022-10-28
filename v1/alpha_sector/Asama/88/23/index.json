@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11971",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11971",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmS83Re4DbykmwbBMr9sBCPTkiM9XS65qkCyu4PX9vhPPt",
+  "token_name": "Terraform15854",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15854",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmct8DunQDXRjL5oeWMuHX6JxXkc41rNZX5iu7UxnTq9Wa",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 8,
-  "quantum_flux": 4,
+  "quantum_flux": 9,
   "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Funky_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 88,
     "y": 23
+  },
+  "neighbors": {
+    "top": {
+      "x": 88,
+      "y": 24
+    },
+    "topRight": {
+      "x": 89,
+      "y": 24
+    },
+    "right": {
+      "x": 89,
+      "y": 23
+    },
+    "bottomRight": {
+      "x": 89,
+      "y": 22
+    },
+    "bottom": {
+      "x": 88,
+      "y": 22
+    },
+    "bottonLeft": {
+      "x": 87,
+      "y": 22
+    },
+    "left": {
+      "x": 87,
+      "y": 23
+    },
+    "topLeft": {
+      "x": 87,
+      "y": 24
+    }
   }
 }

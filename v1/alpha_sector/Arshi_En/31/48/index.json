@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08546",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08546",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXgywovsrTK8qHUGXnfQVXa8U17GpNsqF2iV9hfDNt4Lm",
+  "token_name": "Terraform06448",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06448",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmafN9cNAQ1V7Tk8MffTTbR1MpUjvsbSrzP2DzNZmMouXE",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 4,
+  "power_level": 6,
+  "quantum_flux": 8,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Cursed_River",
   "location": {
     "x": 31,
     "y": 48
+  },
+  "neighbors": {
+    "top": {
+      "x": 31,
+      "y": 49
+    },
+    "topRight": {
+      "x": 32,
+      "y": 49
+    },
+    "right": {
+      "x": 32,
+      "y": 48
+    },
+    "bottomRight": {
+      "x": 32,
+      "y": 47
+    },
+    "bottom": {
+      "x": 31,
+      "y": 47
+    },
+    "bottonLeft": {
+      "x": 30,
+      "y": 47
+    },
+    "left": {
+      "x": 30,
+      "y": 48
+    },
+    "topLeft": {
+      "x": 30,
+      "y": 49
+    }
   }
 }

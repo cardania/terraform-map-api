@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03407",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03407",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSQqbhSm6FJkxySmYAx2s3DjeJqJb7D9tjt8JCfHc5VzK",
+  "token_name": "Terraform00161",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00161",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPanFuDn3YHh3THJjMDUeBaWWLLMEx7c4a9heRY4EjEYf",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
-  "quantum_flux": 6,
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 5,
+  "quantum_flux": 9,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Blue",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 21,
     "y": 94
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 95
+    },
+    "topRight": {
+      "x": 22,
+      "y": 95
+    },
+    "right": {
+      "x": 22,
+      "y": 94
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 93
+    },
+    "bottom": {
+      "x": 21,
+      "y": 93
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 93
+    },
+    "left": {
+      "x": 20,
+      "y": 94
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 95
+    }
   }
 }

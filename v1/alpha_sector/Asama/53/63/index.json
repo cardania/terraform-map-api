@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03951",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03951",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSj4MhRu9jTymvwTSZca2LTPsBC83N6fkKw79KsfwstoY",
+  "token_name": "Terraform18122",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18122",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRzfdZViJY3h1LmryTBctS1fiAQYVu1AeaR9mHWqRZ216",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 3,
+  "power_level": 6,
   "quantum_flux": 5,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Green",
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 53,
     "y": 63
+  },
+  "neighbors": {
+    "top": {
+      "x": 53,
+      "y": 64
+    },
+    "topRight": {
+      "x": 54,
+      "y": 64
+    },
+    "right": {
+      "x": 54,
+      "y": 63
+    },
+    "bottomRight": {
+      "x": 54,
+      "y": 62
+    },
+    "bottom": {
+      "x": 53,
+      "y": 62
+    },
+    "bottonLeft": {
+      "x": 52,
+      "y": 62
+    },
+    "left": {
+      "x": 52,
+      "y": 63
+    },
+    "topLeft": {
+      "x": 52,
+      "y": 64
+    }
   }
 }

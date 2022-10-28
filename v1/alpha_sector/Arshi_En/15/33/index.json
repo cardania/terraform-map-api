@@ -1,8 +1,8 @@
 {
-  "token_name": "Terraform04369",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04369",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVh4SQvVC826MPLRJpV22R3oNBjikYkqHk7RNQ3597Kta",
+  "token_name": "Terraform00079",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00079",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qma4ekuPrsTXtrqrVKTjKCPukjHwzJDxkN9PZi8Lgz8qvh",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
@@ -10,16 +10,50 @@
   "fauna": "None",
   "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "Iron",
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Golden_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 15,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 15,
+      "y": 34
+    },
+    "topRight": {
+      "x": 16,
+      "y": 34
+    },
+    "right": {
+      "x": 16,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 16,
+      "y": 32
+    },
+    "bottom": {
+      "x": 15,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 14,
+      "y": 32
+    },
+    "left": {
+      "x": 14,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 14,
+      "y": 34
+    }
   }
 }

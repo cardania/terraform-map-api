@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18880",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18880",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ5DfdzYbotg9mrWRLWFsRd54P4vSCvBZs25vH8raBLGR",
+  "token_name": "Terraform19693",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19693",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdDhS1rttVSdUPWsvGRSaEcwSMpWCJXvPxNf3kUND7u9r",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 4,
+  "quantum_flux": 5,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 21,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 87
+    },
+    "topRight": {
+      "x": 22,
+      "y": 87
+    },
+    "right": {
+      "x": 22,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 85
+    },
+    "bottom": {
+      "x": 21,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 85
+    },
+    "left": {
+      "x": 20,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 87
+    }
   }
 }

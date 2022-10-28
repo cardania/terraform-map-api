@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14176",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14176",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNjZxrpcX5B1Dnyv4vnWRa3tkTiWzXKUGPRRvJobAeadu",
+  "token_name": "Terraform14164",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14164",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYrZsFh2WLZraEHJakQNATb2LZwqhnbECzapw2wBZwrcF",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
-  "quantum_flux": 9,
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "shrine": "Void_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 2,
     "y": 67
+  },
+  "neighbors": {
+    "top": {
+      "x": 2,
+      "y": 68
+    },
+    "topRight": {
+      "x": 3,
+      "y": 68
+    },
+    "right": {
+      "x": 3,
+      "y": 67
+    },
+    "bottomRight": {
+      "x": 3,
+      "y": 66
+    },
+    "bottom": {
+      "x": 2,
+      "y": 66
+    },
+    "bottonLeft": {
+      "x": 1,
+      "y": 66
+    },
+    "left": {
+      "x": 1,
+      "y": 67
+    },
+    "topLeft": {
+      "x": 1,
+      "y": 68
+    }
   }
 }

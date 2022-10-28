@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16502",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16502",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbd847jiLX6NPnRpEGp6uvzdaHN1UcPxxhrUbqtyxuYmV",
+  "token_name": "Terraform05412",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05412",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbn94QxcW9G34ZAmVsU82txWiFMDzDpkxSkNA1Aa79onS",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 4,
-  "primary_minerals": "Cardanium",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Fungal_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 81,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 61
+    },
+    "topRight": {
+      "x": 82,
+      "y": 61
+    },
+    "right": {
+      "x": 82,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 59
+    },
+    "bottom": {
+      "x": 81,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 59
+    },
+    "left": {
+      "x": 80,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 61
+    }
   }
 }

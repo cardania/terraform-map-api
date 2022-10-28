@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18702",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18702",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdma7dS2bXauGj2huHov6nzwkG74fAcgCamYKcCcquHno",
+  "token_name": "Terraform01037",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01037",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYXxKPaYC9UVGRkxqDwKfPqH5a4CiZsd5ScXkF5w4nqwq",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Nemesis_Hydra",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "power_level": 5,
+  "quantum_flux": 5,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 31,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 31,
+      "y": 50
+    },
+    "topRight": {
+      "x": 32,
+      "y": 50
+    },
+    "right": {
+      "x": 32,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 32,
+      "y": 48
+    },
+    "bottom": {
+      "x": 31,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 30,
+      "y": 48
+    },
+    "left": {
+      "x": 30,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 30,
+      "y": 50
+    }
   }
 }

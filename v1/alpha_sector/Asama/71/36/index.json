@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17479",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17479",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdjYWyHbJFuLCTFnefe8Uygoz5chZ2CKUjShMALqKWud1",
+  "token_name": "Terraform08915",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08915",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdPYCKzFRBb3c1egwCgRBFECkRMj8KNhmfKoqDjmQDjba",
   "alpha_sector": "Asama",
   "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 6,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
   "quantum_flux": 4,
-  "primary_minerals": "Iron",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 71,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 71,
+      "y": 37
+    },
+    "topRight": {
+      "x": 72,
+      "y": 37
+    },
+    "right": {
+      "x": 72,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 72,
+      "y": 35
+    },
+    "bottom": {
+      "x": 71,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 70,
+      "y": 35
+    },
+    "left": {
+      "x": 70,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 70,
+      "y": 37
+    }
   }
 }

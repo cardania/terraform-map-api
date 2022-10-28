@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01893",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01893",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc1LBGvDH3Qq9Y9umnwDYgNN3qZymuXzN52iq1bkL6b3P",
+  "token_name": "Terraform01843",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01843",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVLXxPRET6c2ptJ6GbJdT7HkMuyGNygAxENdyGPY4wbyn",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "power_level": 7,
+  "quantum_flux": 4,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 96,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 87
+    },
+    "topRight": {
+      "x": 97,
+      "y": 87
+    },
+    "right": {
+      "x": 97,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 85
+    },
+    "bottom": {
+      "x": 96,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 85
+    },
+    "left": {
+      "x": 95,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 87
+    }
   }
 }

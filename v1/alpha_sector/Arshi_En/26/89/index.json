@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10628",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10628",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRUfZDtB3B8yrWfhxa631wuDNWbszo3Ejg7YZugR9m7Q3",
+  "token_name": "Terraform09678",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09678",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZBG9oKpU7UbgRtAidMCRXRHVx9zXA8kAeobbAAkG1SPK",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 1,
+  "power_level": 5,
   "quantum_flux": 2,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 26,
     "y": 89
+  },
+  "neighbors": {
+    "top": {
+      "x": 26,
+      "y": 90
+    },
+    "topRight": {
+      "x": 27,
+      "y": 90
+    },
+    "right": {
+      "x": 27,
+      "y": 89
+    },
+    "bottomRight": {
+      "x": 27,
+      "y": 88
+    },
+    "bottom": {
+      "x": 26,
+      "y": 88
+    },
+    "bottonLeft": {
+      "x": 25,
+      "y": 88
+    },
+    "left": {
+      "x": 25,
+      "y": 89
+    },
+    "topLeft": {
+      "x": 25,
+      "y": 90
+    }
   }
 }

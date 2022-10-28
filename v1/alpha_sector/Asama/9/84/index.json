@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00524",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00524",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZgEko1eoD1BetHp7FPJkLxVQ1CC66hxw1pUHqxgUEg2E",
+  "token_name": "Terraform04018",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04018",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmes7RmBUNoMJ5otSufNqRjvrxGzMjrZt9anayyYq45hNe",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 6,
+  "power_level": 1,
   "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Saltwater_River",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 9,
     "y": 84
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 85
+    },
+    "topRight": {
+      "x": 10,
+      "y": 85
+    },
+    "right": {
+      "x": 10,
+      "y": 84
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 83
+    },
+    "bottom": {
+      "x": 9,
+      "y": 83
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 83
+    },
+    "left": {
+      "x": 8,
+      "y": 84
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 85
+    }
   }
 }

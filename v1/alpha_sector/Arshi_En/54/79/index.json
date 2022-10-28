@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09176",
+  "token_name": "Terraform09688",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09176",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNoC4G7NdaEBPqSBwy8va4PZ3RxYRMU42JgZyKtnnjuVM",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09688",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSurf9fxH1KEDv9dr5aWhuc33L2s6hHEirqQiuXAvSc2v",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Saltwater_River",
+  "shrine": "Timelost_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 54,
     "y": 79
+  },
+  "neighbors": {
+    "top": {
+      "x": 54,
+      "y": 80
+    },
+    "topRight": {
+      "x": 55,
+      "y": 80
+    },
+    "right": {
+      "x": 55,
+      "y": 79
+    },
+    "bottomRight": {
+      "x": 55,
+      "y": 78
+    },
+    "bottom": {
+      "x": 54,
+      "y": 78
+    },
+    "bottonLeft": {
+      "x": 53,
+      "y": 78
+    },
+    "left": {
+      "x": 53,
+      "y": 79
+    },
+    "topLeft": {
+      "x": 53,
+      "y": 80
+    }
   }
 }

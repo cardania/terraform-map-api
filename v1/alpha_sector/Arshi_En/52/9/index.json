@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07683",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07683",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaCe1k1uLjk2P4xKYP1RUXLvP8VjMBQF3vB4nDhBR65z4",
+  "token_name": "Terraform17890",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17890",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPXeuKmMoPnhaWBw32fRzQ8vn6WhWiCWFHr7ttb2dXiiS",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 5,
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
+  "quantum_flux": 2,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 52,
     "y": 9
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 10
+    },
+    "topRight": {
+      "x": 53,
+      "y": 10
+    },
+    "right": {
+      "x": 53,
+      "y": 9
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 8
+    },
+    "bottom": {
+      "x": 52,
+      "y": 8
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 8
+    },
+    "left": {
+      "x": 51,
+      "y": 9
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 10
+    }
   }
 }

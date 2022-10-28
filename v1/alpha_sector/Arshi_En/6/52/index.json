@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17696",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17696",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVX1gYCjhnxc9GfYoTkQyKjqtjb7LDURsXcipwqQ54Ztf",
+  "token_name": "Terraform03803",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03803",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSCQHV1kbUjtEvzmKXXXy8gYCVrBfJctGkggpZrA8hFhL",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 6,
-  "quantum_flux": 5,
+  "quantum_flux": 1,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "None",
-  "water": "None",
+  "ruins": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Funky_River",
   "location": {
     "x": 6,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 53
+    },
+    "topRight": {
+      "x": 7,
+      "y": 53
+    },
+    "right": {
+      "x": 7,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 51
+    },
+    "bottom": {
+      "x": 6,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 51
+    },
+    "left": {
+      "x": 5,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 53
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17998",
+  "token_name": "Terraform04570",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17998",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmP9aJF2GLPyiMViPRiLbWjyEw5Mwsy8MPNCMZrDoYkYqZ",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04570",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcN2HpC6ixpEnAGMWY9gPsdJ2ovXSgdRoFQ3ydWr1HEoc",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
+  "fauna": "Critters",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
   "power_level": 7,
-  "quantum_flux": 5,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Funky_River",
   "location": {
     "x": 95,
     "y": 11
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 12
+    },
+    "topRight": {
+      "x": 96,
+      "y": 12
+    },
+    "right": {
+      "x": 96,
+      "y": 11
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 10
+    },
+    "bottom": {
+      "x": 95,
+      "y": 10
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 10
+    },
+    "left": {
+      "x": 94,
+      "y": 11
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 12
+    }
   }
 }

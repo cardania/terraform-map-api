@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform13423",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13423",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZZb45aHBi3Fpt2Pasnrbk6apYHSQk6kwJvZdeTUHcoBo",
+  "token_name": "Terraform03899",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03899",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmetW6TeKhia3CpeVX8XtqsmdG8JJ4hC1DG5mYSCrDua54",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
-  "quantum_flux": 1,
-  "primary_minerals": "Copper",
+  "power_level": 8,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 15,
     "y": 92
+  },
+  "neighbors": {
+    "top": {
+      "x": 15,
+      "y": 93
+    },
+    "topRight": {
+      "x": 16,
+      "y": 93
+    },
+    "right": {
+      "x": 16,
+      "y": 92
+    },
+    "bottomRight": {
+      "x": 16,
+      "y": 91
+    },
+    "bottom": {
+      "x": 15,
+      "y": 91
+    },
+    "bottonLeft": {
+      "x": 14,
+      "y": 91
+    },
+    "left": {
+      "x": 14,
+      "y": 92
+    },
+    "topLeft": {
+      "x": 14,
+      "y": 93
+    }
   }
 }

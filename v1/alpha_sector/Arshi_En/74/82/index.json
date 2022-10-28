@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19553",
+  "token_name": "Terraform12235",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19553",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXK5aoyjiqiVPDJDXbZdzNcYdaEtozAC6KuuurQrHbefJ",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12235",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYFXvugsYEovL8HAmzPgBGkXtbW1Y5iC5FH7YDpnhP3AP",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 3,
+  "power_level": 2,
+  "quantum_flux": 1,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 74,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 83
+    },
+    "topRight": {
+      "x": 75,
+      "y": 83
+    },
+    "right": {
+      "x": 75,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 81
+    },
+    "bottom": {
+      "x": 74,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 81
+    },
+    "left": {
+      "x": 73,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 83
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08913",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08913",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWt9Ysx6EnmqAJzzCFSSrU4ijNKVUZmqQSuE12ZV9JwR2",
+  "token_name": "Terraform03551",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03551",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWDnnkTNbSBBst78D48yAN2LrV3eourZ57MYK7GEH4maK",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 4,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 1,
+  "quantum_flux": 8,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_River",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 81,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 57
+    },
+    "topRight": {
+      "x": 82,
+      "y": 57
+    },
+    "right": {
+      "x": 82,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 55
+    },
+    "bottom": {
+      "x": 81,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 55
+    },
+    "left": {
+      "x": 80,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 57
+    }
   }
 }

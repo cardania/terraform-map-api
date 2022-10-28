@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02079",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02079",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSyyi5E5697d8hdX81sYy42Ja9iXpEtHkqHuD6SdjwHMR",
+  "token_name": "Terraform04887",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04887",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZZqshsVJF2BR274FYyWXk3cmDoqMcAWKZTXUcE7QcBt7",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Prismaleaf",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 6,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 52,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 53
+    },
+    "topRight": {
+      "x": 53,
+      "y": 53
+    },
+    "right": {
+      "x": 53,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 51
+    },
+    "bottom": {
+      "x": 52,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 51
+    },
+    "left": {
+      "x": 51,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 53
+    }
   }
 }

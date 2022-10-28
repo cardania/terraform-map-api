@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03171",
+  "token_name": "Terraform08528",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03171",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRme48KVhxCLUQhxMbvihw9X2PBtU1jT37rdDecZaEvSA",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08528",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXNzaypxAet6UASjHSXKG5ypqcnnNM7T6usUdf3Y7mYVJ",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
+  "power_level": 9,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
-  "water": "Toxic_Lake",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 40,
     "y": 14
+  },
+  "neighbors": {
+    "top": {
+      "x": 40,
+      "y": 15
+    },
+    "topRight": {
+      "x": 41,
+      "y": 15
+    },
+    "right": {
+      "x": 41,
+      "y": 14
+    },
+    "bottomRight": {
+      "x": 41,
+      "y": 13
+    },
+    "bottom": {
+      "x": 40,
+      "y": 13
+    },
+    "bottonLeft": {
+      "x": 39,
+      "y": 13
+    },
+    "left": {
+      "x": 39,
+      "y": 14
+    },
+    "topLeft": {
+      "x": 39,
+      "y": 15
+    }
   }
 }

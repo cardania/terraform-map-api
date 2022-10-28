@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16112",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16112",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbegxw8MP8KiriBoUerPLM8fTyFok1xfy6tApcfhneA1i",
+  "token_name": "Terraform09890",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09890",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb8ubUaJ6yt1EBtciE7wb2WF11Cqo1uA11NjMYF837VGd",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 8,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
   "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Void_Shrine",
+  "shrine": "None",
   "water": "Saltwater_River",
   "location": {
     "x": 54,
     "y": 42
+  },
+  "neighbors": {
+    "top": {
+      "x": 54,
+      "y": 43
+    },
+    "topRight": {
+      "x": 55,
+      "y": 43
+    },
+    "right": {
+      "x": 55,
+      "y": 42
+    },
+    "bottomRight": {
+      "x": 55,
+      "y": 41
+    },
+    "bottom": {
+      "x": 54,
+      "y": 41
+    },
+    "bottonLeft": {
+      "x": 53,
+      "y": 41
+    },
+    "left": {
+      "x": 53,
+      "y": 42
+    },
+    "topLeft": {
+      "x": 53,
+      "y": 43
+    }
   }
 }

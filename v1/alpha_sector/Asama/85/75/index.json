@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15407",
+  "token_name": "Terraform10639",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15407",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVoUnCC2zb4qRYbFHLojzY3fGgCsNndSM7PWxm9crrnDr",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10639",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSUUgVMHiso2BowRtfSsvkGyiWi7SJKbx5oDh3titmrWR",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 85,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 85,
+      "y": 76
+    },
+    "topRight": {
+      "x": 86,
+      "y": 76
+    },
+    "right": {
+      "x": 86,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 86,
+      "y": 74
+    },
+    "bottom": {
+      "x": 85,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 84,
+      "y": 74
+    },
+    "left": {
+      "x": 84,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 84,
+      "y": 76
+    }
   }
 }

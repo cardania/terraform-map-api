@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17598",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17598",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVVfLqkgN2ix8Z56XRZyqJSBv6tL6Kq33rGweYTim8tgq",
+  "token_name": "Terraform17699",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17699",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYCRCw4TtZ88qkSX1NxtHoLH4vYamQ6Dq7NrXgABwcyJk",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Livestock",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "lithoglyphs": "Lithoglyphs_Timelost",
   "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
+  "quantum_flux": 1,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Machine_Shrine",
+  "ruins": "None",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 33,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 34
+    },
+    "topRight": {
+      "x": 34,
+      "y": 34
+    },
+    "right": {
+      "x": 34,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 32
+    },
+    "bottom": {
+      "x": 33,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 32
+    },
+    "left": {
+      "x": 32,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 34
+    }
   }
 }

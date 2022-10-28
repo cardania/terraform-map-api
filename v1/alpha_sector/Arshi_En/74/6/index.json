@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03060",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03060",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUosQ5inMJxNwxde2MtPMFzi6XDLmjmZ8Ks15YmMee3sV",
+  "token_name": "Terraform01593",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01593",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaSFsYHKBYsSaL5hV5sq2Qj855TX7Mrevdi5eMNdyRY13",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 4,
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
+  "quantum_flux": 3,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 74,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 7
+    },
+    "topRight": {
+      "x": 75,
+      "y": 7
+    },
+    "right": {
+      "x": 75,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 5
+    },
+    "bottom": {
+      "x": 74,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 5
+    },
+    "left": {
+      "x": 73,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 7
+    }
   }
 }

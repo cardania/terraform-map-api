@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00209",
+  "token_name": "Terraform02258",
   "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00209",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQTDBovCVerd7SXt3Bo8qKr96sgXHYFzpiNwEBVghH4xq",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02258",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSVbv9RWSLywsosN3C1AJuFMDV5jqH4wK86pHvn8ZRowe",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 6,
   "quantum_flux": 4,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 93,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 93,
+      "y": 44
+    },
+    "topRight": {
+      "x": 94,
+      "y": 44
+    },
+    "right": {
+      "x": 94,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 94,
+      "y": 42
+    },
+    "bottom": {
+      "x": 93,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 92,
+      "y": 42
+    },
+    "left": {
+      "x": 92,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 92,
+      "y": 44
+    }
   }
 }

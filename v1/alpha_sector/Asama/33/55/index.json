@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16021",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16021",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc2fDu27TcjD9eqMV6FC7MfA6xpdgJe4q9s3W6wYrwGer",
+  "token_name": "Terraform00474",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00474",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZXGR8iEpU8M2SmAeTV3nsLMSNW36RrUEHWPNrsJnMcE8",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 33,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 56
+    },
+    "topRight": {
+      "x": 34,
+      "y": 56
+    },
+    "right": {
+      "x": 34,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 54
+    },
+    "bottom": {
+      "x": 33,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 54
+    },
+    "left": {
+      "x": 32,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 56
+    }
   }
 }

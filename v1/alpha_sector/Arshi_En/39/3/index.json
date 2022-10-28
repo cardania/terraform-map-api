@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19162",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19162",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTkBJy4kXxzpfrnSB7GGbgKKXVK9kHTdHtZGs94yGM53S",
+  "token_name": "Terraform07822",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07822",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTJTMFwN2KE9qU746PPBEjbxteGQfSksuUwfLmTwnkAcD",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
   "power_level": 1,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Fungal_Shrine",
-  "water": "Toxic_Lake",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 39,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 4
+    },
+    "topRight": {
+      "x": 40,
+      "y": 4
+    },
+    "right": {
+      "x": 40,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 2
+    },
+    "bottom": {
+      "x": 39,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 2
+    },
+    "left": {
+      "x": 38,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 4
+    }
   }
 }

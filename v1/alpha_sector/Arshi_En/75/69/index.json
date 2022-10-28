@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10401",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10401",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaB61EFVJKMk5XA5dzJKX24EM7NvD1Uh4E2dJxh2K1cZR",
+  "token_name": "Terraform15297",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15297",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmViigjzamZn6RvXwWVnzLB6yu7S33C7NhEexARD6PYpb7",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Ultrasaurs",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 6,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 8,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Cursed_River",
   "location": {
     "x": 75,
     "y": 69
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 70
+    },
+    "topRight": {
+      "x": 76,
+      "y": 70
+    },
+    "right": {
+      "x": 76,
+      "y": 69
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 68
+    },
+    "bottom": {
+      "x": 75,
+      "y": 68
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 68
+    },
+    "left": {
+      "x": 74,
+      "y": 69
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 70
+    }
   }
 }

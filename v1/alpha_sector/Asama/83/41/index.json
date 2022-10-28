@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19194",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19194",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVsQaFV9YS5oB8vXSBkm5f4RXUAMarQXGV9SLFsYVcfRo",
+  "token_name": "Terraform00905",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00905",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbiiU93uWedaTFT1vPSie4BRB3ajUuv4swcKk7ysez5HM",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 1,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 83,
     "y": 41
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 42
+    },
+    "topRight": {
+      "x": 84,
+      "y": 42
+    },
+    "right": {
+      "x": 84,
+      "y": 41
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 40
+    },
+    "bottom": {
+      "x": 83,
+      "y": 40
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 40
+    },
+    "left": {
+      "x": 82,
+      "y": 41
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 42
+    }
   }
 }

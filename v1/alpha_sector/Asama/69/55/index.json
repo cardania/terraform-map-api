@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02112",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02112",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTXyWwtEBbws1vCTEo4ESbU9VBc6HXcpV3xBwNVp1joQk",
+  "token_name": "Terraform19701",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19701",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYbraSAYp1sWVntKFyTcJLj5HV6EAaCJh1hRk6dixrqTd",
   "alpha_sector": "Asama",
   "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 2,
+  "power_level": 3,
+  "quantum_flux": 4,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Solar_Shrine",
   "water": "None",
   "location": {
     "x": 69,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 69,
+      "y": 56
+    },
+    "topRight": {
+      "x": 70,
+      "y": 56
+    },
+    "right": {
+      "x": 70,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 70,
+      "y": 54
+    },
+    "bottom": {
+      "x": 69,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 68,
+      "y": 54
+    },
+    "left": {
+      "x": 68,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 68,
+      "y": 56
+    }
   }
 }

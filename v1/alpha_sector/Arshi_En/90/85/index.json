@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01672",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01672",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdT5NpWGNGpnHChn4mkTxRp3Df8QwG5AXvLkX1hYfh6K2",
+  "token_name": "Terraform14063",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14063",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb9sScXKYqyCvnjzS6FhmFdfviBfx2TUNL8KnbV27Le2f",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
+  "power_level": 5,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 90,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 90,
+      "y": 86
+    },
+    "topRight": {
+      "x": 91,
+      "y": 86
+    },
+    "right": {
+      "x": 91,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 91,
+      "y": 84
+    },
+    "bottom": {
+      "x": 90,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 89,
+      "y": 84
+    },
+    "left": {
+      "x": 89,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 89,
+      "y": 86
+    }
   }
 }

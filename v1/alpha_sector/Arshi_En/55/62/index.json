@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19519",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19519",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcrtFxBAXCCpPrLPWNntQVR1NujZgqczZPysyXcXTvjo5",
+  "token_name": "Terraform03518",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03518",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf6HhCFCAHQkKJJDkZcBSZ8GiurJtzKwStyA1LjG1URPp",
   "alpha_sector": "Arshi_En",
   "activity": "Magnetic_Activity",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
+  "hazardous_flora": "Nemesis_Hydra",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 2,
+  "power_level": 1,
+  "quantum_flux": 3,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 55,
     "y": 62
+  },
+  "neighbors": {
+    "top": {
+      "x": 55,
+      "y": 63
+    },
+    "topRight": {
+      "x": 56,
+      "y": 63
+    },
+    "right": {
+      "x": 56,
+      "y": 62
+    },
+    "bottomRight": {
+      "x": 56,
+      "y": 61
+    },
+    "bottom": {
+      "x": 55,
+      "y": 61
+    },
+    "bottonLeft": {
+      "x": 54,
+      "y": 61
+    },
+    "left": {
+      "x": 54,
+      "y": 62
+    },
+    "topLeft": {
+      "x": 54,
+      "y": 63
+    }
   }
 }

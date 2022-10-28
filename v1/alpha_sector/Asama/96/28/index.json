@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13154",
+  "token_name": "Terraform06916",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13154",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQPCFZAGd6aY7cya1zqGGave4cakqadgmsbkGG3ATdJvP",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06916",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeXRe62XdJSdt2Rh9NsxXeHQsS6GozRkmuLz5RrutuYUz",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 2,
+  "quantum_flux": 1,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "None",
   "location": {
     "x": 96,
     "y": 28
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 29
+    },
+    "topRight": {
+      "x": 97,
+      "y": 29
+    },
+    "right": {
+      "x": 97,
+      "y": 28
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 27
+    },
+    "bottom": {
+      "x": 96,
+      "y": 27
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 27
+    },
+    "left": {
+      "x": 95,
+      "y": 28
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 29
+    }
   }
 }

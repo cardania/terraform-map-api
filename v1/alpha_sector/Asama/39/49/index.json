@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06918",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06918",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbhkQPRQJ1qfhB9BAPW1Fwe5nu9t9cg4vRjY5A6D8jsC5",
+  "token_name": "Terraform15807",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15807",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWHY1J2VBPMfS8eHRAcZUikuk6hHTKiRhAPYuxDbqAeeW",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 9,
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 5,
   "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Golden_Shrine",
-  "water": "None",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 39,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 50
+    },
+    "topRight": {
+      "x": 40,
+      "y": 50
+    },
+    "right": {
+      "x": 40,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 48
+    },
+    "bottom": {
+      "x": 39,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 48
+    },
+    "left": {
+      "x": 38,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 50
+    }
   }
 }

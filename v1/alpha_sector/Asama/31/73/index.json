@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07705",
+  "token_name": "Terraform14763",
   "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07705",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmY8zSTyZSKMkCh4FgpfWpbEfcMCToodBJV3pBTMwQ72pM",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14763",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYqvmQtPiLuHmPMVxFz9qzcniSx2SrG7GZtZ7CZeV5H43",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 2,
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 5,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 31,
     "y": 73
+  },
+  "neighbors": {
+    "top": {
+      "x": 31,
+      "y": 74
+    },
+    "topRight": {
+      "x": 32,
+      "y": 74
+    },
+    "right": {
+      "x": 32,
+      "y": 73
+    },
+    "bottomRight": {
+      "x": 32,
+      "y": 72
+    },
+    "bottom": {
+      "x": 31,
+      "y": 72
+    },
+    "bottonLeft": {
+      "x": 30,
+      "y": 72
+    },
+    "left": {
+      "x": 30,
+      "y": 73
+    },
+    "topLeft": {
+      "x": 30,
+      "y": 74
+    }
   }
 }

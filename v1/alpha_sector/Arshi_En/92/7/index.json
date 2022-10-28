@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17497",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17497",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW6YmdcPH7oXEeHuuhjZ3vtWZtZAXsWiDjE9uzzvf5j5j",
+  "token_name": "Terraform03781",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03781",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmab98koXhbN5SbRbAAtDB3nab4hmtzX8keK8mjZo6JazJ",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 92,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 92,
+      "y": 8
+    },
+    "topRight": {
+      "x": 93,
+      "y": 8
+    },
+    "right": {
+      "x": 93,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 93,
+      "y": 6
+    },
+    "bottom": {
+      "x": 92,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 91,
+      "y": 6
+    },
+    "left": {
+      "x": 91,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 91,
+      "y": 8
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14949",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14949",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSXVALVu9vM13kXRZFowpGrxtpP8U36LK4Cv317as7Nwt",
+  "token_name": "Terraform06626",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06626",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZrtn3nj2AMpjAkPG3sErhgkvZyvNPH4vQY84RUeVB7ab",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "power_level": 4,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 3,
     "y": 80
+  },
+  "neighbors": {
+    "top": {
+      "x": 3,
+      "y": 81
+    },
+    "topRight": {
+      "x": 4,
+      "y": 81
+    },
+    "right": {
+      "x": 4,
+      "y": 80
+    },
+    "bottomRight": {
+      "x": 4,
+      "y": 79
+    },
+    "bottom": {
+      "x": 3,
+      "y": 79
+    },
+    "bottonLeft": {
+      "x": 2,
+      "y": 79
+    },
+    "left": {
+      "x": 2,
+      "y": 80
+    },
+    "topLeft": {
+      "x": 2,
+      "y": 81
+    }
   }
 }

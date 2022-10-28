@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06301",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06301",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmS5yoemrCvw6jaQBQCmZjnGUuNhjzLXuBuxkSw1An2ChR",
+  "token_name": "Terraform07011",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07011",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbFniFBCLNKxacmtKryF9turDTyotSUwGLpccpgLEBKDJ",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
   "power_level": 3,
-  "quantum_flux": 1,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "None",
+  "quantum_flux": 2,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Solar_Shrine",
   "water": "Freshwater_River",
   "location": {
     "x": 20,
     "y": 61
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 62
+    },
+    "topRight": {
+      "x": 21,
+      "y": 62
+    },
+    "right": {
+      "x": 21,
+      "y": 61
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 60
+    },
+    "bottom": {
+      "x": 20,
+      "y": 60
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 60
+    },
+    "left": {
+      "x": 19,
+      "y": 61
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 62
+    }
   }
 }

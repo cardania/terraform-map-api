@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02636",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02636",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXqUJoX483FQ5B7cDnyNXeKAE8PN6q7KrcNjmSfFJLWer",
+  "token_name": "Terraform00953",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00953",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmR6pVn9GfvBVXiSCq7pUyZ6ew3gzahf6ibHzXMGt7pg75",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 1,
   "quantum_flux": 7,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 41,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 41,
+      "y": 65
+    },
+    "topRight": {
+      "x": 42,
+      "y": 65
+    },
+    "right": {
+      "x": 42,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 42,
+      "y": 63
+    },
+    "bottom": {
+      "x": 41,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 40,
+      "y": 63
+    },
+    "left": {
+      "x": 40,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 40,
+      "y": 65
+    }
   }
 }

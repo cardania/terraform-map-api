@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03102",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03102",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWCFyPtVCYfL31TVC9g9a96tPzD7DUb85rWjkqcoF57sB",
+  "token_name": "Terraform01989",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01989",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdjDVJPE1VvoYNR5rK8qUaatoRTjiZoaCxv1bfsPb6RP3",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 6,
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 5,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 6,
     "y": 42
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 43
+    },
+    "topRight": {
+      "x": 7,
+      "y": 43
+    },
+    "right": {
+      "x": 7,
+      "y": 42
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 41
+    },
+    "bottom": {
+      "x": 6,
+      "y": 41
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 41
+    },
+    "left": {
+      "x": 5,
+      "y": 42
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 43
+    }
   }
 }

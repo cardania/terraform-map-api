@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05130",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05130",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXBw9Xujk4nmmmKfCBsmGvH5f8wcpgPTFTaGTx4k3FGuG",
+  "token_name": "Terraform08246",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08246",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZH4qfc5ZXPjzac4Cc8nHkKss1aC9A5jn1PZKwURZEJyr",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
-  "quantum_flux": 8,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 8,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 15,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 15,
+      "y": 83
+    },
+    "topRight": {
+      "x": 16,
+      "y": 83
+    },
+    "right": {
+      "x": 16,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 16,
+      "y": 81
+    },
+    "bottom": {
+      "x": 15,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 14,
+      "y": 81
+    },
+    "left": {
+      "x": 14,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 14,
+      "y": 83
+    }
   }
 }

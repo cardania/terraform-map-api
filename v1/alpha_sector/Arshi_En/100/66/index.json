@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03569",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03569",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeL2wMqbCek1boKQrN4iaKP4Z8PBHDq6v5ypHJHg7ntE4",
+  "token_name": "Terraform14506",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14506",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUJuumk2ogPqs6k1YYMt4csUPwYw8SEtKZ5bZgVdMDDrV",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 1,
   "quantum_flux": 6,
-  "primary_minerals": "Copper",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Golden_Shrine",
-  "water": "Cursed_River",
+  "shrine": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 100,
     "y": 66
+  },
+  "neighbors": {
+    "top": {
+      "x": 100,
+      "y": 67
+    },
+    "topRight": {
+      "x": 101,
+      "y": 67
+    },
+    "right": {
+      "x": 101,
+      "y": 66
+    },
+    "bottomRight": {
+      "x": 101,
+      "y": 65
+    },
+    "bottom": {
+      "x": 100,
+      "y": 65
+    },
+    "bottonLeft": {
+      "x": 99,
+      "y": 65
+    },
+    "left": {
+      "x": 99,
+      "y": 66
+    },
+    "topLeft": {
+      "x": 99,
+      "y": 67
+    }
   }
 }

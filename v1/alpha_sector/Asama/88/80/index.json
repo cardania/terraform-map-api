@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17929",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17929",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRh5K8QBnxdmpERA8v91Qboopo1YuxbYvaayrGKu8QKUF",
+  "token_name": "Terraform18789",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18789",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTkHi4146Trten3G4NYPEo2JSyBCP5LJ4Kb6hF88phqsQ",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 9,
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "None",
   "location": {
     "x": 88,
     "y": 80
+  },
+  "neighbors": {
+    "top": {
+      "x": 88,
+      "y": 81
+    },
+    "topRight": {
+      "x": 89,
+      "y": 81
+    },
+    "right": {
+      "x": 89,
+      "y": 80
+    },
+    "bottomRight": {
+      "x": 89,
+      "y": 79
+    },
+    "bottom": {
+      "x": 88,
+      "y": 79
+    },
+    "bottonLeft": {
+      "x": 87,
+      "y": 79
+    },
+    "left": {
+      "x": 87,
+      "y": 80
+    },
+    "topLeft": {
+      "x": 87,
+      "y": 81
+    }
   }
 }

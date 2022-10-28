@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08445",
+  "token_name": "Terraform15767",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08445",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUYrCUKWhYVtDWW9neDVFm7MFKVgjfvzYZUj6zrMqbEuo",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15767",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbZHpFsroHnCvvjZGKRbSb5Woq9tSqfN7WY8ck7YcE6fH",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
   "power_level": 3,
-  "quantum_flux": 4,
+  "quantum_flux": 8,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 84,
     "y": 42
+  },
+  "neighbors": {
+    "top": {
+      "x": 84,
+      "y": 43
+    },
+    "topRight": {
+      "x": 85,
+      "y": 43
+    },
+    "right": {
+      "x": 85,
+      "y": 42
+    },
+    "bottomRight": {
+      "x": 85,
+      "y": 41
+    },
+    "bottom": {
+      "x": 84,
+      "y": 41
+    },
+    "bottonLeft": {
+      "x": 83,
+      "y": 41
+    },
+    "left": {
+      "x": 83,
+      "y": 42
+    },
+    "topLeft": {
+      "x": 83,
+      "y": 43
+    }
   }
 }

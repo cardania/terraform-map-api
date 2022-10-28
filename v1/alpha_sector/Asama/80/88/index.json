@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15983",
+  "token_name": "Terraform15552",
   "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15983",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfQGihKL9VbVnFWdiCaDFVsMCV8dEpgTfnz5NW33FstXe",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15552",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaVsSsTjRfdoZVQSg6YpagU96MjXkJNN3BMYMnrCgFiAi",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 3,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "quantum_flux": 1,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Toxic_River",
   "location": {
     "x": 80,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 80,
+      "y": 89
+    },
+    "topRight": {
+      "x": 81,
+      "y": 89
+    },
+    "right": {
+      "x": 81,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 81,
+      "y": 87
+    },
+    "bottom": {
+      "x": 80,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 79,
+      "y": 87
+    },
+    "left": {
+      "x": 79,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 79,
+      "y": 89
+    }
   }
 }

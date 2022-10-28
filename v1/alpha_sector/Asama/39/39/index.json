@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12261",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12261",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdrJtkbF37rzfePr83bpLYdSSQz9HNFK1jZPxJLW1Swvy",
+  "token_name": "Terraform11531",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11531",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbpZXnBCwoQ67C19ptf3MdyzMouJ4oN8yRGrsZHWK1ghY",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Orange",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 39,
     "y": 39
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 40
+    },
+    "topRight": {
+      "x": 40,
+      "y": 40
+    },
+    "right": {
+      "x": 40,
+      "y": 39
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 38
+    },
+    "bottom": {
+      "x": 39,
+      "y": 38
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 38
+    },
+    "left": {
+      "x": 38,
+      "y": 39
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 40
+    }
   }
 }

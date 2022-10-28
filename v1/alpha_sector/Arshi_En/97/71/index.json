@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13099",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13099",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQQh2NmZHqDcfwYV1zSNDyUHjMdne29aTmFp7hFq2gz3a",
+  "token_name": "Terraform16936",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16936",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXD7WiHyoc2EprSLK1HAvVeHJYUyB1MyodyACERsLkptf",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
   "power_level": 3,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "ruins": "None",
+  "shrine": "Golden_Shrine",
+  "water": "None",
   "location": {
     "x": 97,
     "y": 71
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 72
+    },
+    "topRight": {
+      "x": 98,
+      "y": 72
+    },
+    "right": {
+      "x": 98,
+      "y": 71
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 70
+    },
+    "bottom": {
+      "x": 97,
+      "y": 70
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 70
+    },
+    "left": {
+      "x": 96,
+      "y": 71
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 72
+    }
   }
 }

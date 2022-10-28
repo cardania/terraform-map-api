@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16531",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16531",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmY9yf4NRMzLfpuPyEwsEygkVtjfFbxvJhXA7KMBDKKy1o",
+  "token_name": "Terraform07154",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07154",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZZPCnTWnJiMi9PFATgeng5ri2pkcji43iD4gnx1RgbTF",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 11,
     "y": 40
+  },
+  "neighbors": {
+    "top": {
+      "x": 11,
+      "y": 41
+    },
+    "topRight": {
+      "x": 12,
+      "y": 41
+    },
+    "right": {
+      "x": 12,
+      "y": 40
+    },
+    "bottomRight": {
+      "x": 12,
+      "y": 39
+    },
+    "bottom": {
+      "x": 11,
+      "y": 39
+    },
+    "bottonLeft": {
+      "x": 10,
+      "y": 39
+    },
+    "left": {
+      "x": 10,
+      "y": 40
+    },
+    "topLeft": {
+      "x": 10,
+      "y": 41
+    }
   }
 }

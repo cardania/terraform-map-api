@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09008",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09008",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWCBTnRFhfnkFJ5WGKQhsk8X5kVtLuP53LXobZRcuGk58",
+  "token_name": "Terraform04746",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04746",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbgPbK8pKeg6SA5ZNYX91uGW6gVbzpjkKZqDbv9boqeWf",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "Prismaleaf",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
   "power_level": 4,
   "quantum_flux": 6,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 98,
     "y": 87
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 88
+    },
+    "topRight": {
+      "x": 99,
+      "y": 88
+    },
+    "right": {
+      "x": 99,
+      "y": 87
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 86
+    },
+    "bottom": {
+      "x": 98,
+      "y": 86
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 86
+    },
+    "left": {
+      "x": 97,
+      "y": 87
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 88
+    }
   }
 }

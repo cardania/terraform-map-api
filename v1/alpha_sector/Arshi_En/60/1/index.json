@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02988",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02988",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfUHgPsh7LXnQ4r2kkZ26pU98u3Vjj1RXh32d3TcF2Nk8",
+  "token_name": "Terraform05950",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05950",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZAnWEfvEqpr8drTVUNFVP3TUaywgBq9aYSZF15dYeoi7",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 6,
   "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Saltwater_River",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 60,
     "y": 1
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 2
+    },
+    "topRight": {
+      "x": 61,
+      "y": 2
+    },
+    "right": {
+      "x": 61,
+      "y": 1
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 0
+    },
+    "bottom": {
+      "x": 60,
+      "y": 0
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 0
+    },
+    "left": {
+      "x": 59,
+      "y": 1
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 2
+    }
   }
 }

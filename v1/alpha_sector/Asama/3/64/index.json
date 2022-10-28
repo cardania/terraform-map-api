@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04947",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04947",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbCFY1QEhqGdBB8iATxm1ec8Md64qFH8exu3TzsyFQ8ff",
+  "token_name": "Terraform08160",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08160",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSWBxPTCb8iEvH1FATgcKiYASC3Ph2WtMUtnmgdTbfHuh",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 6,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 4,
   "quantum_flux": 8,
-  "primary_minerals": "Copper",
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "None",
   "location": {
     "x": 3,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 3,
+      "y": 65
+    },
+    "topRight": {
+      "x": 4,
+      "y": 65
+    },
+    "right": {
+      "x": 4,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 4,
+      "y": 63
+    },
+    "bottom": {
+      "x": 3,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 2,
+      "y": 63
+    },
+    "left": {
+      "x": 2,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 2,
+      "y": 65
+    }
   }
 }

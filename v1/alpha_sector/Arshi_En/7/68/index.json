@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01918",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01918",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUMPiU2C1zY9PN3iNuNuPdVkDCVCZm2cmEpJVU78YnFX4",
+  "token_name": "Terraform14284",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14284",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ2ShhUkJTTfNwJggxPCSETMV4tRZDd3MGEgziKZKs7rC",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 7,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 69
+    },
+    "topRight": {
+      "x": 8,
+      "y": 69
+    },
+    "right": {
+      "x": 8,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 67
+    },
+    "bottom": {
+      "x": 7,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 67
+    },
+    "left": {
+      "x": 6,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 69
+    }
   }
 }

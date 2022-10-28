@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08125",
+  "token_name": "Terraform19512",
   "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08125",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmePbfGQ2mGVSCNgGJucbnSGKFDLvjU26E9XQXeiXh2xax",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19512",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmewkHh32KJnwn319cNL3aFbs4DgufbyAEBu8UchcbPzpH",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "power_level": 2,
+  "quantum_flux": 9,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "Void_Shrine",
+  "water": "Cursed_River",
   "location": {
     "x": 75,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 23
+    },
+    "topRight": {
+      "x": 76,
+      "y": 23
+    },
+    "right": {
+      "x": 76,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 21
+    },
+    "bottom": {
+      "x": 75,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 21
+    },
+    "left": {
+      "x": 74,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 23
+    }
   }
 }

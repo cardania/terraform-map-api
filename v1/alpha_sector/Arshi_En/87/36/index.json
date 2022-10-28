@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14396",
+  "token_name": "Terraform13295",
   "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14396",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmcfn7V5Dsm4GYpfkTeRvxk1Ve8MddugSUg4uGMugcMGRN",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13295",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZAwhg5CK243aUkSSqpLCYhJf3AmcXTXF8tQegxui3v5R",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Void_Shrine",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Fungal_Shrine",
   "water": "Freshwater_Lake",
   "location": {
     "x": 87,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 87,
+      "y": 37
+    },
+    "topRight": {
+      "x": 88,
+      "y": 37
+    },
+    "right": {
+      "x": 88,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 88,
+      "y": 35
+    },
+    "bottom": {
+      "x": 87,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 86,
+      "y": 35
+    },
+    "left": {
+      "x": 86,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 86,
+      "y": 37
+    }
   }
 }

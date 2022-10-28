@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09221",
+  "token_name": "Terraform11950",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09221",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW71n9wc61HpzMQKRsTjX9zTj6KxgxzyGhzuwsDVPRLGu",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11950",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfFr7kFAggkVnqtVKjhBj38AFwPWagUFB6dBdp8hksau6",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
   "power_level": 2,
   "quantum_flux": 4,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
-  "ruins": "Ancient_Ruins",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 91,
     "y": 59
+  },
+  "neighbors": {
+    "top": {
+      "x": 91,
+      "y": 60
+    },
+    "topRight": {
+      "x": 92,
+      "y": 60
+    },
+    "right": {
+      "x": 92,
+      "y": 59
+    },
+    "bottomRight": {
+      "x": 92,
+      "y": 58
+    },
+    "bottom": {
+      "x": 91,
+      "y": 58
+    },
+    "bottonLeft": {
+      "x": 90,
+      "y": 58
+    },
+    "left": {
+      "x": 90,
+      "y": 59
+    },
+    "topLeft": {
+      "x": 90,
+      "y": 60
+    }
   }
 }

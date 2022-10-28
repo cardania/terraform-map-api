@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01419",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01419",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWK6SwVZ7dJdHTwWEhXqku3b6KSjjSAfemn3uSQfVLrxe",
+  "token_name": "Terraform17618",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17618",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSjwSzh1tyYRwDVBQ14PtCf7njAnzKfWanWx26jE4BnNS",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 9,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Blue",
+  "forests": "Palms",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 4,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 1,
     "y": 83
+  },
+  "neighbors": {
+    "top": {
+      "x": 1,
+      "y": 84
+    },
+    "topRight": {
+      "x": 2,
+      "y": 84
+    },
+    "right": {
+      "x": 2,
+      "y": 83
+    },
+    "bottomRight": {
+      "x": 2,
+      "y": 82
+    },
+    "bottom": {
+      "x": 1,
+      "y": 82
+    },
+    "bottonLeft": {
+      "x": 0,
+      "y": 82
+    },
+    "left": {
+      "x": 0,
+      "y": 83
+    },
+    "topLeft": {
+      "x": 0,
+      "y": 84
+    }
   }
 }

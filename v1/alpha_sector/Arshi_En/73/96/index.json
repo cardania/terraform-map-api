@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00637",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00637",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXqEvSpcG2EQAnc3n7xqAkamNPUcPhDbwdGdLYmFRVbz4",
+  "token_name": "Terraform06958",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06958",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVrtv1tqzynsfRuQ8aFTC5CRhgMmRTgG8PjVjwrJfRnuU",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 73,
     "y": 96
+  },
+  "neighbors": {
+    "top": {
+      "x": 73,
+      "y": 97
+    },
+    "topRight": {
+      "x": 74,
+      "y": 97
+    },
+    "right": {
+      "x": 74,
+      "y": 96
+    },
+    "bottomRight": {
+      "x": 74,
+      "y": 95
+    },
+    "bottom": {
+      "x": 73,
+      "y": 95
+    },
+    "bottonLeft": {
+      "x": 72,
+      "y": 95
+    },
+    "left": {
+      "x": 72,
+      "y": 96
+    },
+    "topLeft": {
+      "x": 72,
+      "y": 97
+    }
   }
 }

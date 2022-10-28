@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09840",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09840",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSuBG6tccXg1DV1H2nJJQncf54xH837rqd8TutBERHko8",
+  "token_name": "Terraform14592",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14592",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTLAob6CrKB6wA75V2ajzpm5nc1uLARx3M96YyfADvuH7",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 3,
-  "quantum_flux": 2,
+  "quantum_flux": 3,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "ruins": "Ancient_Ruins",
+  "shrine": "None",
+  "water": "Funky_River",
   "location": {
     "x": 75,
     "y": 47
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 48
+    },
+    "topRight": {
+      "x": 76,
+      "y": 48
+    },
+    "right": {
+      "x": 76,
+      "y": 47
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 46
+    },
+    "bottom": {
+      "x": 75,
+      "y": 46
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 46
+    },
+    "left": {
+      "x": 74,
+      "y": 47
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 48
+    }
   }
 }

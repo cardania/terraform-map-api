@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02806",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02806",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbK7i2A5wL8D1zNg1zYWi1KBwbHzmAk4RPUhkmP2YPBPb",
+  "token_name": "Terraform00133",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00133",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVZYyN96nczWpb2wQ9bRA7vBXsLthctdGV6XpKLHkSR2f",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 2,
-  "quantum_flux": 7,
+  "quantum_flux": 4,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "Solar_Shrine",
   "water": "None",
   "location": {
     "x": 17,
     "y": 84
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 85
+    },
+    "topRight": {
+      "x": 18,
+      "y": 85
+    },
+    "right": {
+      "x": 18,
+      "y": 84
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 83
+    },
+    "bottom": {
+      "x": 17,
+      "y": 83
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 83
+    },
+    "left": {
+      "x": 16,
+      "y": 84
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 85
+    }
   }
 }

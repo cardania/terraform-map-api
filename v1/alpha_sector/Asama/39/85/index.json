@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04655",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04655",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUvErMKPY5CX7uvP6Ct4RJJ7nLHT8P3RQWuSGEHAukZqg",
+  "token_name": "Terraform18979",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18979",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWTgZNCo8HMpin4K6ZSrNQmGj1rPtKiGaicgT2L8TFYpg",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 5,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 39,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 86
+    },
+    "topRight": {
+      "x": 40,
+      "y": 86
+    },
+    "right": {
+      "x": 40,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 84
+    },
+    "bottom": {
+      "x": 39,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 84
+    },
+    "left": {
+      "x": 38,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 86
+    }
   }
 }

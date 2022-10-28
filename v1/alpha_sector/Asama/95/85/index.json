@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00718",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00718",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWvrV9Eb36n6UpMshA8qmxjC3aYqTSQ35GQWzjR59aLRu",
+  "token_name": "Terraform12496",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12496",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYoRL4YtydRoP4URKGvepYs8nQB4puCxF2Ju2VWmufyoq",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "Funky_River",
   "location": {
     "x": 95,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 86
+    },
+    "topRight": {
+      "x": 96,
+      "y": 86
+    },
+    "right": {
+      "x": 96,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 84
+    },
+    "bottom": {
+      "x": 95,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 84
+    },
+    "left": {
+      "x": 94,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 86
+    }
   }
 }

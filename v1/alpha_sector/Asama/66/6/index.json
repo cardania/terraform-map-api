@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13170",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13170",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ53isU38WLKLBGdEAER19jgPRgpYyzcxKMLPEwvQ7pPm",
+  "token_name": "Terraform02562",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02562",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPLdd1ufyTkeHAnK2QMcDpFYprSE1w5AgzSwHgb5Ravp1",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 2,
+  "power_level": 2,
+  "quantum_flux": 6,
   "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 66,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 66,
+      "y": 7
+    },
+    "topRight": {
+      "x": 67,
+      "y": 7
+    },
+    "right": {
+      "x": 67,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 67,
+      "y": 5
+    },
+    "bottom": {
+      "x": 66,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 65,
+      "y": 5
+    },
+    "left": {
+      "x": 65,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 65,
+      "y": 7
+    }
   }
 }

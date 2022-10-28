@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17435",
+  "token_name": "Terraform11355",
   "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17435",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb2BALMFM3R5GUKnBGGhLKbDZWRfJzt9rSMRua2AuUiqN",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11355",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRmSYCkZsjha87WDFN8RyV2g4sTTMbCVZv8fnFxypMcrL",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 3,
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 6,
   "primary_minerals": "Cardanium",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Machine_Shrine",
   "water": "None",
   "location": {
     "x": 37,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 37,
+      "y": 4
+    },
+    "topRight": {
+      "x": 38,
+      "y": 4
+    },
+    "right": {
+      "x": 38,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 38,
+      "y": 2
+    },
+    "bottom": {
+      "x": 37,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 36,
+      "y": 2
+    },
+    "left": {
+      "x": 36,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 36,
+      "y": 4
+    }
   }
 }

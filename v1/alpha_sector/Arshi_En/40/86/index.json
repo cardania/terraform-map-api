@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01318",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01318",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYxpRiCDfkQaAmHELFCiCg26LMejCWHFukiRZVuaiBsQ4",
+  "token_name": "Terraform17187",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17187",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYytDEAWL8uAz8Hz2EsfJ4BYt64iyCbHosT7ZmxuZZBuG",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Purple",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 3,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 40,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 40,
+      "y": 87
+    },
+    "topRight": {
+      "x": 41,
+      "y": 87
+    },
+    "right": {
+      "x": 41,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 41,
+      "y": 85
+    },
+    "bottom": {
+      "x": 40,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 39,
+      "y": 85
+    },
+    "left": {
+      "x": 39,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 39,
+      "y": 87
+    }
   }
 }

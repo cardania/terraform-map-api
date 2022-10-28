@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08719",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08719",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNd6SCmdzfyaisgBokcDd3T8JyKRsEfNTiV3BR3BTaTYS",
+  "token_name": "Terraform06616",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06616",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZfbCYE8TsoLLSbFrUa4S7sfJZVsdU2LNcTPoMqr2tRpx",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 5,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
   "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Quantum_Shrine",
   "water": "None",
   "location": {
     "x": 55,
     "y": 91
+  },
+  "neighbors": {
+    "top": {
+      "x": 55,
+      "y": 92
+    },
+    "topRight": {
+      "x": 56,
+      "y": 92
+    },
+    "right": {
+      "x": 56,
+      "y": 91
+    },
+    "bottomRight": {
+      "x": 56,
+      "y": 90
+    },
+    "bottom": {
+      "x": 55,
+      "y": 90
+    },
+    "bottonLeft": {
+      "x": 54,
+      "y": 90
+    },
+    "left": {
+      "x": 54,
+      "y": 91
+    },
+    "topLeft": {
+      "x": 54,
+      "y": 92
+    }
   }
 }

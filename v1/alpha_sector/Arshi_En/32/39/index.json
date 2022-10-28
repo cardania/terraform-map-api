@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17976",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17976",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV1L3Q8kzuYJQDobmaZwYxpRn3wm9SgFkEzxyzq34ZqgP",
+  "token_name": "Terraform17868",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17868",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbYSeDrVQzzWfoUtAmHAuosDWcJEMgEUEMH2zuVSXcco3",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 8,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 32,
     "y": 39
+  },
+  "neighbors": {
+    "top": {
+      "x": 32,
+      "y": 40
+    },
+    "topRight": {
+      "x": 33,
+      "y": 40
+    },
+    "right": {
+      "x": 33,
+      "y": 39
+    },
+    "bottomRight": {
+      "x": 33,
+      "y": 38
+    },
+    "bottom": {
+      "x": 32,
+      "y": 38
+    },
+    "bottonLeft": {
+      "x": 31,
+      "y": 38
+    },
+    "left": {
+      "x": 31,
+      "y": 39
+    },
+    "topLeft": {
+      "x": 31,
+      "y": 40
+    }
   }
 }

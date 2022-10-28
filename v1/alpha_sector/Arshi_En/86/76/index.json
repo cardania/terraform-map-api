@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16243",
+  "token_name": "Terraform16013",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16243",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdvEfYEz891M978B6mete1cGZN2YwM564JXYeaodX6L9h",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16013",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXMUPad9SjDe3nHjHQPEvGUhS9yNmR2UEf9ov2XvkF19j",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 5,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "quantum_flux": 8,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
+  "shrine": "Quantum_Shrine",
+  "water": "None",
   "location": {
     "x": 86,
     "y": 76
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 77
+    },
+    "topRight": {
+      "x": 87,
+      "y": 77
+    },
+    "right": {
+      "x": 87,
+      "y": 76
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 75
+    },
+    "bottom": {
+      "x": 86,
+      "y": 75
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 75
+    },
+    "left": {
+      "x": 85,
+      "y": 76
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 77
+    }
   }
 }

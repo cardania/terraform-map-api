@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform18875",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18875",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXF7CyVJ1N1r16f5FW1wCjpPZKpmYq19dcxTc2CVLpYMP",
+  "token_name": "Terraform02989",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02989",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZefZALXX6AT6CYS1ZUTUW81vWmW5MRPvGqnZNjbBUvjT",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "lithoglyphs": "None",
   "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "quantum_flux": 1,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "Alien_Technology_Purple",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 59,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 59,
+      "y": 26
+    },
+    "topRight": {
+      "x": 60,
+      "y": 26
+    },
+    "right": {
+      "x": 60,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 60,
+      "y": 24
+    },
+    "bottom": {
+      "x": 59,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 58,
+      "y": 24
+    },
+    "left": {
+      "x": 58,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 58,
+      "y": 26
+    }
   }
 }

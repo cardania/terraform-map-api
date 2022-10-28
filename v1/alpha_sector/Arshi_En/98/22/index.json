@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07603",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07603",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcmrRzdLbKCgJBXAQASJwP2FuQ5x9dt3xKzuNxdyBz4Y3",
+  "token_name": "Terraform06292",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06292",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUTH931ZX7KpjjvSuY8sCNKHh8zf1K81VjVJkHT1F9mHs",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "power_level": 4,
+  "quantum_flux": 4,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "None",
   "location": {
     "x": 98,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 23
+    },
+    "topRight": {
+      "x": 99,
+      "y": 23
+    },
+    "right": {
+      "x": 99,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 21
+    },
+    "bottom": {
+      "x": 98,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 21
+    },
+    "left": {
+      "x": 97,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 23
+    }
   }
 }

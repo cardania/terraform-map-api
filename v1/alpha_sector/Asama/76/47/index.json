@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06029",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06029",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmY2feAocJrsQ47oCE41qQPcmnYtPPTC6m6Ksjb2n2cqvo",
+  "token_name": "Terraform12216",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12216",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZtn6PH99ofMx71DydYRAHKJLmbSrNXTiXnWARTs6W6tX",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
   "power_level": 3,
-  "quantum_flux": 1,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Orange",
+  "quantum_flux": 6,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Red",
   "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 76,
     "y": 47
+  },
+  "neighbors": {
+    "top": {
+      "x": 76,
+      "y": 48
+    },
+    "topRight": {
+      "x": 77,
+      "y": 48
+    },
+    "right": {
+      "x": 77,
+      "y": 47
+    },
+    "bottomRight": {
+      "x": 77,
+      "y": 46
+    },
+    "bottom": {
+      "x": 76,
+      "y": 46
+    },
+    "bottonLeft": {
+      "x": 75,
+      "y": 46
+    },
+    "left": {
+      "x": 75,
+      "y": 47
+    },
+    "topLeft": {
+      "x": 75,
+      "y": 48
+    }
   }
 }

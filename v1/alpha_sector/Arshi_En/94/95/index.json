@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13272",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13272",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZbiEbKv1sqQKFKBx71fGcsMo1s326Bhftz4rwAYhdW1G",
+  "token_name": "Terraform19231",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19231",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUu1zpHS3Yp7ADndgxfSWSjaf2eygLDrYCYHk1mACTWbH",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 3,
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 1,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Golden_Shrine",
   "water": "None",
   "location": {
     "x": 94,
     "y": 95
+  },
+  "neighbors": {
+    "top": {
+      "x": 94,
+      "y": 96
+    },
+    "topRight": {
+      "x": 95,
+      "y": 96
+    },
+    "right": {
+      "x": 95,
+      "y": 95
+    },
+    "bottomRight": {
+      "x": 95,
+      "y": 94
+    },
+    "bottom": {
+      "x": 94,
+      "y": 94
+    },
+    "bottonLeft": {
+      "x": 93,
+      "y": 94
+    },
+    "left": {
+      "x": 93,
+      "y": 95
+    },
+    "topLeft": {
+      "x": 93,
+      "y": 96
+    }
   }
 }

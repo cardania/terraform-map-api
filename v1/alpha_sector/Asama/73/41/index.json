@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17871",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17871",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYye3mC2wgnYzjgva5F6Dgd79P7PE2pHsshgoCpWnjWtq",
+  "token_name": "Terraform10994",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10994",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZLSKdkgUmrPWq78UpgwsESCh6JvonSARJBvZ9bcL1XaN",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 8,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 73,
     "y": 41
+  },
+  "neighbors": {
+    "top": {
+      "x": 73,
+      "y": 42
+    },
+    "topRight": {
+      "x": 74,
+      "y": 42
+    },
+    "right": {
+      "x": 74,
+      "y": 41
+    },
+    "bottomRight": {
+      "x": 74,
+      "y": 40
+    },
+    "bottom": {
+      "x": 73,
+      "y": 40
+    },
+    "bottonLeft": {
+      "x": 72,
+      "y": 40
+    },
+    "left": {
+      "x": 72,
+      "y": 41
+    },
+    "topLeft": {
+      "x": 72,
+      "y": 42
+    }
   }
 }

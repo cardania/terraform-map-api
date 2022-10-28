@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01509",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01509",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWFPuNDwwXkhwcYEoemk9g7J5LFU5nzMeUzL6AZf4NuND",
+  "token_name": "Terraform05745",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05745",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmW8YEJ1TVUB7PnLgx7WqHr6yMMqB6oew6PiWCWoru2pwG",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 9,
-  "primary_minerals": "None",
+  "power_level": 7,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 64,
     "y": 94
+  },
+  "neighbors": {
+    "top": {
+      "x": 64,
+      "y": 95
+    },
+    "topRight": {
+      "x": 65,
+      "y": 95
+    },
+    "right": {
+      "x": 65,
+      "y": 94
+    },
+    "bottomRight": {
+      "x": 65,
+      "y": 93
+    },
+    "bottom": {
+      "x": 64,
+      "y": 93
+    },
+    "bottonLeft": {
+      "x": 63,
+      "y": 93
+    },
+    "left": {
+      "x": 63,
+      "y": 94
+    },
+    "topLeft": {
+      "x": 63,
+      "y": 95
+    }
   }
 }

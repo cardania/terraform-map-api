@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12302",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12302",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWBigivHYNom87xes47uyRK5ETVeqGcJgNxFLCadBZNk5",
+  "token_name": "Terraform14124",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14124",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdLe6CBNW58iMXHiH88x24mr7mCiYWAYkkjrMia7sZu3f",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "None",
   "location": {
     "x": 48,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 37
+    },
+    "topRight": {
+      "x": 49,
+      "y": 37
+    },
+    "right": {
+      "x": 49,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 35
+    },
+    "bottom": {
+      "x": 48,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 35
+    },
+    "left": {
+      "x": 47,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 37
+    }
   }
 }

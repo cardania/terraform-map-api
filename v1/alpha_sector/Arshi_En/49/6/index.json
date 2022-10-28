@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06661",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06661",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmapVSZsMHh9RwWDfA54wksN3gGAL85jGUBG6rY4PZ77fK",
+  "token_name": "Terraform18484",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18484",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmccTcq5Z8zLxDpmCReNACcVPzhrWop8F3SXxGiwTtqeca",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 8,
-  "primary_minerals": "Cardanium",
+  "power_level": 8,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "None",
+  "ruins": "None",
+  "shrine": "Quantum_Shrine",
   "water": "None",
   "location": {
     "x": 49,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 49,
+      "y": 7
+    },
+    "topRight": {
+      "x": 50,
+      "y": 7
+    },
+    "right": {
+      "x": 50,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 50,
+      "y": 5
+    },
+    "bottom": {
+      "x": 49,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 48,
+      "y": 5
+    },
+    "left": {
+      "x": 48,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 48,
+      "y": 7
+    }
   }
 }

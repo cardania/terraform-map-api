@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03312",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03312",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmcsn63Npnq1TR9TDhZ73GicuHQstYAfaTyUoDgBnHNKiF",
+  "token_name": "Terraform16607",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16607",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ1a31i66AjzadkfBk6Xi4D7oXjqSZLYYY7PyhVU39v7z",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 2,
   "quantum_flux": 4,
-  "primary_minerals": "Cardanium",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Golden_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 18,
     "y": 63
+  },
+  "neighbors": {
+    "top": {
+      "x": 18,
+      "y": 64
+    },
+    "topRight": {
+      "x": 19,
+      "y": 64
+    },
+    "right": {
+      "x": 19,
+      "y": 63
+    },
+    "bottomRight": {
+      "x": 19,
+      "y": 62
+    },
+    "bottom": {
+      "x": 18,
+      "y": 62
+    },
+    "bottonLeft": {
+      "x": 17,
+      "y": 62
+    },
+    "left": {
+      "x": 17,
+      "y": 63
+    },
+    "topLeft": {
+      "x": 17,
+      "y": 64
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04057",
+  "token_name": "Terraform11126",
   "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04057",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmURBjrMCSaYxzw65Jemwwkg1QEQdaVTQCsZ3qun14vLff",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11126",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTSUqAiNj1yEdg8A69UAsZaX24cVhcsY1eDUmmt5FiSZm",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 8,
+  "power_level": 2,
   "quantum_flux": 1,
-  "primary_minerals": "Copper",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 63,
     "y": 34
+  },
+  "neighbors": {
+    "top": {
+      "x": 63,
+      "y": 35
+    },
+    "topRight": {
+      "x": 64,
+      "y": 35
+    },
+    "right": {
+      "x": 64,
+      "y": 34
+    },
+    "bottomRight": {
+      "x": 64,
+      "y": 33
+    },
+    "bottom": {
+      "x": 63,
+      "y": 33
+    },
+    "bottonLeft": {
+      "x": 62,
+      "y": 33
+    },
+    "left": {
+      "x": 62,
+      "y": 34
+    },
+    "topLeft": {
+      "x": 62,
+      "y": 35
+    }
   }
 }

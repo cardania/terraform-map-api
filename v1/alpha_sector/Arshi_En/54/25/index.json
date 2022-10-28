@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05612",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05612",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZx9faqC2odyDLn72WMUSQRd4E5gBhQjVG8g1dz5cXH49",
+  "token_name": "Terraform03500",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03500",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaYjB5TpZiepusMo9maMjXauYcdzbVZ39CSd4BxHSNuBj",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
+  "forests": "Palms",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 4,
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
   "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Gemstones",
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 54,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 54,
+      "y": 26
+    },
+    "topRight": {
+      "x": 55,
+      "y": 26
+    },
+    "right": {
+      "x": 55,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 55,
+      "y": 24
+    },
+    "bottom": {
+      "x": 54,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 53,
+      "y": 24
+    },
+    "left": {
+      "x": 53,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 53,
+      "y": 26
+    }
   }
 }

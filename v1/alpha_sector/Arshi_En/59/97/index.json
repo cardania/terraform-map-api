@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform13011",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13011",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmde219pjHCeBgHo6wHkS8ASSgftWTPaUTWhZE3cgDK528",
+  "token_name": "Terraform09905",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09905",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc7beovWYFrpVjgFLPkGetfbwAhUWGuo5rQPD81bdChqa",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 8,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 59,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 59,
+      "y": 98
+    },
+    "topRight": {
+      "x": 60,
+      "y": 98
+    },
+    "right": {
+      "x": 60,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 60,
+      "y": 96
+    },
+    "bottom": {
+      "x": 59,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 58,
+      "y": 96
+    },
+    "left": {
+      "x": 58,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 58,
+      "y": 98
+    }
   }
 }

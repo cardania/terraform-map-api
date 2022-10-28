@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01619",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01619",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWZ661U8Qz5rkBdkbYZCAhfFJt5zAsDV7zzK9tRUdLPjD",
+  "token_name": "Terraform05303",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05303",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeyH2PaphKoaQqV2U4o5Tv1dEyFKvipYRMVf8kggSRxtP",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Cardanium_Bunker",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
   "fauna": "Ultrasaurs",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 5,
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 2,
   "quantum_flux": 5,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "None",
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Timelost_Shrine",
   "water": "None",
   "location": {
     "x": 85,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 85,
+      "y": 9
+    },
+    "topRight": {
+      "x": 86,
+      "y": 9
+    },
+    "right": {
+      "x": 86,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 86,
+      "y": 7
+    },
+    "bottom": {
+      "x": 85,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 84,
+      "y": 7
+    },
+    "left": {
+      "x": 84,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 84,
+      "y": 9
+    }
   }
 }

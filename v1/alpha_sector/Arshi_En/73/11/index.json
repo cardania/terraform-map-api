@@ -1,8 +1,8 @@
 {
-  "token_name": "Terraform07153",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07153",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXcME1ZUYbzXMfPtiiZKcdF3PutQvvEHrb6URMQP8RzTW",
+  "token_name": "Terraform01113",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01113",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbvXk9MmEnXrXQYYNV1p9JJycR5RAFNQ8auRkK9RMVAR7",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
@@ -10,16 +10,50 @@
   "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "lithoglyphs": "None",
+  "power_level": 9,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Toxic_Lake",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 73,
     "y": 11
+  },
+  "neighbors": {
+    "top": {
+      "x": 73,
+      "y": 12
+    },
+    "topRight": {
+      "x": 74,
+      "y": 12
+    },
+    "right": {
+      "x": 74,
+      "y": 11
+    },
+    "bottomRight": {
+      "x": 74,
+      "y": 10
+    },
+    "bottom": {
+      "x": 73,
+      "y": 10
+    },
+    "bottonLeft": {
+      "x": 72,
+      "y": 10
+    },
+    "left": {
+      "x": 72,
+      "y": 11
+    },
+    "topLeft": {
+      "x": 72,
+      "y": 12
+    }
   }
 }

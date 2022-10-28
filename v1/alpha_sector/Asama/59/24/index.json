@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01985",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01985",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUok43ak6a8WC42bsMd8BV8R2tuuaewzysYHEmCrKbHuB",
+  "token_name": "Terraform00514",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00514",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXMYhq3u8p2mqFKnCDqEA78UVJp6BLnjnwZZFE7PFDump",
   "alpha_sector": "Asama",
   "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Palms",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 4,
+  "lithoglyphs": "None",
+  "power_level": 3,
   "quantum_flux": 3,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 59,
     "y": 24
+  },
+  "neighbors": {
+    "top": {
+      "x": 59,
+      "y": 25
+    },
+    "topRight": {
+      "x": 60,
+      "y": 25
+    },
+    "right": {
+      "x": 60,
+      "y": 24
+    },
+    "bottomRight": {
+      "x": 60,
+      "y": 23
+    },
+    "bottom": {
+      "x": 59,
+      "y": 23
+    },
+    "bottonLeft": {
+      "x": 58,
+      "y": 23
+    },
+    "left": {
+      "x": 58,
+      "y": 24
+    },
+    "topLeft": {
+      "x": 58,
+      "y": 25
+    }
   }
 }

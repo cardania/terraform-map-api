@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14427",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14427",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmcg7L6YfGdoursEy7vDVRRQruFYGbZHYwpFwUvvqgZ6FN",
+  "token_name": "Terraform01670",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01670",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmecvngCKPPgDebdDfieY1gW78Gm2uANb7uJtRzhGd5cRZ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Toxic_Lake",
   "location": {
     "x": 14,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 14,
+      "y": 6
+    },
+    "topRight": {
+      "x": 15,
+      "y": 6
+    },
+    "right": {
+      "x": 15,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 15,
+      "y": 4
+    },
+    "bottom": {
+      "x": 14,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 13,
+      "y": 4
+    },
+    "left": {
+      "x": 13,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 13,
+      "y": 6
+    }
   }
 }

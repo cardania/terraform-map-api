@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13505",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13505",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeXFgVg9vTrgYwwPrZTzdv1cESLAe8vXstUZSwz9ymawe",
+  "token_name": "Terraform01958",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01958",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTUFbmQqLqBkkJUsGQsCk3FwF95PPoJKqAhHWv68i4CzX",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
   "forests": "Palms",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 6,
+  "power_level": 1,
+  "quantum_flux": 3,
   "primary_minerals": "Copper",
   "secondary_minerals": "Gemstones",
-  "ruins": "Ancient_Ruins",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 28,
     "y": 95
+  },
+  "neighbors": {
+    "top": {
+      "x": 28,
+      "y": 96
+    },
+    "topRight": {
+      "x": 29,
+      "y": 96
+    },
+    "right": {
+      "x": 29,
+      "y": 95
+    },
+    "bottomRight": {
+      "x": 29,
+      "y": 94
+    },
+    "bottom": {
+      "x": 28,
+      "y": 94
+    },
+    "bottonLeft": {
+      "x": 27,
+      "y": 94
+    },
+    "left": {
+      "x": 27,
+      "y": 95
+    },
+    "topLeft": {
+      "x": 27,
+      "y": 96
+    }
   }
 }

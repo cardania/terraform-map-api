@@ -1,18 +1,18 @@
 {
-  "token_name": "Terraform18935",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18935",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaSoC9Q64P8LbX2ZxEpidFdYibcXfJ46wYL7WsSCUY8YH",
+  "token_name": "Terraform14608",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14608",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmS8wpjHp3s51ecAbH26Z7o9r36v82XwFzbc4443rrSpv6",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 5,
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 4,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 59,
     "y": 58
+  },
+  "neighbors": {
+    "top": {
+      "x": 59,
+      "y": 59
+    },
+    "topRight": {
+      "x": 60,
+      "y": 59
+    },
+    "right": {
+      "x": 60,
+      "y": 58
+    },
+    "bottomRight": {
+      "x": 60,
+      "y": 57
+    },
+    "bottom": {
+      "x": 59,
+      "y": 57
+    },
+    "bottonLeft": {
+      "x": 58,
+      "y": 57
+    },
+    "left": {
+      "x": 58,
+      "y": 58
+    },
+    "topLeft": {
+      "x": 58,
+      "y": 59
+    }
   }
 }

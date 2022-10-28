@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11736",
+  "token_name": "Terraform09978",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11736",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWPgNrbyEV6dCi6f2w4F6RohB7vKTne2HeJ1iqU4Wp2W5",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09978",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZTfskRo3se8ciJqqJqc3yJDEBD3mH5cgoCwfq8TAVW2N",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Blue",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 6,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 39,
     "y": 57
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 58
+    },
+    "topRight": {
+      "x": 40,
+      "y": 58
+    },
+    "right": {
+      "x": 40,
+      "y": 57
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 56
+    },
+    "bottom": {
+      "x": 39,
+      "y": 56
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 56
+    },
+    "left": {
+      "x": 38,
+      "y": 57
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 58
+    }
   }
 }

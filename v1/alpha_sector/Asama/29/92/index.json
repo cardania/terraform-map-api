@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06365",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06365",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmetodGunRzgDSD742CPMRSUqefxNWyq3nERr65gJ5JSuh",
+  "token_name": "Terraform03356",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03356",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZSA5Fm5jntjeV9jQjXsFoVQhyPPQaHB3TAUiwCnDXYk3",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 8,
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Toxic_Lake",
   "location": {
     "x": 29,
     "y": 92
+  },
+  "neighbors": {
+    "top": {
+      "x": 29,
+      "y": 93
+    },
+    "topRight": {
+      "x": 30,
+      "y": 93
+    },
+    "right": {
+      "x": 30,
+      "y": 92
+    },
+    "bottomRight": {
+      "x": 30,
+      "y": 91
+    },
+    "bottom": {
+      "x": 29,
+      "y": 91
+    },
+    "bottonLeft": {
+      "x": 28,
+      "y": 91
+    },
+    "left": {
+      "x": 28,
+      "y": 92
+    },
+    "topLeft": {
+      "x": 28,
+      "y": 93
+    }
   }
 }

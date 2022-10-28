@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12347",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12347",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUnwjbkyxcWkD2ib9iHDRMx33uxb7YMSMjGqz6LWe7nE8",
+  "token_name": "Terraform16964",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16964",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmag7xL1oKnzUsvnuP1MBJfh3RbKMM4znXu2AUHQoHEAUG",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "power_level": 7,
+  "quantum_flux": 1,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 7,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 57
+    },
+    "topRight": {
+      "x": 8,
+      "y": 57
+    },
+    "right": {
+      "x": 8,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 55
+    },
+    "bottom": {
+      "x": 7,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 55
+    },
+    "left": {
+      "x": 6,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 57
+    }
   }
 }

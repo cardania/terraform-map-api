@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17727",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17727",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRTLAJoxPjLLcPqaQADuVZ4CEwh6GXwUpJQy5nY4ryZ19",
+  "token_name": "Terraform07848",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07848",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSuWVeBee4VhXztQp5VsxTZifGaAtainHGWhY5CnqAhNu",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 3,
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Funky_Lake",
+  "shrine": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 12,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 12,
+      "y": 56
+    },
+    "topRight": {
+      "x": 13,
+      "y": 56
+    },
+    "right": {
+      "x": 13,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 13,
+      "y": 54
+    },
+    "bottom": {
+      "x": 12,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 11,
+      "y": 54
+    },
+    "left": {
+      "x": 11,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 11,
+      "y": 56
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16196",
+  "token_name": "Terraform14365",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16196",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPu7e9sFMVYbmQ6SX7drvtDHPHQ9foCEfYZPmLCGENe3T",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14365",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmP8Sv77fxE4YSQRdxPQ9XfRPT6kapKKoMiDTMgvdWbRMX",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "quantum_flux": 1,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_River",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 62,
     "y": 62
+  },
+  "neighbors": {
+    "top": {
+      "x": 62,
+      "y": 63
+    },
+    "topRight": {
+      "x": 63,
+      "y": 63
+    },
+    "right": {
+      "x": 63,
+      "y": 62
+    },
+    "bottomRight": {
+      "x": 63,
+      "y": 61
+    },
+    "bottom": {
+      "x": 62,
+      "y": 61
+    },
+    "bottonLeft": {
+      "x": 61,
+      "y": 61
+    },
+    "left": {
+      "x": 61,
+      "y": 62
+    },
+    "topLeft": {
+      "x": 61,
+      "y": 63
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03834",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03834",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRDHwWndDcbRfQnoURiyDYPyQsrfqPwqYBkNvfqBNwNjs",
+  "token_name": "Terraform16415",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16415",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaJFw6zEzLn4Y4pQ71QsVo4yptUwk7wa7CYjusepGsNsh",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 6,
   "quantum_flux": 2,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Saltwater_River",
   "location": {
     "x": 99,
     "y": 37
+  },
+  "neighbors": {
+    "top": {
+      "x": 99,
+      "y": 38
+    },
+    "topRight": {
+      "x": 100,
+      "y": 38
+    },
+    "right": {
+      "x": 100,
+      "y": 37
+    },
+    "bottomRight": {
+      "x": 100,
+      "y": 36
+    },
+    "bottom": {
+      "x": 99,
+      "y": 36
+    },
+    "bottonLeft": {
+      "x": 98,
+      "y": 36
+    },
+    "left": {
+      "x": 98,
+      "y": 37
+    },
+    "topLeft": {
+      "x": 98,
+      "y": 38
+    }
   }
 }

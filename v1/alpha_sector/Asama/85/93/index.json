@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18772",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18772",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNX1PHcRcRbxjWiRbuYmmSL3cNpo1SGJATHFV8y2128YR",
+  "token_name": "Terraform16025",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16025",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbEfYBhCucDgwMLk1jsMgaTT3WazcBKib5bKR7B8t5dvs",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Gemstones",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
+  "quantum_flux": 1,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Timelost_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 85,
     "y": 93
+  },
+  "neighbors": {
+    "top": {
+      "x": 85,
+      "y": 94
+    },
+    "topRight": {
+      "x": 86,
+      "y": 94
+    },
+    "right": {
+      "x": 86,
+      "y": 93
+    },
+    "bottomRight": {
+      "x": 86,
+      "y": 92
+    },
+    "bottom": {
+      "x": 85,
+      "y": 92
+    },
+    "bottonLeft": {
+      "x": 84,
+      "y": 92
+    },
+    "left": {
+      "x": 84,
+      "y": 93
+    },
+    "topLeft": {
+      "x": 84,
+      "y": 94
+    }
   }
 }

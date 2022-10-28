@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04411",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04411",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbztLgQevboqxz8WqcdyVpsp2RZjfK2BH1oWYerVW1YaY",
+  "token_name": "Terraform12269",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12269",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfQrLExuEGbcuTQs6f5xcQRq2SpJ36f9v7PwVBLPrASii",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
   "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 7,
+  "power_level": 3,
   "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 84,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 84,
+      "y": 37
+    },
+    "topRight": {
+      "x": 85,
+      "y": 37
+    },
+    "right": {
+      "x": 85,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 85,
+      "y": 35
+    },
+    "bottom": {
+      "x": 84,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 83,
+      "y": 35
+    },
+    "left": {
+      "x": 83,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 83,
+      "y": 37
+    }
   }
 }

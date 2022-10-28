@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07810",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07810",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQKVaviR4PzjpZ7dJrXVHct5YF3VzmJ2cFwM9Me3AjWmT",
+  "token_name": "Terraform02169",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02169",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZZ9uAB8ZTpaaG3TCZGi2wHJa4uZmdC69PR4bDNUErJwH",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 75,
     "y": 62
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 63
+    },
+    "topRight": {
+      "x": 76,
+      "y": 63
+    },
+    "right": {
+      "x": 76,
+      "y": 62
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 61
+    },
+    "bottom": {
+      "x": 75,
+      "y": 61
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 61
+    },
+    "left": {
+      "x": 74,
+      "y": 62
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 63
+    }
   }
 }

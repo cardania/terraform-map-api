@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06724",
+  "token_name": "Terraform10823",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06724",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfQeRjscPZ66rv3YCNyBi2tMkP2uNTvfijxwr8fHcABEm",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10823",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdpACoJoQm6Cax26wwYfDg5YSjpJaVTkXM4AacoujXEbV",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 1,
-  "primary_minerals": "Cardanium",
+  "power_level": 5,
+  "quantum_flux": 8,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Golden_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 47,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 47,
+      "y": 6
+    },
+    "topRight": {
+      "x": 48,
+      "y": 6
+    },
+    "right": {
+      "x": 48,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 48,
+      "y": 4
+    },
+    "bottom": {
+      "x": 47,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 46,
+      "y": 4
+    },
+    "left": {
+      "x": 46,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 46,
+      "y": 6
+    }
   }
 }

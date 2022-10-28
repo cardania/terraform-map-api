@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00069",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00069",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVwombgy7Mq819X3uC9Xv4s4EGjyJeaXpPj8WPgJg7Ndy",
+  "token_name": "Terraform06434",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06434",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRgyVXsCSXF9ewZeGxUY6GfotieiViAnbQ4tHqgyqhH6W",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 3,
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 5,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 48,
     "y": 14
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 15
+    },
+    "topRight": {
+      "x": 49,
+      "y": 15
+    },
+    "right": {
+      "x": 49,
+      "y": 14
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 13
+    },
+    "bottom": {
+      "x": 48,
+      "y": 13
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 13
+    },
+    "left": {
+      "x": 47,
+      "y": 14
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 15
+    }
   }
 }

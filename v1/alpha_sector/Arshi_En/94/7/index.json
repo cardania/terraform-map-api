@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16962",
+  "token_name": "Terraform16913",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16962",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbB5eBDz8F1Qtx8VpqdDL96jEuz68DfuK9VryD48x7zXd",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16913",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZF2WAMp7LWMa2us8qKCJLuySejgoijn3Y47jtyV4wqSV",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
+  "power_level": 4,
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Void_Shrine",
   "water": "None",
   "location": {
     "x": 94,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 94,
+      "y": 8
+    },
+    "topRight": {
+      "x": 95,
+      "y": 8
+    },
+    "right": {
+      "x": 95,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 95,
+      "y": 6
+    },
+    "bottom": {
+      "x": 94,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 93,
+      "y": 6
+    },
+    "left": {
+      "x": 93,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 93,
+      "y": 8
+    }
   }
 }

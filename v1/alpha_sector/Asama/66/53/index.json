@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11287",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11287",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRZDvuYARbLzdAnDbywxptwbrmdSkQKgrqRm9k5hb3hsi",
+  "token_name": "Terraform11804",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11804",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQQpHsig8WobVTnUu9k3z7nyoNXZtDM4QjuCQHEXjCcw9",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
+  "quantum_flux": 6,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 66,
     "y": 53
+  },
+  "neighbors": {
+    "top": {
+      "x": 66,
+      "y": 54
+    },
+    "topRight": {
+      "x": 67,
+      "y": 54
+    },
+    "right": {
+      "x": 67,
+      "y": 53
+    },
+    "bottomRight": {
+      "x": 67,
+      "y": 52
+    },
+    "bottom": {
+      "x": 66,
+      "y": 52
+    },
+    "bottonLeft": {
+      "x": 65,
+      "y": 52
+    },
+    "left": {
+      "x": 65,
+      "y": 53
+    },
+    "topLeft": {
+      "x": 65,
+      "y": 54
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12137",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12137",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV6TjVgLKNsm8vgdjvd3aScyZgR9trTdeEvyGPnLYbqdk",
+  "token_name": "Terraform01039",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01039",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSbGaiTtYDRF6iNUD7nb2UmZ4zRhDEiXVW8yjo7ygZ3im",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "None",
-  "fauna": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 1,
   "quantum_flux": 7,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 54,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 54,
+      "y": 69
+    },
+    "topRight": {
+      "x": 55,
+      "y": 69
+    },
+    "right": {
+      "x": 55,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 55,
+      "y": 67
+    },
+    "bottom": {
+      "x": 54,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 53,
+      "y": 67
+    },
+    "left": {
+      "x": 53,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 53,
+      "y": 69
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09945",
+  "token_name": "Terraform12090",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09945",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXW2aYoeY3r8vbhhQBHx9pJp4U6239QACQhr4S1yXiEEr",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12090",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUtuNYGv18bwyPxUrxbHiuxVHrkV1Lz1n3Pdo2iExhfU6",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Melodious_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 9,
+  "power_level": 1,
+  "quantum_flux": 1,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 9,
     "y": 57
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 58
+    },
+    "topRight": {
+      "x": 10,
+      "y": 58
+    },
+    "right": {
+      "x": 10,
+      "y": 57
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 56
+    },
+    "bottom": {
+      "x": 9,
+      "y": 56
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 56
+    },
+    "left": {
+      "x": 8,
+      "y": 57
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 58
+    }
   }
 }

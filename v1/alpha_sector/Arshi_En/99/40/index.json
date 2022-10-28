@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08407",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08407",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNgv8cEv6TrzNcrip9p6uyB3ppZhmTJRMvjXTdGqLDXfW",
+  "token_name": "Terraform03650",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03650",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQSxZhiLNRt6ndx17eVwm515izwNruHjqxGDGuxoB31oD",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 6,
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 7,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 99,
     "y": 40
+  },
+  "neighbors": {
+    "top": {
+      "x": 99,
+      "y": 41
+    },
+    "topRight": {
+      "x": 100,
+      "y": 41
+    },
+    "right": {
+      "x": 100,
+      "y": 40
+    },
+    "bottomRight": {
+      "x": 100,
+      "y": 39
+    },
+    "bottom": {
+      "x": 99,
+      "y": 39
+    },
+    "bottonLeft": {
+      "x": 98,
+      "y": 39
+    },
+    "left": {
+      "x": 98,
+      "y": 40
+    },
+    "topLeft": {
+      "x": 98,
+      "y": 41
+    }
   }
 }

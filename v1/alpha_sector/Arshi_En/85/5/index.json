@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00639",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00639",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSqjvAAt6V2NMuYdz4r326Y4HbtzzQY2DCvui4TYobJYq",
+  "token_name": "Terraform17440",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17440",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdbJ9pF71RpSeAbp3BiEdT8oU6xSS5VAgEULBNiLexvaN",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 3,
+  "power_level": 5,
   "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Quantum_Shrine",
+  "water": "None",
   "location": {
     "x": 85,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 85,
+      "y": 6
+    },
+    "topRight": {
+      "x": 86,
+      "y": 6
+    },
+    "right": {
+      "x": 86,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 86,
+      "y": 4
+    },
+    "bottom": {
+      "x": 85,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 84,
+      "y": 4
+    },
+    "left": {
+      "x": 84,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 84,
+      "y": 6
+    }
   }
 }

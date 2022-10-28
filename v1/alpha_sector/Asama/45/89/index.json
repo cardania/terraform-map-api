@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17561",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17561",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPzAuRLuVvCrusjNNezu1u6iWJ5MWDSrupsBEZcVxjDqF",
+  "token_name": "Terraform03927",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03927",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmatNqrf8d8bWQ3DmJm1sUbHYhkLCR2MfXwCPuZW4MEL9Z",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "None",
   "fauna": "None",
   "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Cursed_Lake",
   "location": {
     "x": 45,
     "y": 89
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 90
+    },
+    "topRight": {
+      "x": 46,
+      "y": 90
+    },
+    "right": {
+      "x": 46,
+      "y": 89
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 88
+    },
+    "bottom": {
+      "x": 45,
+      "y": 88
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 88
+    },
+    "left": {
+      "x": 44,
+      "y": 89
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 90
+    }
   }
 }

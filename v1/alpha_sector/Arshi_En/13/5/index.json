@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06993",
+  "token_name": "Terraform04081",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06993",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV8NcyXCGZSy2nBuV3etVhRwmphvJG68jajXoEwQnW8Xv",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04081",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTHAHZ2zQw5B1HNbjgwSKZdEmYPq5ejsW1FFY9HY4gFso",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
   "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 5,
-  "quantum_flux": 4,
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 6,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "None",
   "location": {
     "x": 13,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 6
+    },
+    "topRight": {
+      "x": 14,
+      "y": 6
+    },
+    "right": {
+      "x": 14,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 4
+    },
+    "bottom": {
+      "x": 13,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 4
+    },
+    "left": {
+      "x": 12,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 6
+    }
   }
 }

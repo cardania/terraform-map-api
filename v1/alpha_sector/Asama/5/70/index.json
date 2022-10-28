@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11750",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11750",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcEminjd95n2h14pfF9jkksmisG6Q3gzsXFrfjN6Enizp",
+  "token_name": "Terraform03306",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03306",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmP9XqnWse49rYGVxTggkmdbnVcMyojvKMpJwWxU8Y4RAT",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Palms",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 2,
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 2,
+  "quantum_flux": 1,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Quantum_Shrine",
   "water": "None",
   "location": {
     "x": 5,
     "y": 70
+  },
+  "neighbors": {
+    "top": {
+      "x": 5,
+      "y": 71
+    },
+    "topRight": {
+      "x": 6,
+      "y": 71
+    },
+    "right": {
+      "x": 6,
+      "y": 70
+    },
+    "bottomRight": {
+      "x": 6,
+      "y": 69
+    },
+    "bottom": {
+      "x": 5,
+      "y": 69
+    },
+    "bottonLeft": {
+      "x": 4,
+      "y": 69
+    },
+    "left": {
+      "x": 4,
+      "y": 70
+    },
+    "topLeft": {
+      "x": 4,
+      "y": 71
+    }
   }
 }

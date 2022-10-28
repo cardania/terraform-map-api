@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07283",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07283",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUq5aRxCoe5Vc6wpHVFovbBuKECDPduyVzjUfBubiSYU3",
+  "token_name": "Terraform00881",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00881",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZAeKmBd57eKY8EtnzN6yVa9XyxoZ48j2bBPhcUHB7smN",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 7,
-  "primary_minerals": "Iron",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 2,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Toxic_Lake",
   "location": {
     "x": 95,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 21
+    },
+    "topRight": {
+      "x": 96,
+      "y": 21
+    },
+    "right": {
+      "x": 96,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 19
+    },
+    "bottom": {
+      "x": 95,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 19
+    },
+    "left": {
+      "x": 94,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 21
+    }
   }
 }

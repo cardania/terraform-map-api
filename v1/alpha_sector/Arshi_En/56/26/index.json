@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18829",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18829",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWQHi4LcTvzjs8NrudS2fSenBjsLqDQuvR3RYFV6rTkvC",
+  "token_name": "Terraform10385",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10385",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf1cdV1Lxb6mV4UJoa2yMWmK4SUpS5gWsZMRNwaLhcTxx",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 8,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 56,
     "y": 26
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 27
+    },
+    "topRight": {
+      "x": 57,
+      "y": 27
+    },
+    "right": {
+      "x": 57,
+      "y": 26
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 25
+    },
+    "bottom": {
+      "x": 56,
+      "y": 25
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 25
+    },
+    "left": {
+      "x": 55,
+      "y": 26
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 27
+    }
   }
 }

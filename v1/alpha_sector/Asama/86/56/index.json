@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07302",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07302",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWzRvKBb8t2ZNDsr36XhJ7JfrCpNU9TwiaCmabkD7YN3i",
+  "token_name": "Terraform17234",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17234",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXimxvVVC7urXq2Kdq8mcMEJ5Y9STaRnYGfPH7X7cPTs4",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Void_Shrine",
-  "water": "Saltwater_Lake",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 86,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 57
+    },
+    "topRight": {
+      "x": 87,
+      "y": 57
+    },
+    "right": {
+      "x": 87,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 55
+    },
+    "bottom": {
+      "x": 86,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 55
+    },
+    "left": {
+      "x": 85,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 57
+    }
   }
 }

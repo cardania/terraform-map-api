@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18192",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18192",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPmdRRKxjQX3cSuAQ1x2FaA6zWgNqLm2SzxRUdS3nzB8K",
+  "token_name": "Terraform05518",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05518",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQSc4JBUJYJMJG3DkzVwr5snK4MvkSv2SFazkpmuCtTf9",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Antigravity_Cloud",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
   "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 7,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 69,
     "y": 67
+  },
+  "neighbors": {
+    "top": {
+      "x": 69,
+      "y": 68
+    },
+    "topRight": {
+      "x": 70,
+      "y": 68
+    },
+    "right": {
+      "x": 70,
+      "y": 67
+    },
+    "bottomRight": {
+      "x": 70,
+      "y": 66
+    },
+    "bottom": {
+      "x": 69,
+      "y": 66
+    },
+    "bottonLeft": {
+      "x": 68,
+      "y": 66
+    },
+    "left": {
+      "x": 68,
+      "y": 67
+    },
+    "topLeft": {
+      "x": 68,
+      "y": 68
+    }
   }
 }

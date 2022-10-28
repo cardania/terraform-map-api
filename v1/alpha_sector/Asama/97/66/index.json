@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02786",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02786",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQXhj7NUDo5NTEcXcDqsWDswVjtfgnsw6iN4FQcyYEbPE",
+  "token_name": "Terraform02150",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02150",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTvR4Nib4qQbKgwkU31XX4oDU6zE9ZaQfhjN1meMg5mMM",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 3,
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 7,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
-  "shrine": "None",
-  "water": "Toxic_Lake",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Quantum_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 97,
     "y": 66
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 67
+    },
+    "topRight": {
+      "x": 98,
+      "y": 67
+    },
+    "right": {
+      "x": 98,
+      "y": 66
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 65
+    },
+    "bottom": {
+      "x": 97,
+      "y": 65
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 65
+    },
+    "left": {
+      "x": 96,
+      "y": 66
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 67
+    }
   }
 }

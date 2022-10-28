@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16412",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16412",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ8v8KmgKaK5ehEdmYPR77DeQSnvpA6vojmHnwhDsuF21",
+  "token_name": "Terraform05951",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05951",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdKzbfFPE1dRHPJYq5TW3jqiiT4kEVERFaZY9wDYCjcgE",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 9,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "power_level": 4,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 70,
     "y": 70
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 71
+    },
+    "topRight": {
+      "x": 71,
+      "y": 71
+    },
+    "right": {
+      "x": 71,
+      "y": 70
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 69
+    },
+    "bottom": {
+      "x": 70,
+      "y": 69
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 69
+    },
+    "left": {
+      "x": 69,
+      "y": 70
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 71
+    }
   }
 }

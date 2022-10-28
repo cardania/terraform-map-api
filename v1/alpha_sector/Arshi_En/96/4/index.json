@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15339",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15339",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNSYhSfkhty1iTMfNQip5Z9gHro64AgWoMhudJbXK1vW1",
+  "token_name": "Terraform12233",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12233",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf6x5RzpJTbyA2zsWQnCeY3R9Vr4NE6KAwF4R2vW82iV7",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 8,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 96,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 5
+    },
+    "topRight": {
+      "x": 97,
+      "y": 5
+    },
+    "right": {
+      "x": 97,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 3
+    },
+    "bottom": {
+      "x": 96,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 3
+    },
+    "left": {
+      "x": 95,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 5
+    }
   }
 }

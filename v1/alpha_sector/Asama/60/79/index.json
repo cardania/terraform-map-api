@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform09891",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09891",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVWU1pPPou74VfNy8DnuPV8EvMXwdzH2feZMq1vNbKgtv",
+  "token_name": "Terraform01018",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01018",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbbquqSyDCBjw9pP4m121V9TcPQabovAza9VveMkQ1gaS",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
+  "fauna": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 7,
   "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 60,
     "y": 79
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 80
+    },
+    "topRight": {
+      "x": 61,
+      "y": 80
+    },
+    "right": {
+      "x": 61,
+      "y": 79
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 78
+    },
+    "bottom": {
+      "x": 60,
+      "y": 78
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 78
+    },
+    "left": {
+      "x": 59,
+      "y": 79
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 80
+    }
   }
 }

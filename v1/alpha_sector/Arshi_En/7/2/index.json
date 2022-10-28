@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07382",
+  "token_name": "Terraform18327",
   "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07382",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQFGG63uyDwY2oo7eGktkcGreg3W1LSBVjDTV2myAetHy",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18327",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXieXyszXEKdaHs8824FtGe43rHw3Z4q5ftchK4BtTYoi",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 5,
-  "quantum_flux": 2,
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 3,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Machine_Shrine",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 7,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 3
+    },
+    "topRight": {
+      "x": 8,
+      "y": 3
+    },
+    "right": {
+      "x": 8,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 1
+    },
+    "bottom": {
+      "x": 7,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 1
+    },
+    "left": {
+      "x": 6,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 3
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00507",
+  "token_name": "Terraform08635",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00507",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ7DCkpQDkgxeNKf9WX3RSrrPKWcU5k92Hg4iYVfNUJJx",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08635",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf4yM7beGG2hcqa4aXCsVvXn3JPJyndbyTzUNUyYPadxn",
   "alpha_sector": "Asama",
   "activity": "Magnetic_Activity",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 6,
-  "quantum_flux": 4,
+  "power_level": 1,
+  "quantum_flux": 7,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "Ancient_Ruins",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 33,
     "y": 1
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 2
+    },
+    "topRight": {
+      "x": 34,
+      "y": 2
+    },
+    "right": {
+      "x": 34,
+      "y": 1
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 0
+    },
+    "bottom": {
+      "x": 33,
+      "y": 0
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 0
+    },
+    "left": {
+      "x": 32,
+      "y": 1
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 2
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00323",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00323",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQJ2Dd9TRwawTRPeZGSLXPRLqa9b4vQp4E89WTFVvonWx",
+  "token_name": "Terraform01677",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01677",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYAHASw48GtGx9ieYTiH4Zz2hdS4Gwgubq6nbuvmS4rRb",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Cursed_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Ultrasaurs",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 48,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 56
+    },
+    "topRight": {
+      "x": 49,
+      "y": 56
+    },
+    "right": {
+      "x": 49,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 54
+    },
+    "bottom": {
+      "x": 48,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 54
+    },
+    "left": {
+      "x": 47,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 56
+    }
   }
 }

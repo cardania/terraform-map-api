@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01123",
+  "token_name": "Terraform10398",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01123",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSvDNaSm7Wn2z9AbLxeiLkjppoq2zB6sottDEnSwSpgzM",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10398",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXTQb6H6h2roCPmEacMmCcsEBp7aPnC95Z7BNDK55b6cT",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 7,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
+  "power_level": 5,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 32,
     "y": 66
+  },
+  "neighbors": {
+    "top": {
+      "x": 32,
+      "y": 67
+    },
+    "topRight": {
+      "x": 33,
+      "y": 67
+    },
+    "right": {
+      "x": 33,
+      "y": 66
+    },
+    "bottomRight": {
+      "x": 33,
+      "y": 65
+    },
+    "bottom": {
+      "x": 32,
+      "y": 65
+    },
+    "bottonLeft": {
+      "x": 31,
+      "y": 65
+    },
+    "left": {
+      "x": 31,
+      "y": 66
+    },
+    "topLeft": {
+      "x": 31,
+      "y": 67
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00907",
+  "token_name": "Terraform16291",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00907",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTagDF8p63RBSW7JHbsvkFUCHJHhzvde7Mfxfovz1EaLs",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16291",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZjVsKbjiTKp1HFLAdyYB1EQdenwR2aW44RnBGdT2RTeW",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "Prismaleaf",
   "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 2,
+  "power_level": 1,
   "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 71,
     "y": 46
+  },
+  "neighbors": {
+    "top": {
+      "x": 71,
+      "y": 47
+    },
+    "topRight": {
+      "x": 72,
+      "y": 47
+    },
+    "right": {
+      "x": 72,
+      "y": 46
+    },
+    "bottomRight": {
+      "x": 72,
+      "y": 45
+    },
+    "bottom": {
+      "x": 71,
+      "y": 45
+    },
+    "bottonLeft": {
+      "x": 70,
+      "y": 45
+    },
+    "left": {
+      "x": 70,
+      "y": 46
+    },
+    "topLeft": {
+      "x": 70,
+      "y": 47
+    }
   }
 }

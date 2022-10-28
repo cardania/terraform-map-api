@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17482",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17482",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdBEAnYRLcp6gXyYqVwf9pJyZpkAzmthm9bz3ZDEM2dsv",
+  "token_name": "Terraform13076",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13076",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmerfJTsAyViimJ634g9RTQvsQZSbcfsBNUcsLNbYyhvjZ",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "forests": "Palms",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 61,
     "y": 39
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 40
+    },
+    "topRight": {
+      "x": 62,
+      "y": 40
+    },
+    "right": {
+      "x": 62,
+      "y": 39
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 38
+    },
+    "bottom": {
+      "x": 61,
+      "y": 38
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 38
+    },
+    "left": {
+      "x": 60,
+      "y": 39
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 40
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10751",
+  "token_name": "Terraform09476",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10751",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPUaQGTwsobPWv4W84WT8KhNJAdJqFpmvkvQVPHHZ3uGX",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09476",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXGy6gAYPVnCu9MhZxNoh49Qot1NsuSNweZjG3yAZuj5S",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 6,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "Ancient_Ruins",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Toxic_River",
   "location": {
     "x": 75,
     "y": 73
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 74
+    },
+    "topRight": {
+      "x": 76,
+      "y": 74
+    },
+    "right": {
+      "x": 76,
+      "y": 73
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 72
+    },
+    "bottom": {
+      "x": 75,
+      "y": 72
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 72
+    },
+    "left": {
+      "x": 74,
+      "y": 73
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 74
+    }
   }
 }

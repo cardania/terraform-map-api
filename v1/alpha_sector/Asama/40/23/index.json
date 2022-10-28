@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07159",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07159",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmT3d7qNYVz56abrkhMoMpAjtX8UnnBzHnc1JpGidfXtYc",
+  "token_name": "Terraform13581",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13581",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXk8kaGccDKbUd18znocbdeXK6ghoWZVEFk2Dhpd8QpAc",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 8,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 40,
     "y": 23
+  },
+  "neighbors": {
+    "top": {
+      "x": 40,
+      "y": 24
+    },
+    "topRight": {
+      "x": 41,
+      "y": 24
+    },
+    "right": {
+      "x": 41,
+      "y": 23
+    },
+    "bottomRight": {
+      "x": 41,
+      "y": 22
+    },
+    "bottom": {
+      "x": 40,
+      "y": 22
+    },
+    "bottonLeft": {
+      "x": 39,
+      "y": 22
+    },
+    "left": {
+      "x": 39,
+      "y": 23
+    },
+    "topLeft": {
+      "x": 39,
+      "y": 24
+    }
   }
 }

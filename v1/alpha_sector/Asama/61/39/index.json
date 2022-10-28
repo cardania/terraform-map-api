@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02260",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02260",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQr35XjRYFMenLKBLLR4qE8d3YAiCuR6p7XgRrbT4LrYR",
+  "token_name": "Terraform11404",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11404",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf7F58BEVL6hRsxPfTUkoXYBHBAfSXp2wqkopAk6tC6Hf",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Quantum_Shrine",
-  "water": "None",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Funky_River",
   "location": {
     "x": 61,
     "y": 39
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 40
+    },
+    "topRight": {
+      "x": 62,
+      "y": 40
+    },
+    "right": {
+      "x": 62,
+      "y": 39
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 38
+    },
+    "bottom": {
+      "x": 61,
+      "y": 38
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 38
+    },
+    "left": {
+      "x": 60,
+      "y": 39
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 40
+    }
   }
 }

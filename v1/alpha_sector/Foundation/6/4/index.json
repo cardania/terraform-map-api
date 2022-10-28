@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19930",
+  "token_name": "Terraform19975",
   "land_type": "Prismatic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19930",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdy7fVeQMNH1YDto5hvv56vq1mGGZHc74s3V7pQjDFiFF",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19975",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYLeyViKKsGcYCtD3ui3jBs17pdfohVK9YhvtETkrNeQM",
   "alpha_sector": "Foundation",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
+  "power_level": 5,
   "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 6,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 5
+    },
+    "topRight": {
+      "x": 7,
+      "y": 5
+    },
+    "right": {
+      "x": 7,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 3
+    },
+    "bottom": {
+      "x": 6,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 3
+    },
+    "left": {
+      "x": 5,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 5
+    }
   }
 }

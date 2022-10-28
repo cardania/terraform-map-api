@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07626",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07626",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW7XKa8TSu2QiHMDyTgj9scLeD7xVqc7E9VC9gaj5CyY3",
+  "token_name": "Terraform08405",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08405",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPee11Cc6TTR98XTNo41cea1HKA9DrKHVq8P8NLdDCRsJ",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 6,
   "quantum_flux": 1,
-  "primary_minerals": "None",
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "None",
   "location": {
     "x": 24,
     "y": 10
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 11
+    },
+    "topRight": {
+      "x": 25,
+      "y": 11
+    },
+    "right": {
+      "x": 25,
+      "y": 10
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 9
+    },
+    "bottom": {
+      "x": 24,
+      "y": 9
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 9
+    },
+    "left": {
+      "x": 23,
+      "y": 10
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 11
+    }
   }
 }

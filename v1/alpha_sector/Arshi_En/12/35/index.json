@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18645",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18645",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNqXj4gVkQgdWX4cTq7Mc6SQt6uQsjp4nZwrFjeiZFsqu",
+  "token_name": "Terraform05201",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05201",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbjkdMfSZQ11DNXiregVg2bV4XBhSyozAnBp9y6pCmGR3",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 2,
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 5,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Solar_Shrine",
-  "water": "Cursed_River",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 12,
     "y": 35
+  },
+  "neighbors": {
+    "top": {
+      "x": 12,
+      "y": 36
+    },
+    "topRight": {
+      "x": 13,
+      "y": 36
+    },
+    "right": {
+      "x": 13,
+      "y": 35
+    },
+    "bottomRight": {
+      "x": 13,
+      "y": 34
+    },
+    "bottom": {
+      "x": 12,
+      "y": 34
+    },
+    "bottonLeft": {
+      "x": 11,
+      "y": 34
+    },
+    "left": {
+      "x": 11,
+      "y": 35
+    },
+    "topLeft": {
+      "x": 11,
+      "y": 36
+    }
   }
 }

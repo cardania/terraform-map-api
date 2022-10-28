@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08759",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08759",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNf1RCCFk3MscWDFCNzzQh47cCYMwTBNGvi9eJz6JsSq3",
+  "token_name": "Terraform16318",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16318",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ6ELCJAb3SjqdjdCZ4hL3PmdnXnMHyyFqPDHGxeJeo7B",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
+  "power_level": 9,
   "quantum_flux": 6,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "None",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Saltwater_River",
   "location": {
     "x": 97,
     "y": 19
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 20
+    },
+    "topRight": {
+      "x": 98,
+      "y": 20
+    },
+    "right": {
+      "x": 98,
+      "y": 19
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 18
+    },
+    "bottom": {
+      "x": 97,
+      "y": 18
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 18
+    },
+    "left": {
+      "x": 96,
+      "y": 19
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 20
+    }
   }
 }

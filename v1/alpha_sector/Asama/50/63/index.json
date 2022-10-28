@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02767",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02767",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXFeqUfHo5QzHbCSyafTpBV68QpUSCQHWKqxxhsYDNJ2H",
+  "token_name": "Terraform18796",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18796",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaWTfNTfFj1Qax1bcxXPcGyT1UR6d7RfGWJskKpKUg51x",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
-  "quantum_flux": 2,
+  "power_level": 9,
+  "quantum_flux": 5,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Solar_Shrine",
-  "water": "Funky_River",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 50,
     "y": 63
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 64
+    },
+    "topRight": {
+      "x": 51,
+      "y": 64
+    },
+    "right": {
+      "x": 51,
+      "y": 63
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 62
+    },
+    "bottom": {
+      "x": 50,
+      "y": 62
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 62
+    },
+    "left": {
+      "x": 49,
+      "y": 63
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 64
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01930",
+  "token_name": "Terraform13220",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01930",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSKLnEKsob2HJDiVQBmrznaiRKKanUaewedzqvdrbRUKc",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13220",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNw54iXQpTF9k4aZVyKUMZ7GeD8FvFiWxjUABD7EoPANh",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
+  "power_level": 8,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 56,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 89
+    },
+    "topRight": {
+      "x": 57,
+      "y": 89
+    },
+    "right": {
+      "x": 57,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 87
+    },
+    "bottom": {
+      "x": 56,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 87
+    },
+    "left": {
+      "x": 55,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 89
+    }
   }
 }

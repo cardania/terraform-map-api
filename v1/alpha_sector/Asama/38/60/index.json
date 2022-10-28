@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17973",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17973",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmerA1PH9pdL58MAhsyApi5amV9YBBcKRnyUfxrzqLhJDD",
+  "token_name": "Terraform07499",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07499",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmV5S6d7EW2W3rNL6j2w4zpPrq8ieDReeqgGYE6Xph9xmH",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 9,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Orange",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 6,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 38,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 38,
+      "y": 61
+    },
+    "topRight": {
+      "x": 39,
+      "y": 61
+    },
+    "right": {
+      "x": 39,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 39,
+      "y": 59
+    },
+    "bottom": {
+      "x": 38,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 37,
+      "y": 59
+    },
+    "left": {
+      "x": 37,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 37,
+      "y": 61
+    }
   }
 }

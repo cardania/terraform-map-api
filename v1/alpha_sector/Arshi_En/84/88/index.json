@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform17499",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17499",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWbPm41AvE3sAzXeDQqMprgqCPgxVfoA495hSPHk42tuF",
+  "token_name": "Terraform06946",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06946",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPat4k65JGrzxuWnSHLQiyR9wy4HYFupxAgxjVaxzCrPU",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
+  "power_level": 6,
+  "quantum_flux": 5,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 84,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 84,
+      "y": 89
+    },
+    "topRight": {
+      "x": 85,
+      "y": 89
+    },
+    "right": {
+      "x": 85,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 85,
+      "y": 87
+    },
+    "bottom": {
+      "x": 84,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 83,
+      "y": 87
+    },
+    "left": {
+      "x": 83,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 83,
+      "y": 89
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10171",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10171",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYfy436SHYhffSYiaoM1D4Fdw4ZbtDMyn7vYeieK5G4GG",
+  "token_name": "Terraform01908",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01908",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUaVLzqZm8LZvj3d98H2fgP42cMAiC3w7ZaKaW5tmKTJL",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "lithoglyphs": "None",
   "power_level": 1,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 95,
     "y": 45
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 46
+    },
+    "topRight": {
+      "x": 96,
+      "y": 46
+    },
+    "right": {
+      "x": 96,
+      "y": 45
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 44
+    },
+    "bottom": {
+      "x": 95,
+      "y": 44
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 44
+    },
+    "left": {
+      "x": 94,
+      "y": 45
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 46
+    }
   }
 }

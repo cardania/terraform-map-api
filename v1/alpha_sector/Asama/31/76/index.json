@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12633",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12633",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQoVSRZTBCgCggB4VcpSng6HUuUR4LJ9jD2wR96Ag9Bf9",
+  "token_name": "Terraform09506",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09506",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSnKZjNLQyAtF3Az9nHubjnKTgzxKhLV718kjP9fsdLJK",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 2,
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 5,
   "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "Void_Shrine",
   "water": "None",
   "location": {
     "x": 31,
     "y": 76
+  },
+  "neighbors": {
+    "top": {
+      "x": 31,
+      "y": 77
+    },
+    "topRight": {
+      "x": 32,
+      "y": 77
+    },
+    "right": {
+      "x": 32,
+      "y": 76
+    },
+    "bottomRight": {
+      "x": 32,
+      "y": 75
+    },
+    "bottom": {
+      "x": 31,
+      "y": 75
+    },
+    "bottonLeft": {
+      "x": 30,
+      "y": 75
+    },
+    "left": {
+      "x": 30,
+      "y": 76
+    },
+    "topLeft": {
+      "x": 30,
+      "y": 77
+    }
   }
 }

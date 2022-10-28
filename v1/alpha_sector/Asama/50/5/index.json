@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00681",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00681",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd7t3KMeXXf57mVuEkS2bSQkBUyTQ2NS3BpjnKGNBgtmz",
+  "token_name": "Terraform01038",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01038",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPHbuHT27uKyyZ3Bg82KTgKSgaujrEWmWGnyY7sfZRCe6",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Palms",
   "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 2,
+  "power_level": 9,
+  "quantum_flux": 5,
   "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Funky_River",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 50,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 6
+    },
+    "topRight": {
+      "x": 51,
+      "y": 6
+    },
+    "right": {
+      "x": 51,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 4
+    },
+    "bottom": {
+      "x": 50,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 4
+    },
+    "left": {
+      "x": 49,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 6
+    }
   }
 }

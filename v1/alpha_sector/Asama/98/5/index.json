@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09012",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09012",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfJfxwEJYcNp15TrFHkQokF7UyHPQT7gj2gz6StsrGLFY",
+  "token_name": "Terraform14512",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14512",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYz9GLUAx2927jinpKYirvxVDdbbtoxVn5sg2SWMRmbPZ",
   "alpha_sector": "Asama",
   "activity": "Magnetic_Activity",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 6,
-  "quantum_flux": 4,
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 98,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 6
+    },
+    "topRight": {
+      "x": 99,
+      "y": 6
+    },
+    "right": {
+      "x": 99,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 4
+    },
+    "bottom": {
+      "x": 98,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 4
+    },
+    "left": {
+      "x": 97,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 6
+    }
   }
 }

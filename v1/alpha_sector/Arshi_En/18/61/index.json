@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09657",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09657",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNx6oP7ML9ms7hpiQ6WfyDhrQCuUmQWzLVgHEwAufAmqL",
+  "token_name": "Terraform01397",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01397",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYcqzte1ha6G2XwankaLgz9wQZ74mUxP7kakmNdt6cDSF",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 3,
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 8,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 18,
     "y": 61
+  },
+  "neighbors": {
+    "top": {
+      "x": 18,
+      "y": 62
+    },
+    "topRight": {
+      "x": 19,
+      "y": 62
+    },
+    "right": {
+      "x": 19,
+      "y": 61
+    },
+    "bottomRight": {
+      "x": 19,
+      "y": 60
+    },
+    "bottom": {
+      "x": 18,
+      "y": 60
+    },
+    "bottonLeft": {
+      "x": 17,
+      "y": 60
+    },
+    "left": {
+      "x": 17,
+      "y": 61
+    },
+    "topLeft": {
+      "x": 17,
+      "y": 62
+    }
   }
 }

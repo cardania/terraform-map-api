@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01380",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01380",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSDB7SSeKFuzXaaBVUDckjrNGCqCB1tqnPXRGyC1PZ4Sp",
+  "token_name": "Terraform10183",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10183",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcEUeAT3fYqfeStxK3Bco5aXgWhGRZEAxWW2g3a84RHkW",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 5,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Cursed_Lake",
   "location": {
     "x": 35,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 35,
+      "y": 7
+    },
+    "topRight": {
+      "x": 36,
+      "y": 7
+    },
+    "right": {
+      "x": 36,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 36,
+      "y": 5
+    },
+    "bottom": {
+      "x": 35,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 34,
+      "y": 5
+    },
+    "left": {
+      "x": 34,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 34,
+      "y": 7
+    }
   }
 }

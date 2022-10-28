@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02730",
+  "token_name": "Terraform16945",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02730",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUcrXoSZBo8jGHw1sAVaZhqqDYtPUHszY9zMk5n3XHwB3",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16945",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSLEE2Ev2fHYYjeQgxpJBhtpcWPdFRh51ERbbGeQLsEff",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "None",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 8,
+  "power_level": 2,
   "quantum_flux": 5,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Orange",
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 50,
     "y": 44
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 45
+    },
+    "topRight": {
+      "x": 51,
+      "y": 45
+    },
+    "right": {
+      "x": 51,
+      "y": 44
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 43
+    },
+    "bottom": {
+      "x": 50,
+      "y": 43
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 43
+    },
+    "left": {
+      "x": 49,
+      "y": 44
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 45
+    }
   }
 }

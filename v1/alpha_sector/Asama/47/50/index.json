@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06883",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06883",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWLPAuymstv4KSxwUVo2oqtDgZGFvxy6GZYJiuL45Quvh",
+  "token_name": "Terraform12671",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12671",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmU2nZqzusVPnj8sXDtGRcEdyLWdNEmbMs87fo3k4u5TkJ",
   "alpha_sector": "Asama",
   "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 1,
-  "quantum_flux": 4,
+  "quantum_flux": 9,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Machine_Shrine",
+  "water": "Funky_Lake",
   "location": {
     "x": 47,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 47,
+      "y": 51
+    },
+    "topRight": {
+      "x": 48,
+      "y": 51
+    },
+    "right": {
+      "x": 48,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 48,
+      "y": 49
+    },
+    "bottom": {
+      "x": 47,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 46,
+      "y": 49
+    },
+    "left": {
+      "x": 46,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 46,
+      "y": 51
+    }
   }
 }

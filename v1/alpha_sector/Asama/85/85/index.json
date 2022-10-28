@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18729",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18729",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmchHJp4dKLdE1U5yoNih55aV9fLA5E6iSkrWEdgiSyPBm",
+  "token_name": "Terraform12770",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12770",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaAWqhCmtCbSStmBvMfTyUaK76khUrfkbRKAZUNZTRrMB",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Melodious_Mantrap",
+  "forests": "None",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 4,
+  "power_level": 1,
   "quantum_flux": 3,
   "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 85,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 85,
+      "y": 86
+    },
+    "topRight": {
+      "x": 86,
+      "y": 86
+    },
+    "right": {
+      "x": 86,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 86,
+      "y": 84
+    },
+    "bottom": {
+      "x": 85,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 84,
+      "y": 84
+    },
+    "left": {
+      "x": 84,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 84,
+      "y": 86
+    }
   }
 }

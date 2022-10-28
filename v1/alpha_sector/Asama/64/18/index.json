@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02226",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02226",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbp3zV4h4aJWyaoZxQ6TpqS1Ch9C5KTdDdfnMir2ibA5z",
+  "token_name": "Terraform07659",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07659",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmS7z73eYDy3eSK4iuPyVF6eyFXPZzc8k4DbeUwCmXH6oq",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Cursed_Nanites",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 8,
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 6,
+  "quantum_flux": 4,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 64,
     "y": 18
+  },
+  "neighbors": {
+    "top": {
+      "x": 64,
+      "y": 19
+    },
+    "topRight": {
+      "x": 65,
+      "y": 19
+    },
+    "right": {
+      "x": 65,
+      "y": 18
+    },
+    "bottomRight": {
+      "x": 65,
+      "y": 17
+    },
+    "bottom": {
+      "x": 64,
+      "y": 17
+    },
+    "bottonLeft": {
+      "x": 63,
+      "y": 17
+    },
+    "left": {
+      "x": 63,
+      "y": 18
+    },
+    "topLeft": {
+      "x": 63,
+      "y": 19
+    }
   }
 }

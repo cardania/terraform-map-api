@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08655",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08655",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfPevNWd4rnemZenkSbsqwSttUFZu4S3FuDhkTn2iA8Vd",
+  "token_name": "Terraform10704",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10704",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc1WQzNi5rqVsYAA5CdEMNn82e85Y6Gdx2N2zx2dARsvn",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 4,
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 2,
   "quantum_flux": 2,
-  "primary_minerals": "Copper",
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "ruins": "None",
   "shrine": "Solar_Shrine",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 20,
     "y": 38
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 39
+    },
+    "topRight": {
+      "x": 21,
+      "y": 39
+    },
+    "right": {
+      "x": 21,
+      "y": 38
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 37
+    },
+    "bottom": {
+      "x": 20,
+      "y": 37
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 37
+    },
+    "left": {
+      "x": 19,
+      "y": 38
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 39
+    }
   }
 }

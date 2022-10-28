@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03628",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03628",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYgDoo5wau33gS6F2q7j1Sqy7kXhXeKu1VJoRUVauz1RF",
+  "token_name": "Terraform09748",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09748",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNvuY4d2QnPLAwkZTaHSvaPjfBj2wLQ6PxWD9ujaQWeTf",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Palms",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Timelost",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 79,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 79,
+      "y": 31
+    },
+    "topRight": {
+      "x": 80,
+      "y": 31
+    },
+    "right": {
+      "x": 80,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 80,
+      "y": 29
+    },
+    "bottom": {
+      "x": 79,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 78,
+      "y": 29
+    },
+    "left": {
+      "x": 78,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 78,
+      "y": 31
+    }
   }
 }

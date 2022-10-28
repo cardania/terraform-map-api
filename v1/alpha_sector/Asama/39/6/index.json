@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14230",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14230",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPna4BZCkaSR7J1XBvmvbS8Py6CFi6cs2PgAbrCYv3VHL",
+  "token_name": "Terraform09615",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09615",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQvgov8drLiBdMG2s3xKEd8YKNyx28ycSceckXKbKr3BV",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 2,
-  "quantum_flux": 8,
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Void_Shrine",
+  "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 39,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 7
+    },
+    "topRight": {
+      "x": 40,
+      "y": 7
+    },
+    "right": {
+      "x": 40,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 5
+    },
+    "bottom": {
+      "x": 39,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 5
+    },
+    "left": {
+      "x": 38,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 7
+    }
   }
 }

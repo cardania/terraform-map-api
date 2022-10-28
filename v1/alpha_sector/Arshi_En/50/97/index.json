@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04373",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04373",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWymJD3SpjJp3yw8uXD2vZQCyYdeVzXRroYdXBiFbHyy1",
+  "token_name": "Terraform05791",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05791",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVP9jjyyjYy9voH1HWxEdLyYrU17cg2XFBFBUxgTem5kP",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Prismaleaf",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 7,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Freshwater_River",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 50,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 98
+    },
+    "topRight": {
+      "x": 51,
+      "y": 98
+    },
+    "right": {
+      "x": 51,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 96
+    },
+    "bottom": {
+      "x": 50,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 96
+    },
+    "left": {
+      "x": 49,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 98
+    }
   }
 }

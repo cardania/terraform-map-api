@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13796",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13796",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qma7mG9xeHP59Z12uaCciaMT1N57Zrro53MT3VEhWk7MnN",
+  "token_name": "Terraform06756",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06756",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdP6xEqS9EByTc52V4rwYqV5rGk5GSoJy6j4AQJeshyHj",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 9,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Void_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 82,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 82,
+      "y": 3
+    },
+    "topRight": {
+      "x": 83,
+      "y": 3
+    },
+    "right": {
+      "x": 83,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 83,
+      "y": 1
+    },
+    "bottom": {
+      "x": 82,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 81,
+      "y": 1
+    },
+    "left": {
+      "x": 81,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 81,
+      "y": 3
+    }
   }
 }

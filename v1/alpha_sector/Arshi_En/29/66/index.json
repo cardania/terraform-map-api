@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03916",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03916",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb5ggiP5bWeDja2S2jgtQSxoFbkQukkPBq6i8D7WdFijQ",
+  "token_name": "Terraform15524",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15524",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUCNNQYpYN2PtB5MiMDTuMMWPugLFEp4bZAfAuQGsLbQq",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 2,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Cursed_Lake",
+  "shrine": "Void_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 29,
     "y": 66
+  },
+  "neighbors": {
+    "top": {
+      "x": 29,
+      "y": 67
+    },
+    "topRight": {
+      "x": 30,
+      "y": 67
+    },
+    "right": {
+      "x": 30,
+      "y": 66
+    },
+    "bottomRight": {
+      "x": 30,
+      "y": 65
+    },
+    "bottom": {
+      "x": 29,
+      "y": 65
+    },
+    "bottonLeft": {
+      "x": 28,
+      "y": 65
+    },
+    "left": {
+      "x": 28,
+      "y": 66
+    },
+    "topLeft": {
+      "x": 28,
+      "y": 67
+    }
   }
 }

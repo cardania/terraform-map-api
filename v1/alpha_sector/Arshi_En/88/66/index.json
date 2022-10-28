@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07821",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07821",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPQH2VggwkygoLvetygTmsmGyTfYuUjSSHkRYyZsyVJuh",
+  "token_name": "Terraform01030",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01030",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVaW8f1oahPFFJMRkpJdmpo1p23mAtMfo7Gicz5gCgGN5",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
+  "fauna": "None",
+  "forests": "Palms",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 2,
+  "power_level": 1,
+  "quantum_flux": 3,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Golden_Shrine",
-  "water": "Funky_River",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Toxic_River",
   "location": {
     "x": 88,
     "y": 66
+  },
+  "neighbors": {
+    "top": {
+      "x": 88,
+      "y": 67
+    },
+    "topRight": {
+      "x": 89,
+      "y": 67
+    },
+    "right": {
+      "x": 89,
+      "y": 66
+    },
+    "bottomRight": {
+      "x": 89,
+      "y": 65
+    },
+    "bottom": {
+      "x": 88,
+      "y": 65
+    },
+    "bottonLeft": {
+      "x": 87,
+      "y": 65
+    },
+    "left": {
+      "x": 87,
+      "y": 66
+    },
+    "topLeft": {
+      "x": 87,
+      "y": 67
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07218",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07218",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmP6Xia7oWtjWp3PBZF8KfpYsK4pMoRY2LeAKPXC3P4k9d",
+  "token_name": "Terraform15380",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15380",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPKBq7DaC4m2D8HpKYE1R9CVQ8LYbCsx1EtcC4X5FhCh2",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 1,
   "quantum_flux": 8,
-  "primary_minerals": "Copper",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Cursed_River",
   "location": {
     "x": 85,
     "y": 91
+  },
+  "neighbors": {
+    "top": {
+      "x": 85,
+      "y": 92
+    },
+    "topRight": {
+      "x": 86,
+      "y": 92
+    },
+    "right": {
+      "x": 86,
+      "y": 91
+    },
+    "bottomRight": {
+      "x": 86,
+      "y": 90
+    },
+    "bottom": {
+      "x": 85,
+      "y": 90
+    },
+    "bottonLeft": {
+      "x": 84,
+      "y": 90
+    },
+    "left": {
+      "x": 84,
+      "y": 91
+    },
+    "topLeft": {
+      "x": 84,
+      "y": 92
+    }
   }
 }

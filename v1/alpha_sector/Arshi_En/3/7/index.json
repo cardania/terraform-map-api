@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19240",
+  "token_name": "Terraform14714",
   "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19240",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPvPA2QUCmmSRNbdTVhYD5txtdBfyMo4bUBtBTCoL54jM",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14714",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQNSAv5WiS5LbdAQgoKbRRWzfaPbKeoqPgYHJhq3QCJd8",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
+  "power_level": 2,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "None",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 3,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 3,
+      "y": 8
+    },
+    "topRight": {
+      "x": 4,
+      "y": 8
+    },
+    "right": {
+      "x": 4,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 4,
+      "y": 6
+    },
+    "bottom": {
+      "x": 3,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 2,
+      "y": 6
+    },
+    "left": {
+      "x": 2,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 2,
+      "y": 8
+    }
   }
 }

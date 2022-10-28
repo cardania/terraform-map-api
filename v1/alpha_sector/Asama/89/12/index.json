@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16316",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16316",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYp26ok5n1uup2EENKqptJZC922PqAU1udgzaDAoZPEQ7",
+  "token_name": "Terraform06859",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06859",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmS7pvQVNuh6GFx7aKZUJwrjbDfEuKF5tqBePUC7dqn8kk",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 4,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 89,
     "y": 12
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 13
+    },
+    "topRight": {
+      "x": 90,
+      "y": 13
+    },
+    "right": {
+      "x": 90,
+      "y": 12
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 11
+    },
+    "bottom": {
+      "x": 89,
+      "y": 11
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 11
+    },
+    "left": {
+      "x": 88,
+      "y": 12
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 13
+    }
   }
 }

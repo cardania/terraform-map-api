@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12138",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12138",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfXrP1ji4JuxD132Hi2i1prTJNYfLRMdH8by8A2gvEeC6",
+  "token_name": "Terraform12533",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12533",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSGKthkanAvAihtLauWjUFxb32XBkUrxGZuE1EQGZgEcE",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 8,
+  "quantum_flux": 9,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "Fungal_Shrine",
+  "water": "Saltwater_River",
   "location": {
     "x": 1,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 1,
+      "y": 26
+    },
+    "topRight": {
+      "x": 2,
+      "y": 26
+    },
+    "right": {
+      "x": 2,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 2,
+      "y": 24
+    },
+    "bottom": {
+      "x": 1,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 0,
+      "y": 24
+    },
+    "left": {
+      "x": 0,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 0,
+      "y": 26
+    }
   }
 }

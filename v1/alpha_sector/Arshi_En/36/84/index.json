@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01580",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01580",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQgKezkqKXzd1TzSxD9k2uYdrbX6t65jEd9pML87ikn6N",
+  "token_name": "Terraform16413",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16413",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdv2ysTphV6o8KkxzjXQVShWmTTWkM2Jh3N69MAZ6LA7X",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 1,
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 2,
   "quantum_flux": 3,
   "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "None",
   "location": {
     "x": 36,
     "y": 84
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 85
+    },
+    "topRight": {
+      "x": 37,
+      "y": 85
+    },
+    "right": {
+      "x": 37,
+      "y": 84
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 83
+    },
+    "bottom": {
+      "x": 36,
+      "y": 83
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 83
+    },
+    "left": {
+      "x": 35,
+      "y": 84
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 85
+    }
   }
 }

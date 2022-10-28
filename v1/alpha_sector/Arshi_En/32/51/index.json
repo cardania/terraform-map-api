@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18715",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18715",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeFRgbnXo3TQXZX46FUMBfRDP6MXMhBcVBN9GfruLMXTU",
+  "token_name": "Terraform05403",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05403",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb4BUXAmEvb2ovaz8ypWRmWMitBLoYfCeFn8GQyHLrwxj",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "None",
-  "fauna": "None",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 9,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 6,
+  "quantum_flux": 8,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 32,
     "y": 51
+  },
+  "neighbors": {
+    "top": {
+      "x": 32,
+      "y": 52
+    },
+    "topRight": {
+      "x": 33,
+      "y": 52
+    },
+    "right": {
+      "x": 33,
+      "y": 51
+    },
+    "bottomRight": {
+      "x": 33,
+      "y": 50
+    },
+    "bottom": {
+      "x": 32,
+      "y": 50
+    },
+    "bottonLeft": {
+      "x": 31,
+      "y": 50
+    },
+    "left": {
+      "x": 31,
+      "y": 51
+    },
+    "topLeft": {
+      "x": 31,
+      "y": 52
+    }
   }
 }

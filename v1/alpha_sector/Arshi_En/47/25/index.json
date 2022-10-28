@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10870",
+  "token_name": "Terraform09556",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10870",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRHjc2yKUxzrbv7DmLjiFSme77Dngwmy2kpHfDkjuR1vS",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09556",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZsRpbbhpBzWhQWwi6euk1dxakdowjCTbEZ8xxrWH3Qcb",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 1,
-  "quantum_flux": 2,
+  "quantum_flux": 3,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Cursed_River",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 47,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 47,
+      "y": 26
+    },
+    "topRight": {
+      "x": 48,
+      "y": 26
+    },
+    "right": {
+      "x": 48,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 48,
+      "y": 24
+    },
+    "bottom": {
+      "x": 47,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 46,
+      "y": 24
+    },
+    "left": {
+      "x": 46,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 46,
+      "y": 26
+    }
   }
 }

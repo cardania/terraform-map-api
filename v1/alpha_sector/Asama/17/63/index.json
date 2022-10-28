@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09595",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09595",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW2GLm4ikVoKgsRcwHPgZD5edZ3qVxYv52DGYsLZrX26X",
+  "token_name": "Terraform03976",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03976",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbeLL9McJCWS4VWyUzaw8QkKoqWD8HZsnEbeQqPn12hwQ",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 1,
   "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Saltwater_River",
   "location": {
     "x": 17,
     "y": 63
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 64
+    },
+    "topRight": {
+      "x": 18,
+      "y": 64
+    },
+    "right": {
+      "x": 18,
+      "y": 63
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 62
+    },
+    "bottom": {
+      "x": 17,
+      "y": 62
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 62
+    },
+    "left": {
+      "x": 16,
+      "y": 63
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 64
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15116",
+  "token_name": "Terraform08248",
   "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15116",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSDpVGrCD8E4Xn1HuK4re9kQmA34uvFNGVLd54TQDATTQ",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08248",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPRBYWLwR1cL1VsRyEDzcNhKdZ22U1iVxvLxWutgWrsgZ",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Funky_Lake",
   "location": {
     "x": 45,
     "y": 98
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 99
+    },
+    "topRight": {
+      "x": 46,
+      "y": 99
+    },
+    "right": {
+      "x": 46,
+      "y": 98
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 97
+    },
+    "bottom": {
+      "x": 45,
+      "y": 97
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 97
+    },
+    "left": {
+      "x": 44,
+      "y": 98
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 99
+    }
   }
 }

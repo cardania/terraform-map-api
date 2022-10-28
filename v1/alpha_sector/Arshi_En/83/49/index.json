@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10691",
+  "token_name": "Terraform06089",
   "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10691",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfRb4d6nEHNbo1PqpWaVF7eK1sntDRnyfzMretNRH8nbb",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06089",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUvE4FqQASq2czxmdRD3rsshS71VHieFhFCxQsDzdeMAB",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 3,
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 4,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 83,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 50
+    },
+    "topRight": {
+      "x": 84,
+      "y": 50
+    },
+    "right": {
+      "x": 84,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 48
+    },
+    "bottom": {
+      "x": 83,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 48
+    },
+    "left": {
+      "x": 82,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 50
+    }
   }
 }

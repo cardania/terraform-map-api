@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03627",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03627",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSQwEzsShjMpbEMwTQPwLJuiKqcajiMFsFkMSwz9dbQDj",
+  "token_name": "Terraform06055",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06055",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWoWKN617nP3hw1eRa9cNTggX8ii7ejffHkrDJgzLtiTn",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
-  "forests": "Evergreen",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 3,
+  "power_level": 1,
   "quantum_flux": 3,
-  "primary_minerals": "None",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Golden_Shrine",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 1,
     "y": 98
+  },
+  "neighbors": {
+    "top": {
+      "x": 1,
+      "y": 99
+    },
+    "topRight": {
+      "x": 2,
+      "y": 99
+    },
+    "right": {
+      "x": 2,
+      "y": 98
+    },
+    "bottomRight": {
+      "x": 2,
+      "y": 97
+    },
+    "bottom": {
+      "x": 1,
+      "y": 97
+    },
+    "bottonLeft": {
+      "x": 0,
+      "y": 97
+    },
+    "left": {
+      "x": 0,
+      "y": 98
+    },
+    "topLeft": {
+      "x": 0,
+      "y": 99
+    }
   }
 }

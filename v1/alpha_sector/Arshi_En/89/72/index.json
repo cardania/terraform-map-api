@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10109",
+  "token_name": "Terraform17317",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10109",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSuxKbZmwaPCXB4GbWCwLBcDyjWfKQbThTYN1KNkEh2HE",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17317",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYKd4WHLz2dXgrLV7eWJPsH1UKfGjZSzN7EBgPCbXfFsd",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 7,
-  "primary_minerals": "Cardanium",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 9,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "Fungal_Shrine",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 89,
     "y": 72
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 73
+    },
+    "topRight": {
+      "x": 90,
+      "y": 73
+    },
+    "right": {
+      "x": 90,
+      "y": 72
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 71
+    },
+    "bottom": {
+      "x": 89,
+      "y": 71
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 71
+    },
+    "left": {
+      "x": 88,
+      "y": 72
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 73
+    }
   }
 }

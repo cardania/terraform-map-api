@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09256",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09256",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTAE1Lw5yho4Vd8uq5y6a9Eqbn5yMkT8bgcmj3zfMgUq1",
+  "token_name": "Terraform12350",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12350",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb5BDYNni1mjY1mMURZtUXot9qfWPDWuh8Mz1vJoeePeV",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 6,
   "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 4,
     "y": 71
+  },
+  "neighbors": {
+    "top": {
+      "x": 4,
+      "y": 72
+    },
+    "topRight": {
+      "x": 5,
+      "y": 72
+    },
+    "right": {
+      "x": 5,
+      "y": 71
+    },
+    "bottomRight": {
+      "x": 5,
+      "y": 70
+    },
+    "bottom": {
+      "x": 4,
+      "y": 70
+    },
+    "bottonLeft": {
+      "x": 3,
+      "y": 70
+    },
+    "left": {
+      "x": 3,
+      "y": 71
+    },
+    "topLeft": {
+      "x": 3,
+      "y": 72
+    }
   }
 }

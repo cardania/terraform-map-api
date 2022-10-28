@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09903",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09903",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPSfHwsFGk1sKC7gT3oYe3YBRBcpXLkrq5of3bSy8Rm2K",
+  "token_name": "Terraform01847",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01847",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbUZQusqrMrh7J2Uhp2hJhcXAJmRnoK6pqZbuecF4r55W",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 2,
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 6,
+  "quantum_flux": 9,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 1,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 1,
+      "y": 4
+    },
+    "topRight": {
+      "x": 2,
+      "y": 4
+    },
+    "right": {
+      "x": 2,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 2,
+      "y": 2
+    },
+    "bottom": {
+      "x": 1,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 0,
+      "y": 2
+    },
+    "left": {
+      "x": 0,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 0,
+      "y": 4
+    }
   }
 }

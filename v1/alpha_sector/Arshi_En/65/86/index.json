@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11921",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11921",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSTK3z5dCxpnKaQTraX4yXGg78qZY6YNFdVT9VhGyUoJG",
+  "token_name": "Terraform11007",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11007",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZaHRWbU1q4qTRPtvXfWLTcarTxGWTeY8pPFgumu9vq8n",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 4,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 65,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 65,
+      "y": 87
+    },
+    "topRight": {
+      "x": 66,
+      "y": 87
+    },
+    "right": {
+      "x": 66,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 66,
+      "y": 85
+    },
+    "bottom": {
+      "x": 65,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 64,
+      "y": 85
+    },
+    "left": {
+      "x": 64,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 64,
+      "y": 87
+    }
   }
 }

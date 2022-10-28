@@ -1,18 +1,18 @@
 {
-  "token_name": "Terraform00723",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00723",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcZBMnJA1ELcPRm25uHXmK2auFxh1YbJivJ2ddqY3eFJk",
+  "token_name": "Terraform16784",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16784",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXBWVzeEa67ZhjkJjBgqCtFFp3G1dfjhiQN5APoiHCEsg",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "Ultrasaurs",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 2,
-  "quantum_flux": 7,
+  "quantum_flux": 6,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 39,
     "y": 76
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 77
+    },
+    "topRight": {
+      "x": 40,
+      "y": 77
+    },
+    "right": {
+      "x": 40,
+      "y": 76
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 75
+    },
+    "bottom": {
+      "x": 39,
+      "y": 75
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 75
+    },
+    "left": {
+      "x": 38,
+      "y": 76
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 77
+    }
   }
 }

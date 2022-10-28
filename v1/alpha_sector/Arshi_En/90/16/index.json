@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10675",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10675",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRDFBHFgEWeCxitqHMtbMPMztWsbdbchkozaKGfZqy7aM",
+  "token_name": "Terraform00204",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00204",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmceqL8HaF7eme7Q69pipBWw4aJc5cyFdwnXdopz9fXDWn",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 4,
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 6,
   "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Funky_River",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 90,
     "y": 16
+  },
+  "neighbors": {
+    "top": {
+      "x": 90,
+      "y": 17
+    },
+    "topRight": {
+      "x": 91,
+      "y": 17
+    },
+    "right": {
+      "x": 91,
+      "y": 16
+    },
+    "bottomRight": {
+      "x": 91,
+      "y": 15
+    },
+    "bottom": {
+      "x": 90,
+      "y": 15
+    },
+    "bottonLeft": {
+      "x": 89,
+      "y": 15
+    },
+    "left": {
+      "x": 89,
+      "y": 16
+    },
+    "topLeft": {
+      "x": 89,
+      "y": 17
+    }
   }
 }

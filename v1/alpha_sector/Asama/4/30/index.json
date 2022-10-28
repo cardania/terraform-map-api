@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01354",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01354",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZBbo574KUAeGTfLksUsynpq1iVPVVvef38UFWxqyx8i5",
+  "token_name": "Terraform05544",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05544",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRDzEbYhHeoUt3eEg86iMbiSRkytjkmV8TuoeE8Cebvpy",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
   "power_level": 1,
-  "quantum_flux": 7,
+  "quantum_flux": 2,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 4,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 4,
+      "y": 31
+    },
+    "topRight": {
+      "x": 5,
+      "y": 31
+    },
+    "right": {
+      "x": 5,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 5,
+      "y": 29
+    },
+    "bottom": {
+      "x": 4,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 3,
+      "y": 29
+    },
+    "left": {
+      "x": 3,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 3,
+      "y": 31
+    }
   }
 }

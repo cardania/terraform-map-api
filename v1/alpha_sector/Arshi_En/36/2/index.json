@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16787",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16787",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYKN4ZoV4qHaLD4W1s4BhG6BToRfvAWnqdnb3Yr8dDczj",
+  "token_name": "Terraform13415",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13415",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWVX1V1w1agxJ9TtHoqiX2vgPgfgJfGCLiE2ximn6qjM3",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 9,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 36,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 3
+    },
+    "topRight": {
+      "x": 37,
+      "y": 3
+    },
+    "right": {
+      "x": 37,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 1
+    },
+    "bottom": {
+      "x": 36,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 1
+    },
+    "left": {
+      "x": 35,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 3
+    }
   }
 }

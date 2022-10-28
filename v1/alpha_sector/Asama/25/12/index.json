@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16154",
+  "token_name": "Terraform07272",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16154",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaHeRJ9YydXMiRNLh1Ln8i5v2YvCkxxp4twt4hJE3xR1m",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07272",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPYM5FhmgBhp2vofNfqC9uQqHQHKmcEjJSexnZhWZvsva",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 8,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 25,
     "y": 12
+  },
+  "neighbors": {
+    "top": {
+      "x": 25,
+      "y": 13
+    },
+    "topRight": {
+      "x": 26,
+      "y": 13
+    },
+    "right": {
+      "x": 26,
+      "y": 12
+    },
+    "bottomRight": {
+      "x": 26,
+      "y": 11
+    },
+    "bottom": {
+      "x": 25,
+      "y": 11
+    },
+    "bottonLeft": {
+      "x": 24,
+      "y": 11
+    },
+    "left": {
+      "x": 24,
+      "y": 12
+    },
+    "topLeft": {
+      "x": 24,
+      "y": 13
+    }
   }
 }

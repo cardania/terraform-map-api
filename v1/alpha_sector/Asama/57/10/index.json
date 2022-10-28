@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17006",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17006",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYjzV5xUA46jVHTMJnddMZRSLUbGwAqo8YiY2By9evYKz",
+  "token_name": "Terraform18678",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18678",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaKxMrfzodARbpyrNNhpwnAF8PA6pKvMXuapnAtHG2x9B",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 7,
+  "quantum_flux": 8,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 57,
     "y": 10
+  },
+  "neighbors": {
+    "top": {
+      "x": 57,
+      "y": 11
+    },
+    "topRight": {
+      "x": 58,
+      "y": 11
+    },
+    "right": {
+      "x": 58,
+      "y": 10
+    },
+    "bottomRight": {
+      "x": 58,
+      "y": 9
+    },
+    "bottom": {
+      "x": 57,
+      "y": 9
+    },
+    "bottonLeft": {
+      "x": 56,
+      "y": 9
+    },
+    "left": {
+      "x": 56,
+      "y": 10
+    },
+    "topLeft": {
+      "x": 56,
+      "y": 11
+    }
   }
 }

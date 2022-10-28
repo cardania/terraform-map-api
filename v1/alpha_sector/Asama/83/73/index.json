@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17570",
+  "token_name": "Terraform18634",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17570",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmP575i2MbpgavoBQb8z4qD5VPmWCkaypaN8Ug29Kx6n5Z",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18634",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTkoLL6JkCmQrMQWCTRpRQh27Ks8U3bcJ1DDSP6LPnM8J",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Green",
+  "power_level": 2,
+  "quantum_flux": 2,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 83,
     "y": 73
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 74
+    },
+    "topRight": {
+      "x": 84,
+      "y": 74
+    },
+    "right": {
+      "x": 84,
+      "y": 73
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 72
+    },
+    "bottom": {
+      "x": 83,
+      "y": 72
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 72
+    },
+    "left": {
+      "x": 82,
+      "y": 73
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 74
+    }
   }
 }

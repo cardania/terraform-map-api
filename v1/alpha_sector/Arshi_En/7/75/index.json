@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15498",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15498",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd2Dk32nNVeXuFKnBjC6Aw6C3z1ULLqAVkYZhYM5Msnps",
+  "token_name": "Terraform01535",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01535",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdRiiFwq1D9Wz81KdkiXrt52S4eZySituRMCxEJ6JgLo2",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 4,
-  "quantum_flux": 3,
+  "power_level": 5,
+  "quantum_flux": 8,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "Ancient_Ruins",
-  "shrine": "Solar_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 7,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 76
+    },
+    "topRight": {
+      "x": 8,
+      "y": 76
+    },
+    "right": {
+      "x": 8,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 74
+    },
+    "bottom": {
+      "x": 7,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 74
+    },
+    "left": {
+      "x": 6,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 76
+    }
   }
 }

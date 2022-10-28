@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08766",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08766",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRc1kMKWhvVJ2uNJMJGkmP63v3DuQntyMfbWHxXNbt3TA",
+  "token_name": "Terraform04763",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04763",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXVScfv5uJ9TsqJsNijdJFq2LuA6eJMVTcmBenUFBPxNz",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 4,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "None",
-  "water": "Toxic_Lake",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 9,
     "y": 59
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 60
+    },
+    "topRight": {
+      "x": 10,
+      "y": 60
+    },
+    "right": {
+      "x": 10,
+      "y": 59
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 58
+    },
+    "bottom": {
+      "x": 9,
+      "y": 58
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 58
+    },
+    "left": {
+      "x": 8,
+      "y": 59
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 60
+    }
   }
 }

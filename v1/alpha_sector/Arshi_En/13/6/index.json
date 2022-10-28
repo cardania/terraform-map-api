@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00834",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00834",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaJXrkFyGfa1YY1tbPV8hkk5RJLwbxBJUVMsz4vBrwSbt",
+  "token_name": "Terraform08777",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08777",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQTQEAU2G7B3APJCkRGVtv6SMLX6uWQuDHksagcgRMbuk",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 8,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 7,
+  "quantum_flux": 9,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "None",
+  "shrine": "Void_Shrine",
+  "water": "Toxic_River",
   "location": {
     "x": 13,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 7
+    },
+    "topRight": {
+      "x": 14,
+      "y": 7
+    },
+    "right": {
+      "x": 14,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 5
+    },
+    "bottom": {
+      "x": 13,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 5
+    },
+    "left": {
+      "x": 12,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 7
+    }
   }
 }

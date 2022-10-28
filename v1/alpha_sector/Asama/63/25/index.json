@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02575",
+  "token_name": "Terraform10112",
   "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02575",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXhRBHBokekT64HE7P9DpZwdhRh71GjMtifKfFF2RHkhs",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10112",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYggR1oFHfBiAkSCT56nMMcBYk79SQ8rrqSxDRbiYis57",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "activity": "None",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 2,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 63,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 63,
+      "y": 26
+    },
+    "topRight": {
+      "x": 64,
+      "y": 26
+    },
+    "right": {
+      "x": 64,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 64,
+      "y": 24
+    },
+    "bottom": {
+      "x": 63,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 62,
+      "y": 24
+    },
+    "left": {
+      "x": 62,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 62,
+      "y": 26
+    }
   }
 }

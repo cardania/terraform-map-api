@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00955",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00955",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfCL3RfEFtANCDXyppoGBW6pWqYLAR9iHoUNaNuQvGzA1",
+  "token_name": "Terraform18436",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18436",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWSia4eciGgPdUxWbqJDWv5zAVVk1pymNkzdhCytiKZcf",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 4,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 1,
+  "quantum_flux": 2,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "Freshwater_River",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 60,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 6
+    },
+    "topRight": {
+      "x": 61,
+      "y": 6
+    },
+    "right": {
+      "x": 61,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 4
+    },
+    "bottom": {
+      "x": 60,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 4
+    },
+    "left": {
+      "x": 59,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 6
+    }
   }
 }

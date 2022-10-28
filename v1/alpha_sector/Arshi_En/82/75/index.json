@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03697",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03697",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaQKfxEnrKeF9ndNZ2ibCgUuZK8p5zqgAWwbPPTAZw4Tu",
+  "token_name": "Terraform01152",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01152",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcSkffSx7ztjYezmuy6pgKybxcR99KAwjzBsE4PMWkSDf",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 3,
-  "quantum_flux": 3,
+  "quantum_flux": 7,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 82,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 82,
+      "y": 76
+    },
+    "topRight": {
+      "x": 83,
+      "y": 76
+    },
+    "right": {
+      "x": 83,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 83,
+      "y": 74
+    },
+    "bottom": {
+      "x": 82,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 81,
+      "y": 74
+    },
+    "left": {
+      "x": 81,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 81,
+      "y": 76
+    }
   }
 }

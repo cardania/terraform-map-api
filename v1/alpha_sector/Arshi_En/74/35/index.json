@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11870",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11870",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb6TNE6LtQ3cbRFETHy1csJwUF6vxGskNmXcb9sBErM88",
+  "token_name": "Terraform13590",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13590",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVMWjBFY6nLPxXE3U2V7uLRSPbHdF1vJBEVA5FTiNoMSn",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 6,
   "quantum_flux": 2,
   "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 74,
     "y": 35
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 36
+    },
+    "topRight": {
+      "x": 75,
+      "y": 36
+    },
+    "right": {
+      "x": 75,
+      "y": 35
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 34
+    },
+    "bottom": {
+      "x": 74,
+      "y": 34
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 34
+    },
+    "left": {
+      "x": 73,
+      "y": 35
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 36
+    }
   }
 }

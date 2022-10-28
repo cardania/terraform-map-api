@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17916",
+  "token_name": "Terraform14035",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17916",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPYRQG4LGYxUBuG9XLSGQiFmmEkvgwFWyUNJtvKwqdQAK",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14035",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmenjvgsAnYav1FcNeBBGdCoyoYgEMLQUQ7TvVCteGCwFH",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Critters",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
   "power_level": 4,
   "quantum_flux": 5,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 83,
     "y": 28
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 29
+    },
+    "topRight": {
+      "x": 84,
+      "y": 29
+    },
+    "right": {
+      "x": 84,
+      "y": 28
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 27
+    },
+    "bottom": {
+      "x": 83,
+      "y": 27
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 27
+    },
+    "left": {
+      "x": 82,
+      "y": 28
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 29
+    }
   }
 }

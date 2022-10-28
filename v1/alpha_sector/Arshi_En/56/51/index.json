@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform12355",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12355",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmck8Ezsx7qPYAQ86U7mtsePGoQ6FBLSxdTXMEH23ByLoK",
+  "token_name": "Terraform08388",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08388",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZjEvNm5QbivcEdQnyPfEfXxtYtfrWU1szFP23vbPN4Zq",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Nemesis_Hydra",
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 7,
-  "quantum_flux": 1,
-  "primary_minerals": "Copper",
+  "power_level": 6,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 56,
     "y": 51
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 52
+    },
+    "topRight": {
+      "x": 57,
+      "y": 52
+    },
+    "right": {
+      "x": 57,
+      "y": 51
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 50
+    },
+    "bottom": {
+      "x": 56,
+      "y": 50
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 50
+    },
+    "left": {
+      "x": 55,
+      "y": 51
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 52
+    }
   }
 }

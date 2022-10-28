@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07844",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07844",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVVy1neo92i5tgyF9EVPxQK4jYyjPm6WDBQCT9v9yFQb9",
+  "token_name": "Terraform17213",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17213",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUZVM8KzWiQhCNBA1pt8VHL23rY4JjB8Amse6NiX9V4w7",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Timelost",
-  "shrine": "None",
-  "water": "Toxic_Lake",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Fungal_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 61,
     "y": 73
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 74
+    },
+    "topRight": {
+      "x": 62,
+      "y": 74
+    },
+    "right": {
+      "x": 62,
+      "y": 73
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 72
+    },
+    "bottom": {
+      "x": 61,
+      "y": 72
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 72
+    },
+    "left": {
+      "x": 60,
+      "y": 73
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 74
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10152",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10152",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRooDGSLVAT7Suai4NswkGSBcFK64pWkdiMz61W6FiWy6",
+  "token_name": "Terraform11356",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11356",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRAN4ce9TgLnH5RSDt2EARHxK1sK57ZrcLwNpZj6KU3iJ",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
+  "fauna": "Livestock",
+  "forests": "Palms",
   "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 65,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 65,
+      "y": 83
+    },
+    "topRight": {
+      "x": 66,
+      "y": 83
+    },
+    "right": {
+      "x": 66,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 66,
+      "y": 81
+    },
+    "bottom": {
+      "x": 65,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 64,
+      "y": 81
+    },
+    "left": {
+      "x": 64,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 64,
+      "y": 83
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08081",
+  "token_name": "Terraform11372",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08081",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQoUX8miCEM3PuqdZQyS4yrTE4pVZBEZMHnqQbbzBUTJP",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11372",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWVM18kNGLxZC7o6QKW9yP8nfz8GFXwJ1TKMBTPKF8FuV",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 7,
-  "quantum_flux": 4,
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 8,
   "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Fungal_Shrine",
   "water": "Freshwater_River",
   "location": {
     "x": 73,
     "y": 27
+  },
+  "neighbors": {
+    "top": {
+      "x": 73,
+      "y": 28
+    },
+    "topRight": {
+      "x": 74,
+      "y": 28
+    },
+    "right": {
+      "x": 74,
+      "y": 27
+    },
+    "bottomRight": {
+      "x": 74,
+      "y": 26
+    },
+    "bottom": {
+      "x": 73,
+      "y": 26
+    },
+    "bottonLeft": {
+      "x": 72,
+      "y": 26
+    },
+    "left": {
+      "x": 72,
+      "y": 27
+    },
+    "topLeft": {
+      "x": 72,
+      "y": 28
+    }
   }
 }

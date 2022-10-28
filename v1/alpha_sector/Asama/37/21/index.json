@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18455",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18455",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWEyyz5jwA7dNoWduLXZ8fny5zfJwoF7VF9R2ZNbr16kp",
+  "token_name": "Terraform08507",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08507",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYppUTNVidLaawgJ22akrEuyZ7xdvqvtJnsbsgWg6ZJFZ",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 1,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 37,
     "y": 21
+  },
+  "neighbors": {
+    "top": {
+      "x": 37,
+      "y": 22
+    },
+    "topRight": {
+      "x": 38,
+      "y": 22
+    },
+    "right": {
+      "x": 38,
+      "y": 21
+    },
+    "bottomRight": {
+      "x": 38,
+      "y": 20
+    },
+    "bottom": {
+      "x": 37,
+      "y": 20
+    },
+    "bottonLeft": {
+      "x": 36,
+      "y": 20
+    },
+    "left": {
+      "x": 36,
+      "y": 21
+    },
+    "topLeft": {
+      "x": 36,
+      "y": 22
+    }
   }
 }

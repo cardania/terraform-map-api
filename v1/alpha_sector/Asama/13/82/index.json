@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00556",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00556",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmX7YosC9CP7JxinhKDU4hckgmRtghi7h4b2xF7TCeNzUw",
+  "token_name": "Terraform13482",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13482",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmemzVHYhwRjcunumdk25ZefRERi9N3Tni85s1ZHMBJm8S",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Golden_Shrine",
   "water": "None",
   "location": {
     "x": 13,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 83
+    },
+    "topRight": {
+      "x": 14,
+      "y": 83
+    },
+    "right": {
+      "x": 14,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 81
+    },
+    "bottom": {
+      "x": 13,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 81
+    },
+    "left": {
+      "x": 12,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 83
+    }
   }
 }

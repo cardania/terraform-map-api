@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03080",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03080",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmec9T9db4sWsBUJtDgMQuj2xesV6RpHpv2vftMzR6yVcc",
+  "token_name": "Terraform00671",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00671",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcJy6mfBZ6UQUsmmnsLruB1CWW3tSMw952qjB458hYHG5",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 5,
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 6,
   "quantum_flux": 3,
-  "primary_minerals": "None",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Machine_Shrine",
   "water": "None",
   "location": {
     "x": 38,
     "y": 67
+  },
+  "neighbors": {
+    "top": {
+      "x": 38,
+      "y": 68
+    },
+    "topRight": {
+      "x": 39,
+      "y": 68
+    },
+    "right": {
+      "x": 39,
+      "y": 67
+    },
+    "bottomRight": {
+      "x": 39,
+      "y": 66
+    },
+    "bottom": {
+      "x": 38,
+      "y": 66
+    },
+    "bottonLeft": {
+      "x": 37,
+      "y": 66
+    },
+    "left": {
+      "x": 37,
+      "y": 67
+    },
+    "topLeft": {
+      "x": 37,
+      "y": 68
+    }
   }
 }

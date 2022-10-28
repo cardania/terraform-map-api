@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18242",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18242",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSd7a4JztBMmFeVuR2B33zLwkQHtGDWy9i9ExUvoZrmdw",
+  "token_name": "Terraform02332",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02332",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXxmGKHNBFoWc4vFuJXorySJrDxSxb3XTwjoyH3f961ac",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 2,
   "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Toxic_River",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 84,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 84,
+      "y": 26
+    },
+    "topRight": {
+      "x": 85,
+      "y": 26
+    },
+    "right": {
+      "x": 85,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 85,
+      "y": 24
+    },
+    "bottom": {
+      "x": 84,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 83,
+      "y": 24
+    },
+    "left": {
+      "x": 83,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 83,
+      "y": 26
+    }
   }
 }

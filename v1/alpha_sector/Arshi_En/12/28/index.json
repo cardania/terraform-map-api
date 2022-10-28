@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10371",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10371",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPP4QDSWPHJtEsie8VFEirqZtftoTrFgAzYJXCcZn9TdU",
+  "token_name": "Terraform04240",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04240",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcLaSRsNzR2Lc8pRhShJj6Qo14aVQisDR1HPiBM74Ph8N",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 6,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 12,
     "y": 28
+  },
+  "neighbors": {
+    "top": {
+      "x": 12,
+      "y": 29
+    },
+    "topRight": {
+      "x": 13,
+      "y": 29
+    },
+    "right": {
+      "x": 13,
+      "y": 28
+    },
+    "bottomRight": {
+      "x": 13,
+      "y": 27
+    },
+    "bottom": {
+      "x": 12,
+      "y": 27
+    },
+    "bottonLeft": {
+      "x": 11,
+      "y": 27
+    },
+    "left": {
+      "x": 11,
+      "y": 28
+    },
+    "topLeft": {
+      "x": 11,
+      "y": 29
+    }
   }
 }

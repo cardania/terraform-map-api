@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13008",
+  "token_name": "Terraform07083",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13008",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRSsD3buYCKRit4LhV41tuf7co1uFDLf2XY6vcZmrWCVT",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07083",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZVQYFdGsVVhstHHo2W6dBGDQjk3szdjjsY4kEQBaEXCh",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Gemstones",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 8,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Machine_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 41,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 41,
+      "y": 34
+    },
+    "topRight": {
+      "x": 42,
+      "y": 34
+    },
+    "right": {
+      "x": 42,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 42,
+      "y": 32
+    },
+    "bottom": {
+      "x": 41,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 40,
+      "y": 32
+    },
+    "left": {
+      "x": 40,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 40,
+      "y": 34
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17588",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17588",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPn2Tb92CgShWezfKgqfeYx128iw9C4m2mUYVe8DEMPhQ",
+  "token_name": "Terraform07214",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07214",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPXtstMXeu6T9tv4puiqzUHxX6F6kZYKTB3TTqQxeXgge",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 8,
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 2,
   "quantum_flux": 5,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 36,
     "y": 89
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 90
+    },
+    "topRight": {
+      "x": 37,
+      "y": 90
+    },
+    "right": {
+      "x": 37,
+      "y": 89
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 88
+    },
+    "bottom": {
+      "x": 36,
+      "y": 88
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 88
+    },
+    "left": {
+      "x": 35,
+      "y": 89
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 90
+    }
   }
 }

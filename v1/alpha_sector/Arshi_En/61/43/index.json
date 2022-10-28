@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform13793",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13793",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYPQUcSmD5UM9qG3Yk4YbiAm3jSXd4Sg6LsNybAGEZU1a",
+  "token_name": "Terraform03043",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03043",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmP2Ezq2VkNoLYKZZUbr7bGH4MB2TfMSKwx69r9VoHNutL",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 8,
-  "primary_minerals": "Cardanium",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 61,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 44
+    },
+    "topRight": {
+      "x": 62,
+      "y": 44
+    },
+    "right": {
+      "x": 62,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 42
+    },
+    "bottom": {
+      "x": 61,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 42
+    },
+    "left": {
+      "x": 60,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 44
+    }
   }
 }

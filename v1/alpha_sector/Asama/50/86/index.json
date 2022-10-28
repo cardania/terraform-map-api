@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01302",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01302",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmar2FMcviu3RZWnrCnTqrUcSpydbvu7AekD2n5Xey4j64",
+  "token_name": "Terraform16985",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16985",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSmR2u2n9jK5zpAGPhwbBJPdXPiuQdfCZWvS2PTeeu48G",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "None",
-  "water": "Saltwater_River",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 50,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 87
+    },
+    "topRight": {
+      "x": 51,
+      "y": 87
+    },
+    "right": {
+      "x": 51,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 85
+    },
+    "bottom": {
+      "x": 50,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 85
+    },
+    "left": {
+      "x": 49,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 87
+    }
   }
 }

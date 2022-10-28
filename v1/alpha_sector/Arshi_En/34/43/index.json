@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13169",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13169",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXT2Ly8kndTy2kSaxciZpPJg5oQVaZNTBcs2acxghPo3F",
+  "token_name": "Terraform16695",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16695",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWVSxJgA3X4bksEkP1tToZrXbN5kVHD3sr8Hbgw2KHnGy",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "Cardanium",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Funky_River",
   "location": {
     "x": 34,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 34,
+      "y": 44
+    },
+    "topRight": {
+      "x": 35,
+      "y": 44
+    },
+    "right": {
+      "x": 35,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 35,
+      "y": 42
+    },
+    "bottom": {
+      "x": 34,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 33,
+      "y": 42
+    },
+    "left": {
+      "x": 33,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 33,
+      "y": 44
+    }
   }
 }

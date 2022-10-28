@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03073",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03073",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZj6TcsJxAV5uiEr1WEVMUKiWtMynQ9KBjWLYh4pfcLrC",
+  "token_name": "Terraform12893",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12893",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRGsA3foNwAdX7CfSgJevRg4yBGrVCDU5KwGbbFCPtkwQ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 7,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Gemstones",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 8,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
+  "shrine": "None",
   "water": "Saltwater_River",
   "location": {
     "x": 67,
     "y": 9
+  },
+  "neighbors": {
+    "top": {
+      "x": 67,
+      "y": 10
+    },
+    "topRight": {
+      "x": 68,
+      "y": 10
+    },
+    "right": {
+      "x": 68,
+      "y": 9
+    },
+    "bottomRight": {
+      "x": 68,
+      "y": 8
+    },
+    "bottom": {
+      "x": 67,
+      "y": 8
+    },
+    "bottonLeft": {
+      "x": 66,
+      "y": 8
+    },
+    "left": {
+      "x": 66,
+      "y": 9
+    },
+    "topLeft": {
+      "x": 66,
+      "y": 10
+    }
   }
 }

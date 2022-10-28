@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08635",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08635",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf4yM7beGG2hcqa4aXCsVvXn3JPJyndbyTzUNUyYPadxn",
+  "token_name": "Terraform17188",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17188",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qme8y7UUKgomyxDfs6PD43gm2d8mRSAm9VXhzCHQB7zHzg",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 1,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "quantum_flux": 8,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 79,
     "y": 77
+  },
+  "neighbors": {
+    "top": {
+      "x": 79,
+      "y": 78
+    },
+    "topRight": {
+      "x": 80,
+      "y": 78
+    },
+    "right": {
+      "x": 80,
+      "y": 77
+    },
+    "bottomRight": {
+      "x": 80,
+      "y": 76
+    },
+    "bottom": {
+      "x": 79,
+      "y": 76
+    },
+    "bottonLeft": {
+      "x": 78,
+      "y": 76
+    },
+    "left": {
+      "x": 78,
+      "y": 77
+    },
+    "topLeft": {
+      "x": 78,
+      "y": 78
+    }
   }
 }

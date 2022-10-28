@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18555",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18555",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRoWc9ArGUkjjPJJsWnHW84doxLryw8ChNW5JmDoMDL8b",
+  "token_name": "Terraform00869",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00869",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb3tygGaPkdV4TJV5a73vb5G3w9sH9hsmmpMHtJjAuBDP",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
   "quantum_flux": 7,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Timelost_Shrine",
-  "water": "None",
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 97,
     "y": 98
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 99
+    },
+    "topRight": {
+      "x": 98,
+      "y": 99
+    },
+    "right": {
+      "x": 98,
+      "y": 98
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 97
+    },
+    "bottom": {
+      "x": 97,
+      "y": 97
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 97
+    },
+    "left": {
+      "x": 96,
+      "y": 98
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 99
+    }
   }
 }

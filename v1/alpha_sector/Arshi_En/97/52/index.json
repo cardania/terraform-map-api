@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05232",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05232",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVyaNkznYhEtxKRoE1nGSDeaLavVJErmiebG9cQrQUVCA",
+  "token_name": "Terraform16811",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16811",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVgcMh9q1Vuhgado7zNUwwy2GhuTFjB4zy7W4YQha9DJ3",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Funky_River",
   "location": {
     "x": 97,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 53
+    },
+    "topRight": {
+      "x": 98,
+      "y": 53
+    },
+    "right": {
+      "x": 98,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 51
+    },
+    "bottom": {
+      "x": 97,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 51
+    },
+    "left": {
+      "x": 96,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 53
+    }
   }
 }

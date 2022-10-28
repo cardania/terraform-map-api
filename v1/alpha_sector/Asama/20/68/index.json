@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02017",
+  "token_name": "Terraform03381",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02017",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSjFSLvaViNWWLvUNcDdEvac2miEwsYJLrFWoHgT7Droj",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03381",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmR89wXwwKFtXwaZJnXaC4bsufGVfhtHe2EPTEXnGMtAii",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 20,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 69
+    },
+    "topRight": {
+      "x": 21,
+      "y": 69
+    },
+    "right": {
+      "x": 21,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 67
+    },
+    "bottom": {
+      "x": 20,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 67
+    },
+    "left": {
+      "x": 19,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 69
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02769",
+  "token_name": "Terraform18701",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02769",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZMTrGvxdtTQHputa7fMGxhWzp8Fa4fxx5JsqAorpXsKu",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18701",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbZpdbE8XEqjSenWVqNTmzJ5f76WQfvfcPk87twngeHVK",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 9,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 3,
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 52,
     "y": 45
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 46
+    },
+    "topRight": {
+      "x": 53,
+      "y": 46
+    },
+    "right": {
+      "x": 53,
+      "y": 45
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 44
+    },
+    "bottom": {
+      "x": 52,
+      "y": 44
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 44
+    },
+    "left": {
+      "x": 51,
+      "y": 45
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 46
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00218",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00218",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbbVRqkKRB4ySgMFgqyreujAmafeyQThffqpz3uxMgEu5",
+  "token_name": "Terraform05953",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05953",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQb2v3UP3RK96284NyYg2zPQmnbfxziiJ4PDThkphtR4F",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 4,
-  "quantum_flux": 4,
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 9,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
+  "shrine": "Timelost_Shrine",
   "water": "Freshwater_Lake",
   "location": {
     "x": 14,
     "y": 87
+  },
+  "neighbors": {
+    "top": {
+      "x": 14,
+      "y": 88
+    },
+    "topRight": {
+      "x": 15,
+      "y": 88
+    },
+    "right": {
+      "x": 15,
+      "y": 87
+    },
+    "bottomRight": {
+      "x": 15,
+      "y": 86
+    },
+    "bottom": {
+      "x": 14,
+      "y": 86
+    },
+    "bottonLeft": {
+      "x": 13,
+      "y": 86
+    },
+    "left": {
+      "x": 13,
+      "y": 87
+    },
+    "topLeft": {
+      "x": 13,
+      "y": 88
+    }
   }
 }

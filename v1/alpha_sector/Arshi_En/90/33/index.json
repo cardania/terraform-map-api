@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17392",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17392",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmeo9PYkRzDfcpf173apqQAsFxounS1E2LtBt85XttZ5d6",
+  "token_name": "Terraform00679",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00679",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPsAv5XGaZ8CLNQ13B4c6WCzWsJHaQvHdyhNPZJhPYrr5",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "None",
-  "water": "Cursed_Lake",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 4,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "Quantum_Shrine",
+  "water": "None",
   "location": {
     "x": 90,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 90,
+      "y": 34
+    },
+    "topRight": {
+      "x": 91,
+      "y": 34
+    },
+    "right": {
+      "x": 91,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 91,
+      "y": 32
+    },
+    "bottom": {
+      "x": 90,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 89,
+      "y": 32
+    },
+    "left": {
+      "x": 89,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 89,
+      "y": 34
+    }
   }
 }

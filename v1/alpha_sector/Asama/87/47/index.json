@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11899",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11899",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSZHT4Zzpyc4QZq5Gh8won59z2PSP8v8pLRZVWaiao7jT",
+  "token_name": "Terraform12427",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12427",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRY8uGUEJDUw16bQUbGTDRd3ecdYtCg57Nrjrt5L81U6c",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 87,
     "y": 47
+  },
+  "neighbors": {
+    "top": {
+      "x": 87,
+      "y": 48
+    },
+    "topRight": {
+      "x": 88,
+      "y": 48
+    },
+    "right": {
+      "x": 88,
+      "y": 47
+    },
+    "bottomRight": {
+      "x": 88,
+      "y": 46
+    },
+    "bottom": {
+      "x": 87,
+      "y": 46
+    },
+    "bottonLeft": {
+      "x": 86,
+      "y": 46
+    },
+    "left": {
+      "x": 86,
+      "y": 47
+    },
+    "topLeft": {
+      "x": 86,
+      "y": 48
+    }
   }
 }

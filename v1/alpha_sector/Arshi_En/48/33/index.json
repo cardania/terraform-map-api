@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02023",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02023",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmS4CUvLCPVsvvf34f4kyNqkKYzU8CM6mC3pCDUM9zV8ms",
+  "token_name": "Terraform11913",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11913",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYooEd76TDmppCRCBjBjJzDkTZJtRYipXThL9DXrvqPkw",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 6,
   "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Saltwater_Lake",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 48,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 34
+    },
+    "topRight": {
+      "x": 49,
+      "y": 34
+    },
+    "right": {
+      "x": 49,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 32
+    },
+    "bottom": {
+      "x": 48,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 32
+    },
+    "left": {
+      "x": 47,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 34
+    }
   }
 }

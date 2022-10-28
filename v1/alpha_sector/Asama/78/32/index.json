@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07482",
+  "token_name": "Terraform02215",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07482",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmek8mw7o5Z77JfXQNbbw56jYkPg3HyS6Yr5xT8hMP18aF",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02215",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNW7PPkpPxmze4xyBDfoC2nFfQyFLe5TZC5Mif61zHipv",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "None",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
+  "fauna": "Livestock",
+  "forests": "Palms",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 3,
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 7,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Cursed_Lake",
   "location": {
     "x": 78,
     "y": 32
+  },
+  "neighbors": {
+    "top": {
+      "x": 78,
+      "y": 33
+    },
+    "topRight": {
+      "x": 79,
+      "y": 33
+    },
+    "right": {
+      "x": 79,
+      "y": 32
+    },
+    "bottomRight": {
+      "x": 79,
+      "y": 31
+    },
+    "bottom": {
+      "x": 78,
+      "y": 31
+    },
+    "bottonLeft": {
+      "x": 77,
+      "y": 31
+    },
+    "left": {
+      "x": 77,
+      "y": 32
+    },
+    "topLeft": {
+      "x": 77,
+      "y": 33
+    }
   }
 }

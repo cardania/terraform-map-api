@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16213",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16213",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSP8cAf5j99Gupwn2hjtNdSNhmv7V3YvzSyR8XDQE5pPq",
+  "token_name": "Terraform07024",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07024",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeVGRS1xWj2VBZVggABQ8ZzTLn1WMLjtp417UypxwcKeB",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "quantum_flux": 8,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Fungal_Shrine",
-  "water": "Toxic_River",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 79,
     "y": 79
+  },
+  "neighbors": {
+    "top": {
+      "x": 79,
+      "y": 80
+    },
+    "topRight": {
+      "x": 80,
+      "y": 80
+    },
+    "right": {
+      "x": 80,
+      "y": 79
+    },
+    "bottomRight": {
+      "x": 80,
+      "y": 78
+    },
+    "bottom": {
+      "x": 79,
+      "y": 78
+    },
+    "bottonLeft": {
+      "x": 78,
+      "y": 78
+    },
+    "left": {
+      "x": 78,
+      "y": 79
+    },
+    "topLeft": {
+      "x": 78,
+      "y": 80
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00244",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00244",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNxLXuGhoRoFD9nTrqqGShY4eqmGrxqdWwT71KqZMSZH1",
+  "token_name": "Terraform10293",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10293",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYbpUFNTVuLR3DztoG264dYuVgsZpuUhkGTwtf9bt9m4o",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Fungal_Shrine",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 8,
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Ancient_Ruins",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 83,
     "y": 77
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 78
+    },
+    "topRight": {
+      "x": 84,
+      "y": 78
+    },
+    "right": {
+      "x": 84,
+      "y": 77
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 76
+    },
+    "bottom": {
+      "x": 83,
+      "y": 76
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 76
+    },
+    "left": {
+      "x": 82,
+      "y": 77
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 78
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01415",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01415",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYhFUxMt4T5dVzLNcS5Jf1XbHqsiFn2a4sm3YBxyntmU4",
+  "token_name": "Terraform07061",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07061",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcdCv3MzuwJNDNqG5am1Vg5zxM5S7obv7CFZ4vLVZakQ5",
   "alpha_sector": "Arshi_En",
   "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 3,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 3,
+      "y": 34
+    },
+    "topRight": {
+      "x": 4,
+      "y": 34
+    },
+    "right": {
+      "x": 4,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 4,
+      "y": 32
+    },
+    "bottom": {
+      "x": 3,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 2,
+      "y": 32
+    },
+    "left": {
+      "x": 2,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 2,
+      "y": 34
+    }
   }
 }

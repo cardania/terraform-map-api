@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06465",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06465",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNhtQL5bv1nJotctTyT8eKCyBnHDJG6mEEsprpRSc8ntA",
+  "token_name": "Terraform04038",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04038",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfRo9Fy5iFTrK4UxXWDqzXGbZTPUX5zR8TAh1tYaBu52R",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Golden_Shrine",
-  "water": "None",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Machine_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 24,
     "y": 1
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 2
+    },
+    "topRight": {
+      "x": 25,
+      "y": 2
+    },
+    "right": {
+      "x": 25,
+      "y": 1
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 0
+    },
+    "bottom": {
+      "x": 24,
+      "y": 0
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 0
+    },
+    "left": {
+      "x": 23,
+      "y": 1
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 2
+    }
   }
 }

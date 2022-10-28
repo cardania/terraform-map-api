@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19470",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19470",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTB7owaMxPXeUGkNLBuRNndhhv7BzA16KiXbZZ9XpDnj5",
+  "token_name": "Terraform07128",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07128",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaEUJVFmV88htc1P1psNgh48hw1Js7eNGhcw4wfCkyWzX",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
   "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
   "power_level": 3,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 24,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 6
+    },
+    "topRight": {
+      "x": 25,
+      "y": 6
+    },
+    "right": {
+      "x": 25,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 4
+    },
+    "bottom": {
+      "x": 24,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 4
+    },
+    "left": {
+      "x": 23,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 6
+    }
   }
 }

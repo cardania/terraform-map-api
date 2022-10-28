@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19503",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19503",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXuZCoW4oU9qPooe4XCYvBGgksaNaUoM8hiK4mE6E1fut",
+  "token_name": "Terraform05090",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05090",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmULT8uDtTKS5FyiXCPiBCgk5LmXcWKsX6E3f6pQJG4tdp",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "Fungal_Shrine",
-  "water": "None",
+  "ruins": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 62,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 62,
+      "y": 6
+    },
+    "topRight": {
+      "x": 63,
+      "y": 6
+    },
+    "right": {
+      "x": 63,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 63,
+      "y": 4
+    },
+    "bottom": {
+      "x": 62,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 61,
+      "y": 4
+    },
+    "left": {
+      "x": 61,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 61,
+      "y": 6
+    }
   }
 }

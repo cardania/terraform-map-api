@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13971",
+  "token_name": "Terraform10406",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13971",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeiDHsNPuzyib42Hy1AHp44wZGuWVyrUesUfZYt5mB8QF",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10406",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSTC1Dndc7ZSWFSY2zPYnPKeGBgJhGtVBpBVsf1kXaLDP",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "Palms",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Saltwater_River",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 7,
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 83,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 65
+    },
+    "topRight": {
+      "x": 84,
+      "y": 65
+    },
+    "right": {
+      "x": 84,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 63
+    },
+    "bottom": {
+      "x": 83,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 63
+    },
+    "left": {
+      "x": 82,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 65
+    }
   }
 }

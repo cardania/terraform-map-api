@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11914",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11914",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSCnCmUAMh4qVr5oVRgjCuimHXHEzgqvTKebevFJfZJqB",
+  "token_name": "Terraform09699",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09699",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmP9wPSRWtF3qT6pBVd1W3n3fe655csQUD8L324fvw2egs",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "None",
+  "forests": "Palms",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 1,
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 7,
   "quantum_flux": 7,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Timelost",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 70,
     "y": 80
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 81
+    },
+    "topRight": {
+      "x": 71,
+      "y": 81
+    },
+    "right": {
+      "x": 71,
+      "y": 80
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 79
+    },
+    "bottom": {
+      "x": 70,
+      "y": 79
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 79
+    },
+    "left": {
+      "x": 69,
+      "y": 80
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 81
+    }
   }
 }

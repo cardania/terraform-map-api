@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11869",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11869",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmefhFC7trMt4jo6tGsewR8sYCwtm1BqA7owgBBrAc4h9T",
+  "token_name": "Terraform08183",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08183",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPisx4biFNvvuWw8ZUVX43XppNAAXDU3WVFN8RoVNsWLP",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
+  "fauna": "Critters",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 9,
-  "primary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "Machine_Shrine",
   "water": "None",
   "location": {
     "x": 75,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 53
+    },
+    "topRight": {
+      "x": 76,
+      "y": 53
+    },
+    "right": {
+      "x": 76,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 51
+    },
+    "bottom": {
+      "x": 75,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 51
+    },
+    "left": {
+      "x": 74,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 53
+    }
   }
 }

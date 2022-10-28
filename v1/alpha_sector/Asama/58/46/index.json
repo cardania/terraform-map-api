@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19257",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19257",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdFYY3LajTERr2uf7w8ai89jdosHuTuFEJgBivUmkfktW",
+  "token_name": "Terraform04545",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04545",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRBFUhrLiq52o1hQ1pFUA99YfCtBUij7hmvySagsodon9",
   "alpha_sector": "Asama",
   "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 2,
+  "power_level": 9,
+  "quantum_flux": 6,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 58,
     "y": 46
+  },
+  "neighbors": {
+    "top": {
+      "x": 58,
+      "y": 47
+    },
+    "topRight": {
+      "x": 59,
+      "y": 47
+    },
+    "right": {
+      "x": 59,
+      "y": 46
+    },
+    "bottomRight": {
+      "x": 59,
+      "y": 45
+    },
+    "bottom": {
+      "x": 58,
+      "y": 45
+    },
+    "bottonLeft": {
+      "x": 57,
+      "y": 45
+    },
+    "left": {
+      "x": 57,
+      "y": 46
+    },
+    "topLeft": {
+      "x": 57,
+      "y": 47
+    }
   }
 }

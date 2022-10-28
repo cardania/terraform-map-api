@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05820",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05820",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRXqwpoSWCbBUd4kXjphPqCsMUeUesEuTJawjRagWZbQ3",
+  "token_name": "Terraform08527",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08527",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUAc8KSEi6jo5AWcB2PxExHYBmct7xztqVmFCezSXuG6a",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "Livestock",
   "forests": "Prismaleaf",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Funky_Lake",
   "location": {
     "x": 2,
     "y": 100
+  },
+  "neighbors": {
+    "top": {
+      "x": 2,
+      "y": 101
+    },
+    "topRight": {
+      "x": 3,
+      "y": 101
+    },
+    "right": {
+      "x": 3,
+      "y": 100
+    },
+    "bottomRight": {
+      "x": 3,
+      "y": 99
+    },
+    "bottom": {
+      "x": 2,
+      "y": 99
+    },
+    "bottonLeft": {
+      "x": 1,
+      "y": 99
+    },
+    "left": {
+      "x": 1,
+      "y": 100
+    },
+    "topLeft": {
+      "x": 1,
+      "y": 101
+    }
   }
 }

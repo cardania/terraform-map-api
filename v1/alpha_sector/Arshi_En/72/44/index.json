@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05097",
+  "token_name": "Terraform03278",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05097",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRe6YczKdtnJgKMQQoLFZWN1ue7P2wWPy3Xf15TKNerQs",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03278",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPrJ58gUN3LkVZqAMPKr5pNvimc5SXMtFBUAj79pDByF9",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Critters",
-  "forests": "Palms",
+  "forests": "Evergreen",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 6,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 72,
     "y": 44
+  },
+  "neighbors": {
+    "top": {
+      "x": 72,
+      "y": 45
+    },
+    "topRight": {
+      "x": 73,
+      "y": 45
+    },
+    "right": {
+      "x": 73,
+      "y": 44
+    },
+    "bottomRight": {
+      "x": 73,
+      "y": 43
+    },
+    "bottom": {
+      "x": 72,
+      "y": 43
+    },
+    "bottonLeft": {
+      "x": 71,
+      "y": 43
+    },
+    "left": {
+      "x": 71,
+      "y": 44
+    },
+    "topLeft": {
+      "x": 71,
+      "y": 45
+    }
   }
 }

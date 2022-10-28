@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19231",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19231",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUu1zpHS3Yp7ADndgxfSWSjaf2eygLDrYCYHk1mACTWbH",
+  "token_name": "Terraform09797",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09797",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNdroZeyQBrxXxGiVsbRKBBFNTENG9n6ipSASe7r25JEA",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
+  "forests": "Palms",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
   "quantum_flux": 1,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Golden_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 24,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 76
+    },
+    "topRight": {
+      "x": 25,
+      "y": 76
+    },
+    "right": {
+      "x": 25,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 74
+    },
+    "bottom": {
+      "x": 24,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 74
+    },
+    "left": {
+      "x": 23,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 76
+    }
   }
 }

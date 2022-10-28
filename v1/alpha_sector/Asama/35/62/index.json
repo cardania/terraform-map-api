@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10847",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10847",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXxcB6Y6ysgup6uCpqakdVJUSYqCR8bFvLuaDTpxJdS4N",
+  "token_name": "Terraform05996",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05996",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmda4jMrh6b5sVMAv7CBRDonBmsqU2QZwwT7B4GgMg6wHF",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 9,
+  "quantum_flux": 2,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 35,
     "y": 62
+  },
+  "neighbors": {
+    "top": {
+      "x": 35,
+      "y": 63
+    },
+    "topRight": {
+      "x": 36,
+      "y": 63
+    },
+    "right": {
+      "x": 36,
+      "y": 62
+    },
+    "bottomRight": {
+      "x": 36,
+      "y": 61
+    },
+    "bottom": {
+      "x": 35,
+      "y": 61
+    },
+    "bottonLeft": {
+      "x": 34,
+      "y": 61
+    },
+    "left": {
+      "x": 34,
+      "y": 62
+    },
+    "topLeft": {
+      "x": 34,
+      "y": 63
+    }
   }
 }

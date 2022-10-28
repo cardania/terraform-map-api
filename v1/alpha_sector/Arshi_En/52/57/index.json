@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04191",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04191",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVsjhijUen3j3hUQ3ccFrHK5n7gw42zvG3fyBFcG5L2w2",
+  "token_name": "Terraform07205",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07205",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYercNPAZrukLqFPyA1pyLorHJbLJhk3KFFPgqGjxHVEU",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 52,
     "y": 57
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 58
+    },
+    "topRight": {
+      "x": 53,
+      "y": 58
+    },
+    "right": {
+      "x": 53,
+      "y": 57
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 56
+    },
+    "bottom": {
+      "x": 52,
+      "y": 56
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 56
+    },
+    "left": {
+      "x": 51,
+      "y": 57
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 58
+    }
   }
 }

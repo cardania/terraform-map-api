@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11694",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11694",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSjVFRYEieRYW2QgJ4rWQro6u1EjzvdfuH1BWZ31yRWsc",
+  "token_name": "Terraform16566",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16566",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfAWaqAgQWMNUiXEXeJrCbLgAGBe6cwoK4E75iymy7GEw",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Solar_Shrine",
-  "water": "Freshwater_River",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 6,
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 50,
     "y": 78
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 79
+    },
+    "topRight": {
+      "x": 51,
+      "y": 79
+    },
+    "right": {
+      "x": 51,
+      "y": 78
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 77
+    },
+    "bottom": {
+      "x": 50,
+      "y": 77
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 77
+    },
+    "left": {
+      "x": 49,
+      "y": 78
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 79
+    }
   }
 }

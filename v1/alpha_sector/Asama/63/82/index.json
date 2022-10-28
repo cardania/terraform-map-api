@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19341",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19341",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTsdks6CGNwLaFDvdmqBAAQhkyRjHDdNYn6PXK4xh1VVR",
+  "token_name": "Terraform17332",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17332",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcNVVq3qqRebSMdjELg5LhAjDnhRHD72piCNMQqxnLQW9",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 63,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 63,
+      "y": 83
+    },
+    "topRight": {
+      "x": 64,
+      "y": 83
+    },
+    "right": {
+      "x": 64,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 64,
+      "y": 81
+    },
+    "bottom": {
+      "x": 63,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 62,
+      "y": 81
+    },
+    "left": {
+      "x": 62,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 62,
+      "y": 83
+    }
   }
 }

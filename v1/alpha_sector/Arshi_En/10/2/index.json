@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09241",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09241",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZmHyEhc1RUqG9nmcYf4GUmmq46dD5yaP7kT5tMNGPHVK",
+  "token_name": "Terraform09491",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09491",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdsh6X34sEmFS3DKhswefyrUSgHrMJBafgi5ku3kua1kK",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Solar_Shrine",
   "water": "Freshwater_Lake",
   "location": {
     "x": 10,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 10,
+      "y": 3
+    },
+    "topRight": {
+      "x": 11,
+      "y": 3
+    },
+    "right": {
+      "x": 11,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 11,
+      "y": 1
+    },
+    "bottom": {
+      "x": 10,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 9,
+      "y": 1
+    },
+    "left": {
+      "x": 9,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 9,
+      "y": 3
+    }
   }
 }

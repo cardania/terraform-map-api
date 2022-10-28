@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07029",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07029",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmez2bC9k96nfvqx2wWCfkftT6YJkxBHu8PWgYK34Q1koo",
+  "token_name": "Terraform03627",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03627",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSQwEzsShjMpbEMwTQPwLJuiKqcajiMFsFkMSwz9dbQDj",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "Cardanium_Bunker",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
-  "quantum_flux": 5,
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 3,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Golden_Shrine",
   "water": "Freshwater_River",
   "location": {
     "x": 58,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 58,
+      "y": 50
+    },
+    "topRight": {
+      "x": 59,
+      "y": 50
+    },
+    "right": {
+      "x": 59,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 59,
+      "y": 48
+    },
+    "bottom": {
+      "x": 58,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 57,
+      "y": 48
+    },
+    "left": {
+      "x": 57,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 57,
+      "y": 50
+    }
   }
 }

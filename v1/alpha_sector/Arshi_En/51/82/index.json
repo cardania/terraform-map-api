@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05624",
+  "token_name": "Terraform06469",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05624",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVmhbCD8a9MD2ShnKBxqjy3WnfWvCRmYazU2s4EFFDaqV",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06469",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZtFWtPBurcUrRbuB8RjHnVfwqziJkEbzpxqKTjThPG8g",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Machine_Shrine",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 51,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 83
+    },
+    "topRight": {
+      "x": 52,
+      "y": 83
+    },
+    "right": {
+      "x": 52,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 81
+    },
+    "bottom": {
+      "x": 51,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 81
+    },
+    "left": {
+      "x": 50,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 83
+    }
   }
 }

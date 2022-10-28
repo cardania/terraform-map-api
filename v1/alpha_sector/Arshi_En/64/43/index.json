@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18735",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18735",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbiSakGvytCzbSsiN4trYstb2yckf3YXREFc1sd2jZmZh",
+  "token_name": "Terraform11067",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11067",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRbjHe1o8Hn2wZSyMDwiTv6NAaHyebTaPet329tfa6P12",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 2,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 9,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 64,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 64,
+      "y": 44
+    },
+    "topRight": {
+      "x": 65,
+      "y": 44
+    },
+    "right": {
+      "x": 65,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 65,
+      "y": 42
+    },
+    "bottom": {
+      "x": 64,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 63,
+      "y": 42
+    },
+    "left": {
+      "x": 63,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 63,
+      "y": 44
+    }
   }
 }

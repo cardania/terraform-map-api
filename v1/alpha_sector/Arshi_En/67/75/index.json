@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04195",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04195",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdP9vQeJV3CNZCMt4iUiNFHNy2JWXcvneKpf7DYJ2Tv51",
+  "token_name": "Terraform17288",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17288",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPNmwKbsKdCgAgtiHa25GdmwqG9Xt9VHVGJpgJVPj6JE5",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
+  "power_level": 7,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Quantum_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 67,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 67,
+      "y": 76
+    },
+    "topRight": {
+      "x": 68,
+      "y": 76
+    },
+    "right": {
+      "x": 68,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 68,
+      "y": 74
+    },
+    "bottom": {
+      "x": 67,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 66,
+      "y": 74
+    },
+    "left": {
+      "x": 66,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 66,
+      "y": 76
+    }
   }
 }

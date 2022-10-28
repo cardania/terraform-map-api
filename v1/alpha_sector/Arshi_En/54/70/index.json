@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13760",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13760",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXdWZC2p38Bxqnv5ygeneD9WLuErSFbJa9CzwWuYft7mB",
+  "token_name": "Terraform11167",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11167",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVGKpsUpGgprrXJXG9cvBwy4F6LrtBQVB1aKE8vh5ftVh",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 2,
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 8,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Quantum_Shrine",
-  "water": "None",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 54,
     "y": 70
+  },
+  "neighbors": {
+    "top": {
+      "x": 54,
+      "y": 71
+    },
+    "topRight": {
+      "x": 55,
+      "y": 71
+    },
+    "right": {
+      "x": 55,
+      "y": 70
+    },
+    "bottomRight": {
+      "x": 55,
+      "y": 69
+    },
+    "bottom": {
+      "x": 54,
+      "y": 69
+    },
+    "bottonLeft": {
+      "x": 53,
+      "y": 69
+    },
+    "left": {
+      "x": 53,
+      "y": 70
+    },
+    "topLeft": {
+      "x": 53,
+      "y": 71
+    }
   }
 }

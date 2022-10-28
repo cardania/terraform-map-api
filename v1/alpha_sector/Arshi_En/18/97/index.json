@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18620",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18620",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW9ykWzsZeMmJu5SKsYHz7WtkoWHgH7e2E7BjqvkRwwXv",
+  "token_name": "Terraform01725",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01725",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWqVedKWsBXWawZd7vYe4miXzjS65QvxmPdEbdVRK4cvp",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 4,
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 8,
+  "quantum_flux": 7,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 18,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 18,
+      "y": 98
+    },
+    "topRight": {
+      "x": 19,
+      "y": 98
+    },
+    "right": {
+      "x": 19,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 19,
+      "y": 96
+    },
+    "bottom": {
+      "x": 18,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 17,
+      "y": 96
+    },
+    "left": {
+      "x": 17,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 17,
+      "y": 98
+    }
   }
 }

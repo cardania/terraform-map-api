@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17381",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17381",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWCLhL4WxHYMrP9iN7JWAo1TeAZCZXrkW9eMnjyVtwvXx",
+  "token_name": "Terraform13711",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13711",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd97tHawi72AdJyywasfeTT7mMNpN4MeqThPkndk2tVJ5",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 5,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "None",
   "location": {
     "x": 52,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 57
+    },
+    "topRight": {
+      "x": 53,
+      "y": 57
+    },
+    "right": {
+      "x": 53,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 55
+    },
+    "bottom": {
+      "x": 52,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 55
+    },
+    "left": {
+      "x": 51,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 57
+    }
   }
 }

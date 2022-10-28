@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05595",
+  "token_name": "Terraform15184",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05595",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcAv24urxw8zXgBnPNBD3Bt1aqwbfPbMz5Ab8cYjQ2yYt",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15184",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNPFEaJTKR9MmP9ooe63K3urJz4LhTkUVG9f2Vgk2ah2j",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 4,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
   "quantum_flux": 4,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 32,
     "y": 44
+  },
+  "neighbors": {
+    "top": {
+      "x": 32,
+      "y": 45
+    },
+    "topRight": {
+      "x": 33,
+      "y": 45
+    },
+    "right": {
+      "x": 33,
+      "y": 44
+    },
+    "bottomRight": {
+      "x": 33,
+      "y": 43
+    },
+    "bottom": {
+      "x": 32,
+      "y": 43
+    },
+    "bottonLeft": {
+      "x": 31,
+      "y": 43
+    },
+    "left": {
+      "x": 31,
+      "y": 44
+    },
+    "topLeft": {
+      "x": 31,
+      "y": 45
+    }
   }
 }

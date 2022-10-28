@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03368",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03368",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTzYFw7zaDcWBgrk9z9FNhECN64hHm2vBK556bVMAA7Cr",
+  "token_name": "Terraform00788",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00788",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWX6qSuN3NLAg5GqxqJAijKda3HNvueYvvjw3iDup6zJD",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 6,
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
   "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 52,
     "y": 42
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 43
+    },
+    "topRight": {
+      "x": 53,
+      "y": 43
+    },
+    "right": {
+      "x": 53,
+      "y": 42
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 41
+    },
+    "bottom": {
+      "x": 52,
+      "y": 41
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 41
+    },
+    "left": {
+      "x": 51,
+      "y": 42
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 43
+    }
   }
 }

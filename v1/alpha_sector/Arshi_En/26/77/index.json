@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10941",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10941",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeHiwsC9XBwtaDFRgfVoffXs32yXvs4FMgjyc2fquSbPf",
+  "token_name": "Terraform09862",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09862",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdATn7PFe5ouNw64dPHah68X2zNqQJtNvDmJQXKwk7JD2",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 8,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 26,
     "y": 77
+  },
+  "neighbors": {
+    "top": {
+      "x": 26,
+      "y": 78
+    },
+    "topRight": {
+      "x": 27,
+      "y": 78
+    },
+    "right": {
+      "x": 27,
+      "y": 77
+    },
+    "bottomRight": {
+      "x": 27,
+      "y": 76
+    },
+    "bottom": {
+      "x": 26,
+      "y": 76
+    },
+    "bottonLeft": {
+      "x": 25,
+      "y": 76
+    },
+    "left": {
+      "x": 25,
+      "y": 77
+    },
+    "topLeft": {
+      "x": 25,
+      "y": 78
+    }
   }
 }

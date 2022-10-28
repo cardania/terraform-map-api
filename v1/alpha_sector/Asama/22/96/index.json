@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform03578",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03578",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbDb7ZX6VCDmTVJuxp2n4qrDta8UHu1BH6sjuYY85HcPf",
+  "token_name": "Terraform02906",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02906",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRMs5H7jF77f2iL1neETPxpzvSnLrXkUCGuU986zUefkX",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
+  "fauna": "Critters",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 6,
-  "quantum_flux": 9,
-  "primary_minerals": "None",
+  "lithoglyphs": "None",
+  "power_level": 7,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 22,
     "y": 96
+  },
+  "neighbors": {
+    "top": {
+      "x": 22,
+      "y": 97
+    },
+    "topRight": {
+      "x": 23,
+      "y": 97
+    },
+    "right": {
+      "x": 23,
+      "y": 96
+    },
+    "bottomRight": {
+      "x": 23,
+      "y": 95
+    },
+    "bottom": {
+      "x": 22,
+      "y": 95
+    },
+    "bottonLeft": {
+      "x": 21,
+      "y": 95
+    },
+    "left": {
+      "x": 21,
+      "y": 96
+    },
+    "topLeft": {
+      "x": 21,
+      "y": 97
+    }
   }
 }

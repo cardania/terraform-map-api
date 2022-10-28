@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00371",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00371",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmY8AkbpRCUVJg5rCYorydmJJC1H4FhRAq5x9fZMQYsvk4",
+  "token_name": "Terraform01026",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01026",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdx7mwqwnPA6urtRVzGT8MZegEqq3et7rCKvHZCmaax4x",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_River",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Timelost",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 74,
     "y": 96
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 97
+    },
+    "topRight": {
+      "x": 75,
+      "y": 97
+    },
+    "right": {
+      "x": 75,
+      "y": 96
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 95
+    },
+    "bottom": {
+      "x": 74,
+      "y": 95
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 95
+    },
+    "left": {
+      "x": 73,
+      "y": 96
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 97
+    }
   }
 }

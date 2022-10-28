@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09817",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09817",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmaan7Ydv3BDn1EcBZ1yHAbLZHW1sndgGJLVWLfzxvoGB1",
+  "token_name": "Terraform17893",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17893",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRTMgpbUcYJnJ4fYPXJ4pS6wQ93VukqMV1Gym8YyoD2Zi",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "Iron",
+  "power_level": 5,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "None",
   "location": {
     "x": 82,
     "y": 53
+  },
+  "neighbors": {
+    "top": {
+      "x": 82,
+      "y": 54
+    },
+    "topRight": {
+      "x": 83,
+      "y": 54
+    },
+    "right": {
+      "x": 83,
+      "y": 53
+    },
+    "bottomRight": {
+      "x": 83,
+      "y": 52
+    },
+    "bottom": {
+      "x": 82,
+      "y": 52
+    },
+    "bottonLeft": {
+      "x": 81,
+      "y": 52
+    },
+    "left": {
+      "x": 81,
+      "y": 53
+    },
+    "topLeft": {
+      "x": 81,
+      "y": 54
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19957",
+  "token_name": "Terraform19928",
   "land_type": "Prismatic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19957",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXh2QvM4YU4od5YJNzQU42Se3Uyyf2y5mSTQhGzd8NG4Y",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19928",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTYfFpJC65dEUFFAyN84LDXKy57GBZGRLvC48wHABVPTD",
   "alpha_sector": "Foundation",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Cardanium_Bunker",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 4,
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 6,
+  "quantum_flux": 5,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 5,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 5,
+      "y": 7
+    },
+    "topRight": {
+      "x": 6,
+      "y": 7
+    },
+    "right": {
+      "x": 6,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 6,
+      "y": 5
+    },
+    "bottom": {
+      "x": 5,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 4,
+      "y": 5
+    },
+    "left": {
+      "x": 4,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 4,
+      "y": 7
+    }
   }
 }

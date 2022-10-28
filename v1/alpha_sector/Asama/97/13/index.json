@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04196",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04196",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW639rckkK5o47AJ64vAoxtjtRdKaeyT3qEJgNVciyLyg",
+  "token_name": "Terraform01506",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01506",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQmUAXF1MaBeduEiJWKJxvEquFoDdncV7LchJrwgTYrgg",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Fungal_Shrine",
-  "water": "Saltwater_Lake",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 8,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Toxic_River",
   "location": {
     "x": 97,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 14
+    },
+    "topRight": {
+      "x": 98,
+      "y": 14
+    },
+    "right": {
+      "x": 98,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 12
+    },
+    "bottom": {
+      "x": 97,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 12
+    },
+    "left": {
+      "x": 96,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 14
+    }
   }
 }

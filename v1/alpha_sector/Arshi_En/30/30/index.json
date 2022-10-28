@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10496",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10496",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPrCBc6fkQt3xhct98DnXTRGZ7qj8q4dSkcXNRiYGgKZD",
+  "token_name": "Terraform07654",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07654",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVxNmtGkvj7c6cBgtmQaJHyjpWHtCnXMs5K3UvNTwZxZ8",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 4,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "Fungal_Shrine",
   "water": "Freshwater_River",
   "location": {
     "x": 30,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 30,
+      "y": 31
+    },
+    "topRight": {
+      "x": 31,
+      "y": 31
+    },
+    "right": {
+      "x": 31,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 31,
+      "y": 29
+    },
+    "bottom": {
+      "x": 30,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 29,
+      "y": 29
+    },
+    "left": {
+      "x": 29,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 29,
+      "y": 31
+    }
   }
 }

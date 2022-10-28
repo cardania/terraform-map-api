@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16347",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16347",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRLoWG3Lc9w7mAQjrbSAFtic8K6sx19bX3xmshyDy7Poj",
+  "token_name": "Terraform07220",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07220",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVuoSeoFYTM998cYniosMbKKqdVPqLNGQ4PAywjgw1gob",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 9,
-  "quantum_flux": 8,
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 5,
+  "quantum_flux": 4,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 62,
     "y": 71
+  },
+  "neighbors": {
+    "top": {
+      "x": 62,
+      "y": 72
+    },
+    "topRight": {
+      "x": 63,
+      "y": 72
+    },
+    "right": {
+      "x": 63,
+      "y": 71
+    },
+    "bottomRight": {
+      "x": 63,
+      "y": 70
+    },
+    "bottom": {
+      "x": 62,
+      "y": 70
+    },
+    "bottonLeft": {
+      "x": 61,
+      "y": 70
+    },
+    "left": {
+      "x": 61,
+      "y": 71
+    },
+    "topLeft": {
+      "x": 61,
+      "y": 72
+    }
   }
 }

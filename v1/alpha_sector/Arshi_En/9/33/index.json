@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08360",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08360",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTePdmEWRHgB9DPsnx6Pi2f2yZwwRFh4u4a7n7NHMDzUe",
+  "token_name": "Terraform12659",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12659",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXZ8WmFKy1wgRtc3jpsDuUtVUB1YT4xmXT7HyPTNDn1Ny",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 9,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 5,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Solar_Shrine",
   "water": "None",
   "location": {
     "x": 9,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 34
+    },
+    "topRight": {
+      "x": 10,
+      "y": 34
+    },
+    "right": {
+      "x": 10,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 32
+    },
+    "bottom": {
+      "x": 9,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 32
+    },
+    "left": {
+      "x": 8,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 34
+    }
   }
 }

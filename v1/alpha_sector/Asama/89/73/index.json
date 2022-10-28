@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06455",
+  "token_name": "Terraform10253",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06455",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeSCJ9LNgoGYsNwAamv8F38nYsH7jJiXR42LxQaGoHXAC",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10253",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSbZMti6piwghTkKCufMGW4MfZweiizm4z9Wpu4bPz28n",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Toxic_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 89,
     "y": 73
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 74
+    },
+    "topRight": {
+      "x": 90,
+      "y": 74
+    },
+    "right": {
+      "x": 90,
+      "y": 73
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 72
+    },
+    "bottom": {
+      "x": 89,
+      "y": 72
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 72
+    },
+    "left": {
+      "x": 88,
+      "y": 73
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 74
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17862",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17862",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTsdJH4HM4TxXpzXVdJ6fQDLT6faV59cMR6k7Qir1g7n8",
+  "token_name": "Terraform18287",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18287",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQh7MttNviKbBahzvd7MQrQQ2AygqDbRR1YsMrka6LwAd",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Melodious_Mantrap",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
+  "power_level": 9,
   "quantum_flux": 2,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 53,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 53,
+      "y": 57
+    },
+    "topRight": {
+      "x": 54,
+      "y": 57
+    },
+    "right": {
+      "x": 54,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 54,
+      "y": 55
+    },
+    "bottom": {
+      "x": 53,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 52,
+      "y": 55
+    },
+    "left": {
+      "x": 52,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 52,
+      "y": 57
+    }
   }
 }

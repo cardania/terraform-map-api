@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15373",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15373",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYZ8WEgZ1Y4XCCawkL6ACeU1tgCy8w4BW3Cv4fQB8veBL",
+  "token_name": "Terraform01163",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01163",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmX2Q2adK6T5r3DRvXrhNpWNzwC1bTHPxUtXj76UW4k3rX",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 9,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 81,
     "y": 27
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 28
+    },
+    "topRight": {
+      "x": 82,
+      "y": 28
+    },
+    "right": {
+      "x": 82,
+      "y": 27
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 26
+    },
+    "bottom": {
+      "x": 81,
+      "y": 26
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 26
+    },
+    "left": {
+      "x": 80,
+      "y": 27
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 28
+    }
   }
 }

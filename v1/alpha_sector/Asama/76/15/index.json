@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16158",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16158",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmShg5dMrY1yhk9d6WFobA2Yg7RN7exEmD6tiGD5Xvt3Dh",
+  "token_name": "Terraform04214",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04214",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcQuUvScTW6gdfjxaVDzjkFWEwaJjYGu8XWYWnFzb2JW9",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
+  "shrine": "Quantum_Shrine",
   "water": "Freshwater_River",
   "location": {
     "x": 76,
     "y": 15
+  },
+  "neighbors": {
+    "top": {
+      "x": 76,
+      "y": 16
+    },
+    "topRight": {
+      "x": 77,
+      "y": 16
+    },
+    "right": {
+      "x": 77,
+      "y": 15
+    },
+    "bottomRight": {
+      "x": 77,
+      "y": 14
+    },
+    "bottom": {
+      "x": 76,
+      "y": 14
+    },
+    "bottonLeft": {
+      "x": 75,
+      "y": 14
+    },
+    "left": {
+      "x": 75,
+      "y": 15
+    },
+    "topLeft": {
+      "x": 75,
+      "y": 16
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12615",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12615",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd5afDWaA96qtmdz6VUaiRaLQAWAr2c71qHLTt5iR7HoQ",
+  "token_name": "Terraform14462",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14462",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdxdN4gExYnkXgPA5kBZzi8q3ff3bGs8HV2CDtVHt2Mmq",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
-  "quantum_flux": 2,
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
+  "shrine": "Fungal_Shrine",
   "water": "None",
   "location": {
     "x": 39,
     "y": 91
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 92
+    },
+    "topRight": {
+      "x": 40,
+      "y": 92
+    },
+    "right": {
+      "x": 40,
+      "y": 91
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 90
+    },
+    "bottom": {
+      "x": 39,
+      "y": 90
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 90
+    },
+    "left": {
+      "x": 38,
+      "y": 91
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 92
+    }
   }
 }

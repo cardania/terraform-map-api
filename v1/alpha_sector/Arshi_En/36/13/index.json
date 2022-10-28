@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06020",
+  "token_name": "Terraform04847",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06020",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNgvWSNwsMgqenopfunmGMCyq9artDWboGrnzaB6hqzYt",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04847",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmepiY7CYrZiKHZJ6wHBo8k3Tz5g3kXXPtEmFdrZUZqVV8",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 3,
-  "quantum_flux": 6,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Funky_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 36,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 14
+    },
+    "topRight": {
+      "x": 37,
+      "y": 14
+    },
+    "right": {
+      "x": 37,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 12
+    },
+    "bottom": {
+      "x": 36,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 12
+    },
+    "left": {
+      "x": 35,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 14
+    }
   }
 }

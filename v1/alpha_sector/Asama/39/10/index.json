@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19313",
+  "token_name": "Terraform06374",
   "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19313",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmR8ugySnC7u5D2UESWvrf5NK82997t9oB7hCcex5yYnLP",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06374",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcgKvxJ1vk2DbVdPHyGQTb5V761MjSeQG8vWtCLv92cqZ",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 7,
-  "quantum_flux": 4,
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 7,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "Funky_River",
   "location": {
     "x": 39,
     "y": 10
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 11
+    },
+    "topRight": {
+      "x": 40,
+      "y": 11
+    },
+    "right": {
+      "x": 40,
+      "y": 10
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 9
+    },
+    "bottom": {
+      "x": 39,
+      "y": 9
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 9
+    },
+    "left": {
+      "x": 38,
+      "y": 10
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 11
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11096",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11096",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXbwBVkyqE6nGs1ao51S2SnrQVkndF8HqSNA5qPwEu739",
+  "token_name": "Terraform04396",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04396",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPF99r16aZqXEAzQ8fpiUCprJWCtLUUi3esacaATCBkL6",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
   "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 9,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 77,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 77,
+      "y": 56
+    },
+    "topRight": {
+      "x": 78,
+      "y": 56
+    },
+    "right": {
+      "x": 78,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 78,
+      "y": 54
+    },
+    "bottom": {
+      "x": 77,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 76,
+      "y": 54
+    },
+    "left": {
+      "x": 76,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 76,
+      "y": 56
+    }
   }
 }

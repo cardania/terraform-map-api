@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01022",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01022",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNxsM9GHq79jZ9TCYk6Vfg7ucMyuVcVBA48bTx2L8UQ2b",
+  "token_name": "Terraform08713",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08713",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTvoFScJu8b9zkxovQqgKvyxBwD52eYaRupKAgZoYuMEf",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 2,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
   "quantum_flux": 5,
-  "primary_minerals": "None",
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Toxic_Lake",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 67,
     "y": 32
+  },
+  "neighbors": {
+    "top": {
+      "x": 67,
+      "y": 33
+    },
+    "topRight": {
+      "x": 68,
+      "y": 33
+    },
+    "right": {
+      "x": 68,
+      "y": 32
+    },
+    "bottomRight": {
+      "x": 68,
+      "y": 31
+    },
+    "bottom": {
+      "x": 67,
+      "y": 31
+    },
+    "bottonLeft": {
+      "x": 66,
+      "y": 31
+    },
+    "left": {
+      "x": 66,
+      "y": 32
+    },
+    "topLeft": {
+      "x": 66,
+      "y": 33
+    }
   }
 }

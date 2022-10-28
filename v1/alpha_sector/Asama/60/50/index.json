@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16676",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16676",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf2z5J3DTArL9y1utaKdWoHDwSZbiUgBCpEs2JtHA4n8N",
+  "token_name": "Terraform16664",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16664",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbjVs8Ni4SPeoZdmKH4qc3ydsVF1puhR5YPKtS6db6YeE",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
+  "lithoglyphs": "None",
   "power_level": 2,
-  "quantum_flux": 2,
+  "quantum_flux": 4,
   "primary_minerals": "Copper",
   "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Timelost",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 60,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 51
+    },
+    "topRight": {
+      "x": 61,
+      "y": 51
+    },
+    "right": {
+      "x": 61,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 49
+    },
+    "bottom": {
+      "x": 60,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 49
+    },
+    "left": {
+      "x": 59,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 51
+    }
   }
 }

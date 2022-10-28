@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03203",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03203",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc5wqCsonAcseBMgD1mjj4dwJRzxSPNNVoFJ116vD7SrQ",
+  "token_name": "Terraform00332",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00332",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRXD36shhoF576PtWKYW7PbapL3oHvR1tLR5zdE3rBMrR",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Cursed_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
   "power_level": 5,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Solar_Shrine",
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 78,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 78,
+      "y": 57
+    },
+    "topRight": {
+      "x": 79,
+      "y": 57
+    },
+    "right": {
+      "x": 79,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 79,
+      "y": 55
+    },
+    "bottom": {
+      "x": 78,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 77,
+      "y": 55
+    },
+    "left": {
+      "x": 77,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 77,
+      "y": 57
+    }
   }
 }

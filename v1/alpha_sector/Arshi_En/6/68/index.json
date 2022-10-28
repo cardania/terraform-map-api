@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02483",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02483",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNq19jwtr2net3BxXNBT9YTMCz99buSgp58jrHKZkK66o",
+  "token_name": "Terraform14061",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14061",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUxbTQHQubQhv2LjxHVHFYRHrywCEoHSZLsBd3ny8PLpN",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 1,
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 5,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "None",
   "location": {
     "x": 6,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 69
+    },
+    "topRight": {
+      "x": 7,
+      "y": 69
+    },
+    "right": {
+      "x": 7,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 67
+    },
+    "bottom": {
+      "x": 6,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 67
+    },
+    "left": {
+      "x": 5,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 69
+    }
   }
 }

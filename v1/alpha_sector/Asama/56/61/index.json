@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05844",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05844",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaiP8hBKRVswQbUx51m9opKfHdVyKe1mWGEoisfgg5Htt",
+  "token_name": "Terraform01350",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01350",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmejm9hJR3Qw74fNAAbK1Hzez3StdTMK5Qu98jJNG4hZj9",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 5,
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 8,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "None",
   "location": {
     "x": 56,
     "y": 61
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 62
+    },
+    "topRight": {
+      "x": 57,
+      "y": 62
+    },
+    "right": {
+      "x": 57,
+      "y": 61
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 60
+    },
+    "bottom": {
+      "x": 56,
+      "y": 60
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 60
+    },
+    "left": {
+      "x": 55,
+      "y": 61
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 62
+    }
   }
 }

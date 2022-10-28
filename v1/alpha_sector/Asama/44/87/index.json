@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03023",
+  "token_name": "Terraform11353",
   "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03023",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSCEoQJxyidU8BivSzxEvURLNF8XdxVWUk8PAADkedZHJ",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11353",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmT8kQjY8qcXj9RYYWcBMNbWcXwS8EwqQTrWYXgQWKA3Th",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
+  "shrine": "Machine_Shrine",
   "water": "None",
   "location": {
     "x": 44,
     "y": 87
+  },
+  "neighbors": {
+    "top": {
+      "x": 44,
+      "y": 88
+    },
+    "topRight": {
+      "x": 45,
+      "y": 88
+    },
+    "right": {
+      "x": 45,
+      "y": 87
+    },
+    "bottomRight": {
+      "x": 45,
+      "y": 86
+    },
+    "bottom": {
+      "x": 44,
+      "y": 86
+    },
+    "bottonLeft": {
+      "x": 43,
+      "y": 86
+    },
+    "left": {
+      "x": 43,
+      "y": 87
+    },
+    "topLeft": {
+      "x": 43,
+      "y": 88
+    }
   }
 }

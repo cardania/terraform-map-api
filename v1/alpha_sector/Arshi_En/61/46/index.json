@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15430",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15430",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeEqQSQJN3GBq8i1mv1cgqSPUKe4H7d46WnTnsYVL5tgV",
+  "token_name": "Terraform04542",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04542",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmabC8632tfMQjiRgJEf7pCJURjBs6gzeWhGUsSCtmD5g2",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "Fungal_Spores",
   "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "Alien_Technology_Green",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 61,
     "y": 46
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 47
+    },
+    "topRight": {
+      "x": 62,
+      "y": 47
+    },
+    "right": {
+      "x": 62,
+      "y": 46
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 45
+    },
+    "bottom": {
+      "x": 61,
+      "y": 45
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 45
+    },
+    "left": {
+      "x": 60,
+      "y": 46
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 47
+    }
   }
 }

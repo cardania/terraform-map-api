@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16042",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16042",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVkizSagJGS7if8ScQLthoL4gawY1rCdMqyvYcBZaEW17",
+  "token_name": "Terraform02341",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02341",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUYMAgJJo1bAU6GHfznHUfCxVmrFtCCipCzL2NQbyEhah",
   "alpha_sector": "Arshi_En",
   "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
+  "lithoglyphs": "None",
+  "power_level": 5,
   "quantum_flux": 5,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 28,
     "y": 51
+  },
+  "neighbors": {
+    "top": {
+      "x": 28,
+      "y": 52
+    },
+    "topRight": {
+      "x": 29,
+      "y": 52
+    },
+    "right": {
+      "x": 29,
+      "y": 51
+    },
+    "bottomRight": {
+      "x": 29,
+      "y": 50
+    },
+    "bottom": {
+      "x": 28,
+      "y": 50
+    },
+    "bottonLeft": {
+      "x": 27,
+      "y": 50
+    },
+    "left": {
+      "x": 27,
+      "y": 51
+    },
+    "topLeft": {
+      "x": 27,
+      "y": 52
+    }
   }
 }

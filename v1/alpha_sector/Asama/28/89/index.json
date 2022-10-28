@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14433",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14433",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc72w1tbDL7gCYVoGgBuqDPRL83U2xbCgAJW9uFT4T4K1",
+  "token_name": "Terraform16367",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16367",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ6A8edRF739kyd9brKQ9Mz7nU4pcRH51GjKxxCKN7Fm5",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 5,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 8,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Void_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 28,
     "y": 89
+  },
+  "neighbors": {
+    "top": {
+      "x": 28,
+      "y": 90
+    },
+    "topRight": {
+      "x": 29,
+      "y": 90
+    },
+    "right": {
+      "x": 29,
+      "y": 89
+    },
+    "bottomRight": {
+      "x": 29,
+      "y": 88
+    },
+    "bottom": {
+      "x": 28,
+      "y": 88
+    },
+    "bottonLeft": {
+      "x": 27,
+      "y": 88
+    },
+    "left": {
+      "x": 27,
+      "y": 89
+    },
+    "topLeft": {
+      "x": 27,
+      "y": 90
+    }
   }
 }

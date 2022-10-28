@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09661",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09661",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb6P2RhAnruBab7evsZK2bRLYwZiU2FohMgmLxnjhfWTC",
+  "token_name": "Terraform04443",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04443",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTcJLsCdXdUYQXA3L49vSmcRcEi2mvKZd9c1Nehj5MqhQ",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 87,
     "y": 79
+  },
+  "neighbors": {
+    "top": {
+      "x": 87,
+      "y": 80
+    },
+    "topRight": {
+      "x": 88,
+      "y": 80
+    },
+    "right": {
+      "x": 88,
+      "y": 79
+    },
+    "bottomRight": {
+      "x": 88,
+      "y": 78
+    },
+    "bottom": {
+      "x": 87,
+      "y": 78
+    },
+    "bottonLeft": {
+      "x": 86,
+      "y": 78
+    },
+    "left": {
+      "x": 86,
+      "y": 79
+    },
+    "topLeft": {
+      "x": 86,
+      "y": 80
+    }
   }
 }

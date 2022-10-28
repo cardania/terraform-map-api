@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15850",
+  "token_name": "Terraform07965",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15850",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTrqntvSA7N8zh2GYqPWdWr9KccqeWn71dWUMJXdisy5o",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07965",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdD2K3GtvG5bSLHWt3u4uBDeHeTvycenw7MoF5XtqymCN",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 1,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "power_level": 6,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 50,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 9
+    },
+    "topRight": {
+      "x": 51,
+      "y": 9
+    },
+    "right": {
+      "x": 51,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 7
+    },
+    "bottom": {
+      "x": 50,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 7
+    },
+    "left": {
+      "x": 49,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 9
+    }
   }
 }

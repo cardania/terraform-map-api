@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08216",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08216",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ9dbZrDq6Nrpg7SNVnykVy4opsD1cUYsGi9QXH6yFwcY",
+  "token_name": "Terraform14191",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14191",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZWD31xBi1dDuwcqJJsZ9AhoM2qpPCeDWY9JM4gMujWsp",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 7,
+  "power_level": 5,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 95,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 87
+    },
+    "topRight": {
+      "x": 96,
+      "y": 87
+    },
+    "right": {
+      "x": 96,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 85
+    },
+    "bottom": {
+      "x": 95,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 85
+    },
+    "left": {
+      "x": 94,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 87
+    }
   }
 }

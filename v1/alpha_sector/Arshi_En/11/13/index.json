@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05036",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05036",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdRYtvbzLRd3RcLRSY9Ctfii9bA1gPDtQPJ1uL3usZG12",
+  "token_name": "Terraform06555",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06555",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmT9cNyndZC9qW3dD4FnsqLitakyJt8KwgMfmWtx2hb7Pw",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 2,
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 3,
   "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 11,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 11,
+      "y": 14
+    },
+    "topRight": {
+      "x": 12,
+      "y": 14
+    },
+    "right": {
+      "x": 12,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 12,
+      "y": 12
+    },
+    "bottom": {
+      "x": 11,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 10,
+      "y": 12
+    },
+    "left": {
+      "x": 10,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 10,
+      "y": 14
+    }
   }
 }

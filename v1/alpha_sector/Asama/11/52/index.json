@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17347",
+  "token_name": "Terraform09126",
   "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17347",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdea4zmiywPi5e4qwGtjmHkeq5Jydz9AimZwLdqVdYmLC",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09126",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdf5sqxg4bzzXdTDTf5E8MeLTsdaknVrB8XFWvFbRRbnZ",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 11,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 11,
+      "y": 53
+    },
+    "topRight": {
+      "x": 12,
+      "y": 53
+    },
+    "right": {
+      "x": 12,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 12,
+      "y": 51
+    },
+    "bottom": {
+      "x": 11,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 10,
+      "y": 51
+    },
+    "left": {
+      "x": 10,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 10,
+      "y": 53
+    }
   }
 }

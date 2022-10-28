@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15352",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15352",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeTj1wqmeHPNvBwunrngKEbVbS1gSq8aLg4HukxEjrXGw",
+  "token_name": "Terraform01820",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01820",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQFyhchib12CQEBdAhqSmBE19mF59xPmNQFdzqrtjWsV4",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "forests": "Evergreen",
+  "hazardous_flora": "Nemesis_Hydra",
   "lithoglyphs": "None",
-  "power_level": 1,
+  "power_level": 7,
   "quantum_flux": 1,
-  "primary_minerals": "Radium",
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 96,
     "y": 45
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 46
+    },
+    "topRight": {
+      "x": 97,
+      "y": 46
+    },
+    "right": {
+      "x": 97,
+      "y": 45
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 44
+    },
+    "bottom": {
+      "x": 96,
+      "y": 44
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 44
+    },
+    "left": {
+      "x": 95,
+      "y": 45
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 46
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17371",
+  "token_name": "Terraform08935",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17371",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUhU8eN1c6NfA4tQ86Rjwq8ph8qGq29S8ymfwcM22qq7u",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08935",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNh29qGPrNECuporF9HapKyvdcedNV8napeMXSKuDuKeo",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Evergreen",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
-  "quantum_flux": 5,
+  "power_level": 1,
+  "quantum_flux": 1,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Solar_Shrine",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 75,
     "y": 90
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 91
+    },
+    "topRight": {
+      "x": 76,
+      "y": 91
+    },
+    "right": {
+      "x": 76,
+      "y": 90
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 89
+    },
+    "bottom": {
+      "x": 75,
+      "y": 89
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 89
+    },
+    "left": {
+      "x": 74,
+      "y": 90
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 91
+    }
   }
 }

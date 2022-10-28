@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01602",
+  "token_name": "Terraform04458",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01602",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTbVtegZeHsFy8MaLiNikyoAYQipYvN6eVWudpvVTwnvt",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04458",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRWHEJvAX5qj6QW7tZt4VdeVced42SUrVc6bXfF5dQfG8",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 2,
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Toxic_Lake",
   "location": {
     "x": 6,
     "y": 15
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 16
+    },
+    "topRight": {
+      "x": 7,
+      "y": 16
+    },
+    "right": {
+      "x": 7,
+      "y": 15
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 14
+    },
+    "bottom": {
+      "x": 6,
+      "y": 14
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 14
+    },
+    "left": {
+      "x": 5,
+      "y": 15
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 16
+    }
   }
 }

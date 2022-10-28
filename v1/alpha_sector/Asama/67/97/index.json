@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15974",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15974",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSwiEJGSN2kkJmAhcZcBGHY368gctDAURvbwg8Z12QD2K",
+  "token_name": "Terraform14112",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14112",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaR9DqvcLnqK3SnkeMusVMcNc3tAZmdVfd6RXmVTSxJwk",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_River",
   "location": {
     "x": 67,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 67,
+      "y": 98
+    },
+    "topRight": {
+      "x": 68,
+      "y": 98
+    },
+    "right": {
+      "x": 68,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 68,
+      "y": 96
+    },
+    "bottom": {
+      "x": 67,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 66,
+      "y": 96
+    },
+    "left": {
+      "x": 66,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 66,
+      "y": 98
+    }
   }
 }

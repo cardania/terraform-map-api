@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02858",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02858",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZKnZGr2CmWeW17ryp7m9tKS4jawPB89dhBaM7JCMQYM5",
+  "token_name": "Terraform16346",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16346",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVQ87YvGEhyaEc1LNCZYfh48jVekPUxVY6a9XQe8aBGHJ",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
   "fauna": "Livestock",
-  "forests": "None",
+  "forests": "Palms",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 7,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Solar_Shrine",
-  "water": "Cursed_River",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 27,
     "y": 42
+  },
+  "neighbors": {
+    "top": {
+      "x": 27,
+      "y": 43
+    },
+    "topRight": {
+      "x": 28,
+      "y": 43
+    },
+    "right": {
+      "x": 28,
+      "y": 42
+    },
+    "bottomRight": {
+      "x": 28,
+      "y": 41
+    },
+    "bottom": {
+      "x": 27,
+      "y": 41
+    },
+    "bottonLeft": {
+      "x": 26,
+      "y": 41
+    },
+    "left": {
+      "x": 26,
+      "y": 42
+    },
+    "topLeft": {
+      "x": 26,
+      "y": 43
+    }
   }
 }

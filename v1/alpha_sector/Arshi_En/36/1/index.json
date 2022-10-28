@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10278",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10278",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQUeUcSdVA6egasJUVmFgYgJ8dvX1tWpRataFEKhKAe3y",
+  "token_name": "Terraform15829",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15829",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPKmhUuVa4vebjtwpUGmUPWCBVBcDbbmCki85Qcry9j6Z",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 9,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 36,
     "y": 1
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 2
+    },
+    "topRight": {
+      "x": 37,
+      "y": 2
+    },
+    "right": {
+      "x": 37,
+      "y": 1
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 0
+    },
+    "bottom": {
+      "x": 36,
+      "y": 0
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 0
+    },
+    "left": {
+      "x": 35,
+      "y": 1
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 2
+    }
   }
 }

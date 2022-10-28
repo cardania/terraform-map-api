@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14346",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14346",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTzrSZAjB5Fx7k77txyraSd57Bw55fEi37r7pPGiWoLRj",
+  "token_name": "Terraform02200",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02200",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVAvoRpaeTCPSFMDvzH8zU3M3N1yppsGdm3ws7DB8v7Yc",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 6,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 83,
     "y": 14
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 15
+    },
+    "topRight": {
+      "x": 84,
+      "y": 15
+    },
+    "right": {
+      "x": 84,
+      "y": 14
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 13
+    },
+    "bottom": {
+      "x": 83,
+      "y": 13
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 13
+    },
+    "left": {
+      "x": 82,
+      "y": 14
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 15
+    }
   }
 }

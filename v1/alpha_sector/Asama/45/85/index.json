@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08697",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08697",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTKoNgs1PDKxvn3LzucjcpHPQHeVTN1FCqFiaY6SKuGBr",
+  "token_name": "Terraform12180",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12180",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWYwoCqDtLuiciJzS88TooyF1cQzfs6VfKsnF2XTuM4os",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
+  "lithoglyphs": "None",
+  "power_level": 1,
   "quantum_flux": 1,
-  "primary_minerals": "None",
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 45,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 86
+    },
+    "topRight": {
+      "x": 46,
+      "y": 86
+    },
+    "right": {
+      "x": 46,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 84
+    },
+    "bottom": {
+      "x": 45,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 84
+    },
+    "left": {
+      "x": 44,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 86
+    }
   }
 }

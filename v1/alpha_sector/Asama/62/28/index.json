@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08685",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08685",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXL1n9THpEWiG87SfcY4P19so3AqZgwhRxtnTWkX89KJ9",
+  "token_name": "Terraform16026",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16026",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeDZbpdXUvJxcWtBAkVY8Fj1KSAWLdvxEAgo8AZ1AyZF3",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 9,
-  "quantum_flux": 6,
-  "primary_minerals": "Cardanium",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 6,
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "Toxic_River",
   "location": {
     "x": 62,
     "y": 28
+  },
+  "neighbors": {
+    "top": {
+      "x": 62,
+      "y": 29
+    },
+    "topRight": {
+      "x": 63,
+      "y": 29
+    },
+    "right": {
+      "x": 63,
+      "y": 28
+    },
+    "bottomRight": {
+      "x": 63,
+      "y": 27
+    },
+    "bottom": {
+      "x": 62,
+      "y": 27
+    },
+    "bottonLeft": {
+      "x": 61,
+      "y": 27
+    },
+    "left": {
+      "x": 61,
+      "y": 28
+    },
+    "topLeft": {
+      "x": 61,
+      "y": 29
+    }
   }
 }

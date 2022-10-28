@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12648",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12648",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdWAHARqBCnSS57gBVYkAQmsTnFaXTW1KLc2TzTyRoQ4F",
+  "token_name": "Terraform01672",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01672",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdT5NpWGNGpnHChn4mkTxRp3Df8QwG5AXvLkX1hYfh6K2",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
   "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
+  "quantum_flux": 8,
+  "primary_minerals": "Copper",
   "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 37,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 37,
+      "y": 14
+    },
+    "topRight": {
+      "x": 38,
+      "y": 14
+    },
+    "right": {
+      "x": 38,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 38,
+      "y": 12
+    },
+    "bottom": {
+      "x": 37,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 36,
+      "y": 12
+    },
+    "left": {
+      "x": 36,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 36,
+      "y": 14
+    }
   }
 }

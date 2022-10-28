@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02919",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02919",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdt5eKuHwBoQhpZnBBVjHefqgULXrv6D7RBopXGLHknSL",
+  "token_name": "Terraform13916",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13916",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeZidHEZYT3YAEvaZrT4nrSW9Sa8GcN72u6hLpgbmV7Ko",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
   "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 82,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 82,
+      "y": 57
+    },
+    "topRight": {
+      "x": 83,
+      "y": 57
+    },
+    "right": {
+      "x": 83,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 83,
+      "y": 55
+    },
+    "bottom": {
+      "x": 82,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 81,
+      "y": 55
+    },
+    "left": {
+      "x": 81,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 81,
+      "y": 57
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16264",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16264",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVt3AyckcX2j5HmnprSEAxEjEYUUPk4mGhD39VbXzY8kT",
+  "token_name": "Terraform03257",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03257",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTJVChHjQxVEHHAr8FqUHFTyKqvDxow6MARtM4vhKAntn",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 93,
     "y": 18
+  },
+  "neighbors": {
+    "top": {
+      "x": 93,
+      "y": 19
+    },
+    "topRight": {
+      "x": 94,
+      "y": 19
+    },
+    "right": {
+      "x": 94,
+      "y": 18
+    },
+    "bottomRight": {
+      "x": 94,
+      "y": 17
+    },
+    "bottom": {
+      "x": 93,
+      "y": 17
+    },
+    "bottonLeft": {
+      "x": 92,
+      "y": 17
+    },
+    "left": {
+      "x": 92,
+      "y": 18
+    },
+    "topLeft": {
+      "x": 92,
+      "y": 19
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11774",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11774",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaCx2VDwo8zC6mg1eCsKbTJSgpW1cT11cHdUKK9FtsZQJ",
+  "token_name": "Terraform18219",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18219",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qma92wNDUDNMn8z3Wq7fn8k7xaw1pDKuVJYegC4sLntuMq",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_Lake",
+  "water": "None",
   "location": {
     "x": 41,
     "y": 83
+  },
+  "neighbors": {
+    "top": {
+      "x": 41,
+      "y": 84
+    },
+    "topRight": {
+      "x": 42,
+      "y": 84
+    },
+    "right": {
+      "x": 42,
+      "y": 83
+    },
+    "bottomRight": {
+      "x": 42,
+      "y": 82
+    },
+    "bottom": {
+      "x": 41,
+      "y": 82
+    },
+    "bottonLeft": {
+      "x": 40,
+      "y": 82
+    },
+    "left": {
+      "x": 40,
+      "y": 83
+    },
+    "topLeft": {
+      "x": 40,
+      "y": 84
+    }
   }
 }

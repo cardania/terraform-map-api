@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11471",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11471",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmY3n7HhvmCeFp7khy3vsbMv6dzuuNfuwKCbW55KmxcnHF",
+  "token_name": "Terraform15770",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15770",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmW5oGy32h4mNWgB4X3p3qgS2NsLv2XY7patEJy6zgBJeW",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
+  "power_level": 5,
+  "quantum_flux": 1,
+  "primary_minerals": "Copper",
   "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Purple",
+  "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 60,
     "y": 21
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 22
+    },
+    "topRight": {
+      "x": 61,
+      "y": 22
+    },
+    "right": {
+      "x": 61,
+      "y": 21
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 20
+    },
+    "bottom": {
+      "x": 60,
+      "y": 20
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 20
+    },
+    "left": {
+      "x": 59,
+      "y": 21
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 22
+    }
   }
 }

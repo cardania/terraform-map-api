@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08416",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08416",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUMWQ9jMLX384948ZS3sSfqFL3RxNrx45JuS5qaiPqSea",
+  "token_name": "Terraform04909",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04909",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWorsJHsvZAdyxweH4bBqiFS75tSo8shQfSynFLL2acwK",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Palms",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 9,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Orange",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 2,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 68,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 68,
+      "y": 83
+    },
+    "topRight": {
+      "x": 69,
+      "y": 83
+    },
+    "right": {
+      "x": 69,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 69,
+      "y": 81
+    },
+    "bottom": {
+      "x": 68,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 67,
+      "y": 81
+    },
+    "left": {
+      "x": 67,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 67,
+      "y": 83
+    }
   }
 }

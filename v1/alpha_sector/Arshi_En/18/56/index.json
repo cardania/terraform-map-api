@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17271",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17271",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYB9tHpo7P9pJ9aYGBEaQevgZzcYNm3E36mxd1XKFrgKD",
+  "token_name": "Terraform04555",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04555",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc8BYMTfjsjDqWrw73LxSGWER9EVsdVpGCAfyeo1JQvFo",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Toxic_Lake",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 18,
     "y": 56
+  },
+  "neighbors": {
+    "top": {
+      "x": 18,
+      "y": 57
+    },
+    "topRight": {
+      "x": 19,
+      "y": 57
+    },
+    "right": {
+      "x": 19,
+      "y": 56
+    },
+    "bottomRight": {
+      "x": 19,
+      "y": 55
+    },
+    "bottom": {
+      "x": 18,
+      "y": 55
+    },
+    "bottonLeft": {
+      "x": 17,
+      "y": 55
+    },
+    "left": {
+      "x": 17,
+      "y": 56
+    },
+    "topLeft": {
+      "x": 17,
+      "y": 57
+    }
   }
 }

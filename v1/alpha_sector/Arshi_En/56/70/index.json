@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11717",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11717",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSJJidoKQVBPcgs2oFb8qMXRoe9M8psji9Fy1mrtKswfB",
+  "token_name": "Terraform03117",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03117",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb7Duzq2vPCvSEtD3mUZ7viFjBiZwDWq9G9NCuFFNPfCD",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 2,
-  "quantum_flux": 9,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
+  "quantum_flux": 1,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 56,
     "y": 70
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 71
+    },
+    "topRight": {
+      "x": 57,
+      "y": 71
+    },
+    "right": {
+      "x": 57,
+      "y": 70
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 69
+    },
+    "bottom": {
+      "x": 56,
+      "y": 69
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 69
+    },
+    "left": {
+      "x": 55,
+      "y": 70
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 71
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06715",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06715",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVwcrREEouwzFHZk7vscXSB2CbeD7kwGEg5i1aPVEeuRs",
+  "token_name": "Terraform06939",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06939",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUde6RSgxRwA2bFG263CvZbByZFhVb5NUaR26wqB7TXBf",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 6,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 10,
     "y": 41
+  },
+  "neighbors": {
+    "top": {
+      "x": 10,
+      "y": 42
+    },
+    "topRight": {
+      "x": 11,
+      "y": 42
+    },
+    "right": {
+      "x": 11,
+      "y": 41
+    },
+    "bottomRight": {
+      "x": 11,
+      "y": 40
+    },
+    "bottom": {
+      "x": 10,
+      "y": 40
+    },
+    "bottonLeft": {
+      "x": 9,
+      "y": 40
+    },
+    "left": {
+      "x": 9,
+      "y": 41
+    },
+    "topLeft": {
+      "x": 9,
+      "y": 42
+    }
   }
 }

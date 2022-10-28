@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09135",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09135",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXpdKYmrT1uJ4LdT4WWeFFDuK6V63Ck9mi9SmzPPP1nCi",
+  "token_name": "Terraform09062",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09062",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeU8BniaDZt7h4y6tE3FEKeitNCt24eH8MJHkrASTixZc",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 7,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 51,
     "y": 59
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 60
+    },
+    "topRight": {
+      "x": 52,
+      "y": 60
+    },
+    "right": {
+      "x": 52,
+      "y": 59
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 58
+    },
+    "bottom": {
+      "x": 51,
+      "y": 58
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 58
+    },
+    "left": {
+      "x": 50,
+      "y": 59
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 60
+    }
   }
 }

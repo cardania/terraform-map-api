@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06285",
+  "token_name": "Terraform10761",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06285",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmU2zLYDctbR8MBLfQ8FQ4HdyKvwun2QEDPRJY4fmsDgHf",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10761",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVFsJvwP13xyPaRgxZtsPyhYGVDUdyHe6dkEUPAmhyCbZ",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 4,
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 96,
     "y": 14
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 15
+    },
+    "topRight": {
+      "x": 97,
+      "y": 15
+    },
+    "right": {
+      "x": 97,
+      "y": 14
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 13
+    },
+    "bottom": {
+      "x": 96,
+      "y": 13
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 13
+    },
+    "left": {
+      "x": 95,
+      "y": 14
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 15
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16699",
+  "token_name": "Terraform18522",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16699",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWQMZScohixF9ojciELWwUkHQf1iBzz9pJ9GiT3FS7Ckt",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18522",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNZi6ZUmBpc7d3GsziBnfK9JyxH85CLUCcRC1QptmbeXo",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Funky_Lake",
+  "water": "None",
   "location": {
     "x": 8,
     "y": 73
+  },
+  "neighbors": {
+    "top": {
+      "x": 8,
+      "y": 74
+    },
+    "topRight": {
+      "x": 9,
+      "y": 74
+    },
+    "right": {
+      "x": 9,
+      "y": 73
+    },
+    "bottomRight": {
+      "x": 9,
+      "y": 72
+    },
+    "bottom": {
+      "x": 8,
+      "y": 72
+    },
+    "bottonLeft": {
+      "x": 7,
+      "y": 72
+    },
+    "left": {
+      "x": 7,
+      "y": 73
+    },
+    "topLeft": {
+      "x": 7,
+      "y": 74
+    }
   }
 }

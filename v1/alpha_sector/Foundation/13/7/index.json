@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19859",
+  "token_name": "Terraform19795",
   "land_type": "Prismatic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19859",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcRtCyktWmr8qszUUS5A1WtyxWzdiqzah9vhkUnoJpQkm",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19795",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXxHWoW7NMxiBLtEHnoiCoEbi9qDhoujRxeJmyHn9TAxq",
   "alpha_sector": "Foundation",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 7,
+  "quantum_flux": 4,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "None",
   "location": {
     "x": 13,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 8
+    },
+    "topRight": {
+      "x": 14,
+      "y": 8
+    },
+    "right": {
+      "x": 14,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 6
+    },
+    "bottom": {
+      "x": 13,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 6
+    },
+    "left": {
+      "x": 12,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 8
+    }
   }
 }

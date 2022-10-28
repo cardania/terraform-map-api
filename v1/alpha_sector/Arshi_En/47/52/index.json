@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02832",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02832",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVynALmCyBcyv9SCuhxjTzb3Wy7R176HpQTLzT9mEY6vD",
+  "token_name": "Terraform18841",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18841",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVPEyfgVu6BPLCLpsjpTCLN1kk3B58GvgEE7oG1fJNfGP",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 47,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 47,
+      "y": 53
+    },
+    "topRight": {
+      "x": 48,
+      "y": 53
+    },
+    "right": {
+      "x": 48,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 48,
+      "y": 51
+    },
+    "bottom": {
+      "x": 47,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 46,
+      "y": 51
+    },
+    "left": {
+      "x": 46,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 46,
+      "y": 53
+    }
   }
 }

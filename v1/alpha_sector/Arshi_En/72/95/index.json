@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09206",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09206",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ4xxyFkhUkwfE6FnhE8zRQVpvLjhFdTrSR1Gj9aER6Hq",
+  "token_name": "Terraform18267",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18267",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVYgAtL55QjBfCLRmcfHGeNy72Xz26TXHf1YAqtocEdWW",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 9,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "Fungal_Shrine",
   "water": "Freshwater_River",
   "location": {
     "x": 72,
     "y": 95
+  },
+  "neighbors": {
+    "top": {
+      "x": 72,
+      "y": 96
+    },
+    "topRight": {
+      "x": 73,
+      "y": 96
+    },
+    "right": {
+      "x": 73,
+      "y": 95
+    },
+    "bottomRight": {
+      "x": 73,
+      "y": 94
+    },
+    "bottom": {
+      "x": 72,
+      "y": 94
+    },
+    "bottonLeft": {
+      "x": 71,
+      "y": 94
+    },
+    "left": {
+      "x": 71,
+      "y": 95
+    },
+    "topLeft": {
+      "x": 71,
+      "y": 96
+    }
   }
 }

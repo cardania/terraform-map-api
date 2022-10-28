@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03598",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03598",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbNioQfFUwgbo6H1nU7boMimefoDGWB1corp54u6kpots",
+  "token_name": "Terraform10666",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10666",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSTyYknTbokvHbsDGTdGKXCakCFk4JFTmeR8TVuTy1r2Y",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 5,
+  "power_level": 5,
+  "quantum_flux": 4,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 7,
     "y": 17
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 18
+    },
+    "topRight": {
+      "x": 8,
+      "y": 18
+    },
+    "right": {
+      "x": 8,
+      "y": 17
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 16
+    },
+    "bottom": {
+      "x": 7,
+      "y": 16
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 16
+    },
+    "left": {
+      "x": 6,
+      "y": 17
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 18
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17991",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17991",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmah5HAfn384W3s3m7cvXqF2NJrGY87Abee4yKHu2FoEC5",
+  "token_name": "Terraform17122",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17122",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWoC1jE6ZxGHa2PSVKbCUBowkhLfbHEKC78R7hDoPahTj",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 9,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Toxic_Lake",
   "location": {
     "x": 68,
     "y": 87
+  },
+  "neighbors": {
+    "top": {
+      "x": 68,
+      "y": 88
+    },
+    "topRight": {
+      "x": 69,
+      "y": 88
+    },
+    "right": {
+      "x": 69,
+      "y": 87
+    },
+    "bottomRight": {
+      "x": 69,
+      "y": 86
+    },
+    "bottom": {
+      "x": 68,
+      "y": 86
+    },
+    "bottonLeft": {
+      "x": 67,
+      "y": 86
+    },
+    "left": {
+      "x": 67,
+      "y": 87
+    },
+    "topLeft": {
+      "x": 67,
+      "y": 88
+    }
   }
 }

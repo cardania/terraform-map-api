@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09062",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09062",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeU8BniaDZt7h4y6tE3FEKeitNCt24eH8MJHkrASTixZc",
+  "token_name": "Terraform06230",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06230",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ42zjDiwDCe9apro2a8dTyUgMfHAaEUqd6ikNV2Bkxxm",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 7,
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 5,
   "quantum_flux": 7,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 74,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 5
+    },
+    "topRight": {
+      "x": 75,
+      "y": 5
+    },
+    "right": {
+      "x": 75,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 3
+    },
+    "bottom": {
+      "x": 74,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 3
+    },
+    "left": {
+      "x": 73,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 5
+    }
   }
 }

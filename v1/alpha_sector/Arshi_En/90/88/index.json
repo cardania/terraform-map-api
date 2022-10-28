@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform16227",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16227",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNccy2hn19wSHWM6LK7S3NYfkrTdYjQKb9ejXisivRZKw",
+  "token_name": "Terraform11040",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11040",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSFwhc7MB5LNZ1mrSP3vaZYZWfsdbM6iBm98k6nLipUCP",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 7,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 90,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 90,
+      "y": 89
+    },
+    "topRight": {
+      "x": 91,
+      "y": 89
+    },
+    "right": {
+      "x": 91,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 91,
+      "y": 87
+    },
+    "bottom": {
+      "x": 90,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 89,
+      "y": 87
+    },
+    "left": {
+      "x": 89,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 89,
+      "y": 89
+    }
   }
 }

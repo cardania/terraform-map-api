@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01342",
+  "token_name": "Terraform04916",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01342",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVkTPrbWvhZ9FTaFqSsKybfxwR3NzYixSY8yzw3okjjn4",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04916",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNzb5gEHK9EdcuMEnqYCYCz1XXgpnUPnbUTT37Z7YvnS8",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 7,
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 3,
   "quantum_flux": 4,
-  "primary_minerals": "None",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 99,
     "y": 81
+  },
+  "neighbors": {
+    "top": {
+      "x": 99,
+      "y": 82
+    },
+    "topRight": {
+      "x": 100,
+      "y": 82
+    },
+    "right": {
+      "x": 100,
+      "y": 81
+    },
+    "bottomRight": {
+      "x": 100,
+      "y": 80
+    },
+    "bottom": {
+      "x": 99,
+      "y": 80
+    },
+    "bottonLeft": {
+      "x": 98,
+      "y": 80
+    },
+    "left": {
+      "x": 98,
+      "y": 81
+    },
+    "topLeft": {
+      "x": 98,
+      "y": 82
+    }
   }
 }

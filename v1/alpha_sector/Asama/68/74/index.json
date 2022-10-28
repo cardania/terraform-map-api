@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17675",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17675",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qma9ZFwC5vNprB7KzfAF9L1n6JYQvWnFdVg4o78PUk7WST",
+  "token_name": "Terraform07583",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07583",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmY8pMPPbUr51fZkSW7DWhkKnch63UnYQbHiF5BBsZaknV",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 8,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 2,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 68,
     "y": 74
+  },
+  "neighbors": {
+    "top": {
+      "x": 68,
+      "y": 75
+    },
+    "topRight": {
+      "x": 69,
+      "y": 75
+    },
+    "right": {
+      "x": 69,
+      "y": 74
+    },
+    "bottomRight": {
+      "x": 69,
+      "y": 73
+    },
+    "bottom": {
+      "x": 68,
+      "y": 73
+    },
+    "bottonLeft": {
+      "x": 67,
+      "y": 73
+    },
+    "left": {
+      "x": 67,
+      "y": 74
+    },
+    "topLeft": {
+      "x": 67,
+      "y": 75
+    }
   }
 }

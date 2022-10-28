@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18817",
+  "token_name": "Terraform16914",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18817",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmR69hZ117adDMbVrENZq7imfAoCMGdJkWgn8GCP3MyEvK",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16914",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQicu5Ar35HWoPoHLok9MTjQ1LH8gvRkYDiwuVrh4aDSR",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 9,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 3,
+  "quantum_flux": 6,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Cursed_Lake",
   "location": {
     "x": 28,
     "y": 81
+  },
+  "neighbors": {
+    "top": {
+      "x": 28,
+      "y": 82
+    },
+    "topRight": {
+      "x": 29,
+      "y": 82
+    },
+    "right": {
+      "x": 29,
+      "y": 81
+    },
+    "bottomRight": {
+      "x": 29,
+      "y": 80
+    },
+    "bottom": {
+      "x": 28,
+      "y": 80
+    },
+    "bottonLeft": {
+      "x": 27,
+      "y": 80
+    },
+    "left": {
+      "x": 27,
+      "y": 81
+    },
+    "topLeft": {
+      "x": 27,
+      "y": 82
+    }
   }
 }

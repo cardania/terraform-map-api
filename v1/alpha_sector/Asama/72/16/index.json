@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00408",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00408",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRTKpfF835jUW75KVzBnhX5yTDzpmkaZRujgPUEqL54TK",
+  "token_name": "Terraform19397",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19397",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaaxP9LJfWavZAvvevfDw1YBJ2JV7wKkujdFbSwWKAoUH",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Red",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "Cursed_River",
   "location": {
     "x": 72,
     "y": 16
+  },
+  "neighbors": {
+    "top": {
+      "x": 72,
+      "y": 17
+    },
+    "topRight": {
+      "x": 73,
+      "y": 17
+    },
+    "right": {
+      "x": 73,
+      "y": 16
+    },
+    "bottomRight": {
+      "x": 73,
+      "y": 15
+    },
+    "bottom": {
+      "x": 72,
+      "y": 15
+    },
+    "bottonLeft": {
+      "x": 71,
+      "y": 15
+    },
+    "left": {
+      "x": 71,
+      "y": 16
+    },
+    "topLeft": {
+      "x": 71,
+      "y": 17
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18629",
+  "token_name": "Terraform00612",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18629",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNUkZCtJY9NHFCkuRyFk1FYfy1zcV6p3t5tqc2UjZxTFm",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00612",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWjfLnKFYTPTpMxpCviwo9G9vpJfnW7kLmq2pSMZ4fqBV",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Livestock",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Funky_Lake",
   "location": {
     "x": 9,
     "y": 54
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 55
+    },
+    "topRight": {
+      "x": 10,
+      "y": 55
+    },
+    "right": {
+      "x": 10,
+      "y": 54
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 53
+    },
+    "bottom": {
+      "x": 9,
+      "y": 53
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 53
+    },
+    "left": {
+      "x": 8,
+      "y": 54
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 55
+    }
   }
 }

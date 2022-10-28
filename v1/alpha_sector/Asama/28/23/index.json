@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10240",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10240",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmeqrmtv2tRksZb6FpKxHB2sVpTvqJF8yqGs1DTUawLhu7",
+  "token_name": "Terraform01881",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01881",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaQjVD242YAoK6ohcNwWwEZzbV5cgHLhPw9xGAxVxoAMx",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 8,
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 3,
   "quantum_flux": 2,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 28,
     "y": 23
+  },
+  "neighbors": {
+    "top": {
+      "x": 28,
+      "y": 24
+    },
+    "topRight": {
+      "x": 29,
+      "y": 24
+    },
+    "right": {
+      "x": 29,
+      "y": 23
+    },
+    "bottomRight": {
+      "x": 29,
+      "y": 22
+    },
+    "bottom": {
+      "x": 28,
+      "y": 22
+    },
+    "bottonLeft": {
+      "x": 27,
+      "y": 22
+    },
+    "left": {
+      "x": 27,
+      "y": 23
+    },
+    "topLeft": {
+      "x": 27,
+      "y": 24
+    }
   }
 }

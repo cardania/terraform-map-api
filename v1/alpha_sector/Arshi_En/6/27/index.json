@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03917",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03917",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSfCExgrMdJJo7MdhZj25Jgc69H1DhZS8Pv3tB3vNX3E5",
+  "token_name": "Terraform17860",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17860",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbFM6KPvbdhGeWUV3xVQacTbnT5m7Z4Xx4irpAevjfUzf",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 5,
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
   "quantum_flux": 3,
   "primary_minerals": "None",
   "secondary_minerals": "Gemstones",
-  "ruins": "Ancient_Ruins",
+  "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 6,
     "y": 27
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 28
+    },
+    "topRight": {
+      "x": 7,
+      "y": 28
+    },
+    "right": {
+      "x": 7,
+      "y": 27
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 26
+    },
+    "bottom": {
+      "x": 6,
+      "y": 26
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 26
+    },
+    "left": {
+      "x": 5,
+      "y": 27
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 28
+    }
   }
 }

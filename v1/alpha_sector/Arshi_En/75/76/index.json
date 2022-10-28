@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16817",
+  "token_name": "Terraform11399",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16817",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQVvRTDjRVx3gYdjNuqnLNACfZyqCL5Qfg7ARoKDBKAqH",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11399",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTvcGVw8ggNFZvDcUghqPhEcoNuMKtJTfzhfN8gHpvFzb",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 4,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "Saltwater_River",
   "location": {
     "x": 75,
     "y": 76
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 77
+    },
+    "topRight": {
+      "x": 76,
+      "y": 77
+    },
+    "right": {
+      "x": 76,
+      "y": 76
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 75
+    },
+    "bottom": {
+      "x": 75,
+      "y": 75
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 75
+    },
+    "left": {
+      "x": 74,
+      "y": 76
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 77
+    }
   }
 }

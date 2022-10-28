@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform00675",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00675",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdacMFnngXJMLJvwotKMNep3PBHR7A7VQ3EtbTJh32e6Q",
+  "token_name": "Terraform08735",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08735",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmS9JQh2ofZbshhx4t2ch6TGegr2miGyzcXwwT35rW656z",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Burning_Mantrap",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 42,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 42,
+      "y": 26
+    },
+    "topRight": {
+      "x": 43,
+      "y": 26
+    },
+    "right": {
+      "x": 43,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 43,
+      "y": 24
+    },
+    "bottom": {
+      "x": 42,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 41,
+      "y": 24
+    },
+    "left": {
+      "x": 41,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 41,
+      "y": 26
+    }
   }
 }

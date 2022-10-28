@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13502",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13502",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNQurtUjd4EU7WPR3wyfds47J8QsxAV4NmXz1tnM6CKjJ",
+  "token_name": "Terraform01580",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01580",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQgKezkqKXzd1TzSxD9k2uYdrbX6t65jEd9pML87ikn6N",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 4,
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 1,
   "quantum_flux": 3,
-  "primary_minerals": "None",
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 16,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 16,
+      "y": 98
+    },
+    "topRight": {
+      "x": 17,
+      "y": 98
+    },
+    "right": {
+      "x": 17,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 17,
+      "y": 96
+    },
+    "bottom": {
+      "x": 16,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 15,
+      "y": 96
+    },
+    "left": {
+      "x": 15,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 15,
+      "y": 98
+    }
   }
 }

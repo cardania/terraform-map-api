@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14210",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14210",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZa9NSgkmiDzyc7yGubybphRgdRq7CQmGF3QHTGQ1rC5r",
+  "token_name": "Terraform12170",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12170",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYu67HUJVZjSd53fDsApmQbVcgwsf5ueMn8QLv58rKNHa",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "Prismatic_Motes",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "Livestock",
-  "forests": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 9,
-  "quantum_flux": 7,
-  "primary_minerals": "Iron",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 4,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 45,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 61
+    },
+    "topRight": {
+      "x": 46,
+      "y": 61
+    },
+    "right": {
+      "x": 46,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 59
+    },
+    "bottom": {
+      "x": 45,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 59
+    },
+    "left": {
+      "x": 44,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 61
+    }
   }
 }

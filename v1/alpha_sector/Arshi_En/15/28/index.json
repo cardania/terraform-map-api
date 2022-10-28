@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14546",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14546",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRw2NRFoLaqcLB1eK2ipyFtx9CHEqJW1fSGLAogHs63jb",
+  "token_name": "Terraform03589",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03589",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQdABUzpuuVtzdoxdvoCkqVfmHiYKuMugGgMd4FdhQmFy",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 6,
+  "quantum_flux": 1,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 15,
     "y": 28
+  },
+  "neighbors": {
+    "top": {
+      "x": 15,
+      "y": 29
+    },
+    "topRight": {
+      "x": 16,
+      "y": 29
+    },
+    "right": {
+      "x": 16,
+      "y": 28
+    },
+    "bottomRight": {
+      "x": 16,
+      "y": 27
+    },
+    "bottom": {
+      "x": 15,
+      "y": 27
+    },
+    "bottonLeft": {
+      "x": 14,
+      "y": 27
+    },
+    "left": {
+      "x": 14,
+      "y": 28
+    },
+    "topLeft": {
+      "x": 14,
+      "y": 29
+    }
   }
 }

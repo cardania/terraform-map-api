@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19537",
+  "token_name": "Terraform11912",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19537",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbgCtUkLqAPBaZSh24XYRVwebX4TMnDAQaZyFFaqcANAB",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11912",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTBuw2vHJVc6JFaSB1KPCUYxkfzCRTXXGgEFX2kSvjREb",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
   "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 63,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 63,
+      "y": 30
+    },
+    "topRight": {
+      "x": 64,
+      "y": 30
+    },
+    "right": {
+      "x": 64,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 64,
+      "y": 28
+    },
+    "bottom": {
+      "x": 63,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 62,
+      "y": 28
+    },
+    "left": {
+      "x": 62,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 62,
+      "y": 30
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01005",
+  "token_name": "Terraform11595",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01005",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWYS58R7JpJvBZMfuLBVdQaeoXi1fy4MUYkHDECyLwpqd",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11595",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUp2MAfSafQZG3VGw9s9SGgrPUauc7qhyDy31Yg8vSFPQ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 6,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Funky_Lake",
   "location": {
     "x": 38,
     "y": 18
+  },
+  "neighbors": {
+    "top": {
+      "x": 38,
+      "y": 19
+    },
+    "topRight": {
+      "x": 39,
+      "y": 19
+    },
+    "right": {
+      "x": 39,
+      "y": 18
+    },
+    "bottomRight": {
+      "x": 39,
+      "y": 17
+    },
+    "bottom": {
+      "x": 38,
+      "y": 17
+    },
+    "bottonLeft": {
+      "x": 37,
+      "y": 17
+    },
+    "left": {
+      "x": 37,
+      "y": 18
+    },
+    "topLeft": {
+      "x": 37,
+      "y": 19
+    }
   }
 }

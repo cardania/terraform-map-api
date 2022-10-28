@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13269",
+  "token_name": "Terraform03240",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13269",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbZz289RZBydHgdrNo7Eshd7koNf4BsoQ8RMJrGKSBxqU",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03240",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVtz9RsKaKzsPjK3CWGU3TxHPB1gTCJihttFz49B3qjts",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 5,
-  "quantum_flux": 6,
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 7,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 17,
     "y": 81
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 82
+    },
+    "topRight": {
+      "x": 18,
+      "y": 82
+    },
+    "right": {
+      "x": 18,
+      "y": 81
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 80
+    },
+    "bottom": {
+      "x": 17,
+      "y": 80
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 80
+    },
+    "left": {
+      "x": 16,
+      "y": 81
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 82
+    }
   }
 }

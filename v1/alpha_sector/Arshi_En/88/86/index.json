@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14946",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14946",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf2fASvGSTAPhkVY9VQc2MECChuxEYN9xDNbPHmijuN8s",
+  "token_name": "Terraform18542",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18542",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb2RXU8NvRNCDP3PnBEj4b8TRh8Cpn6SCi2CdTV4Lk3cA",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Cardanium_Bunker",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
+  "shrine": "Quantum_Shrine",
   "water": "Freshwater_River",
   "location": {
     "x": 88,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 88,
+      "y": 87
+    },
+    "topRight": {
+      "x": 89,
+      "y": 87
+    },
+    "right": {
+      "x": 89,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 89,
+      "y": 85
+    },
+    "bottom": {
+      "x": 88,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 87,
+      "y": 85
+    },
+    "left": {
+      "x": 87,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 87,
+      "y": 87
+    }
   }
 }

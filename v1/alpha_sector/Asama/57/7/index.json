@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13206",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13206",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdB1wqqYdafdC666pKi5b2NyxBsUCi49NmDw8SV47LkS1",
+  "token_name": "Terraform11507",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11507",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQAmcboNZ7uNBhsswYHGQHopYBy6GQYHMSsyDd7uesazc",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "Ultrasaurs",
-  "forests": "Palms",
+  "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
+  "power_level": 2,
   "quantum_flux": 3,
-  "primary_minerals": "None",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Funky_River",
   "location": {
     "x": 57,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 57,
+      "y": 8
+    },
+    "topRight": {
+      "x": 58,
+      "y": 8
+    },
+    "right": {
+      "x": 58,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 58,
+      "y": 6
+    },
+    "bottom": {
+      "x": 57,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 56,
+      "y": 6
+    },
+    "left": {
+      "x": 56,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 56,
+      "y": 8
+    }
   }
 }

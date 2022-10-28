@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16177",
+  "token_name": "Terraform01714",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16177",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYTCRvwH2JQQP4KXkz379tCfhmad1mRDBeeihgwBpJvWP",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01714",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbnktt9WutNjJz7ybtwTdj42fXY6m3jfRVWcqZRWpFZf3",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 7,
-  "primary_minerals": "Iron",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Toxic_River",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 10,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 10,
+      "y": 23
+    },
+    "topRight": {
+      "x": 11,
+      "y": 23
+    },
+    "right": {
+      "x": 11,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 11,
+      "y": 21
+    },
+    "bottom": {
+      "x": 10,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 9,
+      "y": 21
+    },
+    "left": {
+      "x": 9,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 9,
+      "y": 23
+    }
   }
 }

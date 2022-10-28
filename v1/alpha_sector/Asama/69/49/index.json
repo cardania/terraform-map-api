@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12736",
+  "token_name": "Terraform19073",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12736",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaSkLBbgvisid1nF5pAoeNn28TxfDC5m4LdL9itmDavFq",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19073",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVRYWsQ2B3A881ikgC9ENYjKQ7Z2hYr9Tc2RkJ5EEkrM5",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "Saltwater_River",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 69,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 69,
+      "y": 50
+    },
+    "topRight": {
+      "x": 70,
+      "y": 50
+    },
+    "right": {
+      "x": 70,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 70,
+      "y": 48
+    },
+    "bottom": {
+      "x": 69,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 68,
+      "y": 48
+    },
+    "left": {
+      "x": 68,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 68,
+      "y": 50
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13228",
+  "token_name": "Terraform04177",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13228",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf9RGykGNcmNutdudyLoc1q8YLaLn6XdeiYbdCMA9LE9E",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04177",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXXQARGq4gK3W1cMxirM388yJ1sm4eEFJ2Jty43FeJHSR",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
+  "quantum_flux": 1,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "Alien_Technology_Green",
-  "shrine": "Void_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 18,
     "y": 20
+  },
+  "neighbors": {
+    "top": {
+      "x": 18,
+      "y": 21
+    },
+    "topRight": {
+      "x": 19,
+      "y": 21
+    },
+    "right": {
+      "x": 19,
+      "y": 20
+    },
+    "bottomRight": {
+      "x": 19,
+      "y": 19
+    },
+    "bottom": {
+      "x": 18,
+      "y": 19
+    },
+    "bottonLeft": {
+      "x": 17,
+      "y": 19
+    },
+    "left": {
+      "x": 17,
+      "y": 20
+    },
+    "topLeft": {
+      "x": 17,
+      "y": 21
+    }
   }
 }

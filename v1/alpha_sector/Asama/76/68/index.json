@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform13278",
+  "token_name": "Terraform07283",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13278",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmY4kjRpeCUAnS1gtPVvjp9fHW8Cacf8xRvRNeFxV9bcvP",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07283",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUq5aRxCoe5Vc6wpHVFovbBuKECDPduyVzjUfBubiSYU3",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Evergreen",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 76,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 76,
+      "y": 69
+    },
+    "topRight": {
+      "x": 77,
+      "y": 69
+    },
+    "right": {
+      "x": 77,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 77,
+      "y": 67
+    },
+    "bottom": {
+      "x": 76,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 75,
+      "y": 67
+    },
+    "left": {
+      "x": 75,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 75,
+      "y": 69
+    }
   }
 }

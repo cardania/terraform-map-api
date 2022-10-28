@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04162",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04162",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRJvF6ZsAUa3c71SoNorsuGV73uV8sVcSZ1u79chGbHKb",
+  "token_name": "Terraform06928",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06928",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWfPk8xq6U71yBDL9sMMU9yGdPNJ7gXQ2rrnFdbpZZVLi",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 4,
+  "power_level": 1,
   "quantum_flux": 4,
-  "primary_minerals": "Cardanium",
+  "primary_minerals": "None",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 16,
     "y": 96
+  },
+  "neighbors": {
+    "top": {
+      "x": 16,
+      "y": 97
+    },
+    "topRight": {
+      "x": 17,
+      "y": 97
+    },
+    "right": {
+      "x": 17,
+      "y": 96
+    },
+    "bottomRight": {
+      "x": 17,
+      "y": 95
+    },
+    "bottom": {
+      "x": 16,
+      "y": 95
+    },
+    "bottonLeft": {
+      "x": 15,
+      "y": 95
+    },
+    "left": {
+      "x": 15,
+      "y": 96
+    },
+    "topLeft": {
+      "x": 15,
+      "y": 97
+    }
   }
 }

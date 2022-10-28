@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07224",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07224",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qma75z8bYdARGwf9zPA8pf1QGkKMYCCLyKnc6Uj3su8hHb",
+  "token_name": "Terraform16000",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16000",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcNNDfyp2H5YJZ3XEFgHJ9JVeqhHieuwSFawh8EzRfTdo",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 1,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Quantum_Shrine",
-  "water": "Freshwater_Lake",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 72,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 72,
+      "y": 31
+    },
+    "topRight": {
+      "x": 73,
+      "y": 31
+    },
+    "right": {
+      "x": 73,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 73,
+      "y": 29
+    },
+    "bottom": {
+      "x": 72,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 71,
+      "y": 29
+    },
+    "left": {
+      "x": 71,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 71,
+      "y": 31
+    }
   }
 }

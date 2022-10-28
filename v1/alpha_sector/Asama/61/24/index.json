@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12818",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12818",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfT7ZLR6WLdpXg4SLE1db5HsRwa1hJatqkf97z9MuJdRC",
+  "token_name": "Terraform03192",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03192",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNS65AVKW7reftYohwVMMt3MTdMfCkM78bnAU8G17wFc7",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
+  "power_level": 2,
+  "quantum_flux": 8,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Saltwater_Lake",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 61,
     "y": 24
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 25
+    },
+    "topRight": {
+      "x": 62,
+      "y": 25
+    },
+    "right": {
+      "x": 62,
+      "y": 24
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 23
+    },
+    "bottom": {
+      "x": 61,
+      "y": 23
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 23
+    },
+    "left": {
+      "x": 60,
+      "y": 24
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 25
+    }
   }
 }

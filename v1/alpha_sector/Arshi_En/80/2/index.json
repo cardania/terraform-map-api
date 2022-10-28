@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14845",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14845",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmS9tfJYDhj686Wc9hCWEngBhUxNE2w38BxzEBYsPwq6Ss",
+  "token_name": "Terraform08348",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08348",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVKYafMPssM1vCFK79KXLi6zJ4rghuznbC3eSuMPFa2rq",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 8,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "Saltwater_River",
+  "shrine": "Timelost_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 80,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 80,
+      "y": 3
+    },
+    "topRight": {
+      "x": 81,
+      "y": 3
+    },
+    "right": {
+      "x": 81,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 81,
+      "y": 1
+    },
+    "bottom": {
+      "x": 80,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 79,
+      "y": 1
+    },
+    "left": {
+      "x": 79,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 79,
+      "y": 3
+    }
   }
 }

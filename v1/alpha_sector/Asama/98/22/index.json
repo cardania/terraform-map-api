@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11466",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11466",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbFfScB5BxYcqy3kEFodfJjYgW2behubyKAgEgaFYGjFk",
+  "token_name": "Terraform06326",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06326",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWL8KSYtRypijs2S4kGsz9ACwsMPYp7zni4L8rXeHJMEa",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
   "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 3,
   "quantum_flux": 8,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 98,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 23
+    },
+    "topRight": {
+      "x": 99,
+      "y": 23
+    },
+    "right": {
+      "x": 99,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 21
+    },
+    "bottom": {
+      "x": 98,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 21
+    },
+    "left": {
+      "x": 97,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 23
+    }
   }
 }

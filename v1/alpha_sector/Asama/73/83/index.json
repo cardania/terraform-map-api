@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16755",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16755",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUpQsW58BmuNBQCaA6uTNM1DjVC6Kius8ZcUxGZkUhaNt",
+  "token_name": "Terraform08400",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08400",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaweqockGVDQ5DY4JpLZWfD5HJWqX88YdMsWWZWvTYYX7",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Antigravity_Cloud",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 8,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 73,
     "y": 83
+  },
+  "neighbors": {
+    "top": {
+      "x": 73,
+      "y": 84
+    },
+    "topRight": {
+      "x": 74,
+      "y": 84
+    },
+    "right": {
+      "x": 74,
+      "y": 83
+    },
+    "bottomRight": {
+      "x": 74,
+      "y": 82
+    },
+    "bottom": {
+      "x": 73,
+      "y": 82
+    },
+    "bottonLeft": {
+      "x": 72,
+      "y": 82
+    },
+    "left": {
+      "x": 72,
+      "y": 83
+    },
+    "topLeft": {
+      "x": 72,
+      "y": 84
+    }
   }
 }

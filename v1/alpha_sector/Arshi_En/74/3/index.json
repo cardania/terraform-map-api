@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07329",
+  "token_name": "Terraform04691",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07329",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYQRE5MXQLUo2iqExhUXoEuGCejuuL1bH2Mdqw7noiogq",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04691",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeCGubQ7Tk9xsvwfuy2nN2zu48FkfHXPqZMZgcrqPij44",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
-  "quantum_flux": 7,
-  "primary_minerals": "Cardanium",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Saltwater_River",
   "location": {
     "x": 74,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 4
+    },
+    "topRight": {
+      "x": 75,
+      "y": 4
+    },
+    "right": {
+      "x": 75,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 2
+    },
+    "bottom": {
+      "x": 74,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 2
+    },
+    "left": {
+      "x": 73,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 4
+    }
   }
 }

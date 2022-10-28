@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00776",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00776",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbGJe3yJYDD38dk7diMVgmSvmoTjjDyBRPqj4oemijBt4",
+  "token_name": "Terraform01592",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01592",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQcq7k7KQDUAgdtAAVN6VsTjxbbnX3uCDSBxVVvLuvhrn",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Prismaleaf",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 8,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 94,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 94,
+      "y": 98
+    },
+    "topRight": {
+      "x": 95,
+      "y": 98
+    },
+    "right": {
+      "x": 95,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 95,
+      "y": 96
+    },
+    "bottom": {
+      "x": 94,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 93,
+      "y": 96
+    },
+    "left": {
+      "x": 93,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 93,
+      "y": 98
+    }
   }
 }

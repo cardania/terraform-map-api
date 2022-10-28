@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12894",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12894",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZPeHboSjvAeKPZtvYMSdTTp4GVnfJDXzG55FcbRrJ8Xe",
+  "token_name": "Terraform18881",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18881",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWGyevKA29ew722LgZxiqzRTLxiKeggWhiQXt8tm2Uevd",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 9,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 87,
     "y": 16
+  },
+  "neighbors": {
+    "top": {
+      "x": 87,
+      "y": 17
+    },
+    "topRight": {
+      "x": 88,
+      "y": 17
+    },
+    "right": {
+      "x": 88,
+      "y": 16
+    },
+    "bottomRight": {
+      "x": 88,
+      "y": 15
+    },
+    "bottom": {
+      "x": 87,
+      "y": 15
+    },
+    "bottonLeft": {
+      "x": 86,
+      "y": 15
+    },
+    "left": {
+      "x": 86,
+      "y": 16
+    },
+    "topLeft": {
+      "x": 86,
+      "y": 17
+    }
   }
 }

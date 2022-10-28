@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19510",
+  "token_name": "Terraform14222",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19510",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV8DgAEePYaXk2zksKeN9MgqNEEpM5kJnTGamaivC77Sq",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14222",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPAN8DZg3pXixGYMRG4FQ2NCxBcJPmifKvhFo1nsckUuP",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 8,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 80,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 80,
+      "y": 86
+    },
+    "topRight": {
+      "x": 81,
+      "y": 86
+    },
+    "right": {
+      "x": 81,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 81,
+      "y": 84
+    },
+    "bottom": {
+      "x": 80,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 79,
+      "y": 84
+    },
+    "left": {
+      "x": 79,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 79,
+      "y": 86
+    }
   }
 }

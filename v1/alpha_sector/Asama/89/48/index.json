@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15662",
+  "token_name": "Terraform15254",
   "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15662",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcixazT4g4CqNrxJc3HN8uqXwhph3qvVVTKGohSHn99b9",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15254",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQdiZFw8pgNFJKgVE319kjTFTvNhC9e78LTLUqXbRti8F",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 4,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
+  "forests": "Evergreen",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_River",
   "location": {
     "x": 89,
     "y": 48
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 49
+    },
+    "topRight": {
+      "x": 90,
+      "y": 49
+    },
+    "right": {
+      "x": 90,
+      "y": 48
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 47
+    },
+    "bottom": {
+      "x": 89,
+      "y": 47
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 47
+    },
+    "left": {
+      "x": 88,
+      "y": 48
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 49
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18421",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18421",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRYzB3kQ6bvsK9QexAiUqJEZJujEmNpHqJCAadnFRA8Hd",
+  "token_name": "Terraform09740",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09740",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXNdLoGAbCd63xSDm2NU1dPYpzewbPovntCi8SJb4AbRB",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
   "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 22,
     "y": 14
+  },
+  "neighbors": {
+    "top": {
+      "x": 22,
+      "y": 15
+    },
+    "topRight": {
+      "x": 23,
+      "y": 15
+    },
+    "right": {
+      "x": 23,
+      "y": 14
+    },
+    "bottomRight": {
+      "x": 23,
+      "y": 13
+    },
+    "bottom": {
+      "x": 22,
+      "y": 13
+    },
+    "bottonLeft": {
+      "x": 21,
+      "y": 13
+    },
+    "left": {
+      "x": 21,
+      "y": 14
+    },
+    "topLeft": {
+      "x": 21,
+      "y": 15
+    }
   }
 }

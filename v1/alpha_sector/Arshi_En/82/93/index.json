@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00033",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00033",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPTmC6hW4qTr6DCyef9BuS5CKex1Bezo7qJ1KztuuhkWk",
+  "token_name": "Terraform00308",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00308",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb3pKR9iDctJM2D596vPpDRcSEUH7FbPuN4BCzADa9rKc",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 82,
     "y": 93
+  },
+  "neighbors": {
+    "top": {
+      "x": 82,
+      "y": 94
+    },
+    "topRight": {
+      "x": 83,
+      "y": 94
+    },
+    "right": {
+      "x": 83,
+      "y": 93
+    },
+    "bottomRight": {
+      "x": 83,
+      "y": 92
+    },
+    "bottom": {
+      "x": 82,
+      "y": 92
+    },
+    "bottonLeft": {
+      "x": 81,
+      "y": 92
+    },
+    "left": {
+      "x": 81,
+      "y": 93
+    },
+    "topLeft": {
+      "x": 81,
+      "y": 94
+    }
   }
 }

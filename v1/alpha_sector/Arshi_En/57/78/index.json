@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11207",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11207",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYNhhLu7Dix9FKCjsEDQhhCM97qfHB2R2d7Z9tRDuKjhg",
+  "token_name": "Terraform06402",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06402",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQF95QaSgVeHPYM9nkN6X5nXaZynayURK3XU7TQ3f7u5E",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 3,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Toxic_River",
+  "shrine": "Solar_Shrine",
+  "water": "Funky_Lake",
   "location": {
     "x": 57,
     "y": 78
+  },
+  "neighbors": {
+    "top": {
+      "x": 57,
+      "y": 79
+    },
+    "topRight": {
+      "x": 58,
+      "y": 79
+    },
+    "right": {
+      "x": 58,
+      "y": 78
+    },
+    "bottomRight": {
+      "x": 58,
+      "y": 77
+    },
+    "bottom": {
+      "x": 57,
+      "y": 77
+    },
+    "bottonLeft": {
+      "x": 56,
+      "y": 77
+    },
+    "left": {
+      "x": 56,
+      "y": 78
+    },
+    "topLeft": {
+      "x": 56,
+      "y": 79
+    }
   }
 }

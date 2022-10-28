@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10394",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10394",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXcib4oQhywctEz2LpZJNGxbxxUwasciZfQsfKWXZdq96",
+  "token_name": "Terraform12345",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12345",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdypTZpYgborLhVeiaY5dPiJp5xSv7BtYPtfqCar5pTPN",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 6,
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 6,
+  "quantum_flux": 2,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 92,
     "y": 73
+  },
+  "neighbors": {
+    "top": {
+      "x": 92,
+      "y": 74
+    },
+    "topRight": {
+      "x": 93,
+      "y": 74
+    },
+    "right": {
+      "x": 93,
+      "y": 73
+    },
+    "bottomRight": {
+      "x": 93,
+      "y": 72
+    },
+    "bottom": {
+      "x": 92,
+      "y": 72
+    },
+    "bottonLeft": {
+      "x": 91,
+      "y": 72
+    },
+    "left": {
+      "x": 91,
+      "y": 73
+    },
+    "topLeft": {
+      "x": 91,
+      "y": 74
+    }
   }
 }

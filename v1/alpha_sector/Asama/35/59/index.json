@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16168",
+  "token_name": "Terraform00050",
   "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16168",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPJVsZnpvNU8HcQ4EJ2S4SsEBN3uwH16X2w1DL7vVtBuB",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00050",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZnnQF3BJ9fGrBMC7rUJEzUJeoTj6dXkZnqsFVVsuDx4s",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Cursed_Nanites",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 1,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 35,
     "y": 59
+  },
+  "neighbors": {
+    "top": {
+      "x": 35,
+      "y": 60
+    },
+    "topRight": {
+      "x": 36,
+      "y": 60
+    },
+    "right": {
+      "x": 36,
+      "y": 59
+    },
+    "bottomRight": {
+      "x": 36,
+      "y": 58
+    },
+    "bottom": {
+      "x": 35,
+      "y": 58
+    },
+    "bottonLeft": {
+      "x": 34,
+      "y": 58
+    },
+    "left": {
+      "x": 34,
+      "y": 59
+    },
+    "topLeft": {
+      "x": 34,
+      "y": 60
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11145",
+  "token_name": "Terraform04904",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11145",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTBtrBS2Q6YEtCoVjKcffPEUHZcrS62aQRKv3rkgVVZQr",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04904",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmToxs2cXmg9J2xyWX5TKYkC7Bn6DZuXQ2LXw96pyHUv6p",
   "alpha_sector": "Arshi_En",
   "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "Ancient_Ruins",
-  "shrine": "Fungal_Shrine",
-  "water": "Cursed_River",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 61,
     "y": 96
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 97
+    },
+    "topRight": {
+      "x": 62,
+      "y": 97
+    },
+    "right": {
+      "x": 62,
+      "y": 96
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 95
+    },
+    "bottom": {
+      "x": 61,
+      "y": 95
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 95
+    },
+    "left": {
+      "x": 60,
+      "y": 96
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 97
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19331",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19331",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdSYmxBdeGxpiQfZYUV5jqvr5gtupzVGNVfisQvKxpRXZ",
+  "token_name": "Terraform04681",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04681",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTgn7XsMZpBZFNMekU3sMdSV9bzxcs6hoXGXirw4ZzfEp",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 1,
-  "primary_minerals": "Iron",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 5,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 83,
     "y": 24
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 25
+    },
+    "topRight": {
+      "x": 84,
+      "y": 25
+    },
+    "right": {
+      "x": 84,
+      "y": 24
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 23
+    },
+    "bottom": {
+      "x": 83,
+      "y": 23
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 23
+    },
+    "left": {
+      "x": 82,
+      "y": 24
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 25
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19281",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19281",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaBTk5tb2YaLp7vqWyzm2V1UiDGiz1LMHVuyFv9jc1RQp",
+  "token_name": "Terraform16700",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16700",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmavvjcWrDRsXX6dx1diJtR6NnBmarcNRZzere54K7qPzJ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 2,
+  "power_level": 1,
   "quantum_flux": 2,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 24,
     "y": 58
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 59
+    },
+    "topRight": {
+      "x": 25,
+      "y": 59
+    },
+    "right": {
+      "x": 25,
+      "y": 58
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 57
+    },
+    "bottom": {
+      "x": 24,
+      "y": 57
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 57
+    },
+    "left": {
+      "x": 23,
+      "y": 58
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 59
+    }
   }
 }

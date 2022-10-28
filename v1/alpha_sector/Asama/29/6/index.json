@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16589",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16589",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTidGovkKJvK56JYexeyji2mjGnxMCVGjA7RyFXEVMWy8",
+  "token_name": "Terraform12757",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12757",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXgcWpmqjuPzmjzyzRm3RTsedqo44aUStuzczFs1hBunL",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "Quantum_Shrine",
+  "water": "Funky_River",
   "location": {
     "x": 29,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 29,
+      "y": 7
+    },
+    "topRight": {
+      "x": 30,
+      "y": 7
+    },
+    "right": {
+      "x": 30,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 30,
+      "y": 5
+    },
+    "bottom": {
+      "x": 29,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 28,
+      "y": 5
+    },
+    "left": {
+      "x": 28,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 28,
+      "y": 7
+    }
   }
 }

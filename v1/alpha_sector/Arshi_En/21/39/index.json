@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13432",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13432",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcXyWaKgcj29iiWJbibi2dJ4CzE653r2ynged6ghGR9og",
+  "token_name": "Terraform11923",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11923",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfTSs2eMcyYVRsFFsmfBULsHZp7D9nH1sWyVKiCeqMja9",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 7,
-  "quantum_flux": 6,
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 3,
+  "quantum_flux": 3,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Machine_Shrine",
-  "water": "Saltwater_River",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 21,
     "y": 39
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 40
+    },
+    "topRight": {
+      "x": 22,
+      "y": 40
+    },
+    "right": {
+      "x": 22,
+      "y": 39
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 38
+    },
+    "bottom": {
+      "x": 21,
+      "y": 38
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 38
+    },
+    "left": {
+      "x": 20,
+      "y": 39
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 40
+    }
   }
 }

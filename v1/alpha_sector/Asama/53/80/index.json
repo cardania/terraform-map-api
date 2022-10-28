@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05939",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05939",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWaPiLa7YPGjj99gXKbe1qYcHXuy5XXkVZJb1wkTMov67",
+  "token_name": "Terraform05579",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05579",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmW4bXLqXpzeMKmYfiCrhZHiwoXGtsQuUiubL35uLZV9qR",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 1,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
+  "power_level": 6,
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 53,
     "y": 80
+  },
+  "neighbors": {
+    "top": {
+      "x": 53,
+      "y": 81
+    },
+    "topRight": {
+      "x": 54,
+      "y": 81
+    },
+    "right": {
+      "x": 54,
+      "y": 80
+    },
+    "bottomRight": {
+      "x": 54,
+      "y": 79
+    },
+    "bottom": {
+      "x": 53,
+      "y": 79
+    },
+    "bottonLeft": {
+      "x": 52,
+      "y": 79
+    },
+    "left": {
+      "x": 52,
+      "y": 80
+    },
+    "topLeft": {
+      "x": 52,
+      "y": 81
+    }
   }
 }

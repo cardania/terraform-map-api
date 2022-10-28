@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08581",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08581",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbz8zjtxqCBuR7ETzGg6yPyvHry6u6KRWg2Q5VWdt7FwT",
+  "token_name": "Terraform18485",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18485",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZzuEza4cKMtFQUPxddRNNfm5p81sbcSGbJpH94bqsQ43",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "Solar_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 21,
     "y": 26
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 27
+    },
+    "topRight": {
+      "x": 22,
+      "y": 27
+    },
+    "right": {
+      "x": 22,
+      "y": 26
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 25
+    },
+    "bottom": {
+      "x": 21,
+      "y": 25
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 25
+    },
+    "left": {
+      "x": 20,
+      "y": 26
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 27
+    }
   }
 }

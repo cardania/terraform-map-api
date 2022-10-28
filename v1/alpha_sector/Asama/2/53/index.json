@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01271",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01271",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWdQYZL8TNiut5YBfAq2cnnP8mP9Zt23rRAG7QoYV8esc",
+  "token_name": "Terraform14140",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14140",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdpvQkCqkJW9jdiug9KXHbcafyfTqcAUQCRnfCUjTLDV6",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Evergreen",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
+  "lithoglyphs": "None",
+  "power_level": 2,
   "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Machine_Shrine",
-  "water": "Funky_Lake",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 2,
     "y": 53
+  },
+  "neighbors": {
+    "top": {
+      "x": 2,
+      "y": 54
+    },
+    "topRight": {
+      "x": 3,
+      "y": 54
+    },
+    "right": {
+      "x": 3,
+      "y": 53
+    },
+    "bottomRight": {
+      "x": 3,
+      "y": 52
+    },
+    "bottom": {
+      "x": 2,
+      "y": 52
+    },
+    "bottonLeft": {
+      "x": 1,
+      "y": 52
+    },
+    "left": {
+      "x": 1,
+      "y": 53
+    },
+    "topLeft": {
+      "x": 1,
+      "y": 54
+    }
   }
 }

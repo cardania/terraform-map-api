@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11872",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11872",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV2JeYeDay1Ur5b3rooE4cxg99EGedmsFszfdWRT5Uyus",
+  "token_name": "Terraform06138",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06138",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qma3D9srjkZwWKGYEbYTinu4QE1DXSVRMj4rhVuX3D5JRj",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
   "power_level": 4,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "quantum_flux": 8,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Cursed_Lake",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 70,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 8
+    },
+    "topRight": {
+      "x": 71,
+      "y": 8
+    },
+    "right": {
+      "x": 71,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 6
+    },
+    "bottom": {
+      "x": 70,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 6
+    },
+    "left": {
+      "x": 69,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 8
+    }
   }
 }

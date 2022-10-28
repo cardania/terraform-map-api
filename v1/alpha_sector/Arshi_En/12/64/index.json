@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14284",
+  "token_name": "Terraform02137",
   "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14284",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ2ShhUkJTTfNwJggxPCSETMV4tRZDd3MGEgziKZKs7rC",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02137",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSDoBNFktL4QgtfSKYaMVqLxx7AjTEEk9TX1eksxPHd1M",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 7,
+  "power_level": 7,
+  "quantum_flux": 5,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 12,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 12,
+      "y": 65
+    },
+    "topRight": {
+      "x": 13,
+      "y": 65
+    },
+    "right": {
+      "x": 13,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 13,
+      "y": 63
+    },
+    "bottom": {
+      "x": 12,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 11,
+      "y": 63
+    },
+    "left": {
+      "x": 11,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 11,
+      "y": 65
+    }
   }
 }

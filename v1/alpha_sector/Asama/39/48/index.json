@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04047",
+  "token_name": "Terraform10352",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04047",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXWwtjeEKZjMsvyecTyBcLCZXsXrZHLe9aub7Jsg6J6KV",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10352",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVkqYxSNejqCNgszCDcxduSUh5aTYwT7VhLuC8QNrmfNj",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
   "power_level": 3,
-  "quantum_flux": 6,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 39,
     "y": 48
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 49
+    },
+    "topRight": {
+      "x": 40,
+      "y": 49
+    },
+    "right": {
+      "x": 40,
+      "y": 48
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 47
+    },
+    "bottom": {
+      "x": 39,
+      "y": 47
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 47
+    },
+    "left": {
+      "x": 38,
+      "y": 48
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 49
+    }
   }
 }

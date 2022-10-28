@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01084",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01084",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSxuC1DwTSDXT6pgPWHgmNPSV59AbTZdyGf38nWhq7JA2",
+  "token_name": "Terraform16545",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16545",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmesN6tEBiP9tqF9M4751Jfc25ohfaDjGLErkj2R1ji3z2",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 7,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
+  "quantum_flux": 8,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
   "water": "Saltwater_Lake",
   "location": {
     "x": 36,
     "y": 72
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 73
+    },
+    "topRight": {
+      "x": 37,
+      "y": 73
+    },
+    "right": {
+      "x": 37,
+      "y": 72
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 71
+    },
+    "bottom": {
+      "x": 36,
+      "y": 71
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 71
+    },
+    "left": {
+      "x": 35,
+      "y": 72
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 73
+    }
   }
 }

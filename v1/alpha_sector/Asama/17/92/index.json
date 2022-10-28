@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16314",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16314",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmU2us6FMYciR6UWnM5zff96SQoNJYHYGCnvkPtZprJvSW",
+  "token_name": "Terraform05533",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05533",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUfYNXKENvM45PArEm5reocyTDRV4nPezTqcaYKcd9r9i",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
   "forests": "None",
   "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 17,
     "y": 92
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 93
+    },
+    "topRight": {
+      "x": 18,
+      "y": 93
+    },
+    "right": {
+      "x": 18,
+      "y": 92
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 91
+    },
+    "bottom": {
+      "x": 17,
+      "y": 91
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 91
+    },
+    "left": {
+      "x": 16,
+      "y": 92
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 93
+    }
   }
 }

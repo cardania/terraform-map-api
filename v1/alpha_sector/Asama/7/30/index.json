@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10589",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10589",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ6BaT6YH7uaWsJM5FkVcSo9kw5JqV3uae7d5Cf4MBSoM",
+  "token_name": "Terraform16382",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16382",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUv994GnedkKJqfBVR7S8ynCRjuP4b4SncT4RWUdJcXZo",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "lithoglyphs": "None",
   "power_level": 3,
-  "quantum_flux": 5,
+  "quantum_flux": 7,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
-  "shrine": "Golden_Shrine",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 7,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 31
+    },
+    "topRight": {
+      "x": 8,
+      "y": 31
+    },
+    "right": {
+      "x": 8,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 29
+    },
+    "bottom": {
+      "x": 7,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 29
+    },
+    "left": {
+      "x": 6,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 31
+    }
   }
 }

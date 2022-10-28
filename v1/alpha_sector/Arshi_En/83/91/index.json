@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13196",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13196",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXPf7HnCumHyzKngg45u8FbQq5nsE1ZkrEFvva9HhEfWF",
+  "token_name": "Terraform18186",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18186",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdcSD4461afRHhKcyK5NzM2yPmATFV7gxkgXtnpexDQjj",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Timelost",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 6,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 83,
     "y": 91
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 92
+    },
+    "topRight": {
+      "x": 84,
+      "y": 92
+    },
+    "right": {
+      "x": 84,
+      "y": 91
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 90
+    },
+    "bottom": {
+      "x": 83,
+      "y": 90
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 90
+    },
+    "left": {
+      "x": 82,
+      "y": 91
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 92
+    }
   }
 }

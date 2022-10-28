@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03202",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03202",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSHJzY6gemxtwF3g5oGjDszkHZWyNHbhNdpo6maRbQd28",
+  "token_name": "Terraform19717",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19717",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmeia2q3ps47vtu9HWN1hhdJGm3gNm24zvLXWVmUDWJMH4",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "power_level": 1,
+  "quantum_flux": 8,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 84,
     "y": 39
+  },
+  "neighbors": {
+    "top": {
+      "x": 84,
+      "y": 40
+    },
+    "topRight": {
+      "x": 85,
+      "y": 40
+    },
+    "right": {
+      "x": 85,
+      "y": 39
+    },
+    "bottomRight": {
+      "x": 85,
+      "y": 38
+    },
+    "bottom": {
+      "x": 84,
+      "y": 38
+    },
+    "bottonLeft": {
+      "x": 83,
+      "y": 38
+    },
+    "left": {
+      "x": 83,
+      "y": 39
+    },
+    "topLeft": {
+      "x": 83,
+      "y": 40
+    }
   }
 }

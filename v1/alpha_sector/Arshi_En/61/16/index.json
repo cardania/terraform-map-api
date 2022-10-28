@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00007",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00007",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcdXgnXuK1uBTfCGrSWAqJx2MWdYiqhs2cnRmCYwyHinR",
+  "token_name": "Terraform02255",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02255",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qme4LRnMykteoLsMXnEmkJVnEQfBa6XHyDg9Xg6cvtm4Qn",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 9,
-  "quantum_flux": 9,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 61,
     "y": 16
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 17
+    },
+    "topRight": {
+      "x": 62,
+      "y": 17
+    },
+    "right": {
+      "x": 62,
+      "y": 16
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 15
+    },
+    "bottom": {
+      "x": 61,
+      "y": 15
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 15
+    },
+    "left": {
+      "x": 60,
+      "y": 16
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 17
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03440",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03440",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcJNM3pLSWpmfaonDBqkSToR3vHXgWCgNL6q78orvWeaK",
+  "token_name": "Terraform06378",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06378",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSe5gXMHfgo8WzbRH3K3N2RmFzq4FUcg4H4eDEoZFfc3t",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 1,
+  "power_level": 2,
   "quantum_flux": 1,
-  "primary_minerals": "Copper",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 9,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 56
+    },
+    "topRight": {
+      "x": 10,
+      "y": 56
+    },
+    "right": {
+      "x": 10,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 54
+    },
+    "bottom": {
+      "x": 9,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 54
+    },
+    "left": {
+      "x": 8,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 56
+    }
   }
 }

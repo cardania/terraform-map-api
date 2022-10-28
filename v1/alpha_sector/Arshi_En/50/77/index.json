@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07872",
+  "token_name": "Terraform16830",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07872",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNiWwbBvLFZBxEPqq9Ng8uJ93Qh3AhMaZPrisA1BsTwbJ",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16830",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfBRhd951gNLXhqz9H8hWfNnN2W2J6twKkme5bAgZAtVB",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 50,
     "y": 77
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 78
+    },
+    "topRight": {
+      "x": 51,
+      "y": 78
+    },
+    "right": {
+      "x": 51,
+      "y": 77
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 76
+    },
+    "bottom": {
+      "x": 50,
+      "y": 76
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 76
+    },
+    "left": {
+      "x": 49,
+      "y": 77
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 78
+    }
   }
 }

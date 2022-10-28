@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07453",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07453",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTt9P5gF79boa4KYHyy7rofwh6upWpjFnpNQvzdmytT5M",
+  "token_name": "Terraform07664",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07664",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdQd3UTL22mctuKTKX6G55EDbLxdiohpzmNhuvFB9K9uE",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Evergreen",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 7,
-  "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Fungal_Shrine",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 99,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 99,
+      "y": 76
+    },
+    "topRight": {
+      "x": 100,
+      "y": 76
+    },
+    "right": {
+      "x": 100,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 100,
+      "y": 74
+    },
+    "bottom": {
+      "x": 99,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 98,
+      "y": 74
+    },
+    "left": {
+      "x": 98,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 98,
+      "y": 76
+    }
   }
 }

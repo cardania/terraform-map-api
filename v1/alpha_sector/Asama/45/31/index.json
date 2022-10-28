@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07445",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07445",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVneiRYxsvv4kzpLVDuKHYwExURj8shC6pXkiHR9KNiVN",
+  "token_name": "Terraform16315",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16315",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUNazGWNEjMq7ZJFZ1AQVceJjDQitkjgpLkCGsAbXDLCd",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 4,
+  "power_level": 8,
   "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 45,
     "y": 31
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 32
+    },
+    "topRight": {
+      "x": 46,
+      "y": 32
+    },
+    "right": {
+      "x": 46,
+      "y": 31
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 30
+    },
+    "bottom": {
+      "x": 45,
+      "y": 30
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 30
+    },
+    "left": {
+      "x": 44,
+      "y": 31
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 32
+    }
   }
 }

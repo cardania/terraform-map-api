@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00173",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00173",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbrHGoGyaEjd2p6cecT1Ud9gm3edhoEDdDSodK4ouDHZJ",
+  "token_name": "Terraform17206",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17206",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdLnNQY9xbeeB5kRzJqVqfbHvAPw9ueu4Z551LPPrFrru",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 6,
   "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 27,
     "y": 18
+  },
+  "neighbors": {
+    "top": {
+      "x": 27,
+      "y": 19
+    },
+    "topRight": {
+      "x": 28,
+      "y": 19
+    },
+    "right": {
+      "x": 28,
+      "y": 18
+    },
+    "bottomRight": {
+      "x": 28,
+      "y": 17
+    },
+    "bottom": {
+      "x": 27,
+      "y": 17
+    },
+    "bottonLeft": {
+      "x": 26,
+      "y": 17
+    },
+    "left": {
+      "x": 26,
+      "y": 18
+    },
+    "topLeft": {
+      "x": 26,
+      "y": 19
+    }
   }
 }

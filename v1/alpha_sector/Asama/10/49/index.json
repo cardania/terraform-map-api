@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16645",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16645",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSuAT8bT9Me9ynLhn4ZxbV6A79U51PvMVadLgmXCdsHG1",
+  "token_name": "Terraform12363",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12363",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVbzpRaX1ip7qwump7RT7s9L3RXb4TQ3mftAdzseXCQSr",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Void_Shrine",
+  "water": "Saltwater_River",
   "location": {
     "x": 10,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 10,
+      "y": 50
+    },
+    "topRight": {
+      "x": 11,
+      "y": 50
+    },
+    "right": {
+      "x": 11,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 11,
+      "y": 48
+    },
+    "bottom": {
+      "x": 10,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 9,
+      "y": 48
+    },
+    "left": {
+      "x": 9,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 9,
+      "y": 50
+    }
   }
 }

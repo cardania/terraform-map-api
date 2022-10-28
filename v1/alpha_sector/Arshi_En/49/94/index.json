@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18168",
+  "token_name": "Terraform13685",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18168",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSPsZiTCfMtvFZ2Aon8bfS18z2NDni2ywf1NfQYtkTSNf",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13685",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSjZKamkGDgoum7XcdQvpjPoQuyKbbRbxFM9YzYzzWkgQ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 9,
-  "primary_minerals": "Cardanium",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 2,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Funky_River",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 49,
     "y": 94
+  },
+  "neighbors": {
+    "top": {
+      "x": 49,
+      "y": 95
+    },
+    "topRight": {
+      "x": 50,
+      "y": 95
+    },
+    "right": {
+      "x": 50,
+      "y": 94
+    },
+    "bottomRight": {
+      "x": 50,
+      "y": 93
+    },
+    "bottom": {
+      "x": 49,
+      "y": 93
+    },
+    "bottonLeft": {
+      "x": 48,
+      "y": 93
+    },
+    "left": {
+      "x": 48,
+      "y": 94
+    },
+    "topLeft": {
+      "x": 48,
+      "y": 95
+    }
   }
 }

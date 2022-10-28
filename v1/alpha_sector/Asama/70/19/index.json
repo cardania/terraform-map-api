@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09037",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09037",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVtBAvwMt2cztRum54eBoxWHYFfEA8absBE2NNDcmvxzQ",
+  "token_name": "Terraform14253",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14253",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUukM6uQ1F5e9XV9kNZEbwaREE8T6j7XMdmASVxjFQEtc",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 2,
+  "power_level": 1,
   "quantum_flux": 4,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 70,
     "y": 19
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 20
+    },
+    "topRight": {
+      "x": 71,
+      "y": 20
+    },
+    "right": {
+      "x": 71,
+      "y": 19
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 18
+    },
+    "bottom": {
+      "x": 70,
+      "y": 18
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 18
+    },
+    "left": {
+      "x": 69,
+      "y": 19
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 20
+    }
   }
 }

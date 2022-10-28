@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01825",
+  "token_name": "Terraform00896",
   "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01825",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRo7mwVpgWFqTxRTsMoXktZBCQPa7RsHAJDPemScsiMWY",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00896",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmT9BNneLmfK81euav8RN5vWjvWhja4pyF77HSC6rPJj3B",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 4,
-  "quantum_flux": 1,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
+  "quantum_flux": 8,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 39,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 51
+    },
+    "topRight": {
+      "x": 40,
+      "y": 51
+    },
+    "right": {
+      "x": 40,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 49
+    },
+    "bottom": {
+      "x": 39,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 49
+    },
+    "left": {
+      "x": 38,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 51
+    }
   }
 }

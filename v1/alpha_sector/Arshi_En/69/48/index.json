@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06882",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06882",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbsj9JHmoaKY2oQCdZgNzUvyaM2dyQS8Ejraq9cZwaak2",
+  "token_name": "Terraform16499",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16499",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVTMWiDFd7UVrCoAVQqpwv3kFAM38gbzFBinQ1gTGgT7P",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 1,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
+  "power_level": 5,
+  "quantum_flux": 8,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 69,
     "y": 48
+  },
+  "neighbors": {
+    "top": {
+      "x": 69,
+      "y": 49
+    },
+    "topRight": {
+      "x": 70,
+      "y": 49
+    },
+    "right": {
+      "x": 70,
+      "y": 48
+    },
+    "bottomRight": {
+      "x": 70,
+      "y": 47
+    },
+    "bottom": {
+      "x": 69,
+      "y": 47
+    },
+    "bottonLeft": {
+      "x": 68,
+      "y": 47
+    },
+    "left": {
+      "x": 68,
+      "y": 48
+    },
+    "topLeft": {
+      "x": 68,
+      "y": 49
+    }
   }
 }

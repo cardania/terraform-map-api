@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00624",
+  "token_name": "Terraform06195",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00624",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmX3pAW44UcYMQGLqJYESJvT21adodpXUvsAnShvHTMbNU",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06195",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNoHBvV7Yn3GuC2L3kpedu51X8XVdagtimi5XCVzXtcMU",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 69,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 69,
+      "y": 8
+    },
+    "topRight": {
+      "x": 70,
+      "y": 8
+    },
+    "right": {
+      "x": 70,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 70,
+      "y": 6
+    },
+    "bottom": {
+      "x": 69,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 68,
+      "y": 6
+    },
+    "left": {
+      "x": 68,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 68,
+      "y": 8
+    }
   }
 }

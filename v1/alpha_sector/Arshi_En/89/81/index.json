@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16365",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16365",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTc2fhLnhveax3UTvs5u9hKXj9dvMgg9EJGzRnbHr4BzQ",
+  "token_name": "Terraform03769",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03769",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc9noFESC8uNLsQto1iwPJdNFGVkjpoHhu57eNCqTjm3u",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Cardanium_Bunker",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 4,
+  "quantum_flux": 8,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 89,
     "y": 81
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 82
+    },
+    "topRight": {
+      "x": 90,
+      "y": 82
+    },
+    "right": {
+      "x": 90,
+      "y": 81
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 80
+    },
+    "bottom": {
+      "x": 89,
+      "y": 80
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 80
+    },
+    "left": {
+      "x": 88,
+      "y": 81
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 82
+    }
   }
 }

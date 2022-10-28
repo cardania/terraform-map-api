@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06278",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06278",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXbsJJfZPeZsAJHa7mCrtTpi9RuCm7CPfPxrxPHsJCxu4",
+  "token_name": "Terraform03130",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03130",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXaPjbzn5EXUghEWinNDrP8SjTpj7PkBGorsnDDmA6y89",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "Antigravity_Cloud",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 1,
-  "quantum_flux": 6,
+  "quantum_flux": 9,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 47,
     "y": 44
+  },
+  "neighbors": {
+    "top": {
+      "x": 47,
+      "y": 45
+    },
+    "topRight": {
+      "x": 48,
+      "y": 45
+    },
+    "right": {
+      "x": 48,
+      "y": 44
+    },
+    "bottomRight": {
+      "x": 48,
+      "y": 43
+    },
+    "bottom": {
+      "x": 47,
+      "y": 43
+    },
+    "bottonLeft": {
+      "x": 46,
+      "y": 43
+    },
+    "left": {
+      "x": 46,
+      "y": 44
+    },
+    "topLeft": {
+      "x": 46,
+      "y": 45
+    }
   }
 }

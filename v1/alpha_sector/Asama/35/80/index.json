@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00362",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00362",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXL1YptBUhvrKt4cjLnQpFqfpotbK1CfENzuA11tCz7D3",
+  "token_name": "Terraform17513",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17513",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ5T8Wy2m5nG8x9sKRW5qh7iAzrJ8TLWt9zjUd6coQEDi",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 8,
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 6,
+  "quantum_flux": 4,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 35,
     "y": 80
+  },
+  "neighbors": {
+    "top": {
+      "x": 35,
+      "y": 81
+    },
+    "topRight": {
+      "x": 36,
+      "y": 81
+    },
+    "right": {
+      "x": 36,
+      "y": 80
+    },
+    "bottomRight": {
+      "x": 36,
+      "y": 79
+    },
+    "bottom": {
+      "x": 35,
+      "y": 79
+    },
+    "bottonLeft": {
+      "x": 34,
+      "y": 79
+    },
+    "left": {
+      "x": 34,
+      "y": 80
+    },
+    "topLeft": {
+      "x": 34,
+      "y": 81
+    }
   }
 }

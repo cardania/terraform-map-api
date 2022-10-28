@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11280",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11280",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYmyDXTMnyWjDAeRvfXFAgABNYLBjpgBk5VYqcbFh9UXv",
+  "token_name": "Terraform03746",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03746",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmS3pyxxxCv25Z3vubmjuW1h4oXe7HPLNv2iQ7wJYQFuBA",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 2,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 7,
+  "quantum_flux": 4,
   "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "shrine": "Quantum_Shrine",
+  "water": "None",
   "location": {
     "x": 17,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 50
+    },
+    "topRight": {
+      "x": 18,
+      "y": 50
+    },
+    "right": {
+      "x": 18,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 48
+    },
+    "bottom": {
+      "x": 17,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 48
+    },
+    "left": {
+      "x": 16,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 50
+    }
   }
 }

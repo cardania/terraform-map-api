@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04551",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04551",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb8MiuB1GC7N3ai3WaHZp7NLQGMd2njfpshnf1bdX6KEX",
+  "token_name": "Terraform14168",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14168",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVCdt6b5DfndPM5PNV33rZHCELhAWmzVC45Ed8hLRUVBx",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 2,
-  "quantum_flux": 7,
+  "quantum_flux": 5,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 5,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 5,
+      "y": 34
+    },
+    "topRight": {
+      "x": 6,
+      "y": 34
+    },
+    "right": {
+      "x": 6,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 6,
+      "y": 32
+    },
+    "bottom": {
+      "x": 5,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 4,
+      "y": 32
+    },
+    "left": {
+      "x": 4,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 4,
+      "y": 34
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00513",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00513",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPsNWYf1AruHyh7WbSFabgcjdnFtfNZDiYFVhc2mz82m3",
+  "token_name": "Terraform10536",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10536",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmarh49r3abfUod9zb3qx3CCcjAvSLEHCkY38wHmENNWtJ",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Palms",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Machine_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 76,
     "y": 44
+  },
+  "neighbors": {
+    "top": {
+      "x": 76,
+      "y": 45
+    },
+    "topRight": {
+      "x": 77,
+      "y": 45
+    },
+    "right": {
+      "x": 77,
+      "y": 44
+    },
+    "bottomRight": {
+      "x": 77,
+      "y": 43
+    },
+    "bottom": {
+      "x": 76,
+      "y": 43
+    },
+    "bottonLeft": {
+      "x": 75,
+      "y": 43
+    },
+    "left": {
+      "x": 75,
+      "y": 44
+    },
+    "topLeft": {
+      "x": 75,
+      "y": 45
+    }
   }
 }

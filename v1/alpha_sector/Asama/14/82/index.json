@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03107",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03107",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcUSkwJuXxwNpFt1sbH7NmLWs538bkqqBTBQMnSSip4sw",
+  "token_name": "Terraform04925",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04925",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRESdUPHXjereEmnuRLPLqrvGZA5u3wQhttwxekHMG5dR",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Nemesis_Hydra",
   "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 3,
+  "power_level": 1,
+  "quantum_flux": 7,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 14,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 14,
+      "y": 83
+    },
+    "topRight": {
+      "x": 15,
+      "y": 83
+    },
+    "right": {
+      "x": 15,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 15,
+      "y": 81
+    },
+    "bottom": {
+      "x": 14,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 13,
+      "y": 81
+    },
+    "left": {
+      "x": 13,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 13,
+      "y": 83
+    }
   }
 }

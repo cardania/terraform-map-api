@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17077",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17077",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmco4rhR4jmQiWRWs5jitno9LKx7nQXg4xg4AjwPmna2pb",
+  "token_name": "Terraform07931",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07931",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ16SxmwQAQXFVLNjuKBibdAx1Wte372omoXtmnCaAJVj",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
+  "power_level": 5,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Red",
+  "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 7,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 30
+    },
+    "topRight": {
+      "x": 8,
+      "y": 30
+    },
+    "right": {
+      "x": 8,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 28
+    },
+    "bottom": {
+      "x": 7,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 28
+    },
+    "left": {
+      "x": 6,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 30
+    }
   }
 }

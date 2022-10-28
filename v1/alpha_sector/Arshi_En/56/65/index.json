@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06131",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06131",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdxLmQW6mWCR7NnFZ7pCqBsuLGZK9pXtBMXGpdMtxQBkN",
+  "token_name": "Terraform03965",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03965",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNj3oMCGVTr8vWQrPxF4LMo3GGPtZkpH242SnsfzBSn2L",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 6,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 9,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Funky_Lake",
+  "shrine": "Solar_Shrine",
+  "water": "None",
   "location": {
     "x": 56,
     "y": 65
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 66
+    },
+    "topRight": {
+      "x": 57,
+      "y": 66
+    },
+    "right": {
+      "x": 57,
+      "y": 65
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 64
+    },
+    "bottom": {
+      "x": 56,
+      "y": 64
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 64
+    },
+    "left": {
+      "x": 55,
+      "y": 65
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 66
+    }
   }
 }

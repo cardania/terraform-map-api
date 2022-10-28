@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02883",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02883",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXb2wwe6YLtC8FXRRwhWn18iyHwNG3bmwwVHisJ1Bx7jH",
+  "token_name": "Terraform14431",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14431",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcErDnLynva1Zf1upfc8MwpPHwNLhhuKUbmARgAYgkfNF",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "None",
-  "fauna": "None",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 100,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 100,
+      "y": 69
+    },
+    "topRight": {
+      "x": 101,
+      "y": 69
+    },
+    "right": {
+      "x": 101,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 101,
+      "y": 67
+    },
+    "bottom": {
+      "x": 100,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 99,
+      "y": 67
+    },
+    "left": {
+      "x": 99,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 99,
+      "y": 69
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11842",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11842",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUtQUcDJbRTckaN2QjsGHnbMsH4FzmfwbkL8EExy25FkQ",
+  "token_name": "Terraform11318",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11318",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVA6FzoYaR4wSVq2SfPLs4rysbj8N3w7btixon98VmmFr",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 6,
-  "quantum_flux": 9,
-  "primary_minerals": "Radium",
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 84,
     "y": 96
+  },
+  "neighbors": {
+    "top": {
+      "x": 84,
+      "y": 97
+    },
+    "topRight": {
+      "x": 85,
+      "y": 97
+    },
+    "right": {
+      "x": 85,
+      "y": 96
+    },
+    "bottomRight": {
+      "x": 85,
+      "y": 95
+    },
+    "bottom": {
+      "x": 84,
+      "y": 95
+    },
+    "bottonLeft": {
+      "x": 83,
+      "y": 95
+    },
+    "left": {
+      "x": 83,
+      "y": 96
+    },
+    "topLeft": {
+      "x": 83,
+      "y": 97
+    }
   }
 }

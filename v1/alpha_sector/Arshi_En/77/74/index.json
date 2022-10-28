@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform03875",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03875",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNmzFkqvV8zH4RSsP43CD1915eWpzUAhDyrUqN8aj3Aut",
+  "token_name": "Terraform07481",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07481",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUeCahXg9DjEZ6Uh2Ci189JBntkXHUYP6Njj4pF95ortp",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 1,
-  "primary_minerals": "Radium",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 77,
     "y": 74
+  },
+  "neighbors": {
+    "top": {
+      "x": 77,
+      "y": 75
+    },
+    "topRight": {
+      "x": 78,
+      "y": 75
+    },
+    "right": {
+      "x": 78,
+      "y": 74
+    },
+    "bottomRight": {
+      "x": 78,
+      "y": 73
+    },
+    "bottom": {
+      "x": 77,
+      "y": 73
+    },
+    "bottonLeft": {
+      "x": 76,
+      "y": 73
+    },
+    "left": {
+      "x": 76,
+      "y": 74
+    },
+    "topLeft": {
+      "x": 76,
+      "y": 75
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08848",
+  "token_name": "Terraform18121",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08848",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUern4abYDXhAEuHoiK58Xau6YhUUoi8sAqbT65UezndM",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18121",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZAAgMh1BDFTRSme341K9MhmmeifR4BiGswWz5D76AYdR",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 8,
+  "quantum_flux": 4,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 20,
     "y": 63
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 64
+    },
+    "topRight": {
+      "x": 21,
+      "y": 64
+    },
+    "right": {
+      "x": 21,
+      "y": 63
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 62
+    },
+    "bottom": {
+      "x": 20,
+      "y": 62
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 62
+    },
+    "left": {
+      "x": 19,
+      "y": 63
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 64
+    }
   }
 }

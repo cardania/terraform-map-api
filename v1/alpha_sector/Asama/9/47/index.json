@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11175",
+  "token_name": "Terraform15890",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11175",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaQiYzThCDTwyYRkDFVCtGw3Mw6WqZjKdcCYED3AZwaiH",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15890",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmShWWYaPkkeAm2yWuVF8RrFvqroZaGkDn6SA7n5p8h2Bt",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 8,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
+  "power_level": 6,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 9,
     "y": 47
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 48
+    },
+    "topRight": {
+      "x": 10,
+      "y": 48
+    },
+    "right": {
+      "x": 10,
+      "y": 47
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 46
+    },
+    "bottom": {
+      "x": 9,
+      "y": 46
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 46
+    },
+    "left": {
+      "x": 8,
+      "y": 47
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 48
+    }
   }
 }

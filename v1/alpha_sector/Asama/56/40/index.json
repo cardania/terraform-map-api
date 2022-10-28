@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01905",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01905",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTCpioAQbNPHBUKtRm6erNEC9esqKuMtojoTdWt3fvXKy",
+  "token_name": "Terraform04797",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04797",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbGSSA5j3PJumXjZ5kVLsB6bzWg5y1vPQytDpFSC4rnPS",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
+  "quantum_flux": 1,
+  "primary_minerals": "Iron",
   "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Cursed_River",
   "location": {
     "x": 56,
     "y": 40
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 41
+    },
+    "topRight": {
+      "x": 57,
+      "y": 41
+    },
+    "right": {
+      "x": 57,
+      "y": 40
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 39
+    },
+    "bottom": {
+      "x": 56,
+      "y": 39
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 39
+    },
+    "left": {
+      "x": 55,
+      "y": 40
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 41
+    }
   }
 }

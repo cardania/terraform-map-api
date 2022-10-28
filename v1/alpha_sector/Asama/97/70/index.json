@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07031",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07031",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXnuEFb1c4JcWcLB68FJ4erjm9pFuMnEqAqFNaaWFf4jD",
+  "token_name": "Terraform12021",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12021",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeWRNHdvvXiqiUGaC8EeUCdpopazNpNs6jA7F2JUo7gub",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
   "power_level": 1,
   "quantum_flux": 2,
-  "primary_minerals": "None",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Cursed_River",
   "location": {
     "x": 97,
     "y": 70
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 71
+    },
+    "topRight": {
+      "x": 98,
+      "y": 71
+    },
+    "right": {
+      "x": 98,
+      "y": 70
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 69
+    },
+    "bottom": {
+      "x": 97,
+      "y": 69
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 69
+    },
+    "left": {
+      "x": 96,
+      "y": 70
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 71
+    }
   }
 }

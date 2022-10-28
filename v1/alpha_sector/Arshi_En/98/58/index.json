@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10063",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10063",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUGixvvFZyWJW5F8mHtELJFNGydkRC33pZQUU2JYKYsXM",
+  "token_name": "Terraform09828",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09828",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd2uwiL98Zd1Q2QnweD6jz95yeGBcW2Fi311kYGTx4aes",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 9,
-  "primary_minerals": "Iron",
+  "power_level": 4,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Funky_River",
+  "shrine": "None",
+  "water": "Funky_Lake",
   "location": {
     "x": 98,
     "y": 58
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 59
+    },
+    "topRight": {
+      "x": 99,
+      "y": 59
+    },
+    "right": {
+      "x": 99,
+      "y": 58
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 57
+    },
+    "bottom": {
+      "x": 98,
+      "y": 57
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 57
+    },
+    "left": {
+      "x": 97,
+      "y": 58
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 59
+    }
   }
 }

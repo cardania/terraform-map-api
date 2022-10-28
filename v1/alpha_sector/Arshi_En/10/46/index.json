@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17467",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17467",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWkfkRCV6AYmdth7houKV4ePE5VvGxLuPyBDpyaAbgjA6",
+  "token_name": "Terraform14223",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14223",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPhpw7wEEd7rWynNgdmAeheb2BCvt1aJDZo2SbMfTyqfa",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
   "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Toxic_River",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 10,
     "y": 46
+  },
+  "neighbors": {
+    "top": {
+      "x": 10,
+      "y": 47
+    },
+    "topRight": {
+      "x": 11,
+      "y": 47
+    },
+    "right": {
+      "x": 11,
+      "y": 46
+    },
+    "bottomRight": {
+      "x": 11,
+      "y": 45
+    },
+    "bottom": {
+      "x": 10,
+      "y": 45
+    },
+    "bottonLeft": {
+      "x": 9,
+      "y": 45
+    },
+    "left": {
+      "x": 9,
+      "y": 46
+    },
+    "topLeft": {
+      "x": 9,
+      "y": 47
+    }
   }
 }

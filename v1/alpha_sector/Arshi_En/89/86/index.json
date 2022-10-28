@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15825",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15825",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZYdzwswhbkjho9DGvtNvTFZCxTQ3ipd514gcGVxKYQ1n",
+  "token_name": "Terraform07502",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07502",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ2dsASUipvCf2RBPQExQcQMrYtcQDfqspYQrnHCN9Dz3",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 2,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 89,
     "y": 86
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 87
+    },
+    "topRight": {
+      "x": 90,
+      "y": 87
+    },
+    "right": {
+      "x": 90,
+      "y": 86
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 85
+    },
+    "bottom": {
+      "x": 89,
+      "y": 85
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 85
+    },
+    "left": {
+      "x": 88,
+      "y": 86
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 87
+    }
   }
 }

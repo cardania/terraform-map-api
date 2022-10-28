@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00124",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00124",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWXMmyaqhxe97obSViaHQ1ofPrQTPvTgWYhU4qkFtZRNg",
+  "token_name": "Terraform09131",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09131",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdCKAMPj27osYdm95AhzkaMMxgyzhjnKbq83QcC1GvuK9",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Prismaleaf",
+  "fauna": "Livestock",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
-  "shrine": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 6,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "Fungal_Shrine",
   "water": "Freshwater_Lake",
   "location": {
     "x": 87,
     "y": 58
+  },
+  "neighbors": {
+    "top": {
+      "x": 87,
+      "y": 59
+    },
+    "topRight": {
+      "x": 88,
+      "y": 59
+    },
+    "right": {
+      "x": 88,
+      "y": 58
+    },
+    "bottomRight": {
+      "x": 88,
+      "y": 57
+    },
+    "bottom": {
+      "x": 87,
+      "y": 57
+    },
+    "bottonLeft": {
+      "x": 86,
+      "y": 57
+    },
+    "left": {
+      "x": 86,
+      "y": 58
+    },
+    "topLeft": {
+      "x": 86,
+      "y": 59
+    }
   }
 }

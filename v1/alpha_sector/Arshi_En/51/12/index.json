@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01135",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01135",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfPNesjawecpDknPrqKvvfnkg5YAVggaDWrkCFf1bEzVR",
+  "token_name": "Terraform00135",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00135",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdpfq9iQe6ANuU1LGmpaLyt4bbeJaVgj9Zj3sj9Feaebz",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 1,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 2,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 51,
     "y": 12
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 13
+    },
+    "topRight": {
+      "x": 52,
+      "y": 13
+    },
+    "right": {
+      "x": 52,
+      "y": 12
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 11
+    },
+    "bottom": {
+      "x": 51,
+      "y": 11
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 11
+    },
+    "left": {
+      "x": 50,
+      "y": 12
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 13
+    }
   }
 }

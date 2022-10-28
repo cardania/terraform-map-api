@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13660",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13660",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeB4MMH4W2d5mwapP141kUo9YdZHQtYGt2JNMaFx5tNFV",
+  "token_name": "Terraform08604",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08604",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTFvjR24rzBEQzYG4u7mPetHhfP9FJTEP1tswv9CREYar",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 7,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 5,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 96,
     "y": 53
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 54
+    },
+    "topRight": {
+      "x": 97,
+      "y": 54
+    },
+    "right": {
+      "x": 97,
+      "y": 53
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 52
+    },
+    "bottom": {
+      "x": 96,
+      "y": 52
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 52
+    },
+    "left": {
+      "x": 95,
+      "y": 53
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 54
+    }
   }
 }

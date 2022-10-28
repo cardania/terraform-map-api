@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15579",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15579",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSVoC8fz8eHT6ETambUfCRLCtxev2z8C6Jru5s8v65vxb",
+  "token_name": "Terraform17113",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17113",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmaq3R7CUt97N3wMrBzP4PACcDqBmweseaUiBSr3J2Y2cj",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Cardanium_Bunker",
   "fauna": "Ultrasaurs",
-  "forests": "Palms",
+  "forests": "Prismaleaf",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 83,
     "y": 54
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 55
+    },
+    "topRight": {
+      "x": 84,
+      "y": 55
+    },
+    "right": {
+      "x": 84,
+      "y": 54
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 53
+    },
+    "bottom": {
+      "x": 83,
+      "y": 53
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 53
+    },
+    "left": {
+      "x": 82,
+      "y": 54
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 55
+    }
   }
 }

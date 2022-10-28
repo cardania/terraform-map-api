@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09651",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09651",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQrawES9wLTugHATXJqerXnzaSAdY3K2bKJUoZLmWVxYk",
+  "token_name": "Terraform12878",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12878",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUmdhPyudRSoXX7zmgiBd5ASsvLQbeU7cWR44NpGYLqvg",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 8,
-  "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
-  "water": "None",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Void_Shrine",
+  "water": "Toxic_River",
   "location": {
     "x": 49,
     "y": 40
+  },
+  "neighbors": {
+    "top": {
+      "x": 49,
+      "y": 41
+    },
+    "topRight": {
+      "x": 50,
+      "y": 41
+    },
+    "right": {
+      "x": 50,
+      "y": 40
+    },
+    "bottomRight": {
+      "x": 50,
+      "y": 39
+    },
+    "bottom": {
+      "x": 49,
+      "y": 39
+    },
+    "bottonLeft": {
+      "x": 48,
+      "y": 39
+    },
+    "left": {
+      "x": 48,
+      "y": 40
+    },
+    "topLeft": {
+      "x": 48,
+      "y": 41
+    }
   }
 }

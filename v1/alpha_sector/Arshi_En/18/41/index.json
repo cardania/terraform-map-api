@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12649",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12649",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNRPYk7piLfLcDxXcAYGXQfTN7wAmpfnwXjaxkqZXQx4g",
+  "token_name": "Terraform05314",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05314",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbZ4r9FZieVqTtt6ntGjZ7qAW5vMisBtHqDF9XBEgA1kP",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 18,
     "y": 41
+  },
+  "neighbors": {
+    "top": {
+      "x": 18,
+      "y": 42
+    },
+    "topRight": {
+      "x": 19,
+      "y": 42
+    },
+    "right": {
+      "x": 19,
+      "y": 41
+    },
+    "bottomRight": {
+      "x": 19,
+      "y": 40
+    },
+    "bottom": {
+      "x": 18,
+      "y": 40
+    },
+    "bottonLeft": {
+      "x": 17,
+      "y": 40
+    },
+    "left": {
+      "x": 17,
+      "y": 41
+    },
+    "topLeft": {
+      "x": 17,
+      "y": 42
+    }
   }
 }

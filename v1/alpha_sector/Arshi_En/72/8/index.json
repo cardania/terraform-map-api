@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06390",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06390",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qme5AWC1h5NNucMUpbxMHwi5bPuF7gbuN4sxX8JqeKyZVK",
+  "token_name": "Terraform18376",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18376",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf36U8GSJrndGr2p1qKY2f4d8ft9PBifGN3UPDFkDRMp8",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 6,
   "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "None",
-  "water": "None",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 72,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 72,
+      "y": 9
+    },
+    "topRight": {
+      "x": 73,
+      "y": 9
+    },
+    "right": {
+      "x": 73,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 73,
+      "y": 7
+    },
+    "bottom": {
+      "x": 72,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 71,
+      "y": 7
+    },
+    "left": {
+      "x": 71,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 71,
+      "y": 9
+    }
   }
 }

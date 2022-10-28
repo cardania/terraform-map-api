@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08294",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08294",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQSg6sEywyPuxbZHonihgFJtjSJxyQ3rpa8va574LBfZD",
+  "token_name": "Terraform00209",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00209",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQTDBovCVerd7SXt3Bo8qKr96sgXHYFzpiNwEBVghH4xq",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "None",
   "location": {
     "x": 58,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 58,
+      "y": 3
+    },
+    "topRight": {
+      "x": 59,
+      "y": 3
+    },
+    "right": {
+      "x": 59,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 59,
+      "y": 1
+    },
+    "bottom": {
+      "x": 58,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 57,
+      "y": 1
+    },
+    "left": {
+      "x": 57,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 57,
+      "y": 3
+    }
   }
 }

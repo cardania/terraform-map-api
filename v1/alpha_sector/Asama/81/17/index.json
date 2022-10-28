@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04399",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04399",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbxpfyY3b2uTHzpyYNjQr74F2jwGcrHEC9P7wPDJLJ2q6",
+  "token_name": "Terraform00846",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00846",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUHMGxfk7h39gZ1qbHqChPGf8xpmMh7n9pwmMxrdiXZgv",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 7,
+  "power_level": 9,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 81,
     "y": 17
+  },
+  "neighbors": {
+    "top": {
+      "x": 81,
+      "y": 18
+    },
+    "topRight": {
+      "x": 82,
+      "y": 18
+    },
+    "right": {
+      "x": 82,
+      "y": 17
+    },
+    "bottomRight": {
+      "x": 82,
+      "y": 16
+    },
+    "bottom": {
+      "x": 81,
+      "y": 16
+    },
+    "bottonLeft": {
+      "x": 80,
+      "y": 16
+    },
+    "left": {
+      "x": 80,
+      "y": 17
+    },
+    "topLeft": {
+      "x": 80,
+      "y": 18
+    }
   }
 }

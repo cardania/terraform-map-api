@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03463",
+  "token_name": "Terraform09562",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03463",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ2hwguPQhWH9wpV7AWDjhF1HCsTvzbvY9pMRi9v2WXWa",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09562",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVHrG7HadNGSKKkbpZarAzcuKPSMnBm3CZy6yAbn4EBt6",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 6,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 2,
     "y": 42
+  },
+  "neighbors": {
+    "top": {
+      "x": 2,
+      "y": 43
+    },
+    "topRight": {
+      "x": 3,
+      "y": 43
+    },
+    "right": {
+      "x": 3,
+      "y": 42
+    },
+    "bottomRight": {
+      "x": 3,
+      "y": 41
+    },
+    "bottom": {
+      "x": 2,
+      "y": 41
+    },
+    "bottonLeft": {
+      "x": 1,
+      "y": 41
+    },
+    "left": {
+      "x": 1,
+      "y": 42
+    },
+    "topLeft": {
+      "x": 1,
+      "y": 43
+    }
   }
 }

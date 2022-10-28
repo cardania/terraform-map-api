@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11909",
+  "token_name": "Terraform09342",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11909",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdvKssQnr8gXxfVgjTW6A2BRMTatKhMB91KLaixff96Fm",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09342",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQyGPPeb7VQVFycKQ4iGbxMUZ7yJXKKxf8atXSNN55cuE",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
   "quantum_flux": 2,
   "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "None",
   "location": {
     "x": 46,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 46,
+      "y": 31
+    },
+    "topRight": {
+      "x": 47,
+      "y": 31
+    },
+    "right": {
+      "x": 47,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 47,
+      "y": 29
+    },
+    "bottom": {
+      "x": 46,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 45,
+      "y": 29
+    },
+    "left": {
+      "x": 45,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 45,
+      "y": 31
+    }
   }
 }

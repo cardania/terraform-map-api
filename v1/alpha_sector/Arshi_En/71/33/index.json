@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09899",
+  "token_name": "Terraform01866",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09899",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQAguQXM7weCQ44Jb3PWy3qrtA48neRzjfRECwH8LNR6v",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01866",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRoWqdqfxsKpL54om1TMMBwnhEBEbXYzQJbLaEgtjgiyG",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Timelost",
   "power_level": 4,
-  "quantum_flux": 8,
-  "primary_minerals": "Iron",
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_Lake",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 71,
     "y": 33
+  },
+  "neighbors": {
+    "top": {
+      "x": 71,
+      "y": 34
+    },
+    "topRight": {
+      "x": 72,
+      "y": 34
+    },
+    "right": {
+      "x": 72,
+      "y": 33
+    },
+    "bottomRight": {
+      "x": 72,
+      "y": 32
+    },
+    "bottom": {
+      "x": 71,
+      "y": 32
+    },
+    "bottonLeft": {
+      "x": 70,
+      "y": 32
+    },
+    "left": {
+      "x": 70,
+      "y": 33
+    },
+    "topLeft": {
+      "x": 70,
+      "y": 34
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14745",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14745",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUtjGZViMYSdompcbSt1TTR1qknpxHuBLcF9wqukgoK9a",
+  "token_name": "Terraform07573",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07573",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXRbRsaiz9BgfCQ6hF7oNUQpBLvD8PEUtKcXnYKxXwuoN",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Livestock",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
   "forests": "Palms",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
   "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "quantum_flux": 8,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 1,
     "y": 81
+  },
+  "neighbors": {
+    "top": {
+      "x": 1,
+      "y": 82
+    },
+    "topRight": {
+      "x": 2,
+      "y": 82
+    },
+    "right": {
+      "x": 2,
+      "y": 81
+    },
+    "bottomRight": {
+      "x": 2,
+      "y": 80
+    },
+    "bottom": {
+      "x": 1,
+      "y": 80
+    },
+    "bottonLeft": {
+      "x": 0,
+      "y": 80
+    },
+    "left": {
+      "x": 0,
+      "y": 81
+    },
+    "topLeft": {
+      "x": 0,
+      "y": 82
+    }
   }
 }

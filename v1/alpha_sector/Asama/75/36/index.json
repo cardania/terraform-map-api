@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14290",
+  "token_name": "Terraform06058",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14290",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPZy6UJN1cQ6Wtr5BRcEd1mrCkDs9EFLCqdtTZajHXM2i",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06058",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTo2ejCjsE1CSL4rvGTtFXS33sUb5F2mLfkYeTYarvz3c",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 4,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 75,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 37
+    },
+    "topRight": {
+      "x": 76,
+      "y": 37
+    },
+    "right": {
+      "x": 76,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 35
+    },
+    "bottom": {
+      "x": 75,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 35
+    },
+    "left": {
+      "x": 74,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 37
+    }
   }
 }

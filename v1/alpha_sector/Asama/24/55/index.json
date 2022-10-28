@@ -1,18 +1,18 @@
 {
-  "token_name": "Terraform08042",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08042",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeHCFtPg4x8LzfFK4ua1mkXNYyyLU1EKQ4SMCHXmdccHN",
+  "token_name": "Terraform11739",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11739",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbLf6NSmmgE5g2UA3BPwAtf1cUQfjDCbp5QG3SLcqMK5M",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Critters",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 9,
-  "quantum_flux": 1,
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 7,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 24,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 56
+    },
+    "topRight": {
+      "x": 25,
+      "y": 56
+    },
+    "right": {
+      "x": 25,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 54
+    },
+    "bottom": {
+      "x": 24,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 54
+    },
+    "left": {
+      "x": 23,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 56
+    }
   }
 }

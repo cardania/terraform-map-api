@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19483",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19483",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZCZirvHQZakFMKMAKdXamEbm1vRSNAabN3FwZk3yyexG",
+  "token_name": "Terraform09587",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09587",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmci8VLacNnTVvLqM6TCZYCKnYTCuNp8Hd5SBJBJGyd2b7",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Cardanium_Bunker",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 4,
   "quantum_flux": 7,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Solar_Shrine",
-  "water": "Funky_Lake",
+  "shrine": "None",
+  "water": "Funky_River",
   "location": {
     "x": 25,
     "y": 79
+  },
+  "neighbors": {
+    "top": {
+      "x": 25,
+      "y": 80
+    },
+    "topRight": {
+      "x": 26,
+      "y": 80
+    },
+    "right": {
+      "x": 26,
+      "y": 79
+    },
+    "bottomRight": {
+      "x": 26,
+      "y": 78
+    },
+    "bottom": {
+      "x": 25,
+      "y": 78
+    },
+    "bottonLeft": {
+      "x": 24,
+      "y": 78
+    },
+    "left": {
+      "x": 24,
+      "y": 79
+    },
+    "topLeft": {
+      "x": 24,
+      "y": 80
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19096",
+  "token_name": "Terraform16203",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19096",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaghP4pM2DDToBKj39gjY5aSKDpxD39caG51k5Zcngi3d",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16203",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNw4vNyQzPNr8bhkwhfDrLXQ7Dr8VCKBex4AJu4rnwN2Y",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 7,
-  "quantum_flux": 5,
-  "primary_minerals": "Copper",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 21,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 44
+    },
+    "topRight": {
+      "x": 22,
+      "y": 44
+    },
+    "right": {
+      "x": 22,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 42
+    },
+    "bottom": {
+      "x": 21,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 42
+    },
+    "left": {
+      "x": 20,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 44
+    }
   }
 }

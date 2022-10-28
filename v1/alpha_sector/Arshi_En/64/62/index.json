@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15140",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15140",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdoBtRuK6yRJLNK6BkRpXiK8jJib2oWjpiPwaj1tJMFpt",
+  "token_name": "Terraform02602",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02602",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdmjSKiGPDuD2G68W22zHuQe3fMgA5GUAhCzAbmkRYsSa",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 5,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 64,
     "y": 62
+  },
+  "neighbors": {
+    "top": {
+      "x": 64,
+      "y": 63
+    },
+    "topRight": {
+      "x": 65,
+      "y": 63
+    },
+    "right": {
+      "x": 65,
+      "y": 62
+    },
+    "bottomRight": {
+      "x": 65,
+      "y": 61
+    },
+    "bottom": {
+      "x": 64,
+      "y": 61
+    },
+    "bottonLeft": {
+      "x": 63,
+      "y": 61
+    },
+    "left": {
+      "x": 63,
+      "y": 62
+    },
+    "topLeft": {
+      "x": 63,
+      "y": 63
+    }
   }
 }

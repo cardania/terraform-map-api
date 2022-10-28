@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07692",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07692",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWGDMoahqMoZWGYS4wDebLb7RDbPbJCxHXfKzrEEgNc9o",
+  "token_name": "Terraform14540",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14540",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmcwj5borw4nY1PkaG8X5c9JomLPbgtiLoRownELaVW13g",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Machine_Shrine",
-  "water": "Toxic_River",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 13,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 61
+    },
+    "topRight": {
+      "x": 14,
+      "y": 61
+    },
+    "right": {
+      "x": 14,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 59
+    },
+    "bottom": {
+      "x": 13,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 59
+    },
+    "left": {
+      "x": 12,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 61
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17840",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17840",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdapXKfF4HffqR7MEMR6C6xWtguPU96FZLCphc63rm61q",
+  "token_name": "Terraform14522",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14522",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmb4eqCrSzK7QR9sJeeyGB8j43JarjCFjJ6cUXAgyy4LYx",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 6,
   "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Cursed_River",
   "location": {
     "x": 23,
     "y": 26
+  },
+  "neighbors": {
+    "top": {
+      "x": 23,
+      "y": 27
+    },
+    "topRight": {
+      "x": 24,
+      "y": 27
+    },
+    "right": {
+      "x": 24,
+      "y": 26
+    },
+    "bottomRight": {
+      "x": 24,
+      "y": 25
+    },
+    "bottom": {
+      "x": 23,
+      "y": 25
+    },
+    "bottonLeft": {
+      "x": 22,
+      "y": 25
+    },
+    "left": {
+      "x": 22,
+      "y": 26
+    },
+    "topLeft": {
+      "x": 22,
+      "y": 27
+    }
   }
 }

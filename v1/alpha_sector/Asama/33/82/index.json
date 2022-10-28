@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18049",
+  "token_name": "Terraform04643",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18049",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVN7Ne4TnfyscTDQRwwNF9Csi1zUX79AbbnPVbTsCu6LP",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04643",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNzhHLqv9b68wbGsg5Ab7obzPPQXFrAtV3xzr6miLPrcQ",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "power_level": 8,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 33,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 33,
+      "y": 83
+    },
+    "topRight": {
+      "x": 34,
+      "y": 83
+    },
+    "right": {
+      "x": 34,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 34,
+      "y": 81
+    },
+    "bottom": {
+      "x": 33,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 32,
+      "y": 81
+    },
+    "left": {
+      "x": 32,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 32,
+      "y": 83
+    }
   }
 }

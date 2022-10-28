@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07397",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07397",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSdNzx1HWSvddMQQnUDwmtvK4UKXbFH4c29xz6wmdCSus",
+  "token_name": "Terraform18163",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18163",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZTMqBb3MWjWbSWMmaYtHFJzurcueFWEQWWkG8BGKUFPc",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 3,
+  "power_level": 4,
+  "quantum_flux": 5,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "Solar_Shrine",
   "water": "None",
   "location": {
     "x": 60,
     "y": 32
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 33
+    },
+    "topRight": {
+      "x": 61,
+      "y": 33
+    },
+    "right": {
+      "x": 61,
+      "y": 32
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 31
+    },
+    "bottom": {
+      "x": 60,
+      "y": 31
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 31
+    },
+    "left": {
+      "x": 59,
+      "y": 32
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 33
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01757",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01757",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaTDdUuqQLqk9L5k9JnBKLGqLYkoyHcLNyZqtNqANp3ea",
+  "token_name": "Terraform14210",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14210",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZa9NSgkmiDzyc7yGubybphRgdRq7CQmGF3QHTGQ1rC5r",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Palms",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 9,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 74,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 14
+    },
+    "topRight": {
+      "x": 75,
+      "y": 14
+    },
+    "right": {
+      "x": 75,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 12
+    },
+    "bottom": {
+      "x": 74,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 12
+    },
+    "left": {
+      "x": 73,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 14
+    }
   }
 }

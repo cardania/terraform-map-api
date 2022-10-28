@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05786",
+  "token_name": "Terraform14247",
   "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05786",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXFSNcxd3Fe6ZDPJde5qR8ciXtyZeJAVx8vkBGvhrKfMu",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14247",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQEgQkRE8TBzpz5Hxi4DQxSNfh1J7CvsWJUsMcDUQHJ1d",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 25,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 25,
+      "y": 7
+    },
+    "topRight": {
+      "x": 26,
+      "y": 7
+    },
+    "right": {
+      "x": 26,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 26,
+      "y": 5
+    },
+    "bottom": {
+      "x": 25,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 24,
+      "y": 5
+    },
+    "left": {
+      "x": 24,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 24,
+      "y": 7
+    }
   }
 }

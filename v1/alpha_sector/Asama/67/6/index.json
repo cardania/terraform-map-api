@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05891",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05891",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qme4YpxAW3qpRaZc34Uvj6gi1cXACs8gnBr8iG1fKEBYyx",
+  "token_name": "Terraform10351",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10351",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmckin8ffz4ME5VrfuuqAMoc5VgWF61fspNxFfwa7TxdMR",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 1,
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 7,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "None",
   "location": {
     "x": 67,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 67,
+      "y": 7
+    },
+    "topRight": {
+      "x": 68,
+      "y": 7
+    },
+    "right": {
+      "x": 68,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 68,
+      "y": 5
+    },
+    "bottom": {
+      "x": 67,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 66,
+      "y": 5
+    },
+    "left": {
+      "x": 66,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 66,
+      "y": 7
+    }
   }
 }

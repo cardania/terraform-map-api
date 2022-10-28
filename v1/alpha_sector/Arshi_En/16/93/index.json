@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00926",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00926",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbvKbEhxkV82jrcPNTGmqejuiC67fuu8gvhbVPYkp6vos",
+  "token_name": "Terraform11262",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11262",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUATVjMzB3ZH6Y7gCC63J4Pnws6nmoaJuCX84Mi6pLmtD",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
   "power_level": 2,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 16,
     "y": 93
+  },
+  "neighbors": {
+    "top": {
+      "x": 16,
+      "y": 94
+    },
+    "topRight": {
+      "x": 17,
+      "y": 94
+    },
+    "right": {
+      "x": 17,
+      "y": 93
+    },
+    "bottomRight": {
+      "x": 17,
+      "y": 92
+    },
+    "bottom": {
+      "x": 16,
+      "y": 92
+    },
+    "bottonLeft": {
+      "x": 15,
+      "y": 92
+    },
+    "left": {
+      "x": 15,
+      "y": 93
+    },
+    "topLeft": {
+      "x": 15,
+      "y": 94
+    }
   }
 }

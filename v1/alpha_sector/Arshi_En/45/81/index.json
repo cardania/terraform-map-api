@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11716",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11716",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXrndCBDhTAeBA7g2Xdf6rsMiEwMSfT65rVMfmfKtadDU",
+  "token_name": "Terraform15028",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15028",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPUeAoNExS66KaKndJSVU4jspJ3AWFzvMEeHcsXhJv8Sn",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "Toxic_River",
   "location": {
     "x": 45,
     "y": 81
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 82
+    },
+    "topRight": {
+      "x": 46,
+      "y": 82
+    },
+    "right": {
+      "x": 46,
+      "y": 81
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 80
+    },
+    "bottom": {
+      "x": 45,
+      "y": 80
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 80
+    },
+    "left": {
+      "x": 44,
+      "y": 81
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 82
+    }
   }
 }

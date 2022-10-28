@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02672",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02672",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUtMbvfEozSdSjxYjsiggQBwecTT4CkAJnJG3fveQzGb4",
+  "token_name": "Terraform01098",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01098",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZg5e7ZNFKr6NEwYpf1ZaWJRe6rWY2TpeyrdUhb8GxNzw",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 9,
-  "quantum_flux": 5,
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Palms",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 8,
+  "quantum_flux": 6,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 36,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 51
+    },
+    "topRight": {
+      "x": 37,
+      "y": 51
+    },
+    "right": {
+      "x": 37,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 49
+    },
+    "bottom": {
+      "x": 36,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 49
+    },
+    "left": {
+      "x": 35,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 51
+    }
   }
 }

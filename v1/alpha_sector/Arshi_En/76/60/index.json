@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18349",
+  "token_name": "Terraform13394",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18349",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc3hzoUg7e8XDQ2acbzRHY1eVt8CxXsiTf5TvpQ9VmKD3",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13394",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmREu8Wptoxb3m1UAn6LRS74jSPKSHW4xvxmNUGDRkbqwo",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Ancient_Ruins",
+  "power_level": 6,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
   "water": "Freshwater_Lake",
   "location": {
     "x": 76,
     "y": 60
+  },
+  "neighbors": {
+    "top": {
+      "x": 76,
+      "y": 61
+    },
+    "topRight": {
+      "x": 77,
+      "y": 61
+    },
+    "right": {
+      "x": 77,
+      "y": 60
+    },
+    "bottomRight": {
+      "x": 77,
+      "y": 59
+    },
+    "bottom": {
+      "x": 76,
+      "y": 59
+    },
+    "bottonLeft": {
+      "x": 75,
+      "y": 59
+    },
+    "left": {
+      "x": 75,
+      "y": 60
+    },
+    "topLeft": {
+      "x": 75,
+      "y": 61
+    }
   }
 }

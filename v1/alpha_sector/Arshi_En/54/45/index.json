@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15978",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15978",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qme7HHQB3gGvRTabm9ftpYUsVJRQ3E3C9PWnPHfZ2XDSg3",
+  "token_name": "Terraform00063",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00063",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbVYzpQV5oj8E6NEkwNHpq856YpWwxWq4EAXaEEzedTdW",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 8,
-  "quantum_flux": 8,
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
+  "quantum_flux": 3,
   "primary_minerals": "Radium",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 54,
     "y": 45
+  },
+  "neighbors": {
+    "top": {
+      "x": 54,
+      "y": 46
+    },
+    "topRight": {
+      "x": 55,
+      "y": 46
+    },
+    "right": {
+      "x": 55,
+      "y": 45
+    },
+    "bottomRight": {
+      "x": 55,
+      "y": 44
+    },
+    "bottom": {
+      "x": 54,
+      "y": 44
+    },
+    "bottonLeft": {
+      "x": 53,
+      "y": 44
+    },
+    "left": {
+      "x": 53,
+      "y": 45
+    },
+    "topLeft": {
+      "x": 53,
+      "y": 46
+    }
   }
 }

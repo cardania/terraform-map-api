@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03012",
+  "token_name": "Terraform06717",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03012",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRTGdvxij1ZHCyuDmW6fgt2sh4xmCYGBzWLCSKh8dmZNm",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06717",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYk6tLhbF6Y1UiP37PqdzDXwXAi8QtM9F9Cc9gh6TepqM",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 6,
-  "quantum_flux": 1,
-  "primary_minerals": "Radium",
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 60,
     "y": 17
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 18
+    },
+    "topRight": {
+      "x": 61,
+      "y": 18
+    },
+    "right": {
+      "x": 61,
+      "y": 17
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 16
+    },
+    "bottom": {
+      "x": 60,
+      "y": 16
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 16
+    },
+    "left": {
+      "x": 59,
+      "y": 17
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 18
+    }
   }
 }

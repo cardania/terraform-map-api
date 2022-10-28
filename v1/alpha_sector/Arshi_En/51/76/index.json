@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17802",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17802",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRRPTbAiTD7HhRs1RFLHSRLMYFZe2LSXBgc3rwSYJPHeU",
+  "token_name": "Terraform09334",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09334",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWHKVDrifzP1VTDFaansNAPnwxpsbsHqWRirnq55WtU3f",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 3,
+  "quantum_flux": 5,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Machine_Shrine",
+  "water": "Saltwater_River",
   "location": {
     "x": 51,
     "y": 76
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 77
+    },
+    "topRight": {
+      "x": 52,
+      "y": 77
+    },
+    "right": {
+      "x": 52,
+      "y": 76
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 75
+    },
+    "bottom": {
+      "x": 51,
+      "y": 75
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 75
+    },
+    "left": {
+      "x": 50,
+      "y": 76
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 77
+    }
   }
 }

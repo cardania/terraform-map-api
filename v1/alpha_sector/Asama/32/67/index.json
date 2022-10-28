@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15440",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15440",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmP22LQ88FXEiNKDyNCjgVaVuC5nyHzCqskThJhMoFeRMF",
+  "token_name": "Terraform06284",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06284",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdL77N8CJqAxr8xTjWLs4c2uMUEoXpkuB4EUmiLLY8JKT",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "lithoglyphs": "None",
+  "power_level": 9,
+  "quantum_flux": 9,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Toxic_Lake",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "Solar_Shrine",
+  "water": "None",
   "location": {
     "x": 32,
     "y": 67
+  },
+  "neighbors": {
+    "top": {
+      "x": 32,
+      "y": 68
+    },
+    "topRight": {
+      "x": 33,
+      "y": 68
+    },
+    "right": {
+      "x": 33,
+      "y": 67
+    },
+    "bottomRight": {
+      "x": 33,
+      "y": 66
+    },
+    "bottom": {
+      "x": 32,
+      "y": 66
+    },
+    "bottonLeft": {
+      "x": 31,
+      "y": 66
+    },
+    "left": {
+      "x": 31,
+      "y": 67
+    },
+    "topLeft": {
+      "x": 31,
+      "y": 68
+    }
   }
 }

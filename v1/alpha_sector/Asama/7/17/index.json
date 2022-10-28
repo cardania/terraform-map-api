@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08224",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08224",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZyHSNZbU1C6grGGoMGzh4ntVa7xgZLn6rmk87RrqcN6G",
+  "token_name": "Terraform13657",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13657",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQDcRG6iqKQAzzrVziUMoNDczZDw4Tu9A4CSMJCs5h75v",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 5,
-  "quantum_flux": 1,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 8,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 7,
     "y": 17
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 18
+    },
+    "topRight": {
+      "x": 8,
+      "y": 18
+    },
+    "right": {
+      "x": 8,
+      "y": 17
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 16
+    },
+    "bottom": {
+      "x": 7,
+      "y": 16
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 16
+    },
+    "left": {
+      "x": 6,
+      "y": 17
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 18
+    }
   }
 }

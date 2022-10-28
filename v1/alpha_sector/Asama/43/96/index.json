@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01401",
+  "token_name": "Terraform08781",
   "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01401",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcHNkcxUhF7yTpnC4FqEgNSTkXL161YEyZfyit94vjaVD",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08781",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmY8P4zMAm8f3YZFbJQY57nHX9Vd7DaXHqgo6WRvpd5H9G",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
-  "quantum_flux": 9,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Gemstones",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 1,
+  "quantum_flux": 8,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_River",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 43,
     "y": 96
+  },
+  "neighbors": {
+    "top": {
+      "x": 43,
+      "y": 97
+    },
+    "topRight": {
+      "x": 44,
+      "y": 97
+    },
+    "right": {
+      "x": 44,
+      "y": 96
+    },
+    "bottomRight": {
+      "x": 44,
+      "y": 95
+    },
+    "bottom": {
+      "x": 43,
+      "y": 95
+    },
+    "bottonLeft": {
+      "x": 42,
+      "y": 95
+    },
+    "left": {
+      "x": 42,
+      "y": 96
+    },
+    "topLeft": {
+      "x": 42,
+      "y": 97
+    }
   }
 }

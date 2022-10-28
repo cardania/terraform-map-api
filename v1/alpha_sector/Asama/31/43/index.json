@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05386",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05386",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeXBrAwcpaDTS2enPr5JdJHUcyuRCXwF9GZi3gBErGyAh",
+  "token_name": "Terraform10252",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10252",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmduhJ8VHouyDYBv5RLexuMp2vdnB7oxT4bf5pb5BrSzRK",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 5,
-  "quantum_flux": 1,
-  "primary_minerals": "Copper",
+  "power_level": 3,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Cursed_Lake",
   "location": {
     "x": 31,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 31,
+      "y": 44
+    },
+    "topRight": {
+      "x": 32,
+      "y": 44
+    },
+    "right": {
+      "x": 32,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 32,
+      "y": 42
+    },
+    "bottom": {
+      "x": 31,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 30,
+      "y": 42
+    },
+    "left": {
+      "x": 30,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 30,
+      "y": 44
+    }
   }
 }

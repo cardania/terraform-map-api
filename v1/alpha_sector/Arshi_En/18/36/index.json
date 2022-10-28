@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16067",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16067",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSZ9pBurZjWVhcpNoDCGQGvmfL7V3Ur4wWWULnva8Rz2H",
+  "token_name": "Terraform04092",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04092",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXsY3L14vp4MjL1AnP1bbdirW1fkxPBTndZMpcxUFAnQU",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "power_level": 6,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 18,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 18,
+      "y": 37
+    },
+    "topRight": {
+      "x": 19,
+      "y": 37
+    },
+    "right": {
+      "x": 19,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 19,
+      "y": 35
+    },
+    "bottom": {
+      "x": 18,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 17,
+      "y": 35
+    },
+    "left": {
+      "x": 17,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 17,
+      "y": 37
+    }
   }
 }

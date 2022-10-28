@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08210",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08210",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSL9JyrCt67Vj8oJFTe4UmJ1P6eqKwYwJyxxkHJFB92xB",
+  "token_name": "Terraform04620",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04620",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf6YHNSZQPrFbwwH67RTKjLrp697RvNfdiirhF9FkDhCe",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 6,
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 5,
+  "quantum_flux": 4,
   "primary_minerals": "Radium",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 59,
     "y": 35
+  },
+  "neighbors": {
+    "top": {
+      "x": 59,
+      "y": 36
+    },
+    "topRight": {
+      "x": 60,
+      "y": 36
+    },
+    "right": {
+      "x": 60,
+      "y": 35
+    },
+    "bottomRight": {
+      "x": 60,
+      "y": 34
+    },
+    "bottom": {
+      "x": 59,
+      "y": 34
+    },
+    "bottonLeft": {
+      "x": 58,
+      "y": 34
+    },
+    "left": {
+      "x": 58,
+      "y": 35
+    },
+    "topLeft": {
+      "x": 58,
+      "y": 36
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08467",
+  "token_name": "Terraform16354",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08467",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ6r9MC3zBgn6B5VTi9s1kTekscr4VPANrxomg99sko9d",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16354",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmW5oQ18ro3NVvZQ126rXYLH4zTYQgccrj7qbzDBHJ4Zeh",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 7,
+  "power_level": 7,
+  "quantum_flux": 6,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Machine_Shrine",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 100,
     "y": 53
+  },
+  "neighbors": {
+    "top": {
+      "x": 100,
+      "y": 54
+    },
+    "topRight": {
+      "x": 101,
+      "y": 54
+    },
+    "right": {
+      "x": 101,
+      "y": 53
+    },
+    "bottomRight": {
+      "x": 101,
+      "y": 52
+    },
+    "bottom": {
+      "x": 100,
+      "y": 52
+    },
+    "bottonLeft": {
+      "x": 99,
+      "y": 52
+    },
+    "left": {
+      "x": 99,
+      "y": 53
+    },
+    "topLeft": {
+      "x": 99,
+      "y": 54
+    }
   }
 }

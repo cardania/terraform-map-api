@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15247",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15247",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeE1z2225sZcxK8v4zXF7mpLJcuhz9fKPwrhe4o1rUenf",
+  "token_name": "Terraform16087",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16087",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPfupJmJmGfL69ez5d5QhBEBjS4QpidEFb3DeBQr9X5YR",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
-  "quantum_flux": 9,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Green",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 6,
+  "quantum_flux": 8,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Saltwater_River",
   "location": {
     "x": 14,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 14,
+      "y": 30
+    },
+    "topRight": {
+      "x": 15,
+      "y": 30
+    },
+    "right": {
+      "x": 15,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 15,
+      "y": 28
+    },
+    "bottom": {
+      "x": 14,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 13,
+      "y": 28
+    },
+    "left": {
+      "x": 13,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 13,
+      "y": 30
+    }
   }
 }

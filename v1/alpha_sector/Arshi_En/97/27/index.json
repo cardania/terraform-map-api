@@ -1,18 +1,18 @@
 {
-  "token_name": "Terraform09798",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09798",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSvUJFVS5tAj6jAivFWtikvgjqZJUG45o3pVdoS8hFXFc",
+  "token_name": "Terraform14235",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14235",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeiM6foYuCwBsBLgbKRAVTfsXS1EX4MWcvqLiMUNLtHXU",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 8,
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 5,
+  "quantum_flux": 5,
   "primary_minerals": "Iron",
   "secondary_minerals": "Gemstones",
   "ruins": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 97,
     "y": 27
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 28
+    },
+    "topRight": {
+      "x": 98,
+      "y": 28
+    },
+    "right": {
+      "x": 98,
+      "y": 27
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 26
+    },
+    "bottom": {
+      "x": 97,
+      "y": 26
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 26
+    },
+    "left": {
+      "x": 96,
+      "y": 27
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 28
+    }
   }
 }

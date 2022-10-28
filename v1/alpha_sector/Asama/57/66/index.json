@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13566",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13566",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmY9ELkPN1YVTpVZyx2QNn6rJbkC8VBYzvkmfHjtKtEyfQ",
+  "token_name": "Terraform16522",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16522",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVbz2jXp1k9MLHTSZrjZesaUdNKeDSywwNAbQhZZJoTjF",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Reinforced_Bunker",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Gemstones",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 1,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Golden_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 57,
     "y": 66
+  },
+  "neighbors": {
+    "top": {
+      "x": 57,
+      "y": 67
+    },
+    "topRight": {
+      "x": 58,
+      "y": 67
+    },
+    "right": {
+      "x": 58,
+      "y": 66
+    },
+    "bottomRight": {
+      "x": 58,
+      "y": 65
+    },
+    "bottom": {
+      "x": 57,
+      "y": 65
+    },
+    "bottonLeft": {
+      "x": 56,
+      "y": 65
+    },
+    "left": {
+      "x": 56,
+      "y": 66
+    },
+    "topLeft": {
+      "x": 56,
+      "y": 67
+    }
   }
 }

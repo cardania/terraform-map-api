@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10448",
+  "token_name": "Terraform09171",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10448",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmU2Gztjy55cnQnmRg3Wy5hXPeZF4S96FYv9tgNM1jvuNj",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09171",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbnK34H9TGj1EwV6t1dyfK6Jt9YXpEkUwwUgqMvR59uy7",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 1,
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 2,
+  "quantum_flux": 2,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "Golden_Shrine",
+  "water": "None",
   "location": {
     "x": 96,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 30
+    },
+    "topRight": {
+      "x": 97,
+      "y": 30
+    },
+    "right": {
+      "x": 97,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 28
+    },
+    "bottom": {
+      "x": 96,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 28
+    },
+    "left": {
+      "x": 95,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 30
+    }
   }
 }

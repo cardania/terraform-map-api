@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01824",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01824",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmem89G3kdSmYFYWtsLdJXffB5C9a38bhZnhUUvRv5iJyr",
+  "token_name": "Terraform03836",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03836",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmevMLsJ53iGcd6LDLFQ4zfd3m2J11vMyB25kkjha6fW2Z",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Antigravity_Cloud",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 7,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 60,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 86
+    },
+    "topRight": {
+      "x": 61,
+      "y": 86
+    },
+    "right": {
+      "x": 61,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 84
+    },
+    "bottom": {
+      "x": 60,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 84
+    },
+    "left": {
+      "x": 59,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 86
+    }
   }
 }

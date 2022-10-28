@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15032",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15032",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPcBa1GZEzCvkMGxfYm2UXKuwJoQodZDvRdafjk9Dt8z4",
+  "token_name": "Terraform13182",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13182",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUMjQbpqZ3r5M1uX1hrUHgVEZ4WGFvU6YA4zgQz8zEULx",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
   "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "Iron",
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Void_Shrine",
-  "water": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 9,
     "y": 46
+  },
+  "neighbors": {
+    "top": {
+      "x": 9,
+      "y": 47
+    },
+    "topRight": {
+      "x": 10,
+      "y": 47
+    },
+    "right": {
+      "x": 10,
+      "y": 46
+    },
+    "bottomRight": {
+      "x": 10,
+      "y": 45
+    },
+    "bottom": {
+      "x": 9,
+      "y": 45
+    },
+    "bottonLeft": {
+      "x": 8,
+      "y": 45
+    },
+    "left": {
+      "x": 8,
+      "y": 46
+    },
+    "topLeft": {
+      "x": 8,
+      "y": 47
+    }
   }
 }

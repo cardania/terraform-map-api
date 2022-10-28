@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18310",
+  "token_name": "Terraform18022",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18310",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQFrg6FJgfTUVYyxTfGKx8WfRT99jPWYuBbdBQ2rNHJW8",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18022",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUUE83D7yhVBK7yxcYqJ3oGDxrEtJhiA6o2A91M3sDqeC",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 9,
-  "quantum_flux": 8,
-  "primary_minerals": "Radium",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Solar_Shrine",
   "water": "None",
   "location": {
     "x": 30,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 30,
+      "y": 6
+    },
+    "topRight": {
+      "x": 31,
+      "y": 6
+    },
+    "right": {
+      "x": 31,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 31,
+      "y": 4
+    },
+    "bottom": {
+      "x": 30,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 29,
+      "y": 4
+    },
+    "left": {
+      "x": 29,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 29,
+      "y": 6
+    }
   }
 }

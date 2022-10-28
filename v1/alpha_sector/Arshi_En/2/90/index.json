@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12476",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12476",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbrA4pvPniQnf3bTCUEPFqUrxMbdZqB4EFWYhvZadAKsM",
+  "token_name": "Terraform17520",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17520",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYYB2JMFXxCTVidnBZnZTxyyL5qmeHfKtuxSwtwkETKcw",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 8,
-  "quantum_flux": 1,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 2,
     "y": 90
+  },
+  "neighbors": {
+    "top": {
+      "x": 2,
+      "y": 91
+    },
+    "topRight": {
+      "x": 3,
+      "y": 91
+    },
+    "right": {
+      "x": 3,
+      "y": 90
+    },
+    "bottomRight": {
+      "x": 3,
+      "y": 89
+    },
+    "bottom": {
+      "x": 2,
+      "y": 89
+    },
+    "bottonLeft": {
+      "x": 1,
+      "y": 89
+    },
+    "left": {
+      "x": 1,
+      "y": 90
+    },
+    "topLeft": {
+      "x": 1,
+      "y": 91
+    }
   }
 }

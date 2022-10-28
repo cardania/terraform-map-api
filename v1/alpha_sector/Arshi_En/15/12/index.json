@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16798",
+  "token_name": "Terraform01830",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16798",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeoLxQNBsjpGFDMsAA1w3XbkxCYjnxpUqCyHGZWV3e3Kb",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01830",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmU25CSVqDktg5yVWRAs3WPz5Wci2gtVGvmNzSmtsuB5tV",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 3,
   "quantum_flux": 2,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Cursed_Lake",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 15,
     "y": 12
+  },
+  "neighbors": {
+    "top": {
+      "x": 15,
+      "y": 13
+    },
+    "topRight": {
+      "x": 16,
+      "y": 13
+    },
+    "right": {
+      "x": 16,
+      "y": 12
+    },
+    "bottomRight": {
+      "x": 16,
+      "y": 11
+    },
+    "bottom": {
+      "x": 15,
+      "y": 11
+    },
+    "bottonLeft": {
+      "x": 14,
+      "y": 11
+    },
+    "left": {
+      "x": 14,
+      "y": 12
+    },
+    "topLeft": {
+      "x": 14,
+      "y": 13
+    }
   }
 }

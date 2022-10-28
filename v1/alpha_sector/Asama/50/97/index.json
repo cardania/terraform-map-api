@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01363",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01363",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYZtjojHqrePkHtuNNJTCBXVh5oRBVFixL4Yh2VqicnuG",
+  "token_name": "Terraform04203",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04203",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNjDj5d37oo3tmCwdSgPRTcokRCPrby6ccSkR7aFpRaLC",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
-  "quantum_flux": 1,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_River",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 6,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 50,
     "y": 97
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 98
+    },
+    "topRight": {
+      "x": 51,
+      "y": 98
+    },
+    "right": {
+      "x": 51,
+      "y": 97
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 96
+    },
+    "bottom": {
+      "x": 50,
+      "y": 96
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 96
+    },
+    "left": {
+      "x": 49,
+      "y": 97
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 98
+    }
   }
 }

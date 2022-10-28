@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01501",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01501",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPYyvMPvmwYF5VAuPQ3DYWCeaNGiYi1pQB1sr3puuenSs",
+  "token_name": "Terraform08836",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08836",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbff49mvjmB5DMzkg3cSnLUVZ1dwLowAq7xTvgAwrgpbD",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 5,
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 4,
   "quantum_flux": 1,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 94,
     "y": 12
+  },
+  "neighbors": {
+    "top": {
+      "x": 94,
+      "y": 13
+    },
+    "topRight": {
+      "x": 95,
+      "y": 13
+    },
+    "right": {
+      "x": 95,
+      "y": 12
+    },
+    "bottomRight": {
+      "x": 95,
+      "y": 11
+    },
+    "bottom": {
+      "x": 94,
+      "y": 11
+    },
+    "bottonLeft": {
+      "x": 93,
+      "y": 11
+    },
+    "left": {
+      "x": 93,
+      "y": 12
+    },
+    "topLeft": {
+      "x": 93,
+      "y": 13
+    }
   }
 }

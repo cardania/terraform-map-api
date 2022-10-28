@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06354",
+  "token_name": "Terraform04048",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06354",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTDwMBE4Bf76o6NSdTBDt67YQtvc2ts4V1ty454cvB1Mi",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04048",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbQgrpwhD9Wz29EiBSWPHsHkfKptNQjh9aMDQNkWQFRnQ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 3,
-  "quantum_flux": 6,
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "Alien_Technology_Red",
-  "shrine": "Fungal_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 37,
     "y": 69
+  },
+  "neighbors": {
+    "top": {
+      "x": 37,
+      "y": 70
+    },
+    "topRight": {
+      "x": 38,
+      "y": 70
+    },
+    "right": {
+      "x": 38,
+      "y": 69
+    },
+    "bottomRight": {
+      "x": 38,
+      "y": 68
+    },
+    "bottom": {
+      "x": 37,
+      "y": 68
+    },
+    "bottonLeft": {
+      "x": 36,
+      "y": 68
+    },
+    "left": {
+      "x": 36,
+      "y": 69
+    },
+    "topLeft": {
+      "x": 36,
+      "y": 70
+    }
   }
 }

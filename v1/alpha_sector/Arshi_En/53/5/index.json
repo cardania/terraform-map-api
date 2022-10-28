@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17578",
+  "token_name": "Terraform17459",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17578",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNp58fNYm8H8ZnnprRxyoHi4FgBkHt9ebbSGSJyiP4t6A",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17459",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZUQeaTMtv4YBm1y93ELZg53b5cPcVLXyLLwC5ZPEhpDk",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "Melodious_Mantrap",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 4,
+  "power_level": 1,
   "quantum_flux": 1,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Fungal_Shrine",
-  "water": "None",
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 53,
     "y": 5
+  },
+  "neighbors": {
+    "top": {
+      "x": 53,
+      "y": 6
+    },
+    "topRight": {
+      "x": 54,
+      "y": 6
+    },
+    "right": {
+      "x": 54,
+      "y": 5
+    },
+    "bottomRight": {
+      "x": 54,
+      "y": 4
+    },
+    "bottom": {
+      "x": 53,
+      "y": 4
+    },
+    "bottonLeft": {
+      "x": 52,
+      "y": 4
+    },
+    "left": {
+      "x": 52,
+      "y": 5
+    },
+    "topLeft": {
+      "x": 52,
+      "y": 6
+    }
   }
 }

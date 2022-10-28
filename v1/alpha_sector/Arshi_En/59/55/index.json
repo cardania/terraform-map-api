@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15475",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15475",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeFfdq2YktpskgBc2t79t1AJdt9qpgtqpWDvKmynyzijK",
+  "token_name": "Terraform08757",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08757",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaoUw6KKNjutBn7LN23gsib2VtwmyDHKSNi56vPP8LZha",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 7,
-  "quantum_flux": 5,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
-  "ruins": "Ancient_Ruins",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 59,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 59,
+      "y": 56
+    },
+    "topRight": {
+      "x": 60,
+      "y": 56
+    },
+    "right": {
+      "x": 60,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 60,
+      "y": 54
+    },
+    "bottom": {
+      "x": 59,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 58,
+      "y": 54
+    },
+    "left": {
+      "x": 58,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 58,
+      "y": 56
+    }
   }
 }

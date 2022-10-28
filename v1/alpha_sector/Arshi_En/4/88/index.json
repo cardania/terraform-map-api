@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11912",
+  "token_name": "Terraform13335",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11912",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTBuw2vHJVc6JFaSB1KPCUYxkfzCRTXXGgEFX2kSvjREb",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13335",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYZaBn68wUGnAmw7ykCBFJvbZAavxni1uuccTAqFJjS5t",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Evergreen",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 9,
   "quantum_flux": 3,
   "primary_minerals": "None",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 4,
     "y": 88
+  },
+  "neighbors": {
+    "top": {
+      "x": 4,
+      "y": 89
+    },
+    "topRight": {
+      "x": 5,
+      "y": 89
+    },
+    "right": {
+      "x": 5,
+      "y": 88
+    },
+    "bottomRight": {
+      "x": 5,
+      "y": 87
+    },
+    "bottom": {
+      "x": 4,
+      "y": 87
+    },
+    "bottonLeft": {
+      "x": 3,
+      "y": 87
+    },
+    "left": {
+      "x": 3,
+      "y": 88
+    },
+    "topLeft": {
+      "x": 3,
+      "y": 89
+    }
   }
 }

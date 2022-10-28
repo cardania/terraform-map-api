@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16958",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16958",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmR2DiZkNURFk24LX5LjaDebHcm6uNynkD8vmSQs2Kpg54",
+  "token_name": "Terraform06662",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06662",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNU9L3dX9r7x87i4zy49G8YyH5UEFTHePTh8rKdpnFyZU",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "Critters",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
-  "quantum_flux": 7,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Blue",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 9,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 60,
     "y": 26
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 27
+    },
+    "topRight": {
+      "x": 61,
+      "y": 27
+    },
+    "right": {
+      "x": 61,
+      "y": 26
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 25
+    },
+    "bottom": {
+      "x": 60,
+      "y": 25
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 25
+    },
+    "left": {
+      "x": 59,
+      "y": 26
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 27
+    }
   }
 }

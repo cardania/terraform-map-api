@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08921",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08921",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYyPMn16SYnweqr1roi4NVp2JdJ8qXAfV5WmkXdopuHHM",
+  "token_name": "Terraform15955",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15955",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUdL9Q3bnfmMWDf6h4LrYoY4nkzN83CXJ6x3XZSa2KWje",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 8,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_River",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 26,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 26,
+      "y": 30
+    },
+    "topRight": {
+      "x": 27,
+      "y": 30
+    },
+    "right": {
+      "x": 27,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 27,
+      "y": 28
+    },
+    "bottom": {
+      "x": 26,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 25,
+      "y": 28
+    },
+    "left": {
+      "x": 25,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 25,
+      "y": 30
+    }
   }
 }

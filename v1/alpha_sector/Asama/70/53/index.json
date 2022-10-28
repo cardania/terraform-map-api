@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04822",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04822",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSen6gprwst147fYbNGKEddSKgXdJRzFTtemBCtCk3h28",
+  "token_name": "Terraform15491",
+  "land_type": "Tundra",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15491",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRxmiMvMhG5w8uC1oHX161C4SFPWrLifKoa1Z6LnRxCy3",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 6,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Green",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 4,
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 70,
     "y": 53
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 54
+    },
+    "topRight": {
+      "x": 71,
+      "y": 54
+    },
+    "right": {
+      "x": 71,
+      "y": 53
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 52
+    },
+    "bottom": {
+      "x": 70,
+      "y": 52
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 52
+    },
+    "left": {
+      "x": 69,
+      "y": 53
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 54
+    }
   }
 }

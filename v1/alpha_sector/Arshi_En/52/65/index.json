@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02195",
+  "token_name": "Terraform10044",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02195",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc2vtzZJ19UshJtV8A1DnEyWroJ5Adu6dSJz8ePAbeBvy",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10044",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeMPMaAKt2FRjUw7Xz7wyeRafUWk9CcJNDAsxto6gK1y4",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Prismatic_Motes",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "None",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 4,
+  "power_level": 5,
+  "quantum_flux": 5,
   "primary_minerals": "Copper",
   "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "None",
   "location": {
     "x": 52,
     "y": 65
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 66
+    },
+    "topRight": {
+      "x": 53,
+      "y": 66
+    },
+    "right": {
+      "x": 53,
+      "y": 65
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 64
+    },
+    "bottom": {
+      "x": 52,
+      "y": 64
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 64
+    },
+    "left": {
+      "x": 51,
+      "y": 65
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 66
+    }
   }
 }

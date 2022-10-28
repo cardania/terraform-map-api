@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17828",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17828",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbiYYg9jjrjJ6hiDg1JiMb89VKQrkue6m27k6rgpFbAss",
+  "token_name": "Terraform16696",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16696",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZLoYMfDT2EaRpdL5a5mXNFfGLogwyMyVaQJWhH7hHZ7Q",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 4,
   "quantum_flux": 5,
-  "primary_minerals": "Copper",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 95,
     "y": 1
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 2
+    },
+    "topRight": {
+      "x": 96,
+      "y": 2
+    },
+    "right": {
+      "x": 96,
+      "y": 1
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 0
+    },
+    "bottom": {
+      "x": 95,
+      "y": 0
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 0
+    },
+    "left": {
+      "x": 94,
+      "y": 1
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 2
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07670",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07670",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQeiKM9LNLtRA53ix9P7KmpjFfJVpXwtnC9C6KuBsM7AK",
+  "token_name": "Terraform19406",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19406",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWx5s5owje2Q7wKswdC8tjVYB6gJvpM36W9qnBje2r4PX",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 7,
+  "power_level": 7,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Funky_Lake",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "Void_Shrine",
+  "water": "Cursed_Lake",
   "location": {
     "x": 100,
     "y": 70
+  },
+  "neighbors": {
+    "top": {
+      "x": 100,
+      "y": 71
+    },
+    "topRight": {
+      "x": 101,
+      "y": 71
+    },
+    "right": {
+      "x": 101,
+      "y": 70
+    },
+    "bottomRight": {
+      "x": 101,
+      "y": 69
+    },
+    "bottom": {
+      "x": 100,
+      "y": 69
+    },
+    "bottonLeft": {
+      "x": 99,
+      "y": 69
+    },
+    "left": {
+      "x": 99,
+      "y": 70
+    },
+    "topLeft": {
+      "x": 99,
+      "y": 71
+    }
   }
 }

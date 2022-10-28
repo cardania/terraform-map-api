@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13683",
+  "token_name": "Terraform08554",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13683",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPJ9mmSZUm5EJtdmsgo1XGNUJ4EsVUv8AgKLtMzEqWeL7",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08554",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUvARjbBCgnTXzdaJ1PygfLLeZx7A7cGBzzHvy1VpDXaw",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 3,
-  "quantum_flux": 5,
+  "quantum_flux": 4,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 20,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 20,
+      "y": 86
+    },
+    "topRight": {
+      "x": 21,
+      "y": 86
+    },
+    "right": {
+      "x": 21,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 21,
+      "y": 84
+    },
+    "bottom": {
+      "x": 20,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 19,
+      "y": 84
+    },
+    "left": {
+      "x": 19,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 19,
+      "y": 86
+    }
   }
 }

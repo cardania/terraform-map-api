@@ -1,18 +1,18 @@
 {
-  "token_name": "Terraform00014",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00014",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPkqMfW2TJaz6ePF2sNkVkKm5u3e8Spc6wNcKaKJghMhS",
+  "token_name": "Terraform11212",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11212",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTvLg5joVQt1PVv24s6r2ssw8QV7JPozEkRfQXPibaBdE",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
+  "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 9,
-  "quantum_flux": 7,
+  "power_level": 8,
+  "quantum_flux": 3,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 82,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 82,
+      "y": 7
+    },
+    "topRight": {
+      "x": 83,
+      "y": 7
+    },
+    "right": {
+      "x": 83,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 83,
+      "y": 5
+    },
+    "bottom": {
+      "x": 82,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 81,
+      "y": 5
+    },
+    "left": {
+      "x": 81,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 81,
+      "y": 7
+    }
   }
 }

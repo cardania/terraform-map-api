@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08537",
+  "token_name": "Terraform02884",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08537",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV7dBoAZwpiQ3prLjb3eCBfXXjKHfHib9vG7v3UDSnyX9",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02884",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRaPNHxNGGfySoaFU5rvjMYNrx8qkyWhgqkfMMg57QtUx",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 7,
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 8,
   "quantum_flux": 2,
-  "primary_minerals": "Radium",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "Toxic_Lake",
   "location": {
     "x": 93,
     "y": 87
+  },
+  "neighbors": {
+    "top": {
+      "x": 93,
+      "y": 88
+    },
+    "topRight": {
+      "x": 94,
+      "y": 88
+    },
+    "right": {
+      "x": 94,
+      "y": 87
+    },
+    "bottomRight": {
+      "x": 94,
+      "y": 86
+    },
+    "bottom": {
+      "x": 93,
+      "y": 86
+    },
+    "bottonLeft": {
+      "x": 92,
+      "y": 86
+    },
+    "left": {
+      "x": 92,
+      "y": 87
+    },
+    "topLeft": {
+      "x": 92,
+      "y": 88
+    }
   }
 }

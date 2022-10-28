@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09636",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09636",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdLGzcreizraGRG44CdTg3WaPRt6MkUCQpvCbr8TWMbm8",
+  "token_name": "Terraform08100",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08100",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeL2JoCgGWTsrg7fRuCvKrwDr2pBMLTyrVavwUWz2PNrK",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Cursed_Nanites",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "Iron",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Timelost_Shrine",
+  "shrine": "Void_Shrine",
   "water": "None",
   "location": {
     "x": 27,
     "y": 15
+  },
+  "neighbors": {
+    "top": {
+      "x": 27,
+      "y": 16
+    },
+    "topRight": {
+      "x": 28,
+      "y": 16
+    },
+    "right": {
+      "x": 28,
+      "y": 15
+    },
+    "bottomRight": {
+      "x": 28,
+      "y": 14
+    },
+    "bottom": {
+      "x": 27,
+      "y": 14
+    },
+    "bottonLeft": {
+      "x": 26,
+      "y": 14
+    },
+    "left": {
+      "x": 26,
+      "y": 15
+    },
+    "topLeft": {
+      "x": 26,
+      "y": 16
+    }
   }
 }

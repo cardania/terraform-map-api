@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02706",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02706",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWJ7VSfmQqmp8yXyXmBxQp796WhZ6bzEYQKStMoFHNHTL",
+  "token_name": "Terraform01375",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01375",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeKrhSfoZKnBF8wmTmKA2eRa25D21n5PKhA3rf6cXAgvW",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
+  "quantum_flux": 5,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 86,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 9
+    },
+    "topRight": {
+      "x": 87,
+      "y": 9
+    },
+    "right": {
+      "x": 87,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 7
+    },
+    "bottom": {
+      "x": 86,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 7
+    },
+    "left": {
+      "x": 85,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 9
+    }
   }
 }

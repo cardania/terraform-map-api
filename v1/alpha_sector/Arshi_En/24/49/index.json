@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10059",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10059",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeZd3kJ1Je7cvAbMVRxxT7qNXBr8vxJoJTWith8CqueWN",
+  "token_name": "Terraform17769",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17769",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbe6PKZW2C71Rgx4Paa7VispdjPwx6h7YQjCGEgkz4G73",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
   "power_level": 4,
   "quantum_flux": 2,
-  "primary_minerals": "None",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Machine_Shrine",
   "water": "None",
   "location": {
     "x": 24,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 24,
+      "y": 50
+    },
+    "topRight": {
+      "x": 25,
+      "y": 50
+    },
+    "right": {
+      "x": 25,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 25,
+      "y": 48
+    },
+    "bottom": {
+      "x": 24,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 23,
+      "y": 48
+    },
+    "left": {
+      "x": 23,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 23,
+      "y": 50
+    }
   }
 }

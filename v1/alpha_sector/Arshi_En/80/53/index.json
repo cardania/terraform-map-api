@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09666",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09666",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfAkJSsbFLdEpPy9mbJzCV3gvay3Pw4BjhMukfUXRS59D",
+  "token_name": "Terraform05146",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05146",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmejFpepocS7nRRDCUXQxH8KHkRegTGFZbB9FXc41nnq93",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
+  "fauna": "Livestock",
+  "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 6,
+  "power_level": 3,
   "quantum_flux": 5,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Blue",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "Cursed_River",
+  "water": "None",
   "location": {
     "x": 80,
     "y": 53
+  },
+  "neighbors": {
+    "top": {
+      "x": 80,
+      "y": 54
+    },
+    "topRight": {
+      "x": 81,
+      "y": 54
+    },
+    "right": {
+      "x": 81,
+      "y": 53
+    },
+    "bottomRight": {
+      "x": 81,
+      "y": 52
+    },
+    "bottom": {
+      "x": 80,
+      "y": 52
+    },
+    "bottonLeft": {
+      "x": 79,
+      "y": 52
+    },
+    "left": {
+      "x": 79,
+      "y": 53
+    },
+    "topLeft": {
+      "x": 79,
+      "y": 54
+    }
   }
 }

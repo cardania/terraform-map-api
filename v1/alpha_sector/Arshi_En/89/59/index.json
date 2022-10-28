@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02918",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02918",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdh2U8oJCdEUvy7UyDDUhcgdsmbLwMRFrvT6RQgAmcwUr",
+  "token_name": "Terraform05594",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05594",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZRB8heqM9EK86n7LkYgfJM6GNRU1xXEc31GWwS5yhKAP",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Funky_Lake",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Timelost",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 89,
     "y": 59
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 60
+    },
+    "topRight": {
+      "x": 90,
+      "y": 60
+    },
+    "right": {
+      "x": 90,
+      "y": 59
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 58
+    },
+    "bottom": {
+      "x": 89,
+      "y": 58
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 58
+    },
+    "left": {
+      "x": 88,
+      "y": 59
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 60
+    }
   }
 }

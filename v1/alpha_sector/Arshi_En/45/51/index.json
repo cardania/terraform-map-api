@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00884",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00884",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXA4YMWoNwoXzzPxfptoMdbwxKi9zNb3UGtFfTMzAjjBg",
+  "token_name": "Terraform04265",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04265",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUi6KDze3auqaqbAruiGC8Q9nxxdJgqHWVHNDePPNeN9N",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Custodial_Nanites",
-  "bunker": "Cardanium_Bunker",
+  "bunker": "None",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
-  "shrine": "Solar_Shrine",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Fungal_Shrine",
   "water": "None",
   "location": {
     "x": 45,
     "y": 51
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 52
+    },
+    "topRight": {
+      "x": 46,
+      "y": 52
+    },
+    "right": {
+      "x": 46,
+      "y": 51
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 50
+    },
+    "bottom": {
+      "x": 45,
+      "y": 50
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 50
+    },
+    "left": {
+      "x": 44,
+      "y": 51
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 52
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10849",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10849",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUV3r3cv6QW3BxQKyBbquxytP3fkmroB6V3UjiZV6rh6T",
+  "token_name": "Terraform09641",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09641",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPWwZJPrzQPxAExDTowWTbbMKh6E9mjxtAeUbUzJqh2rU",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 4,
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 2,
   "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Funky_River",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 51,
     "y": 95
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 96
+    },
+    "topRight": {
+      "x": 52,
+      "y": 96
+    },
+    "right": {
+      "x": 52,
+      "y": 95
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 94
+    },
+    "bottom": {
+      "x": 51,
+      "y": 94
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 94
+    },
+    "left": {
+      "x": 50,
+      "y": 95
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 96
+    }
   }
 }

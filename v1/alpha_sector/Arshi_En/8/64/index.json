@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06279",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06279",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbmZF1dTC5tEFyCVoZBuhvUG65wQJTbBWvrcPqgLQ56sX",
+  "token_name": "Terraform03252",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03252",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdZMbT2NpPHyy9aWXBxUN4GB9NmbWaBdtxk2XcMLfHFiZ",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 4,
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 3,
+  "quantum_flux": 3,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 8,
     "y": 64
+  },
+  "neighbors": {
+    "top": {
+      "x": 8,
+      "y": 65
+    },
+    "topRight": {
+      "x": 9,
+      "y": 65
+    },
+    "right": {
+      "x": 9,
+      "y": 64
+    },
+    "bottomRight": {
+      "x": 9,
+      "y": 63
+    },
+    "bottom": {
+      "x": 8,
+      "y": 63
+    },
+    "bottonLeft": {
+      "x": 7,
+      "y": 63
+    },
+    "left": {
+      "x": 7,
+      "y": 64
+    },
+    "topLeft": {
+      "x": 7,
+      "y": 65
+    }
   }
 }

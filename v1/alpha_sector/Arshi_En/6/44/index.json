@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17636",
+  "token_name": "Terraform07084",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17636",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVs7b7Z8gmGedoxr97vrpSLAyf2HQQXbpATH45mqv4ekg",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07084",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSoYz1vPJcDRTVrzKioyfAAqrLnFdntUBQUxRWKfL3Nhu",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Palms",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 4,
+  "lithoglyphs": "None",
+  "power_level": 6,
   "quantum_flux": 7,
   "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Fungal_Shrine",
-  "water": "Freshwater_Lake",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Void_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 6,
     "y": 44
+  },
+  "neighbors": {
+    "top": {
+      "x": 6,
+      "y": 45
+    },
+    "topRight": {
+      "x": 7,
+      "y": 45
+    },
+    "right": {
+      "x": 7,
+      "y": 44
+    },
+    "bottomRight": {
+      "x": 7,
+      "y": 43
+    },
+    "bottom": {
+      "x": 6,
+      "y": 43
+    },
+    "bottonLeft": {
+      "x": 5,
+      "y": 43
+    },
+    "left": {
+      "x": 5,
+      "y": 44
+    },
+    "topLeft": {
+      "x": 5,
+      "y": 45
+    }
   }
 }

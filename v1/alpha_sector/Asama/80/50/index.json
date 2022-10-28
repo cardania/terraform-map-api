@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13517",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13517",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmU2uXmpeWGojkLB3hDk8XFfSiDTn1ioRHTxsNRMfNhcYx",
+  "token_name": "Terraform10333",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10333",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZYe523e6RS7Sh65UgnHrEFoipee8A6L6r43Y3v5sQuR9",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 6,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 80,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 80,
+      "y": 51
+    },
+    "topRight": {
+      "x": 81,
+      "y": 51
+    },
+    "right": {
+      "x": 81,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 81,
+      "y": 49
+    },
+    "bottom": {
+      "x": 80,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 79,
+      "y": 49
+    },
+    "left": {
+      "x": 79,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 79,
+      "y": 51
+    }
   }
 }

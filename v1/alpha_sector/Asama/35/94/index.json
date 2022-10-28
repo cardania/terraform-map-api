@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07523",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07523",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdokhD9FF1Noh6M4brPWSZ4pLpFU4h9cpom9WJCnyLTc9",
+  "token_name": "Terraform13521",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13521",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUwmn14KG8tJyzhtfGjS9jf6DWAZeVT6bD4QHMTdqoT5K",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
   "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "lithoglyphs": "None",
   "power_level": 3,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
+  "quantum_flux": 1,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
-  "water": "Funky_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 35,
     "y": 94
+  },
+  "neighbors": {
+    "top": {
+      "x": 35,
+      "y": 95
+    },
+    "topRight": {
+      "x": 36,
+      "y": 95
+    },
+    "right": {
+      "x": 36,
+      "y": 94
+    },
+    "bottomRight": {
+      "x": 36,
+      "y": 93
+    },
+    "bottom": {
+      "x": 35,
+      "y": 93
+    },
+    "bottonLeft": {
+      "x": 34,
+      "y": 93
+    },
+    "left": {
+      "x": 34,
+      "y": 94
+    },
+    "topLeft": {
+      "x": 34,
+      "y": 95
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11748",
+  "token_name": "Terraform12035",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11748",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRCrrNx46KGnpHDczUFfECFEJS5DVhYZ87Xpi7SyJFbWF",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12035",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbfkT9q1FvGA91C4H9s42UfJprxrT6cqT1KJd5aB4zLBC",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 3,
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 6,
   "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Fungal_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 96,
     "y": 77
+  },
+  "neighbors": {
+    "top": {
+      "x": 96,
+      "y": 78
+    },
+    "topRight": {
+      "x": 97,
+      "y": 78
+    },
+    "right": {
+      "x": 97,
+      "y": 77
+    },
+    "bottomRight": {
+      "x": 97,
+      "y": 76
+    },
+    "bottom": {
+      "x": 96,
+      "y": 76
+    },
+    "bottonLeft": {
+      "x": 95,
+      "y": 76
+    },
+    "left": {
+      "x": 95,
+      "y": 77
+    },
+    "topLeft": {
+      "x": 95,
+      "y": 78
+    }
   }
 }

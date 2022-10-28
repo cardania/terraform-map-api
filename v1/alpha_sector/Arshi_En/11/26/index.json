@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07935",
+  "token_name": "Terraform04522",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07935",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPJzTR1c6gr4VMVbihPFAM1DTykKuECZsXXt1QnAQJtip",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04522",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc6A8VntpoMgJAVxY7XqLHqJCtzqPeyEYJntoWQ5UfNSr",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "forests": "Palms",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 9,
-  "quantum_flux": 1,
+  "power_level": 8,
+  "quantum_flux": 5,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Red",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Toxic_River",
   "location": {
     "x": 11,
     "y": 26
+  },
+  "neighbors": {
+    "top": {
+      "x": 11,
+      "y": 27
+    },
+    "topRight": {
+      "x": 12,
+      "y": 27
+    },
+    "right": {
+      "x": 12,
+      "y": 26
+    },
+    "bottomRight": {
+      "x": 12,
+      "y": 25
+    },
+    "bottom": {
+      "x": 11,
+      "y": 25
+    },
+    "bottonLeft": {
+      "x": 10,
+      "y": 25
+    },
+    "left": {
+      "x": 10,
+      "y": 26
+    },
+    "topLeft": {
+      "x": 10,
+      "y": 27
+    }
   }
 }

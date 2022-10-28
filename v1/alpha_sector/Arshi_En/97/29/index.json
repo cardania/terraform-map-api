@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19134",
+  "token_name": "Terraform10388",
   "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19134",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmU5kxTmUjHAvjCJRwR3Cgk346i4HBW1BxmrZcnt6Vdv36",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10388",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTFQzYmbAPm3d2BB2MJ7CBarRNPVFFT9of1vzebD1Ru9a",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 1,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 2,
+  "quantum_flux": 8,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 97,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 30
+    },
+    "topRight": {
+      "x": 98,
+      "y": 30
+    },
+    "right": {
+      "x": 98,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 28
+    },
+    "bottom": {
+      "x": 97,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 28
+    },
+    "left": {
+      "x": 96,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 30
+    }
   }
 }

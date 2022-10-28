@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00467",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00467",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfMCFpdBhGJg2jcyFLwTk8WBrh7hecyHR9jvhPG7dUES5",
+  "token_name": "Terraform14855",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14855",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaMJ53pPYvmyMxpu1UEf39K15ENtnBjqwtyCtXEqjy9gY",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 9,
-  "quantum_flux": 3,
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
+  "quantum_flux": 4,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "Quantum_Shrine",
+  "water": "None",
   "location": {
     "x": 65,
     "y": 92
+  },
+  "neighbors": {
+    "top": {
+      "x": 65,
+      "y": 93
+    },
+    "topRight": {
+      "x": 66,
+      "y": 93
+    },
+    "right": {
+      "x": 66,
+      "y": 92
+    },
+    "bottomRight": {
+      "x": 66,
+      "y": 91
+    },
+    "bottom": {
+      "x": 65,
+      "y": 91
+    },
+    "bottonLeft": {
+      "x": 64,
+      "y": 91
+    },
+    "left": {
+      "x": 64,
+      "y": 92
+    },
+    "topLeft": {
+      "x": 64,
+      "y": 93
+    }
   }
 }

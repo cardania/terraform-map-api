@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10277",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10277",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRZNgBQWML5nU2KfjiSXfaFy1QwqHzkavbTH4Ut1ztUXU",
+  "token_name": "Terraform03002",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03002",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmToytyeJBXL2YnyrRfnDktyA6e6AuPvS91KDo1BRjrGda",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
+  "fauna": "Livestock",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "Fungal_Shrine",
-  "water": "Cursed_River",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 3,
+  "quantum_flux": 7,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 16,
     "y": 31
+  },
+  "neighbors": {
+    "top": {
+      "x": 16,
+      "y": 32
+    },
+    "topRight": {
+      "x": 17,
+      "y": 32
+    },
+    "right": {
+      "x": 17,
+      "y": 31
+    },
+    "bottomRight": {
+      "x": 17,
+      "y": 30
+    },
+    "bottom": {
+      "x": 16,
+      "y": 30
+    },
+    "bottonLeft": {
+      "x": 15,
+      "y": 30
+    },
+    "left": {
+      "x": 15,
+      "y": 31
+    },
+    "topLeft": {
+      "x": 15,
+      "y": 32
+    }
   }
 }

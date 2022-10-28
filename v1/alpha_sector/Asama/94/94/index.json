@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform01281",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01281",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTRfkxEcw5T4eQegnZfreVmZL9K7bM9FyRrmLWhv7iFzN",
+  "token_name": "Terraform08830",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08830",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUmcdjFqnss8cK9aivTGfjTbkoGGBcSYJoA5h7uEQnapN",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Fungal_Hydra",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 5,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 94,
     "y": 94
+  },
+  "neighbors": {
+    "top": {
+      "x": 94,
+      "y": 95
+    },
+    "topRight": {
+      "x": 95,
+      "y": 95
+    },
+    "right": {
+      "x": 95,
+      "y": 94
+    },
+    "bottomRight": {
+      "x": 95,
+      "y": 93
+    },
+    "bottom": {
+      "x": 94,
+      "y": 93
+    },
+    "bottonLeft": {
+      "x": 93,
+      "y": 93
+    },
+    "left": {
+      "x": 93,
+      "y": 94
+    },
+    "topLeft": {
+      "x": 93,
+      "y": 95
+    }
   }
 }

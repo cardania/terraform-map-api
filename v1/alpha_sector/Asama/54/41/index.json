@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05619",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05619",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUuXB9yNTp2LAV37mZJKfd58gBoEeqTt5SaoguvYCQfkR",
+  "token_name": "Terraform11188",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11188",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYkPfxLt5jC8hbqeFaxwNsiTCkUycQzzBzkeJ7JFrvf8k",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "None",
   "fauna": "Livestock",
   "forests": "Palms",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 5,
+  "power_level": 5,
+  "quantum_flux": 4,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Funky_Lake",
   "location": {
     "x": 54,
     "y": 41
+  },
+  "neighbors": {
+    "top": {
+      "x": 54,
+      "y": 42
+    },
+    "topRight": {
+      "x": 55,
+      "y": 42
+    },
+    "right": {
+      "x": 55,
+      "y": 41
+    },
+    "bottomRight": {
+      "x": 55,
+      "y": 40
+    },
+    "bottom": {
+      "x": 54,
+      "y": 40
+    },
+    "bottonLeft": {
+      "x": 53,
+      "y": 40
+    },
+    "left": {
+      "x": 53,
+      "y": 41
+    },
+    "topLeft": {
+      "x": 53,
+      "y": 42
+    }
   }
 }

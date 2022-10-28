@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17565",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17565",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTBqX28sWdohdqvng2SnwaGDroiraCYe5buaDKgirGemb",
+  "token_name": "Terraform01060",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01060",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaqtiAiX8n3ZufKQuFG7A16ynNuq2FMPscYkNitgN3P1w",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 7,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Funky_Lake",
+  "shrine": "Solar_Shrine",
+  "water": "None",
   "location": {
     "x": 97,
     "y": 85
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 86
+    },
+    "topRight": {
+      "x": 98,
+      "y": 86
+    },
+    "right": {
+      "x": 98,
+      "y": 85
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 84
+    },
+    "bottom": {
+      "x": 97,
+      "y": 84
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 84
+    },
+    "left": {
+      "x": 96,
+      "y": 85
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 86
+    }
   }
 }

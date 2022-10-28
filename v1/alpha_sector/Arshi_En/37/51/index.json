@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14463",
+  "token_name": "Terraform14762",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14463",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW7xhqFaRzdhhxHZi4AhcSrn22dWXhY6Z2jPhUFGawiot",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14762",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbgB2y76CvqoZuvJcsrwtigRX1wzq1xUd9vh5vr5XnZx5",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Giant_Mantrap",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "power_level": 4,
+  "quantum_flux": 8,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "None",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 37,
     "y": 51
+  },
+  "neighbors": {
+    "top": {
+      "x": 37,
+      "y": 52
+    },
+    "topRight": {
+      "x": 38,
+      "y": 52
+    },
+    "right": {
+      "x": 38,
+      "y": 51
+    },
+    "bottomRight": {
+      "x": 38,
+      "y": 50
+    },
+    "bottom": {
+      "x": 37,
+      "y": 50
+    },
+    "bottonLeft": {
+      "x": 36,
+      "y": 50
+    },
+    "left": {
+      "x": 36,
+      "y": 51
+    },
+    "topLeft": {
+      "x": 36,
+      "y": 52
+    }
   }
 }

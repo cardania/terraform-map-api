@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18286",
+  "token_name": "Terraform09629",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18286",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRF7BGDJ2jdQGGowhzsgM7CoaNb5N9gKCnt2zSfw7qnqx",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09629",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmV6nRBDq8jE4nyE1DBA2pLJZFwDA8Vc1JUbvyk4JntHY9",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 5,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
+  "quantum_flux": 2,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 21,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 30
+    },
+    "topRight": {
+      "x": 22,
+      "y": 30
+    },
+    "right": {
+      "x": 22,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 28
+    },
+    "bottom": {
+      "x": 21,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 28
+    },
+    "left": {
+      "x": 20,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 30
+    }
   }
 }

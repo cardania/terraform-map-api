@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15772",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15772",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSmN1K48yuxUpeU8XwoRqAZ5ajnUL8V1yCBQy1MBbZpDx",
+  "token_name": "Terraform18940",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18940",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmV5VyiPKzVnNxcP4UW8PeXeZeYAyXpDD38gxt8je72nPa",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 7,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 40,
     "y": 90
+  },
+  "neighbors": {
+    "top": {
+      "x": 40,
+      "y": 91
+    },
+    "topRight": {
+      "x": 41,
+      "y": 91
+    },
+    "right": {
+      "x": 41,
+      "y": 90
+    },
+    "bottomRight": {
+      "x": 41,
+      "y": 89
+    },
+    "bottom": {
+      "x": 40,
+      "y": 89
+    },
+    "bottonLeft": {
+      "x": 39,
+      "y": 89
+    },
+    "left": {
+      "x": 39,
+      "y": 90
+    },
+    "topLeft": {
+      "x": 39,
+      "y": 91
+    }
   }
 }

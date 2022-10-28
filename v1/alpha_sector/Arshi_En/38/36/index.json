@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13726",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13726",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfCQmFenn4iR1WS3RabFXfHEZw5iz2XLMnbbEsQCMXYHo",
+  "token_name": "Terraform13262",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13262",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTZUDz8od1SXoS4DkCbH8YCJgo9MBXJhMgVQNhTZUzGsc",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
+  "atmosphere": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
   "power_level": 7,
-  "quantum_flux": 8,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
+  "quantum_flux": 3,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 38,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 38,
+      "y": 37
+    },
+    "topRight": {
+      "x": 39,
+      "y": 37
+    },
+    "right": {
+      "x": 39,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 39,
+      "y": 35
+    },
+    "bottom": {
+      "x": 38,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 37,
+      "y": 35
+    },
+    "left": {
+      "x": 37,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 37,
+      "y": 37
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09161",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09161",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdkbPww1m9MVrMgPZ3Gc5wQeFFHscKo2SzfRxeepmCQeB",
+  "token_name": "Terraform16201",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16201",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZHEwy4Kb2aJ6fPZk8DAUm5Xx5aLBsLtb1ZdBxu8dr3uq",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 5,
+  "power_level": 1,
+  "quantum_flux": 7,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Toxic_River",
   "location": {
     "x": 7,
     "y": 62
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 63
+    },
+    "topRight": {
+      "x": 8,
+      "y": 63
+    },
+    "right": {
+      "x": 8,
+      "y": 62
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 61
+    },
+    "bottom": {
+      "x": 7,
+      "y": 61
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 61
+    },
+    "left": {
+      "x": 6,
+      "y": 62
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 63
+    }
   }
 }

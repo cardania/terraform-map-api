@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04503",
+  "token_name": "Terraform09554",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04503",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcTm8LCHaYmrgoC7MzAwmrtX1Wj49KsCFMr5m7xHf5muU",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09554",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmdrMRsJusBAaYe4uhPKSoq4MPodtibwZnrc6ABL4Avkva",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
+  "power_level": 9,
+  "quantum_flux": 8,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 85,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 85,
+      "y": 5
+    },
+    "topRight": {
+      "x": 86,
+      "y": 5
+    },
+    "right": {
+      "x": 86,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 86,
+      "y": 3
+    },
+    "bottom": {
+      "x": 85,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 84,
+      "y": 3
+    },
+    "left": {
+      "x": 84,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 84,
+      "y": 5
+    }
   }
 }

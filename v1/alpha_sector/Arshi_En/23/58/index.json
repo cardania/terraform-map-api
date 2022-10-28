@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08727",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08727",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfFX8JwZHgNKRiGXtp3yvCUwUfvHe9GgbwAEG9iTNL89u",
+  "token_name": "Terraform18829",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18829",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWQHi4LcTvzjs8NrudS2fSenBjsLqDQuvR3RYFV6rTkvC",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 7,
+  "quantum_flux": 8,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 23,
     "y": 58
+  },
+  "neighbors": {
+    "top": {
+      "x": 23,
+      "y": 59
+    },
+    "topRight": {
+      "x": 24,
+      "y": 59
+    },
+    "right": {
+      "x": 24,
+      "y": 58
+    },
+    "bottomRight": {
+      "x": 24,
+      "y": 57
+    },
+    "bottom": {
+      "x": 23,
+      "y": 57
+    },
+    "bottonLeft": {
+      "x": 22,
+      "y": 57
+    },
+    "left": {
+      "x": 22,
+      "y": 58
+    },
+    "topLeft": {
+      "x": 22,
+      "y": 59
+    }
   }
 }

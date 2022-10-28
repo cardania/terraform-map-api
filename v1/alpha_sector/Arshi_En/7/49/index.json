@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13459",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13459",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaLWASiXqTyeVH1zYuhcAxB2DThGV2GLT1ZENxq2AVyAJ",
+  "token_name": "Terraform17412",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17412",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmcfr9fy8rWssrxL3wEeMQGi7puGFxGzowqZ1vDTabMktS",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Burning_Mantrap",
+  "forests": "None",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 1,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "None",
   "location": {
     "x": 7,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 50
+    },
+    "topRight": {
+      "x": 8,
+      "y": 50
+    },
+    "right": {
+      "x": 8,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 48
+    },
+    "bottom": {
+      "x": 7,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 48
+    },
+    "left": {
+      "x": 6,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 50
+    }
   }
 }

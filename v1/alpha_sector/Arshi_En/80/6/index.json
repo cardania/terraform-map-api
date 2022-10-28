@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01290",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01290",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbzYxbh7zJgXweo9ivAdk7FBTuWxFFMmyRxEcQVzyEmyM",
+  "token_name": "Terraform04418",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04418",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWRjFG6jj24LtHKUyJBuun7wCFA1b1iErC65FCVH8BEA7",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 4,
-  "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
   "water": "None",
   "location": {
     "x": 80,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 80,
+      "y": 7
+    },
+    "topRight": {
+      "x": 81,
+      "y": 7
+    },
+    "right": {
+      "x": 81,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 81,
+      "y": 5
+    },
+    "bottom": {
+      "x": 80,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 79,
+      "y": 5
+    },
+    "left": {
+      "x": 79,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 79,
+      "y": 7
+    }
   }
 }

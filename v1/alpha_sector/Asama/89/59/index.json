@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17113",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17113",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmaq3R7CUt97N3wMrBzP4PACcDqBmweseaUiBSr3J2Y2cj",
+  "token_name": "Terraform06715",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06715",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVwcrREEouwzFHZk7vscXSB2CbeD7kwGEg5i1aPVEeuRs",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 5,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 6,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 89,
     "y": 59
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 60
+    },
+    "topRight": {
+      "x": 90,
+      "y": 60
+    },
+    "right": {
+      "x": 90,
+      "y": 59
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 58
+    },
+    "bottom": {
+      "x": 89,
+      "y": 58
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 58
+    },
+    "left": {
+      "x": 88,
+      "y": 59
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 60
+    }
   }
 }

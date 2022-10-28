@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09740",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09740",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXNdLoGAbCd63xSDm2NU1dPYpzewbPovntCi8SJb4AbRB",
+  "token_name": "Terraform04312",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04312",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeiPEXBEwHz27jyaQ7nYMABrYjAnEczS26zGi9iszfvDE",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
+  "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 8,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
   "water": "None",
   "location": {
     "x": 98,
     "y": 25
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 26
+    },
+    "topRight": {
+      "x": 99,
+      "y": 26
+    },
+    "right": {
+      "x": 99,
+      "y": 25
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 24
+    },
+    "bottom": {
+      "x": 98,
+      "y": 24
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 24
+    },
+    "left": {
+      "x": 97,
+      "y": 25
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 26
+    }
   }
 }

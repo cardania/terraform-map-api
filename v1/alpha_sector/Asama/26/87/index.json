@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13305",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13305",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfBPo4Jbuau9KL3Pfc7n4kp6ciZvSDm7acbEja6b2EKjn",
+  "token_name": "Terraform18055",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18055",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVkiYuUAytgpG6oJUTpD4ccYnoBiAnJ7Gxi3s19JdUtvN",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
+  "fauna": "Livestock",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 2,
-  "quantum_flux": 7,
+  "quantum_flux": 6,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Toxic_Lake",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "Timelost_Shrine",
+  "water": "None",
   "location": {
     "x": 26,
     "y": 87
+  },
+  "neighbors": {
+    "top": {
+      "x": 26,
+      "y": 88
+    },
+    "topRight": {
+      "x": 27,
+      "y": 88
+    },
+    "right": {
+      "x": 27,
+      "y": 87
+    },
+    "bottomRight": {
+      "x": 27,
+      "y": 86
+    },
+    "bottom": {
+      "x": 26,
+      "y": 86
+    },
+    "bottonLeft": {
+      "x": 25,
+      "y": 86
+    },
+    "left": {
+      "x": 25,
+      "y": 87
+    },
+    "topLeft": {
+      "x": 25,
+      "y": 88
+    }
   }
 }

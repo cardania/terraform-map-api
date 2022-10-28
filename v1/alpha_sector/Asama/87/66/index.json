@@ -1,8 +1,8 @@
 {
-  "token_name": "Terraform13317",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13317",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeJxSWXQPAAStzyoV98zG6H8UqxK2z3nKvQgxWN2TgQoM",
+  "token_name": "Terraform17078",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17078",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbsDddceEQA5NMx9JSykPpfLKQns5tpsaSeX84bVqw1uP",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
@@ -10,16 +10,50 @@
   "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 4,
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 9,
   "quantum_flux": 6,
-  "primary_minerals": "Cardanium",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_River",
+  "ruins": "Ancient_Ruins",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 87,
     "y": 66
+  },
+  "neighbors": {
+    "top": {
+      "x": 87,
+      "y": 67
+    },
+    "topRight": {
+      "x": 88,
+      "y": 67
+    },
+    "right": {
+      "x": 88,
+      "y": 66
+    },
+    "bottomRight": {
+      "x": 88,
+      "y": 65
+    },
+    "bottom": {
+      "x": 87,
+      "y": 65
+    },
+    "bottonLeft": {
+      "x": 86,
+      "y": 65
+    },
+    "left": {
+      "x": 86,
+      "y": 66
+    },
+    "topLeft": {
+      "x": 86,
+      "y": 67
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00186",
+  "token_name": "Terraform00750",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00186",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmak81kvKRMFR21kAtwhXYJ5ZWDnSeTGX9fwy5wNvimpru",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00750",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTfU4SwFEwFPKM9wC2i2BxCLCFCgdKSKfAsFLy7hyKXCM",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 5,
+  "fauna": "Livestock",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 4,
   "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "None",
   "location": {
     "x": 25,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 25,
+      "y": 3
+    },
+    "topRight": {
+      "x": 26,
+      "y": 3
+    },
+    "right": {
+      "x": 26,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 26,
+      "y": 1
+    },
+    "bottom": {
+      "x": 25,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 24,
+      "y": 1
+    },
+    "left": {
+      "x": 24,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 24,
+      "y": 3
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06906",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06906",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSqVjsmCeZzPjuvVdNmZc97XbHD5aT2qydGcAj7NyvnFG",
+  "token_name": "Terraform04665",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04665",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZsyugp2i8gKAi3meMq5KMQ4mwhLyiyumGJtZQNFhNYbb",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Palms",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 8,
-  "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 72,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 72,
+      "y": 4
+    },
+    "topRight": {
+      "x": 73,
+      "y": 4
+    },
+    "right": {
+      "x": 73,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 73,
+      "y": 2
+    },
+    "bottom": {
+      "x": 72,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 71,
+      "y": 2
+    },
+    "left": {
+      "x": 71,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 71,
+      "y": 4
+    }
   }
 }

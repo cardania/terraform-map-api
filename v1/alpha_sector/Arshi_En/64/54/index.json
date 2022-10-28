@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01060",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01060",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaqtiAiX8n3ZufKQuFG7A16ynNuq2FMPscYkNitgN3P1w",
+  "token_name": "Terraform11873",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11873",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSnWGckrMn5A7qmzjxjTuC1w6zEsAY5AWsTqFWeigi7uX",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 7,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Solar_Shrine",
+  "power_level": 1,
+  "quantum_flux": 9,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 64,
     "y": 54
+  },
+  "neighbors": {
+    "top": {
+      "x": 64,
+      "y": 55
+    },
+    "topRight": {
+      "x": 65,
+      "y": 55
+    },
+    "right": {
+      "x": 65,
+      "y": 54
+    },
+    "bottomRight": {
+      "x": 65,
+      "y": 53
+    },
+    "bottom": {
+      "x": 64,
+      "y": 53
+    },
+    "bottonLeft": {
+      "x": 63,
+      "y": 53
+    },
+    "left": {
+      "x": 63,
+      "y": 54
+    },
+    "topLeft": {
+      "x": 63,
+      "y": 55
+    }
   }
 }

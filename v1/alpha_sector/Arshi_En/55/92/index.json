@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08483",
+  "token_name": "Terraform18027",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08483",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbh1jFWunpabJsFTYxtcFvT3r5QDVHBVV9vd9P5NfuW4x",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18027",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcW4bHnSzoZ8psgvofySsKmMCm3nLy99aTLueeDvN3VZ4",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
+  "forests": "None",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "power_level": 4,
+  "quantum_flux": 9,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_Lake",
+  "shrine": "Void_Shrine",
+  "water": "None",
   "location": {
     "x": 55,
     "y": 92
+  },
+  "neighbors": {
+    "top": {
+      "x": 55,
+      "y": 93
+    },
+    "topRight": {
+      "x": 56,
+      "y": 93
+    },
+    "right": {
+      "x": 56,
+      "y": 92
+    },
+    "bottomRight": {
+      "x": 56,
+      "y": 91
+    },
+    "bottom": {
+      "x": 55,
+      "y": 91
+    },
+    "bottonLeft": {
+      "x": 54,
+      "y": 91
+    },
+    "left": {
+      "x": 54,
+      "y": 92
+    },
+    "topLeft": {
+      "x": 54,
+      "y": 93
+    }
   }
 }

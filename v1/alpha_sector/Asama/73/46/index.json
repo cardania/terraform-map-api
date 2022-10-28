@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08433",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08433",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRMoDzpCF3M5XNQKhwEuXtRSDSqzrSzgX7qGXKApuRLdr",
+  "token_name": "Terraform04970",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04970",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSQ2BS6s8KTWKQzHuFUeYKsYmeK2byWKkHSgaJpgxfQK3",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 1,
-  "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
+  "shrine": "Quantum_Shrine",
   "water": "None",
   "location": {
     "x": 73,
     "y": 46
+  },
+  "neighbors": {
+    "top": {
+      "x": 73,
+      "y": 47
+    },
+    "topRight": {
+      "x": 74,
+      "y": 47
+    },
+    "right": {
+      "x": 74,
+      "y": 46
+    },
+    "bottomRight": {
+      "x": 74,
+      "y": 45
+    },
+    "bottom": {
+      "x": 73,
+      "y": 45
+    },
+    "bottonLeft": {
+      "x": 72,
+      "y": 45
+    },
+    "left": {
+      "x": 72,
+      "y": 46
+    },
+    "topLeft": {
+      "x": 72,
+      "y": 47
+    }
   }
 }

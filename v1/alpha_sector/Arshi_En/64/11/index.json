@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform03113",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03113",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmReuY12V9PAgLDyc1BgkZqaae7ULSaWT3RhNtf57APAHa",
+  "token_name": "Terraform07472",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07472",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVKgNbGL16zC1FehcVeqkf5jEEwZbsRY4nCeGKxhPrTSb",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
   "power_level": 6,
   "quantum_flux": 3,
   "primary_minerals": "Iron",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Solar_Shrine",
-  "water": "Saltwater_Lake",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 64,
     "y": 11
+  },
+  "neighbors": {
+    "top": {
+      "x": 64,
+      "y": 12
+    },
+    "topRight": {
+      "x": 65,
+      "y": 12
+    },
+    "right": {
+      "x": 65,
+      "y": 11
+    },
+    "bottomRight": {
+      "x": 65,
+      "y": 10
+    },
+    "bottom": {
+      "x": 64,
+      "y": 10
+    },
+    "bottonLeft": {
+      "x": 63,
+      "y": 10
+    },
+    "left": {
+      "x": 63,
+      "y": 11
+    },
+    "topLeft": {
+      "x": 63,
+      "y": 12
+    }
   }
 }

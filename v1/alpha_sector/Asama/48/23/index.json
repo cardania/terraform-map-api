@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06504",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06504",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRDrPjS9tXN3PrUAZNzy1SFESE24ByvBDfW1AWuDVbSQu",
+  "token_name": "Terraform04906",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04906",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTrbm2M5pzVS54gY6xvfdBWk3SL5Xwp2Sa67jguNndBCK",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 6,
   "quantum_flux": 6,
-  "primary_minerals": "Cardanium",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Solar_Shrine",
+  "ruins": "None",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 48,
     "y": 23
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 24
+    },
+    "topRight": {
+      "x": 49,
+      "y": 24
+    },
+    "right": {
+      "x": 49,
+      "y": 23
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 22
+    },
+    "bottom": {
+      "x": 48,
+      "y": 22
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 22
+    },
+    "left": {
+      "x": 47,
+      "y": 23
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 24
+    }
   }
 }

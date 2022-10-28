@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09973",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09973",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSxz2zfyMHwoyavNY8W7Ea4njH7bMJ7d5BGQtoCEmFSPq",
+  "token_name": "Terraform18951",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18951",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmaDAhjBVtKit39zp9K1nmV3HVkWsyjAkGLCQt8ah1nRiE",
   "alpha_sector": "Asama",
   "activity": "Geothermal_Activity",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "None",
   "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 1,
     "y": 18
+  },
+  "neighbors": {
+    "top": {
+      "x": 1,
+      "y": 19
+    },
+    "topRight": {
+      "x": 2,
+      "y": 19
+    },
+    "right": {
+      "x": 2,
+      "y": 18
+    },
+    "bottomRight": {
+      "x": 2,
+      "y": 17
+    },
+    "bottom": {
+      "x": 1,
+      "y": 17
+    },
+    "bottonLeft": {
+      "x": 0,
+      "y": 17
+    },
+    "left": {
+      "x": 0,
+      "y": 18
+    },
+    "topLeft": {
+      "x": 0,
+      "y": 19
+    }
   }
 }

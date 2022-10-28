@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11747",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11747",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcG1fYbQ5CX3VX3Es23FUTu84fY7Qe9sShq9vtaEoa73F",
+  "token_name": "Terraform10266",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10266",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPKyEbRygcWoWM5Fr5JTimTgVZeCyqwJVQbXvt4QwLh6u",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "Copper",
+  "power_level": 2,
+  "quantum_flux": 5,
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Freshwater_Lake",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 61,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 61,
+      "y": 53
+    },
+    "topRight": {
+      "x": 62,
+      "y": 53
+    },
+    "right": {
+      "x": 62,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 62,
+      "y": 51
+    },
+    "bottom": {
+      "x": 61,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 60,
+      "y": 51
+    },
+    "left": {
+      "x": 60,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 60,
+      "y": 53
+    }
   }
 }

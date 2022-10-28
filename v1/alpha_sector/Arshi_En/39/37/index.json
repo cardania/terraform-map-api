@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16020",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16020",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZFeyKBW3NHAWZidv7g22pGJYeWSJopBk4JeMqRRYqxzE",
+  "token_name": "Terraform02524",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02524",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmP3vyZMzuuQ2TpwGTDR5Fk2Z7wkGNkWWLEZNFfbjsBjdy",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 39,
     "y": 37
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 38
+    },
+    "topRight": {
+      "x": 40,
+      "y": 38
+    },
+    "right": {
+      "x": 40,
+      "y": 37
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 36
+    },
+    "bottom": {
+      "x": 39,
+      "y": 36
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 36
+    },
+    "left": {
+      "x": 38,
+      "y": 37
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 38
+    }
   }
 }

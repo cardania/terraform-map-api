@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08857",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08857",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQdUmYJuSn19J3toJBy7n8od6C535thxwRDivgzEGaGBM",
+  "token_name": "Terraform01351",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01351",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd7rYstrrZNm7NKTU1YxBMbbsuDxFQwxJg7oadvZAx7Af",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 6,
-  "quantum_flux": 7,
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 5,
     "y": 49
+  },
+  "neighbors": {
+    "top": {
+      "x": 5,
+      "y": 50
+    },
+    "topRight": {
+      "x": 6,
+      "y": 50
+    },
+    "right": {
+      "x": 6,
+      "y": 49
+    },
+    "bottomRight": {
+      "x": 6,
+      "y": 48
+    },
+    "bottom": {
+      "x": 5,
+      "y": 48
+    },
+    "bottonLeft": {
+      "x": 4,
+      "y": 48
+    },
+    "left": {
+      "x": 4,
+      "y": 49
+    },
+    "topLeft": {
+      "x": 4,
+      "y": 50
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12787",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12787",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSGExWQ8BWv4P6GefZWasHSKbddjuo6mppTHuA6rJrk3H",
+  "token_name": "Terraform09153",
+  "land_type": "Fungal",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09153",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmTqsKDJ6rYqCqffnvGSEtq3H3QYVFn4eRMGgUuUKDek5i",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
+  "activity": "None",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 9,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 83,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 7
+    },
+    "topRight": {
+      "x": 84,
+      "y": 7
+    },
+    "right": {
+      "x": 84,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 5
+    },
+    "bottom": {
+      "x": 83,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 5
+    },
+    "left": {
+      "x": 82,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 7
+    }
   }
 }

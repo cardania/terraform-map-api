@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform02945",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02945",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmW3Cv1YRUka3vm429NQj95fWU9AecvYqQtMUABWXkAJrf",
+  "token_name": "Terraform00156",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00156",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmat5DLjHWKNQu7posaYV8Dnf31AV4tFxXdko3wFNr4q5u",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 6,
   "quantum_flux": 7,
-  "primary_minerals": "Copper",
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 65,
     "y": 84
+  },
+  "neighbors": {
+    "top": {
+      "x": 65,
+      "y": 85
+    },
+    "topRight": {
+      "x": 66,
+      "y": 85
+    },
+    "right": {
+      "x": 66,
+      "y": 84
+    },
+    "bottomRight": {
+      "x": 66,
+      "y": 83
+    },
+    "bottom": {
+      "x": 65,
+      "y": 83
+    },
+    "bottonLeft": {
+      "x": 64,
+      "y": 83
+    },
+    "left": {
+      "x": 64,
+      "y": 84
+    },
+    "topLeft": {
+      "x": 64,
+      "y": 85
+    }
   }
 }

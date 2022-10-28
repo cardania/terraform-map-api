@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00672",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00672",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmexufq4BpHJNUkUS5eZyrGfjfu9sAgrFDwX1TY5PNsEVj",
+  "token_name": "Terraform03698",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03698",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWtdwhHQm24wyyzrWRtpGXHKdMB21GKcEXsuikToFJWGX",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 1,
+  "power_level": 4,
   "quantum_flux": 3,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "Fungal_Shrine",
-  "water": "Toxic_River",
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 1,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 1,
+      "y": 83
+    },
+    "topRight": {
+      "x": 2,
+      "y": 83
+    },
+    "right": {
+      "x": 2,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 2,
+      "y": 81
+    },
+    "bottom": {
+      "x": 1,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 0,
+      "y": 81
+    },
+    "left": {
+      "x": 0,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 0,
+      "y": 83
+    }
   }
 }

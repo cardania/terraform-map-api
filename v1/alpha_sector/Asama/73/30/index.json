@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00560",
+  "token_name": "Terraform17468",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00560",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcdU6LLAaunvdMpf2K63K82b6utpTFcegYpEWHRAtKT4a",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17468",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXXftYJihQBZELS3TVTstTgBcn99Fc5WzHG2vUFgciN9e",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Livestock",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "None",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 6,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
-  "water": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 5,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "Toxic_Lake",
   "location": {
     "x": 73,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 73,
+      "y": 31
+    },
+    "topRight": {
+      "x": 74,
+      "y": 31
+    },
+    "right": {
+      "x": 74,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 74,
+      "y": 29
+    },
+    "bottom": {
+      "x": 73,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 72,
+      "y": 29
+    },
+    "left": {
+      "x": 72,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 72,
+      "y": 31
+    }
   }
 }

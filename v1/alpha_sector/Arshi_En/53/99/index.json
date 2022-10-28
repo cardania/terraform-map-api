@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08527",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08527",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUAc8KSEi6jo5AWcB2PxExHYBmct7xztqVmFCezSXuG6a",
+  "token_name": "Terraform17669",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17669",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVY7M14WTCWjM4zEuD2SCZLjLfLJBuwNNrW8M5dBZfjkw",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 5,
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Funky_Lake",
+  "water": "Funky_River",
   "location": {
     "x": 53,
     "y": 99
+  },
+  "neighbors": {
+    "top": {
+      "x": 53,
+      "y": 100
+    },
+    "topRight": {
+      "x": 54,
+      "y": 100
+    },
+    "right": {
+      "x": 54,
+      "y": 99
+    },
+    "bottomRight": {
+      "x": 54,
+      "y": 98
+    },
+    "bottom": {
+      "x": 53,
+      "y": 98
+    },
+    "bottonLeft": {
+      "x": 52,
+      "y": 98
+    },
+    "left": {
+      "x": 52,
+      "y": 99
+    },
+    "topLeft": {
+      "x": 52,
+      "y": 100
+    }
   }
 }

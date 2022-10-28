@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02102",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02102",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVzGM7rL3UyU4WCuaCj2NtcTfY2z6jC5nbeic4PkV2XS6",
+  "token_name": "Terraform03413",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03413",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPUGRMevBUj4bQhEeHXu82G4pr8QXSaDbfVvSZWWjh2hR",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
+  "fauna": "None",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 3,
-  "quantum_flux": 5,
+  "quantum_flux": 3,
   "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Cursed_River",
   "location": {
     "x": 52,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 30
+    },
+    "topRight": {
+      "x": 53,
+      "y": 30
+    },
+    "right": {
+      "x": 53,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 28
+    },
+    "bottom": {
+      "x": 52,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 28
+    },
+    "left": {
+      "x": 51,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 30
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12801",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12801",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmf4WejDLxcSpja9EnLNLZi9Aeu4JqSuL5CwcpzM51WWP1",
+  "token_name": "Terraform06530",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06530",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUU1EyH1rM64ddsD6VhnRRRGzaFb1ZzuwzGpH9RrtLK3G",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 3,
+  "power_level": 5,
   "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "None",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Green",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 2,
     "y": 41
+  },
+  "neighbors": {
+    "top": {
+      "x": 2,
+      "y": 42
+    },
+    "topRight": {
+      "x": 3,
+      "y": 42
+    },
+    "right": {
+      "x": 3,
+      "y": 41
+    },
+    "bottomRight": {
+      "x": 3,
+      "y": 40
+    },
+    "bottom": {
+      "x": 2,
+      "y": 40
+    },
+    "bottonLeft": {
+      "x": 1,
+      "y": 40
+    },
+    "left": {
+      "x": 1,
+      "y": 41
+    },
+    "topLeft": {
+      "x": 1,
+      "y": 42
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07889",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07889",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSU6JEWZAikkgDRQ98pyHztZX7iSm2BJBiY4hEUsL7WSh",
+  "token_name": "Terraform13180",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13180",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmUHrw1UtRm3cFmppByHkoQDGawrvXnrGTrUziyCjRXByd",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Timelost",
-  "power_level": 9,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Gemstones",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 8,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Timelost_Shrine",
-  "water": "None",
+  "shrine": "None",
+  "water": "Cursed_Lake",
   "location": {
     "x": 97,
     "y": 63
+  },
+  "neighbors": {
+    "top": {
+      "x": 97,
+      "y": 64
+    },
+    "topRight": {
+      "x": 98,
+      "y": 64
+    },
+    "right": {
+      "x": 98,
+      "y": 63
+    },
+    "bottomRight": {
+      "x": 98,
+      "y": 62
+    },
+    "bottom": {
+      "x": 97,
+      "y": 62
+    },
+    "bottonLeft": {
+      "x": 96,
+      "y": 62
+    },
+    "left": {
+      "x": 96,
+      "y": 63
+    },
+    "topLeft": {
+      "x": 96,
+      "y": 64
+    }
   }
 }

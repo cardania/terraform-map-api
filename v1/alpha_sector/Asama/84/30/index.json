@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17580",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17580",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmV6jKzEi9aq48xLQhzQpyb6uaAqHezbMsx8f4VEmbyeof",
+  "token_name": "Terraform02697",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02697",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmeB3P9qCdNF887fEPN2ESzC3Wk6Pwn8pYLEFsLDKcQHUG",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "activity": "None",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 8,
-  "quantum_flux": 4,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "power_level": 1,
+  "quantum_flux": 2,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 84,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 84,
+      "y": 31
+    },
+    "topRight": {
+      "x": 85,
+      "y": 31
+    },
+    "right": {
+      "x": 85,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 85,
+      "y": 29
+    },
+    "bottom": {
+      "x": 84,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 83,
+      "y": 29
+    },
+    "left": {
+      "x": 83,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 83,
+      "y": 31
+    }
   }
 }

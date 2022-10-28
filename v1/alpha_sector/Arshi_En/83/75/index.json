@@ -1,18 +1,18 @@
 {
-  "token_name": "Terraform16041",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16041",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVbkTcVjGEAFtGWQgLn3yH5Yo9bx44eNbjuiKZJHWeSFv",
+  "token_name": "Terraform02271",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02271",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRHC7e42pES8cjgh869ncfyf7L2Yy1YAnkZzyzQBoaXyK",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "Reinforced_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
+  "fauna": "None",
+  "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 7,
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 4,
   "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 83,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 83,
+      "y": 76
+    },
+    "topRight": {
+      "x": 84,
+      "y": 76
+    },
+    "right": {
+      "x": 84,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 84,
+      "y": 74
+    },
+    "bottom": {
+      "x": 83,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 82,
+      "y": 74
+    },
+    "left": {
+      "x": 82,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 82,
+      "y": 76
+    }
   }
 }

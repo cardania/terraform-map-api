@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16131",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16131",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPyrJf6v7fN66LqcTuWRyuKuZ2ce6DmsipYcWPbhhHL9j",
+  "token_name": "Terraform17233",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17233",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZa6SQess93fMSZGb8reJVm3ASVnMo4YSxFjunwFDpqTA",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Nemesis_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 4,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Cursed_Lake",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 1,
+  "quantum_flux": 2,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Solar_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 52,
     "y": 41
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 42
+    },
+    "topRight": {
+      "x": 53,
+      "y": 42
+    },
+    "right": {
+      "x": 53,
+      "y": 41
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 40
+    },
+    "bottom": {
+      "x": 52,
+      "y": 40
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 40
+    },
+    "left": {
+      "x": 51,
+      "y": 41
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 42
+    }
   }
 }

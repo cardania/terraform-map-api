@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15649",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15649",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQvJM2Feas4d8BJE7Btz5hUfZaeAvUThvqhb2ovh3MUKv",
+  "token_name": "Terraform06088",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06088",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWiVSSKNDn5f5KY2APjPCuk47JUSRmCy3dnnyqPkxJ3Ls",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "Fungal_Spores",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
+  "power_level": 3,
   "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 70,
     "y": 3
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 4
+    },
+    "topRight": {
+      "x": 71,
+      "y": 4
+    },
+    "right": {
+      "x": 71,
+      "y": 3
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 2
+    },
+    "bottom": {
+      "x": 70,
+      "y": 2
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 2
+    },
+    "left": {
+      "x": 69,
+      "y": 3
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 4
+    }
   }
 }

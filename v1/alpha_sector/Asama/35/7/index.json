@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04586",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04586",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRWuzKG3z5rRPUDTLaS5SAhPF1mfrbgq3zZwYj8QfTziw",
+  "token_name": "Terraform17871",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17871",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYye3mC2wgnYzjgva5F6Dgd79P7PE2pHsshgoCpWnjWtq",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Prismatic_Motes",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 8,
-  "primary_minerals": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 8,
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 35,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 35,
+      "y": 8
+    },
+    "topRight": {
+      "x": 36,
+      "y": 8
+    },
+    "right": {
+      "x": 36,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 36,
+      "y": 6
+    },
+    "bottom": {
+      "x": 35,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 34,
+      "y": 6
+    },
+    "left": {
+      "x": 34,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 34,
+      "y": 8
+    }
   }
 }

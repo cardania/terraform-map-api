@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14828",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14828",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmU1ZjDjCUKhTbd51CnTmfZd1mokdzz2P5yHCNLMFRtjdz",
+  "token_name": "Terraform10938",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10938",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPdPC6oVRhNbQpkfXVzaRLxg4SJJTJeGKBszx2N24TKJd",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 5,
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 6,
   "quantum_flux": 2,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Machine_Shrine",
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 95,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 31
+    },
+    "topRight": {
+      "x": 96,
+      "y": 31
+    },
+    "right": {
+      "x": 96,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 29
+    },
+    "bottom": {
+      "x": 95,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 29
+    },
+    "left": {
+      "x": 94,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 31
+    }
   }
 }

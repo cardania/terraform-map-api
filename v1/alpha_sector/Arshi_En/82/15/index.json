@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11167",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11167",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVGKpsUpGgprrXJXG9cvBwy4F6LrtBQVB1aKE8vh5ftVh",
+  "token_name": "Terraform04268",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04268",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmdkh9GYz8jA7mXNFDPW5ormFYa4H5LspV6S2LLhmB2ogs",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
+  "activity": "None",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 8,
+  "power_level": 4,
+  "quantum_flux": 5,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Saltwater_Lake",
+  "shrine": "Fungal_Shrine",
+  "water": "Funky_River",
   "location": {
     "x": 82,
     "y": 15
+  },
+  "neighbors": {
+    "top": {
+      "x": 82,
+      "y": 16
+    },
+    "topRight": {
+      "x": 83,
+      "y": 16
+    },
+    "right": {
+      "x": 83,
+      "y": 15
+    },
+    "bottomRight": {
+      "x": 83,
+      "y": 14
+    },
+    "bottom": {
+      "x": 82,
+      "y": 14
+    },
+    "bottonLeft": {
+      "x": 81,
+      "y": 14
+    },
+    "left": {
+      "x": 81,
+      "y": 15
+    },
+    "topLeft": {
+      "x": 81,
+      "y": 16
+    }
   }
 }

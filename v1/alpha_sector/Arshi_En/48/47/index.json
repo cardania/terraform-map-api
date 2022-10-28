@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11874",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11874",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUEuP5zy8Hv7otd9cG4uTdzxdUeEn6ttx9RgLCcTbQWqZ",
+  "token_name": "Terraform13628",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13628",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmT75ZNx2RAvVarNSQ6U8m4sbADiEkoJC3RVbMTowYxESv",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "Fungal_Spores",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 5,
+  "power_level": 3,
+  "quantum_flux": 3,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Compacted_Machinery",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 48,
     "y": 47
+  },
+  "neighbors": {
+    "top": {
+      "x": 48,
+      "y": 48
+    },
+    "topRight": {
+      "x": 49,
+      "y": 48
+    },
+    "right": {
+      "x": 49,
+      "y": 47
+    },
+    "bottomRight": {
+      "x": 49,
+      "y": 46
+    },
+    "bottom": {
+      "x": 48,
+      "y": 46
+    },
+    "bottonLeft": {
+      "x": 47,
+      "y": 46
+    },
+    "left": {
+      "x": 47,
+      "y": 47
+    },
+    "topLeft": {
+      "x": 47,
+      "y": 48
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12605",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12605",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfPhenTcQDqffrjwMCNSmGEEq6bP1B62F6QxqLD3zmaWy",
+  "token_name": "Terraform08606",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08606",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmS2tPpngKC4ppGQmVrtYWhRNZMyQjz79R4i5SVWVkc7PJ",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
+  "fauna": "Critters",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 1,
   "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Cursed_River",
   "location": {
     "x": 100,
     "y": 66
+  },
+  "neighbors": {
+    "top": {
+      "x": 100,
+      "y": 67
+    },
+    "topRight": {
+      "x": 101,
+      "y": 67
+    },
+    "right": {
+      "x": 101,
+      "y": 66
+    },
+    "bottomRight": {
+      "x": 101,
+      "y": 65
+    },
+    "bottom": {
+      "x": 100,
+      "y": 65
+    },
+    "bottonLeft": {
+      "x": 99,
+      "y": 65
+    },
+    "left": {
+      "x": 99,
+      "y": 66
+    },
+    "topLeft": {
+      "x": 99,
+      "y": 67
+    }
   }
 }

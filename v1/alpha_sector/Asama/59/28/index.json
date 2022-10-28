@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform18527",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18527",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTvUH4iNVDBJxzxF4vnV2nJiBgcBwPUrY4niGNUGiL3Vr",
+  "token_name": "Terraform08521",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08521",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQBFhsTzPHoqTeFEAEYkq6fatwyDAco5Nxzvuh4CWzHGX",
   "alpha_sector": "Asama",
   "activity": "Geothermal_Activity",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "Cardanium",
+  "hazardous_flora": "Melodious_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 3,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 59,
     "y": 28
+  },
+  "neighbors": {
+    "top": {
+      "x": 59,
+      "y": 29
+    },
+    "topRight": {
+      "x": 60,
+      "y": 29
+    },
+    "right": {
+      "x": 60,
+      "y": 28
+    },
+    "bottomRight": {
+      "x": 60,
+      "y": 27
+    },
+    "bottom": {
+      "x": 59,
+      "y": 27
+    },
+    "bottonLeft": {
+      "x": 58,
+      "y": 27
+    },
+    "left": {
+      "x": 58,
+      "y": 28
+    },
+    "topLeft": {
+      "x": 58,
+      "y": 29
+    }
   }
 }

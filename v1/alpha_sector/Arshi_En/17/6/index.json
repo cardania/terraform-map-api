@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04734",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04734",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTReH9Z43zswwZGWaQKihqEP1V1oezrTKqqCLVsiivGNr",
+  "token_name": "Terraform08021",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08021",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmYUZBNqKC6L2Z6kpD9Fyjd4c2V5FUfS24FGkWvfTHYNCm",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 1,
   "quantum_flux": 2,
   "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Golden_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 17,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 7
+    },
+    "topRight": {
+      "x": 18,
+      "y": 7
+    },
+    "right": {
+      "x": 18,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 5
+    },
+    "bottom": {
+      "x": 17,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 5
+    },
+    "left": {
+      "x": 16,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 7
+    }
   }
 }

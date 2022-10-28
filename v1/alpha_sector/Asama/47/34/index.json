@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08368",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08368",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXFJwZAagr3hfVCS8yQf5ymEC7zr7yM7Z17m9DLADBdA1",
+  "token_name": "Terraform11980",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11980",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPNiDQTH6toLAU77jDUSM3EaqbenGJSbAXqR715w7zFEx",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "Ultrasaurs",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 5,
-  "quantum_flux": 7,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "None",
-  "water": "Cursed_Lake",
+  "power_level": 9,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
+  "ruins": "None",
+  "shrine": "Timelost_Shrine",
+  "water": "Toxic_Lake",
   "location": {
     "x": 47,
     "y": 34
+  },
+  "neighbors": {
+    "top": {
+      "x": 47,
+      "y": 35
+    },
+    "topRight": {
+      "x": 48,
+      "y": 35
+    },
+    "right": {
+      "x": 48,
+      "y": 34
+    },
+    "bottomRight": {
+      "x": 48,
+      "y": 33
+    },
+    "bottom": {
+      "x": 47,
+      "y": 33
+    },
+    "bottonLeft": {
+      "x": 46,
+      "y": 33
+    },
+    "left": {
+      "x": 46,
+      "y": 34
+    },
+    "topLeft": {
+      "x": 46,
+      "y": 35
+    }
   }
 }

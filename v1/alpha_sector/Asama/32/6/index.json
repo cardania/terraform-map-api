@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19688",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19688",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUPDRLbRrCKeSPC4cxpkdsgYJVFUDTFJ4NtuotbLzixJN",
+  "token_name": "Terraform02099",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02099",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVrvbaQQSXGmWUeTb2BTQg53rVnruTMW5vkGmuiHAow3f",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Critters",
+  "atmosphere": "Custodial_Nanites",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 2,
   "quantum_flux": 9,
-  "primary_minerals": "Copper",
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 32,
     "y": 6
+  },
+  "neighbors": {
+    "top": {
+      "x": 32,
+      "y": 7
+    },
+    "topRight": {
+      "x": 33,
+      "y": 7
+    },
+    "right": {
+      "x": 33,
+      "y": 6
+    },
+    "bottomRight": {
+      "x": 33,
+      "y": 5
+    },
+    "bottom": {
+      "x": 32,
+      "y": 5
+    },
+    "bottonLeft": {
+      "x": 31,
+      "y": 5
+    },
+    "left": {
+      "x": 31,
+      "y": 6
+    },
+    "topLeft": {
+      "x": 31,
+      "y": 7
+    }
   }
 }

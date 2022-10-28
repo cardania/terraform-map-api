@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform09961",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09961",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qma56B5V25CS13vWg5zdtVpXz4KaehkM4AzWmqmfwc8CnE",
+  "token_name": "Terraform19058",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19058",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWj8Qgu4FMYJKziDVwhQ4VLMwucz9D72x7j1QREssHHn4",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Common_Hydra",
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 1,
+  "power_level": 4,
   "quantum_flux": 9,
-  "primary_minerals": "Cardanium",
+  "primary_minerals": "Copper",
   "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 52,
     "y": 36
+  },
+  "neighbors": {
+    "top": {
+      "x": 52,
+      "y": 37
+    },
+    "topRight": {
+      "x": 53,
+      "y": 37
+    },
+    "right": {
+      "x": 53,
+      "y": 36
+    },
+    "bottomRight": {
+      "x": 53,
+      "y": 35
+    },
+    "bottom": {
+      "x": 52,
+      "y": 35
+    },
+    "bottonLeft": {
+      "x": 51,
+      "y": 35
+    },
+    "left": {
+      "x": 51,
+      "y": 36
+    },
+    "topLeft": {
+      "x": 51,
+      "y": 37
+    }
   }
 }

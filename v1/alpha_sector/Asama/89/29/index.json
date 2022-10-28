@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform14095",
+  "token_name": "Terraform07548",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14095",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYYoJeyXBL7ZsoWrJebxpFYuSYCCiB8bUXs85eLEwNPSe",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07548",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ7qBke4z6Fhw9DYivJrWHKDobKxTFCDGL1FpG1BZS9ki",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "Solar_Shrine",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 2,
+  "quantum_flux": 5,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Ancient_Ruins",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 89,
     "y": 29
+  },
+  "neighbors": {
+    "top": {
+      "x": 89,
+      "y": 30
+    },
+    "topRight": {
+      "x": 90,
+      "y": 30
+    },
+    "right": {
+      "x": 90,
+      "y": 29
+    },
+    "bottomRight": {
+      "x": 90,
+      "y": 28
+    },
+    "bottom": {
+      "x": 89,
+      "y": 28
+    },
+    "bottonLeft": {
+      "x": 88,
+      "y": 28
+    },
+    "left": {
+      "x": 88,
+      "y": 29
+    },
+    "topLeft": {
+      "x": 88,
+      "y": 30
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06670",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06670",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbeazw5FkthGMkDqQomrcVMkKyT5wb2cDt9WYGFM3ADZe",
+  "token_name": "Terraform17156",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17156",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXyqV9oos8hubXnRbq9f3jMzuoE1kwobwuwjUfueY4Gc4",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
+  "fauna": "Livestock",
   "forests": "Prismaleaf",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 3,
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 8,
   "quantum_flux": 4,
-  "primary_minerals": "None",
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Toxic_River",
   "location": {
     "x": 1,
     "y": 4
+  },
+  "neighbors": {
+    "top": {
+      "x": 1,
+      "y": 5
+    },
+    "topRight": {
+      "x": 2,
+      "y": 5
+    },
+    "right": {
+      "x": 2,
+      "y": 4
+    },
+    "bottomRight": {
+      "x": 2,
+      "y": 3
+    },
+    "bottom": {
+      "x": 1,
+      "y": 3
+    },
+    "bottonLeft": {
+      "x": 0,
+      "y": 3
+    },
+    "left": {
+      "x": 0,
+      "y": 4
+    },
+    "topLeft": {
+      "x": 0,
+      "y": 5
+    }
   }
 }

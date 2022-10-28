@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform02794",
+  "token_name": "Terraform02482",
   "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02794",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc9GPCBZak8Hsdzk91B6CcWm1DTZydiLWsDFyT46ucsW5",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02482",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc9PstqVTtV1AM5ex6s7Kanms9kXT5CdeTimNiMbBCLbn",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "None",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Saltwater_River",
   "location": {
     "x": 87,
     "y": 95
+  },
+  "neighbors": {
+    "top": {
+      "x": 87,
+      "y": 96
+    },
+    "topRight": {
+      "x": 88,
+      "y": 96
+    },
+    "right": {
+      "x": 88,
+      "y": 95
+    },
+    "bottomRight": {
+      "x": 88,
+      "y": 94
+    },
+    "bottom": {
+      "x": 87,
+      "y": 94
+    },
+    "bottonLeft": {
+      "x": 86,
+      "y": 94
+    },
+    "left": {
+      "x": 86,
+      "y": 95
+    },
+    "topLeft": {
+      "x": 86,
+      "y": 96
+    }
   }
 }

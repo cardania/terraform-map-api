@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10200",
+  "token_name": "Terraform16965",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10200",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmbspnKgVu1ycVPjWViW3fqESBpNBV65jRVGXtN3ejdHm3",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16965",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfJdNmNWTJRi13zqL55S3wBoN59G7Za6Y9Zz38wJQhXC9",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "Palms",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 4,
+  "lithoglyphs": "None",
+  "power_level": 2,
   "quantum_flux": 2,
-  "primary_minerals": "Iron",
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "None",
-  "water": "Toxic_River",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 13,
     "y": 7
+  },
+  "neighbors": {
+    "top": {
+      "x": 13,
+      "y": 8
+    },
+    "topRight": {
+      "x": 14,
+      "y": 8
+    },
+    "right": {
+      "x": 14,
+      "y": 7
+    },
+    "bottomRight": {
+      "x": 14,
+      "y": 6
+    },
+    "bottom": {
+      "x": 13,
+      "y": 6
+    },
+    "bottonLeft": {
+      "x": 12,
+      "y": 6
+    },
+    "left": {
+      "x": 12,
+      "y": 7
+    },
+    "topLeft": {
+      "x": 12,
+      "y": 8
+    }
   }
 }

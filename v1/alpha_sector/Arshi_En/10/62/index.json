@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12034",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12034",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYNmAaAqKj5e7EY8EFPFjuz5F1b9ieXFw2VAdXEbcNS4R",
+  "token_name": "Terraform09683",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09683",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qma9zWLh5oq2jpe4McZ2BQYZkiK5ipBdrUx7Z8phmcC7Nw",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "Cardanium_Bunker",
-  "fauna": "Ultrasaurs",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Red",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 2,
+  "quantum_flux": 7,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Timelost",
   "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 10,
     "y": 62
+  },
+  "neighbors": {
+    "top": {
+      "x": 10,
+      "y": 63
+    },
+    "topRight": {
+      "x": 11,
+      "y": 63
+    },
+    "right": {
+      "x": 11,
+      "y": 62
+    },
+    "bottomRight": {
+      "x": 11,
+      "y": 61
+    },
+    "bottom": {
+      "x": 10,
+      "y": 61
+    },
+    "bottonLeft": {
+      "x": 9,
+      "y": 61
+    },
+    "left": {
+      "x": 9,
+      "y": 62
+    },
+    "topLeft": {
+      "x": 9,
+      "y": 63
+    }
   }
 }

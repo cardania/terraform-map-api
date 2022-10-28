@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16035",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16035",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd5SwAs8f6YXKLNyNFgng7JFTTjuKkAhmg9cEqNmnui9n",
+  "token_name": "Terraform18068",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18068",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmRF8VL7kPeTzfhdFKVFkQyZwTwtnt8T1cWjohJ4aK9VZ6",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 5,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Orange",
-  "shrine": "None",
-  "water": "Cursed_River",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "Void_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 86,
     "y": 16
+  },
+  "neighbors": {
+    "top": {
+      "x": 86,
+      "y": 17
+    },
+    "topRight": {
+      "x": 87,
+      "y": 17
+    },
+    "right": {
+      "x": 87,
+      "y": 16
+    },
+    "bottomRight": {
+      "x": 87,
+      "y": 15
+    },
+    "bottom": {
+      "x": 86,
+      "y": 15
+    },
+    "bottonLeft": {
+      "x": 85,
+      "y": 15
+    },
+    "left": {
+      "x": 85,
+      "y": 16
+    },
+    "topLeft": {
+      "x": 85,
+      "y": 17
+    }
   }
 }

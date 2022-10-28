@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15731",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15731",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfAZqZbHNptLNGGLgX8mLKHizzkxFxPeorMHiJGYje11G",
+  "token_name": "Terraform01376",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01376",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXhn9DaP3WJATtgbPxs78mEnDXxDzXXTg131bQp4YsjhW",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
   "power_level": 4,
-  "quantum_flux": 2,
+  "quantum_flux": 8,
   "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_River",
+  "water": "Freshwater_River",
   "location": {
     "x": 28,
     "y": 30
+  },
+  "neighbors": {
+    "top": {
+      "x": 28,
+      "y": 31
+    },
+    "topRight": {
+      "x": 29,
+      "y": 31
+    },
+    "right": {
+      "x": 29,
+      "y": 30
+    },
+    "bottomRight": {
+      "x": 29,
+      "y": 29
+    },
+    "bottom": {
+      "x": 28,
+      "y": 29
+    },
+    "bottonLeft": {
+      "x": 27,
+      "y": 29
+    },
+    "left": {
+      "x": 27,
+      "y": 30
+    },
+    "topLeft": {
+      "x": 27,
+      "y": 31
+    }
   }
 }

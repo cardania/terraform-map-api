@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16207",
+  "token_name": "Terraform13740",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16207",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRvpFwcVwY9CbjrPrYAm4SKX651qcy2Nx25B7WYJUHMYc",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13740",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZuf8okcg5CeFxpXyVADBp59xacJfYgwT9QXkUfL4AQ9r",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Cardanium_Bunker",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 5,
   "quantum_flux": 1,
-  "primary_minerals": "Iron",
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Void_Shrine",
   "water": "None",
   "location": {
     "x": 4,
     "y": 73
+  },
+  "neighbors": {
+    "top": {
+      "x": 4,
+      "y": 74
+    },
+    "topRight": {
+      "x": 5,
+      "y": 74
+    },
+    "right": {
+      "x": 5,
+      "y": 73
+    },
+    "bottomRight": {
+      "x": 5,
+      "y": 72
+    },
+    "bottom": {
+      "x": 4,
+      "y": 72
+    },
+    "bottonLeft": {
+      "x": 3,
+      "y": 72
+    },
+    "left": {
+      "x": 3,
+      "y": 73
+    },
+    "topLeft": {
+      "x": 3,
+      "y": 74
+    }
   }
 }

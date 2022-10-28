@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11160",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11160",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQYZVrrj14G2LTx8Nzpc6mHnZojo8LqMTrPYbzE24VoYu",
+  "token_name": "Terraform07119",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07119",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWVQqTMwxJocxty7WQcv8KZHx6RoA669i2iWxDUTxFr2F",
   "alpha_sector": "Asama",
   "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Palms",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Fungal_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 2,
-  "quantum_flux": 3,
+  "quantum_flux": 6,
   "primary_minerals": "None",
   "secondary_minerals": "Fossils",
-  "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "Funky_River",
+  "ruins": "Alien_Technology_Green",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 45,
     "y": 26
+  },
+  "neighbors": {
+    "top": {
+      "x": 45,
+      "y": 27
+    },
+    "topRight": {
+      "x": 46,
+      "y": 27
+    },
+    "right": {
+      "x": 46,
+      "y": 26
+    },
+    "bottomRight": {
+      "x": 46,
+      "y": 25
+    },
+    "bottom": {
+      "x": 45,
+      "y": 25
+    },
+    "bottonLeft": {
+      "x": 44,
+      "y": 25
+    },
+    "left": {
+      "x": 44,
+      "y": 26
+    },
+    "topLeft": {
+      "x": 44,
+      "y": 27
+    }
   }
 }

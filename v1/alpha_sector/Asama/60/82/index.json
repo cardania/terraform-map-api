@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12335",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12335",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRHzEXLx7E2v1WJksnfSFUFNiuXGQUvYiwRTgnuPyTeRV",
+  "token_name": "Terraform00392",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00392",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbRq7nG36GkDfaTmu1u1XcRfAVhE9aHcPM8CuTgX5WLvG",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Fungal_Hydra",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 3,
+  "power_level": 2,
+  "quantum_flux": 4,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 60,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 83
+    },
+    "topRight": {
+      "x": 61,
+      "y": 83
+    },
+    "right": {
+      "x": 61,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 81
+    },
+    "bottom": {
+      "x": 60,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 81
+    },
+    "left": {
+      "x": 59,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 83
+    }
   }
 }

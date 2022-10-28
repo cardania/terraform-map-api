@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11262",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11262",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUATVjMzB3ZH6Y7gCC63J4Pnws6nmoaJuCX84Mi6pLmtD",
+  "token_name": "Terraform12456",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12456",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmWxdd4gCdF71BFRUvG196mhota6uLPzNuzVZ2nu8N8ka5",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "None",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "Radium",
+  "power_level": 7,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
-  "ruins": "None",
-  "shrine": "Machine_Shrine",
-  "water": "Saltwater_Lake",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 18,
     "y": 13
+  },
+  "neighbors": {
+    "top": {
+      "x": 18,
+      "y": 14
+    },
+    "topRight": {
+      "x": 19,
+      "y": 14
+    },
+    "right": {
+      "x": 19,
+      "y": 13
+    },
+    "bottomRight": {
+      "x": 19,
+      "y": 12
+    },
+    "bottom": {
+      "x": 18,
+      "y": 12
+    },
+    "bottonLeft": {
+      "x": 17,
+      "y": 12
+    },
+    "left": {
+      "x": 17,
+      "y": 13
+    },
+    "topLeft": {
+      "x": 17,
+      "y": 14
+    }
   }
 }

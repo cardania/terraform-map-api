@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12897",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12897",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmU5e5Putq3jhoHispAaZYLWBGmzEHRAE6hWMrEYdCmPwA",
+  "token_name": "Terraform03486",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03486",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQsbjjVJmAVQEmqrjo1zDpKbWgAA5Sr63ZvoZu9DCyWce",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Palms",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "None",
+  "forests": "Evergreen",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 4,
-  "quantum_flux": 5,
-  "primary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 9,
+  "quantum_flux": 4,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 47,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 47,
+      "y": 83
+    },
+    "topRight": {
+      "x": 48,
+      "y": 83
+    },
+    "right": {
+      "x": 48,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 48,
+      "y": 81
+    },
+    "bottom": {
+      "x": 47,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 46,
+      "y": 81
+    },
+    "left": {
+      "x": 46,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 46,
+      "y": 83
+    }
   }
 }

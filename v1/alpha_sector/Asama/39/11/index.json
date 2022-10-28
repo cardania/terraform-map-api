@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17281",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17281",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVd8EBTDKum2CRwvvmkQmPBGfUcUqQyATMPHYHPBh22iT",
+  "token_name": "Terraform14380",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform14380",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmceWoW2QCF54c8Sk5UuzhWUv2McobJMTGDpt4ad7gejop",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "Cursed_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Cardanium_Bunker",
   "fauna": "None",
   "forests": "Palms",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 1,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "Gemstones",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 39,
     "y": 11
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 12
+    },
+    "topRight": {
+      "x": 40,
+      "y": 12
+    },
+    "right": {
+      "x": 40,
+      "y": 11
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 10
+    },
+    "bottom": {
+      "x": 39,
+      "y": 10
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 10
+    },
+    "left": {
+      "x": 38,
+      "y": 11
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 12
+    }
   }
 }

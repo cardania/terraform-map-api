@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform07268",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07268",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmNPVFxcniqsNZgVt92qbx2TB9fCijsLAGZ9ZcjmZyurB6",
+  "token_name": "Terraform08437",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08437",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVSXAZEPyW77VAVmMVQJWNmyFPbiA7jciVwQkZ9mNGaVF",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Cursed_Nanites",
+  "bunker": "Quantum_Reinforced_Bunker",
+  "fauna": "Livestock",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
+  "power_level": 1,
+  "quantum_flux": 3,
+  "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Fungal_Shrine",
+  "water": "Cursed_River",
   "location": {
     "x": 99,
     "y": 92
+  },
+  "neighbors": {
+    "top": {
+      "x": 99,
+      "y": 93
+    },
+    "topRight": {
+      "x": 100,
+      "y": 93
+    },
+    "right": {
+      "x": 100,
+      "y": 92
+    },
+    "bottomRight": {
+      "x": 100,
+      "y": 91
+    },
+    "bottom": {
+      "x": 99,
+      "y": 91
+    },
+    "bottonLeft": {
+      "x": 98,
+      "y": 91
+    },
+    "left": {
+      "x": 98,
+      "y": 92
+    },
+    "topLeft": {
+      "x": 98,
+      "y": 93
+    }
   }
 }

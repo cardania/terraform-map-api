@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10991",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10991",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaGkReEJZiCpbJUqsNghnBQpA3CU5FPLYGKtNVe98ykYw",
+  "token_name": "Terraform18078",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18078",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSxMXGuJLGNNZztsk3NnrQWHLSQgCKNA9Voi3giRyz5zq",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
-  "quantum_flux": 2,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 51,
     "y": 24
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 25
+    },
+    "topRight": {
+      "x": 52,
+      "y": 25
+    },
+    "right": {
+      "x": 52,
+      "y": 24
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 23
+    },
+    "bottom": {
+      "x": 51,
+      "y": 23
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 23
+    },
+    "left": {
+      "x": 50,
+      "y": 24
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 25
+    }
   }
 }

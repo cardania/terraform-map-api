@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19012",
+  "token_name": "Terraform09666",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19012",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYk1xHUuNC4C9nJm24zh4bVuYQEciqQriSy1VsWedcH9x",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09666",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmfAkJSsbFLdEpPy9mbJzCV3gvay3Pw4BjhMukfUXRS59D",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Critters",
-  "forests": "None",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Purple",
-  "shrine": "Machine_Shrine",
-  "water": "Saltwater_Lake",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 5,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Blue",
+  "shrine": "None",
+  "water": "Cursed_River",
   "location": {
     "x": 67,
     "y": 34
+  },
+  "neighbors": {
+    "top": {
+      "x": 67,
+      "y": 35
+    },
+    "topRight": {
+      "x": 68,
+      "y": 35
+    },
+    "right": {
+      "x": 68,
+      "y": 34
+    },
+    "bottomRight": {
+      "x": 68,
+      "y": 33
+    },
+    "bottom": {
+      "x": 67,
+      "y": 33
+    },
+    "bottonLeft": {
+      "x": 66,
+      "y": 33
+    },
+    "left": {
+      "x": 66,
+      "y": 34
+    },
+    "topLeft": {
+      "x": 66,
+      "y": 35
+    }
   }
 }

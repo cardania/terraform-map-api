@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform19138",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19138",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTQvLkFcz8vsZ8DQkGkh3Dwdh9EFePxMtRydxLVTgEsdF",
+  "token_name": "Terraform18567",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18567",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc2xqzpvHh6Qgq46q1Y1HPdv2oPDsA1a3LeGvGsT1j75y",
   "alpha_sector": "Asama",
-  "activity": "None",
+  "activity": "Magnetic_Activity",
   "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "None",
   "power_level": 3,
-  "quantum_flux": 5,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Ancient_Ruins",
+  "shrine": "Solar_Shrine",
+  "water": "None",
   "location": {
     "x": 66,
     "y": 43
+  },
+  "neighbors": {
+    "top": {
+      "x": 66,
+      "y": 44
+    },
+    "topRight": {
+      "x": 67,
+      "y": 44
+    },
+    "right": {
+      "x": 67,
+      "y": 43
+    },
+    "bottomRight": {
+      "x": 67,
+      "y": 42
+    },
+    "bottom": {
+      "x": 66,
+      "y": 42
+    },
+    "bottonLeft": {
+      "x": 65,
+      "y": 42
+    },
+    "left": {
+      "x": 65,
+      "y": 43
+    },
+    "topLeft": {
+      "x": 65,
+      "y": 44
+    }
   }
 }

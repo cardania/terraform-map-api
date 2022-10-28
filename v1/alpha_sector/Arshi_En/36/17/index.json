@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform13087",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13087",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmco2xyA5xJAgTeubHcib2mSCumoc8CWrApuWf5UTGN4NR",
+  "token_name": "Terraform04929",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04929",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXwi9kULznJRnmiLrbfqhbpzq31QARyWYJYUtqp6mBTQF",
   "alpha_sector": "Arshi_En",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
+  "power_level": 5,
+  "quantum_flux": 7,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "None",
-  "water": "None",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "Timelost_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 36,
     "y": 17
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 18
+    },
+    "topRight": {
+      "x": 37,
+      "y": 18
+    },
+    "right": {
+      "x": 37,
+      "y": 17
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 16
+    },
+    "bottom": {
+      "x": 36,
+      "y": 16
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 16
+    },
+    "left": {
+      "x": 35,
+      "y": 17
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 18
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform06117",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform06117",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZu8WdK878b4rSTMMrJ9YticJpNWGPwMWo127GFkKjyt9",
+  "token_name": "Terraform08454",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08454",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmU5mMsoThzSixk225oRXpH5NeGGm7bVgiQ8zvTGNeuzJV",
   "alpha_sector": "Asama",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Custodial_Nanites",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "Evergreen",
+  "fauna": "Livestock",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 7,
-  "quantum_flux": 7,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 36,
     "y": 82
+  },
+  "neighbors": {
+    "top": {
+      "x": 36,
+      "y": 83
+    },
+    "topRight": {
+      "x": 37,
+      "y": 83
+    },
+    "right": {
+      "x": 37,
+      "y": 82
+    },
+    "bottomRight": {
+      "x": 37,
+      "y": 81
+    },
+    "bottom": {
+      "x": 36,
+      "y": 81
+    },
+    "bottonLeft": {
+      "x": 35,
+      "y": 81
+    },
+    "left": {
+      "x": 35,
+      "y": 82
+    },
+    "topLeft": {
+      "x": 35,
+      "y": 83
+    }
   }
 }

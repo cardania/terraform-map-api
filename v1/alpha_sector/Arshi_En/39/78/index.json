@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10623",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10623",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmXCGg2axSRV82vRLSj1bBbvPemShgE5zgjBbBHsrfx3jw",
+  "token_name": "Terraform15665",
+  "land_type": "Wasteland",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15665",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXTvFW7vQ8hnLtSuaC95Dr88vdxdsreucGkXHr3C4vVrN",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "bunker": "None",
+  "fauna": "None",
+  "forests": "Evergreen",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
+  "quantum_flux": 6,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 39,
     "y": 78
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 79
+    },
+    "topRight": {
+      "x": 40,
+      "y": 79
+    },
+    "right": {
+      "x": 40,
+      "y": 78
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 77
+    },
+    "bottom": {
+      "x": 39,
+      "y": 77
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 77
+    },
+    "left": {
+      "x": 38,
+      "y": 78
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 79
+    }
   }
 }

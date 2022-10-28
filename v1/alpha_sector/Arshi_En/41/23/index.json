@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform16732",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16732",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmfTdCa3PU4KMuSU9JSE8eCyZNicW44HiyXy2kLKVUuXVu",
+  "token_name": "Terraform18706",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18706",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmbg8XonthVgL4u2spDUwZnvedNssEKJUKQrusKEfU3L6w",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Common_Hydra",
   "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
-  "quantum_flux": 5,
-  "primary_minerals": "Radium",
+  "power_level": 8,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Ancient_Ruins",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Saltwater_Lake",
   "location": {
     "x": 41,
     "y": 23
+  },
+  "neighbors": {
+    "top": {
+      "x": 41,
+      "y": 24
+    },
+    "topRight": {
+      "x": 42,
+      "y": 24
+    },
+    "right": {
+      "x": 42,
+      "y": 23
+    },
+    "bottomRight": {
+      "x": 42,
+      "y": 22
+    },
+    "bottom": {
+      "x": 41,
+      "y": 22
+    },
+    "bottonLeft": {
+      "x": 40,
+      "y": 22
+    },
+    "left": {
+      "x": 40,
+      "y": 23
+    },
+    "topLeft": {
+      "x": 40,
+      "y": 24
+    }
   }
 }

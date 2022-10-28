@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform05370",
+  "token_name": "Terraform17490",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05370",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZ8nVHS2Ec69WYRWZ8rgsWXZj3xA85SF7ieBJmkQFE8wk",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17490",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmU8b7T1jpgGir1tehzcTMLcLhACYyDsHxG8WqEv5NsW9e",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Melodious_Mantrap",
+  "forests": "Prismaleaf",
+  "hazardous_flora": "Fungal_Hydra",
   "lithoglyphs": "None",
-  "power_level": 1,
-  "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
+  "power_level": 8,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "shrine": "Quantum_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 98,
     "y": 26
+  },
+  "neighbors": {
+    "top": {
+      "x": 98,
+      "y": 27
+    },
+    "topRight": {
+      "x": 99,
+      "y": 27
+    },
+    "right": {
+      "x": 99,
+      "y": 26
+    },
+    "bottomRight": {
+      "x": 99,
+      "y": 25
+    },
+    "bottom": {
+      "x": 98,
+      "y": 25
+    },
+    "bottonLeft": {
+      "x": 97,
+      "y": 25
+    },
+    "left": {
+      "x": 97,
+      "y": 26
+    },
+    "topLeft": {
+      "x": 97,
+      "y": 27
+    }
   }
 }

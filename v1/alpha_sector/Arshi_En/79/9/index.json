@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10466",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10466",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmTkZxpL9YJ7Xmw5792YsbbHwSQrHc2R2oVVPcXVCbJEmB",
+  "token_name": "Terraform03142",
+  "land_type": "Badlands",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03142",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmarUxkKLmeKvjZuicfMEzHLU2VZDUewku6KmYcsViDqPF",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 3,
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Orange",
+  "power_level": 5,
   "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "None",
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "Quantum_Shrine",
-  "water": "Funky_Lake",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 79,
     "y": 9
+  },
+  "neighbors": {
+    "top": {
+      "x": 79,
+      "y": 10
+    },
+    "topRight": {
+      "x": 80,
+      "y": 10
+    },
+    "right": {
+      "x": 80,
+      "y": 9
+    },
+    "bottomRight": {
+      "x": 80,
+      "y": 8
+    },
+    "bottom": {
+      "x": 79,
+      "y": 8
+    },
+    "bottonLeft": {
+      "x": 78,
+      "y": 8
+    },
+    "left": {
+      "x": 78,
+      "y": 9
+    },
+    "topLeft": {
+      "x": 78,
+      "y": 10
+    }
   }
 }

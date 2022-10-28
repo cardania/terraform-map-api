@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12464",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12464",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmeWxYdekGGRuSWNDAyP3ReWCJZGeNDD4iUE7GW6pT7MZY",
+  "token_name": "Terraform09941",
+  "land_type": "Artificial",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09941",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmd5yc9ddtNV5vUe9NnQRjzPe3gnCsP6w7ze3dAGF6N2fG",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "Prismatic_Motes",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "None",
+  "power_level": 1,
+  "quantum_flux": 6,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_Lake",
+  "water": "None",
   "location": {
     "x": 17,
     "y": 23
+  },
+  "neighbors": {
+    "top": {
+      "x": 17,
+      "y": 24
+    },
+    "topRight": {
+      "x": 18,
+      "y": 24
+    },
+    "right": {
+      "x": 18,
+      "y": 23
+    },
+    "bottomRight": {
+      "x": 18,
+      "y": 22
+    },
+    "bottom": {
+      "x": 17,
+      "y": 22
+    },
+    "bottonLeft": {
+      "x": 16,
+      "y": 22
+    },
+    "left": {
+      "x": 16,
+      "y": 23
+    },
+    "topLeft": {
+      "x": 16,
+      "y": 24
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15317",
+  "token_name": "Terraform04289",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15317",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUmfgxH3BSyGzYezwv9iJj8T42zr1JzPvbf1osBfurvpP",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04289",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXDmUzoBCzVxWPY5R5bf4DZiMfydWooeKnNr5DpH12YQs",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "None",
+  "activity": "Geothermal_Activity",
+  "atmosphere": "Fungal_Spores",
   "bunker": "Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "None",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
   "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 4,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 4,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "Saltwater_Lake",
+  "water": "None",
   "location": {
     "x": 5,
     "y": 22
+  },
+  "neighbors": {
+    "top": {
+      "x": 5,
+      "y": 23
+    },
+    "topRight": {
+      "x": 6,
+      "y": 23
+    },
+    "right": {
+      "x": 6,
+      "y": 22
+    },
+    "bottomRight": {
+      "x": 6,
+      "y": 21
+    },
+    "bottom": {
+      "x": 5,
+      "y": 21
+    },
+    "bottonLeft": {
+      "x": 4,
+      "y": 21
+    },
+    "left": {
+      "x": 4,
+      "y": 22
+    },
+    "topLeft": {
+      "x": 4,
+      "y": 23
+    }
   }
 }

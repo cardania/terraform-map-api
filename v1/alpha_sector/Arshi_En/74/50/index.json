@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08278",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08278",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmT5rwvcvnp6WXUASPFXNPeDvrRqNLk3bpr5yk6NcoquSq",
+  "token_name": "Terraform08403",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08403",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSd9gLtEnSrnoZw8Reiw5oPYCa1ZcBhnxQ8ZmPGbU3UDB",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Antigravity_Cloud",
+  "atmosphere": "Fungal_Spores",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 8,
-  "quantum_flux": 6,
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 3,
+  "quantum_flux": 2,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
+  "secondary_minerals": "None",
   "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_Lake",
   "location": {
     "x": 74,
     "y": 50
+  },
+  "neighbors": {
+    "top": {
+      "x": 74,
+      "y": 51
+    },
+    "topRight": {
+      "x": 75,
+      "y": 51
+    },
+    "right": {
+      "x": 75,
+      "y": 50
+    },
+    "bottomRight": {
+      "x": 75,
+      "y": 49
+    },
+    "bottom": {
+      "x": 74,
+      "y": 49
+    },
+    "bottonLeft": {
+      "x": 73,
+      "y": 49
+    },
+    "left": {
+      "x": 73,
+      "y": 50
+    },
+    "topLeft": {
+      "x": 73,
+      "y": 51
+    }
   }
 }

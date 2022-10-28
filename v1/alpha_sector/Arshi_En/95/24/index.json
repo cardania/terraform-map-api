@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04205",
-  "land_type": "Fungal",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04205",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc4UCegjeGFmCvtGhZKhP6kZRYoQLDzuHG5ERAwS1mbaq",
+  "token_name": "Terraform02277",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform02277",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcYenTT5wC7j9coZp5FaD9bGePosb6Qq3LNzgDYQuXnQZ",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
-  "atmosphere": "None",
+  "activity": "Magnetic_Activity",
+  "atmosphere": "Antigravity_Cloud",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
+  "lithoglyphs": "None",
   "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "None",
+  "quantum_flux": 6,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "None",
+  "ruins": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Toxic_River",
   "location": {
     "x": 95,
     "y": 24
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 25
+    },
+    "topRight": {
+      "x": 96,
+      "y": 25
+    },
+    "right": {
+      "x": 96,
+      "y": 24
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 23
+    },
+    "bottom": {
+      "x": 95,
+      "y": 23
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 23
+    },
+    "left": {
+      "x": 94,
+      "y": 24
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 25
+    }
   }
 }

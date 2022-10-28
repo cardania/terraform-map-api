@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform17386",
+  "token_name": "Terraform10848",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17386",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcoMdzmA6z9HuoFgxWaRv7G1jET1GvvvuBGB9qHQLHdRS",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10848",
+  "image": "https://ipfs.blockfrost.dev/ipfs/Qmaiz8rVEg1KyKKuSaAxT1XLpSGnmc2Rn2cFQqJyh59xWr",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Cardanium_Bunker",
+  "fauna": "Critters",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
   "power_level": 1,
   "quantum_flux": 3,
-  "primary_minerals": "None",
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
-  "shrine": "Golden_Shrine",
-  "water": "Toxic_Lake",
+  "ruins": "None",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 59,
     "y": 100
+  },
+  "neighbors": {
+    "top": {
+      "x": 59,
+      "y": 101
+    },
+    "topRight": {
+      "x": 60,
+      "y": 101
+    },
+    "right": {
+      "x": 60,
+      "y": 100
+    },
+    "bottomRight": {
+      "x": 60,
+      "y": 99
+    },
+    "bottom": {
+      "x": 59,
+      "y": 99
+    },
+    "bottonLeft": {
+      "x": 58,
+      "y": 99
+    },
+    "left": {
+      "x": 58,
+      "y": 100
+    },
+    "topLeft": {
+      "x": 58,
+      "y": 101
+    }
   }
 }

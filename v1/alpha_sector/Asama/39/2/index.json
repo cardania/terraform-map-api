@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11049",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11049",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZRFJAczarmyFAcDJnu3VmLx4wgWA31gBToHpA3Swqdwi",
+  "token_name": "Terraform07594",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07594",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPxdieFEuPpu8U5jtpzusuW4RQXbGAQx6CY5U7EagkasT",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Critters",
+  "bunker": "None",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 8,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 2,
+  "quantum_flux": 4,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Machine_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 39,
     "y": 2
+  },
+  "neighbors": {
+    "top": {
+      "x": 39,
+      "y": 3
+    },
+    "topRight": {
+      "x": 40,
+      "y": 3
+    },
+    "right": {
+      "x": 40,
+      "y": 2
+    },
+    "bottomRight": {
+      "x": 40,
+      "y": 1
+    },
+    "bottom": {
+      "x": 39,
+      "y": 1
+    },
+    "bottonLeft": {
+      "x": 38,
+      "y": 1
+    },
+    "left": {
+      "x": 38,
+      "y": 2
+    },
+    "topLeft": {
+      "x": 38,
+      "y": 3
+    }
   }
 }

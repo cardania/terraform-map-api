@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04015",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04015",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaPyQvAJSbRzR9pAKDx4euWuEB2t2TKNEFiPAjQMCAepH",
+  "token_name": "Terraform05147",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05147",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmZp8jLMP1GgbjxL1BcM5hkZXUkNyRSr73U5Jo4bjL4Fmx",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
+  "atmosphere": "Prismatic_Motes",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Purple",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
   "power_level": 2,
-  "quantum_flux": 4,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "quantum_flux": 1,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Gemstones",
+  "ruins": "Alien_Technology_Red",
+  "shrine": "Fungal_Shrine",
+  "water": "None",
   "location": {
     "x": 65,
     "y": 52
+  },
+  "neighbors": {
+    "top": {
+      "x": 65,
+      "y": 53
+    },
+    "topRight": {
+      "x": 66,
+      "y": 53
+    },
+    "right": {
+      "x": 66,
+      "y": 52
+    },
+    "bottomRight": {
+      "x": 66,
+      "y": 51
+    },
+    "bottom": {
+      "x": 65,
+      "y": 51
+    },
+    "bottonLeft": {
+      "x": 64,
+      "y": 51
+    },
+    "left": {
+      "x": 64,
+      "y": 52
+    },
+    "topLeft": {
+      "x": 64,
+      "y": 53
+    }
   }
 }

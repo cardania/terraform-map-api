@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform08185",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08185",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQrku75vXkrpsqRuhNJfybZapf1YkFjhfvwroaWQ9Kiob",
+  "token_name": "Terraform01897",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01897",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmcPRwhnw51nzDu92hAgFKkL5JYYBjhFUFgnYTzqLsXXwU",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "Antigravity_Cloud",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
+  "forests": "None",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
+  "power_level": 3,
   "quantum_flux": 3,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Green",
-  "shrine": "Timelost_Shrine",
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 46,
     "y": 8
+  },
+  "neighbors": {
+    "top": {
+      "x": 46,
+      "y": 9
+    },
+    "topRight": {
+      "x": 47,
+      "y": 9
+    },
+    "right": {
+      "x": 47,
+      "y": 8
+    },
+    "bottomRight": {
+      "x": 47,
+      "y": 7
+    },
+    "bottom": {
+      "x": 46,
+      "y": 7
+    },
+    "bottonLeft": {
+      "x": 45,
+      "y": 7
+    },
+    "left": {
+      "x": 45,
+      "y": 8
+    },
+    "topLeft": {
+      "x": 45,
+      "y": 9
+    }
   }
 }

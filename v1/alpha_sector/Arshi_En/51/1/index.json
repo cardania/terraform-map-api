@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10033",
+  "token_name": "Terraform19135",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10033",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRvfRy3c4tJHnbZcSVwprodA5v8rvTBQF1aX8rCGE5jc7",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19135",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmSU7kgr59DXoMkwAGEqZynLvQhAGQh4FjHKLTGr1tdRmr",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
+  "atmosphere": "None",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Purple",
-  "power_level": 5,
-  "quantum_flux": 3,
-  "primary_minerals": "Copper",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 2,
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Void_Shrine",
+  "water": "Freshwater_River",
   "location": {
     "x": 51,
     "y": 1
+  },
+  "neighbors": {
+    "top": {
+      "x": 51,
+      "y": 2
+    },
+    "topRight": {
+      "x": 52,
+      "y": 2
+    },
+    "right": {
+      "x": 52,
+      "y": 1
+    },
+    "bottomRight": {
+      "x": 52,
+      "y": 0
+    },
+    "bottom": {
+      "x": 51,
+      "y": 0
+    },
+    "bottonLeft": {
+      "x": 50,
+      "y": 0
+    },
+    "left": {
+      "x": 50,
+      "y": 1
+    },
+    "topLeft": {
+      "x": 50,
+      "y": 2
+    }
   }
 }

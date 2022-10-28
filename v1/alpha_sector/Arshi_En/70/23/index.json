@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10729",
-  "land_type": "Artificial",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10729",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUxTw86HNhrE6gGZE2Gz9Kc2szTYkW2b3FPLcwUUvVtw6",
+  "token_name": "Terraform19359",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19359",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVBEfA11he3mtuSjk1PaUB68Ekr2QkJCtEuZuSQkw1eoP",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "None",
-  "power_level": 2,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
-  "secondary_minerals": "Fossils",
-  "ruins": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Red",
+  "power_level": 8,
+  "quantum_flux": 8,
+  "primary_minerals": "None",
+  "secondary_minerals": "Compacted_Machinery",
+  "ruins": "Alien_Technology_Red",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 70,
     "y": 23
+  },
+  "neighbors": {
+    "top": {
+      "x": 70,
+      "y": 24
+    },
+    "topRight": {
+      "x": 71,
+      "y": 24
+    },
+    "right": {
+      "x": 71,
+      "y": 23
+    },
+    "bottomRight": {
+      "x": 71,
+      "y": 22
+    },
+    "bottom": {
+      "x": 70,
+      "y": 22
+    },
+    "bottonLeft": {
+      "x": 69,
+      "y": 22
+    },
+    "left": {
+      "x": 69,
+      "y": 23
+    },
+    "topLeft": {
+      "x": 69,
+      "y": 24
+    }
   }
 }

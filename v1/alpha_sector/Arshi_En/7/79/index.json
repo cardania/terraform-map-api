@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform00224",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00224",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmaN5AoGJUsqUJybgkyTycFddSrLJ51oriuonizPvotZPH",
+  "token_name": "Terraform18698",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18698",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmX4GLoUEPZ1dKwR1kP9XxLKGJ7XfKGeRcVRn2p4yiiVc5",
   "alpha_sector": "Arshi_En",
   "activity": "Magnetic_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Green",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 2,
-  "quantum_flux": 9,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "Fossils",
-  "ruins": "Alien_Technology_Red",
-  "shrine": "Void_Shrine",
+  "quantum_flux": 3,
+  "primary_minerals": "Iron",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
+  "shrine": "None",
   "water": "None",
   "location": {
     "x": 7,
     "y": 79
+  },
+  "neighbors": {
+    "top": {
+      "x": 7,
+      "y": 80
+    },
+    "topRight": {
+      "x": 8,
+      "y": 80
+    },
+    "right": {
+      "x": 8,
+      "y": 79
+    },
+    "bottomRight": {
+      "x": 8,
+      "y": 78
+    },
+    "bottom": {
+      "x": 7,
+      "y": 78
+    },
+    "bottonLeft": {
+      "x": 6,
+      "y": 78
+    },
+    "left": {
+      "x": 6,
+      "y": 79
+    },
+    "topLeft": {
+      "x": 6,
+      "y": 80
+    }
   }
 }

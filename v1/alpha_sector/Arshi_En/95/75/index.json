@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform12000",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12000",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmZyuJP3Sa3WZrQKdTZMdapWua53e5X3fnn1L5ijzZVJPj",
+  "token_name": "Terraform01984",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01984",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmQxwipvkbJ1sdVsUoDQkj1sneQPoodofugasaVUeyAGcD",
   "alpha_sector": "Arshi_En",
   "activity": "Geothermal_Activity",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Giant_Mantrap",
-  "lithoglyphs": "None",
-  "power_level": 2,
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Nemesis_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 4,
   "quantum_flux": 1,
-  "primary_minerals": "None",
+  "primary_minerals": "Cardanium",
   "secondary_minerals": "None",
-  "ruins": "None",
+  "ruins": "Alien_Technology_Orange",
   "shrine": "None",
   "water": "None",
   "location": {
     "x": 95,
     "y": 75
+  },
+  "neighbors": {
+    "top": {
+      "x": 95,
+      "y": 76
+    },
+    "topRight": {
+      "x": 96,
+      "y": 76
+    },
+    "right": {
+      "x": 96,
+      "y": 75
+    },
+    "bottomRight": {
+      "x": 96,
+      "y": 74
+    },
+    "bottom": {
+      "x": 95,
+      "y": 74
+    },
+    "bottonLeft": {
+      "x": 94,
+      "y": 74
+    },
+    "left": {
+      "x": 94,
+      "y": 75
+    },
+    "topLeft": {
+      "x": 94,
+      "y": 76
+    }
   }
 }

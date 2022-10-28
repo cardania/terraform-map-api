@@ -1,19 +1,19 @@
 {
-  "token_name": "Terraform16406",
-  "land_type": "Desert",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform16406",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWut65uN7Zpfb2gi8hdYTJK4cx351UUifmvncYQ5MJgRc",
+  "token_name": "Terraform15109",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15109",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmVqKFXtAwMeSQb5BKfNJHCtj9GiiZ32PtoieZu1WmAnzX",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Evergreen",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "None",
   "hazardous_flora": "Melodious_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "Copper",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 4,
+  "quantum_flux": 6,
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
@@ -21,5 +21,39 @@
   "location": {
     "x": 56,
     "y": 68
+  },
+  "neighbors": {
+    "top": {
+      "x": 56,
+      "y": 69
+    },
+    "topRight": {
+      "x": 57,
+      "y": 69
+    },
+    "right": {
+      "x": 57,
+      "y": 68
+    },
+    "bottomRight": {
+      "x": 57,
+      "y": 67
+    },
+    "bottom": {
+      "x": 56,
+      "y": 67
+    },
+    "bottonLeft": {
+      "x": 55,
+      "y": 67
+    },
+    "left": {
+      "x": 55,
+      "y": 68
+    },
+    "topLeft": {
+      "x": 55,
+      "y": 69
+    }
   }
 }

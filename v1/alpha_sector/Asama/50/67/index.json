@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform18776",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform18776",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPcCNANnYjByVa9YTuCoNEpmk1xjNZq4a3rE9nUJDx8PC",
+  "token_name": "Terraform13183",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform13183",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPKnw1itF3V7RPt2rBcZ2yg7xZv28JqPUtvPTtAy6oBxt",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 8,
-  "quantum_flux": 1,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Common_Hydra",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 3,
+  "quantum_flux": 6,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_Lake",
+  "water": "Cursed_River",
   "location": {
     "x": 50,
     "y": 67
+  },
+  "neighbors": {
+    "top": {
+      "x": 50,
+      "y": 68
+    },
+    "topRight": {
+      "x": 51,
+      "y": 68
+    },
+    "right": {
+      "x": 51,
+      "y": 67
+    },
+    "bottomRight": {
+      "x": 51,
+      "y": 66
+    },
+    "bottom": {
+      "x": 50,
+      "y": 66
+    },
+    "bottonLeft": {
+      "x": 49,
+      "y": 66
+    },
+    "left": {
+      "x": 49,
+      "y": 67
+    },
+    "topLeft": {
+      "x": 49,
+      "y": 68
+    }
   }
 }

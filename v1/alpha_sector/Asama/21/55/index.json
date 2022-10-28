@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform15246",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15246",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWCtxV3Ej8tSxvdfQNu8DUQuZukioEYoXbKqxh89Enjhr",
+  "token_name": "Terraform04798",
+  "land_type": "Desert",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04798",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmXU2o9SMEPseodeDrn5XyF5UYyxqxNt7ZQTWcLsLihmSb",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "Livestock",
-  "forests": "None",
+  "atmosphere": "None",
+  "bunker": "None",
+  "fauna": "Ultrasaurs",
+  "forests": "Evergreen",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 5,
+  "lithoglyphs": "None",
+  "power_level": 6,
   "quantum_flux": 3,
-  "primary_minerals": "Cardanium",
+  "primary_minerals": "Iron",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "Freshwater_River",
   "location": {
     "x": 21,
     "y": 55
+  },
+  "neighbors": {
+    "top": {
+      "x": 21,
+      "y": 56
+    },
+    "topRight": {
+      "x": 22,
+      "y": 56
+    },
+    "right": {
+      "x": 22,
+      "y": 55
+    },
+    "bottomRight": {
+      "x": 22,
+      "y": 54
+    },
+    "bottom": {
+      "x": 21,
+      "y": 54
+    },
+    "bottonLeft": {
+      "x": 20,
+      "y": 54
+    },
+    "left": {
+      "x": 20,
+      "y": 55
+    },
+    "topLeft": {
+      "x": 20,
+      "y": 56
+    }
   }
 }

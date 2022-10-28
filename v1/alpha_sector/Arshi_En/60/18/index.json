@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform10132",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform10132",
-  "image": "https://ipfs.blockfrost.dev/ipfs/Qmc4S2SCFXFTPh8Ndc31KzQgcHT8LCHWGd4nwE3e8DCJgX",
+  "token_name": "Terraform15970",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15970",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmULJvYPih1nqLbYgX6t2roytLbVMabTwjNeJUQed9gbqw",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
-  "bunker": "None",
-  "fauna": "Livestock",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "hazardous_flora": "None",
   "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 9,
-  "quantum_flux": 2,
-  "primary_minerals": "Iron",
+  "power_level": 7,
+  "quantum_flux": 6,
+  "primary_minerals": "Radium",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "Machine_Shrine",
+  "shrine": "None",
   "water": "Freshwater_River",
   "location": {
     "x": 60,
     "y": 18
+  },
+  "neighbors": {
+    "top": {
+      "x": 60,
+      "y": 19
+    },
+    "topRight": {
+      "x": 61,
+      "y": 19
+    },
+    "right": {
+      "x": 61,
+      "y": 18
+    },
+    "bottomRight": {
+      "x": 61,
+      "y": 17
+    },
+    "bottom": {
+      "x": 60,
+      "y": 17
+    },
+    "bottonLeft": {
+      "x": 59,
+      "y": 17
+    },
+    "left": {
+      "x": 59,
+      "y": 18
+    },
+    "topLeft": {
+      "x": 59,
+      "y": 19
+    }
   }
 }

@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform11819",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform11819",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmawBzM9HwyNv28vcZqbPbYaF484dcbiRqBgJEdEXqeauw",
+  "token_name": "Terraform15146",
+  "land_type": "Volcanic",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15146",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmPLMgKu4GsTS2z4jabmuX49A8NskZiKww96i4gmaEtsZg",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Critters",
   "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 3,
-  "quantum_flux": 6,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "None",
-  "ruins": "Ancient_Ruins",
-  "shrine": "None",
-  "water": "Freshwater_Lake",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Timelost",
+  "power_level": 2,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "Alien_Technology_Orange",
+  "shrine": "Fungal_Shrine",
+  "water": "Cursed_Lake",
   "location": {
     "x": 77,
     "y": 63
+  },
+  "neighbors": {
+    "top": {
+      "x": 77,
+      "y": 64
+    },
+    "topRight": {
+      "x": 78,
+      "y": 64
+    },
+    "right": {
+      "x": 78,
+      "y": 63
+    },
+    "bottomRight": {
+      "x": 78,
+      "y": 62
+    },
+    "bottom": {
+      "x": 77,
+      "y": 62
+    },
+    "bottonLeft": {
+      "x": 76,
+      "y": 62
+    },
+    "left": {
+      "x": 76,
+      "y": 63
+    },
+    "topLeft": {
+      "x": 76,
+      "y": 64
+    }
   }
 }

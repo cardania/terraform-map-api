@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform01981",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01981",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmWMbLhqyty8zbqmdRHQ2N33nkzrCs3w4izxKWdyg2ojSG",
+  "token_name": "Terraform09781",
+  "land_type": "Grass",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09781",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmNoUS9MiVGGXUDy8m2na66vM61KzqoHiFSKUfbaRdPihY",
   "alpha_sector": "Asama",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "None",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "Quantum_Reinforced_Bunker",
   "fauna": "None",
-  "forests": "Evergreen",
-  "hazardous_flora": "None",
-  "lithoglyphs": "None",
-  "power_level": 4,
-  "quantum_flux": 3,
+  "forests": "None",
+  "hazardous_flora": "Burning_Mantrap",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 1,
+  "quantum_flux": 4,
   "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Purple",
+  "secondary_minerals": "None",
+  "ruins": "None",
   "shrine": "None",
-  "water": "Cursed_Lake",
+  "water": "None",
   "location": {
     "x": 75,
     "y": 51
+  },
+  "neighbors": {
+    "top": {
+      "x": 75,
+      "y": 52
+    },
+    "topRight": {
+      "x": 76,
+      "y": 52
+    },
+    "right": {
+      "x": 76,
+      "y": 51
+    },
+    "bottomRight": {
+      "x": 76,
+      "y": 50
+    },
+    "bottom": {
+      "x": 75,
+      "y": 50
+    },
+    "bottonLeft": {
+      "x": 74,
+      "y": 50
+    },
+    "left": {
+      "x": 74,
+      "y": 51
+    },
+    "topLeft": {
+      "x": 74,
+      "y": 52
+    }
   }
 }

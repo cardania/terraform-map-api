@@ -1,25 +1,59 @@
 {
-  "token_name": "Terraform04087",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform04087",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmUBCpLYQg14k21biqmfPkCPbrs7MFuqFDrQn7ueKYa3XH",
+  "token_name": "Terraform07269",
+  "land_type": "Rocky",
+  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform07269",
+  "image": "https://ipfs.blockfrost.dev/ipfs/QmbFBJDNgwzRRjWvaMyZmyfHBE2RtBZHb6ZJZWBA4etBVe",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
+  "bunker": "None",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "Giant_Mantrap",
+  "hazardous_flora": "Melodious_Mantrap",
   "lithoglyphs": "Lithoglyphs_Blue",
-  "power_level": 1,
+  "power_level": 7,
   "quantum_flux": 4,
-  "primary_minerals": "None",
-  "secondary_minerals": "Compacted_Machinery",
-  "ruins": "None",
+  "primary_minerals": "Copper",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Purple",
   "shrine": "None",
-  "water": "None",
+  "water": "Toxic_River",
   "location": {
     "x": 99,
     "y": 10
+  },
+  "neighbors": {
+    "top": {
+      "x": 99,
+      "y": 11
+    },
+    "topRight": {
+      "x": 100,
+      "y": 11
+    },
+    "right": {
+      "x": 100,
+      "y": 10
+    },
+    "bottomRight": {
+      "x": 100,
+      "y": 9
+    },
+    "bottom": {
+      "x": 99,
+      "y": 9
+    },
+    "bottonLeft": {
+      "x": 98,
+      "y": 9
+    },
+    "left": {
+      "x": 98,
+      "y": 10
+    },
+    "topLeft": {
+      "x": 98,
+      "y": 11
+    }
   }
 }
