@@ -1,21 +1,19 @@
 {
-  "token_name": "Terraform19993",
+  "token_name": "Terraform19892",
   "land_type": "Prismatic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19993",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmQ7ZHNLekfZPmcnz3c4zs1hQZeH8BQrDAMp8v8YQW62Gi",
   "alpha_sector": "Foundation",
   "activity": "None",
   "atmosphere": "None",
-  "bunker": "Cardanium_Bunker",
-  "fauna": "Livestock",
-  "forests": "Evergreen",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "None",
+  "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "Gemstones",
-  "ruins": "Alien_Technology_Red",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 3,
+  "quantum_flux": 4,
+  "primary_minerals": "Cardanium",
+  "secondary_minerals": "None",
+  "ruins": "Alien_Technology_Blue",
   "shrine": "None",
   "water": "None",
   "location": {
@@ -23,37 +21,123 @@
     "y": 13
   },
   "neighbors": {
-    "top": {
-      "x": 8,
-      "y": 14
-    },
-    "topRight": {
-      "x": 9,
-      "y": 14
-    },
+    "top": {},
+    "topRight": {},
     "right": {
-      "x": 9,
-      "y": 13
+      "token_name": "Terraform19794",
+      "land_type": "Prismatic",
+      "alpha_sector": "Foundation",
+      "activity": "None",
+      "atmosphere": "Prismatic_Motes",
+      "bunker": "None",
+      "fauna": "Ultrasaurs",
+      "forests": "None",
+      "hazardous_flora": "Melodious_Mantrap",
+      "lithoglyphs": "Lithoglyphs_Green",
+      "power_level": 6,
+      "quantum_flux": 2,
+      "primary_minerals": "None",
+      "secondary_minerals": "Gemstones",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 9,
+        "y": 13
+      }
     },
     "bottomRight": {
-      "x": 9,
-      "y": 12
+      "token_name": "Terraform19765",
+      "land_type": "Prismatic",
+      "alpha_sector": "Foundation",
+      "activity": "None",
+      "atmosphere": "Antigravity_Cloud",
+      "bunker": "None",
+      "fauna": "Ultrasaurs",
+      "forests": "Evergreen",
+      "hazardous_flora": "None",
+      "lithoglyphs": "None",
+      "power_level": 4,
+      "quantum_flux": 3,
+      "primary_minerals": "Radium",
+      "secondary_minerals": "None",
+      "ruins": "Alien_Technology_Red",
+      "shrine": "None",
+      "water": "Freshwater_Lake",
+      "location": {
+        "x": 9,
+        "y": 12
+      }
     },
     "bottom": {
-      "x": 8,
-      "y": 12
+      "token_name": "Terraform19894",
+      "land_type": "Prismatic",
+      "alpha_sector": "Foundation",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "Quantum_Reinforced_Bunker",
+      "fauna": "Critters",
+      "forests": "None",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "None",
+      "power_level": 7,
+      "quantum_flux": 6,
+      "primary_minerals": "Cardanium",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 8,
+        "y": 12
+      }
     },
     "bottonLeft": {
-      "x": 7,
-      "y": 12
+      "token_name": "Terraform19968",
+      "land_type": "Prismatic",
+      "alpha_sector": "Foundation",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "Reinforced_Bunker",
+      "fauna": "None",
+      "forests": "Evergreen",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "None",
+      "power_level": 7,
+      "quantum_flux": 5,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 7,
+        "y": 12
+      }
     },
     "left": {
-      "x": 7,
-      "y": 13
+      "token_name": "Terraform19954",
+      "land_type": "Prismatic",
+      "alpha_sector": "Foundation",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "Reinforced_Bunker",
+      "fauna": "None",
+      "forests": "Evergreen",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "Lithoglyphs_Purple",
+      "power_level": 4,
+      "quantum_flux": 2,
+      "primary_minerals": "Cardanium",
+      "secondary_minerals": "Fossils",
+      "ruins": "Ancient_Ruins",
+      "shrine": "Void_Shrine",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 7,
+        "y": 13
+      }
     },
-    "topLeft": {
-      "x": 7,
-      "y": 14
-    }
+    "topLeft": {}
   }
 }

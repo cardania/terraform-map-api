@@ -1,59 +1,209 @@
 {
-  "token_name": "Terraform00123",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform00123",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSJPr3DtCJA19NXshncmbaScXVd8VwftJvZhNYNw2cv4v",
+  "token_name": "Terraform17791",
+  "land_type": "Rocky",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
-  "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
+  "activity": "None",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
   "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 2,
-  "quantum_flux": 1,
-  "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "lithoglyphs": "None",
+  "power_level": 3,
+  "quantum_flux": 5,
+  "primary_minerals": "Radium",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Freshwater_River",
+  "shrine": "Void_Shrine",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 67,
     "y": 42
   },
   "neighbors": {
     "top": {
-      "x": 67,
-      "y": 43
+      "token_name": "Terraform15597",
+      "land_type": "Rocky",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Fungal_Spores",
+      "bunker": "None",
+      "fauna": "Critters",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Green",
+      "power_level": 2,
+      "quantum_flux": 2,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "Alien_Technology_Blue",
+      "shrine": "None",
+      "water": "Freshwater_Lake",
+      "location": {
+        "x": 67,
+        "y": 43
+      }
     },
     "topRight": {
-      "x": 68,
-      "y": 43
+      "token_name": "Terraform16834",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Prismatic_Motes",
+      "bunker": "Reinforced_Bunker",
+      "fauna": "Critters",
+      "forests": "Palms",
+      "hazardous_flora": "Fungal_Hydra",
+      "lithoglyphs": "None",
+      "power_level": 3,
+      "quantum_flux": 6,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 68,
+        "y": 43
+      }
     },
     "right": {
-      "x": 68,
-      "y": 42
+      "token_name": "Terraform01910",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "Quantum_Reinforced_Bunker",
+      "fauna": "Livestock",
+      "forests": "Prismaleaf",
+      "hazardous_flora": "Giant_Mantrap",
+      "lithoglyphs": "None",
+      "power_level": 1,
+      "quantum_flux": 8,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Cursed_River",
+      "location": {
+        "x": 68,
+        "y": 42
+      }
     },
     "bottomRight": {
-      "x": 68,
-      "y": 41
+      "token_name": "Terraform13825",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Livestock",
+      "forests": "Evergreen",
+      "hazardous_flora": "Burning_Mantrap",
+      "lithoglyphs": "None",
+      "power_level": 2,
+      "quantum_flux": 3,
+      "primary_minerals": "Cardanium",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 68,
+        "y": 41
+      }
     },
     "bottom": {
-      "x": 67,
-      "y": 41
+      "token_name": "Terraform07862",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Livestock",
+      "forests": "Evergreen",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "None",
+      "power_level": 5,
+      "quantum_flux": 2,
+      "primary_minerals": "Iron",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 67,
+        "y": 41
+      }
     },
     "bottonLeft": {
-      "x": 66,
-      "y": 41
+      "token_name": "Terraform01033",
+      "land_type": "Desert",
+      "alpha_sector": "Arshi_En",
+      "activity": "Geothermal_Activity",
+      "atmosphere": "Custodial_Nanites",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "Nemesis_Hydra",
+      "lithoglyphs": "Lithoglyphs_Orange",
+      "power_level": 1,
+      "quantum_flux": 7,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "Compacted_Machinery",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 66,
+        "y": 41
+      }
     },
     "left": {
-      "x": 66,
-      "y": 42
+      "token_name": "Terraform11874",
+      "land_type": "Rocky",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Fungal_Spores",
+      "bunker": "Quantum_Reinforced_Bunker",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Green",
+      "power_level": 2,
+      "quantum_flux": 5,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "Compacted_Machinery",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 66,
+        "y": 42
+      }
     },
     "topLeft": {
-      "x": 66,
-      "y": 43
+      "token_name": "Terraform08753",
+      "land_type": "Wasteland",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Critters",
+      "forests": "Prismaleaf",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "Lithoglyphs_Red",
+      "power_level": 8,
+      "quantum_flux": 5,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 66,
+        "y": 43
+      }
     }
   }
 }

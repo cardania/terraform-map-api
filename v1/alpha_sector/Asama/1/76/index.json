@@ -1,20 +1,18 @@
 {
-  "token_name": "Terraform15340",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform15340",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSauFq32uwniHKKRmctXWCubRKGiShdcG23cggGEx8yXg",
+  "token_name": "Terraform02821",
+  "land_type": "Grass",
   "alpha_sector": "Asama",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Fungal_Spores",
+  "activity": "None",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
+  "fauna": "Critters",
+  "forests": "Prismaleaf",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 3,
-  "quantum_flux": 6,
-  "primary_minerals": "None",
-  "secondary_minerals": "None",
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 6,
+  "quantum_flux": 3,
+  "primary_minerals": "Copper",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
   "shrine": "None",
   "water": "None",
@@ -24,36 +22,122 @@
   },
   "neighbors": {
     "top": {
-      "x": 1,
-      "y": 77
+      "token_name": "Terraform11361",
+      "land_type": "Rocky",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "Fungal_Spores",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "Palms",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "Lithoglyphs_Green",
+      "power_level": 5,
+      "quantum_flux": 6,
+      "primary_minerals": "Radium",
+      "secondary_minerals": "Fossils",
+      "ruins": "Alien_Technology_Blue",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 1,
+        "y": 77
+      }
     },
     "topRight": {
-      "x": 2,
-      "y": 77
+      "token_name": "Terraform08045",
+      "land_type": "Grass",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Critters",
+      "forests": "Evergreen",
+      "hazardous_flora": "Burning_Mantrap",
+      "lithoglyphs": "None",
+      "power_level": 1,
+      "quantum_flux": 7,
+      "primary_minerals": "Cardanium",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Saltwater_Lake",
+      "location": {
+        "x": 2,
+        "y": 77
+      }
     },
     "right": {
-      "x": 2,
-      "y": 76
+      "token_name": "Terraform10688",
+      "land_type": "Grass",
+      "alpha_sector": "Asama",
+      "activity": "Magnetic_Activity",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Ultrasaurs",
+      "forests": "Prismaleaf",
+      "hazardous_flora": "Burning_Mantrap",
+      "lithoglyphs": "None",
+      "power_level": 3,
+      "quantum_flux": 7,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_Lake",
+      "location": {
+        "x": 2,
+        "y": 76
+      }
     },
     "bottomRight": {
-      "x": 2,
-      "y": 75
+      "token_name": "Terraform06312",
+      "land_type": "Volcanic",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "Prismatic_Motes",
+      "bunker": "None",
+      "fauna": "Ultrasaurs",
+      "forests": "Prismaleaf",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "None",
+      "power_level": 3,
+      "quantum_flux": 3,
+      "primary_minerals": "None",
+      "secondary_minerals": "Fossils",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 2,
+        "y": 75
+      }
     },
     "bottom": {
-      "x": 1,
-      "y": 75
+      "token_name": "Terraform17154",
+      "land_type": "Grass",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Critters",
+      "forests": "None",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "Lithoglyphs_Blue",
+      "power_level": 7,
+      "quantum_flux": 7,
+      "primary_minerals": "Cardanium",
+      "secondary_minerals": "Fossils",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 1,
+        "y": 75
+      }
     },
-    "bottonLeft": {
-      "x": 0,
-      "y": 75
-    },
-    "left": {
-      "x": 0,
-      "y": 76
-    },
-    "topLeft": {
-      "x": 0,
-      "y": 77
-    }
+    "bottonLeft": {},
+    "left": {},
+    "topLeft": {}
   }
 }

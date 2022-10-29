@@ -1,59 +1,209 @@
 {
-  "token_name": "Terraform12665",
+  "token_name": "Terraform07203",
   "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform12665",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmY67gbTV1FmSjEMJFYNyPDSjMLnbL86o39EaEM67gWMDo",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "Fungal_Spores",
+  "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 3,
-  "quantum_flux": 3,
+  "lithoglyphs": "None",
+  "power_level": 6,
+  "quantum_flux": 4,
   "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 68,
     "y": 3
   },
   "neighbors": {
     "top": {
-      "x": 68,
-      "y": 4
+      "token_name": "Terraform01534",
+      "land_type": "Volcanic",
+      "alpha_sector": "Asama",
+      "activity": "Geothermal_Activity",
+      "atmosphere": "Prismatic_Motes",
+      "bunker": "Reinforced_Bunker",
+      "fauna": "Livestock",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Blue",
+      "power_level": 7,
+      "quantum_flux": 3,
+      "primary_minerals": "None",
+      "secondary_minerals": "Fossils",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 68,
+        "y": 4
+      }
     },
     "topRight": {
-      "x": 69,
-      "y": 4
+      "token_name": "Terraform07920",
+      "land_type": "Badlands",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "Custodial_Nanites",
+      "bunker": "None",
+      "fauna": "Livestock",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Red",
+      "power_level": 8,
+      "quantum_flux": 4,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "Alien_Technology_Red",
+      "shrine": "None",
+      "water": "Toxic_Lake",
+      "location": {
+        "x": 69,
+        "y": 4
+      }
     },
     "right": {
-      "x": 69,
-      "y": 3
+      "token_name": "Terraform03156",
+      "land_type": "Grass",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "Prismatic_Motes",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "Fungal_Hydra",
+      "lithoglyphs": "Lithoglyphs_Green",
+      "power_level": 4,
+      "quantum_flux": 2,
+      "primary_minerals": "Iron",
+      "secondary_minerals": "None",
+      "ruins": "Alien_Technology_Green",
+      "shrine": "None",
+      "water": "Freshwater_Lake",
+      "location": {
+        "x": 69,
+        "y": 3
+      }
     },
     "bottomRight": {
-      "x": 69,
-      "y": 2
+      "token_name": "Terraform06016",
+      "land_type": "Rocky",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "Fungal_Spores",
+      "bunker": "None",
+      "fauna": "Livestock",
+      "forests": "Palms",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Orange",
+      "power_level": 3,
+      "quantum_flux": 3,
+      "primary_minerals": "None",
+      "secondary_minerals": "Compacted_Machinery",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Saltwater_Lake",
+      "location": {
+        "x": 69,
+        "y": 2
+      }
     },
     "bottom": {
-      "x": 68,
-      "y": 2
+      "token_name": "Terraform07537",
+      "land_type": "Grass",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "None",
+      "power_level": 1,
+      "quantum_flux": 4,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Toxic_River",
+      "location": {
+        "x": 68,
+        "y": 2
+      }
     },
     "bottonLeft": {
-      "x": 67,
-      "y": 2
+      "token_name": "Terraform05288",
+      "land_type": "Grass",
+      "alpha_sector": "Asama",
+      "activity": "Geothermal_Activity",
+      "atmosphere": "Antigravity_Cloud",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "Evergreen",
+      "hazardous_flora": "Burning_Mantrap",
+      "lithoglyphs": "Lithoglyphs_Green",
+      "power_level": 1,
+      "quantum_flux": 2,
+      "primary_minerals": "Iron",
+      "secondary_minerals": "Fossils",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 67,
+        "y": 2
+      }
     },
     "left": {
-      "x": 67,
-      "y": 3
+      "token_name": "Terraform16046",
+      "land_type": "Rocky",
+      "alpha_sector": "Asama",
+      "activity": "Magnetic_Activity",
+      "atmosphere": "Prismatic_Motes",
+      "bunker": "Cardanium_Bunker",
+      "fauna": "Livestock",
+      "forests": "Evergreen",
+      "hazardous_flora": "None",
+      "lithoglyphs": "None",
+      "power_level": 7,
+      "quantum_flux": 3,
+      "primary_minerals": "None",
+      "secondary_minerals": "Fossils",
+      "ruins": "Alien_Technology_Red",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 67,
+        "y": 3
+      }
     },
     "topLeft": {
-      "x": 67,
-      "y": 4
+      "token_name": "Terraform08982",
+      "land_type": "Rocky",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "Fungal_Spores",
+      "bunker": "None",
+      "fauna": "Critters",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Red",
+      "power_level": 3,
+      "quantum_flux": 4,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "Void_Shrine",
+      "water": "Freshwater_Lake",
+      "location": {
+        "x": 67,
+        "y": 4
+      }
     }
   }
 }

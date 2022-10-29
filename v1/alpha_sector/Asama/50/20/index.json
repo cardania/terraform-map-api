@@ -1,59 +1,209 @@
 {
-  "token_name": "Terraform05765",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform05765",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmVfTx2X6LBZi1joX3unnm41EJXEd17SCWZAM6CwdBeGza",
+  "token_name": "Terraform03655",
+  "land_type": "Rocky",
   "alpha_sector": "Asama",
   "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
   "fauna": "None",
-  "forests": "Palms",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
+  "forests": "None",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Orange",
   "power_level": 3,
   "quantum_flux": 2,
   "primary_minerals": "None",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "None",
   "location": {
     "x": 50,
     "y": 20
   },
   "neighbors": {
     "top": {
-      "x": 50,
-      "y": 21
+      "token_name": "Terraform15685",
+      "land_type": "Rocky",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "Reinforced_Bunker",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Red",
+      "power_level": 2,
+      "quantum_flux": 4,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "Fossils",
+      "ruins": "Alien_Technology_Purple",
+      "shrine": "Void_Shrine",
+      "water": "Saltwater_River",
+      "location": {
+        "x": 50,
+        "y": 21
+      }
     },
     "topRight": {
-      "x": 51,
-      "y": 21
+      "token_name": "Terraform09949",
+      "land_type": "Tundra",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Livestock",
+      "forests": "None",
+      "hazardous_flora": "Burning_Mantrap",
+      "lithoglyphs": "None",
+      "power_level": 2,
+      "quantum_flux": 6,
+      "primary_minerals": "Radium",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "Solar_Shrine",
+      "water": "None",
+      "location": {
+        "x": 51,
+        "y": 21
+      }
     },
     "right": {
-      "x": 51,
-      "y": 20
+      "token_name": "Terraform00416",
+      "land_type": "Badlands",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Ultrasaurs",
+      "forests": "Evergreen",
+      "hazardous_flora": "Fungal_Hydra",
+      "lithoglyphs": "None",
+      "power_level": 1,
+      "quantum_flux": 3,
+      "primary_minerals": "Cardanium",
+      "secondary_minerals": "None",
+      "ruins": "Alien_Technology_Red",
+      "shrine": "None",
+      "water": "Cursed_River",
+      "location": {
+        "x": 51,
+        "y": 20
+      }
     },
     "bottomRight": {
-      "x": 51,
-      "y": 19
+      "token_name": "Terraform13643",
+      "land_type": "Rocky",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "Fungal_Spores",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "None",
+      "power_level": 6,
+      "quantum_flux": 1,
+      "primary_minerals": "Radium",
+      "secondary_minerals": "None",
+      "ruins": "Alien_Technology_Green",
+      "shrine": "None",
+      "water": "Freshwater_Lake",
+      "location": {
+        "x": 51,
+        "y": 19
+      }
     },
     "bottom": {
-      "x": 50,
-      "y": 19
+      "token_name": "Terraform08003",
+      "land_type": "Wasteland",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Critters",
+      "forests": "Palms",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "None",
+      "power_level": 6,
+      "quantum_flux": 2,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 50,
+        "y": 19
+      }
     },
     "bottonLeft": {
-      "x": 49,
-      "y": 19
+      "token_name": "Terraform02581",
+      "land_type": "Grass",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "Antigravity_Cloud",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "Evergreen",
+      "hazardous_flora": "Giant_Mantrap",
+      "lithoglyphs": "None",
+      "power_level": 1,
+      "quantum_flux": 4,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 49,
+        "y": 19
+      }
     },
     "left": {
-      "x": 49,
-      "y": 20
+      "token_name": "Terraform19477",
+      "land_type": "Grass",
+      "alpha_sector": "Asama",
+      "activity": "Magnetic_Activity",
+      "atmosphere": "Antigravity_Cloud",
+      "bunker": "Reinforced_Bunker",
+      "fauna": "Critters",
+      "forests": "None",
+      "hazardous_flora": "Burning_Mantrap",
+      "lithoglyphs": "Lithoglyphs_Blue",
+      "power_level": 4,
+      "quantum_flux": 7,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "None",
+      "ruins": "Ancient_Ruins",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 49,
+        "y": 20
+      }
     },
     "topLeft": {
-      "x": 49,
-      "y": 21
+      "token_name": "Terraform16258",
+      "land_type": "Rocky",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "None",
+      "power_level": 8,
+      "quantum_flux": 1,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 49,
+        "y": 21
+      }
     }
   }
 }

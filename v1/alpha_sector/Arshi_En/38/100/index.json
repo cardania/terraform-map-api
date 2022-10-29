@@ -1,59 +1,143 @@
 {
-  "token_name": "Terraform03455",
-  "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03455",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmR8FmFehRoY4UJk4T6uAM6Ga5mJrRTvChnbi9wzaPFj39",
+  "token_name": "Terraform01875",
+  "land_type": "Tundra",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Ultrasaurs",
-  "forests": "None",
-  "hazardous_flora": "Burning_Mantrap",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 8,
-  "quantum_flux": 6,
+  "fauna": "Livestock",
+  "forests": "Evergreen",
+  "hazardous_flora": "Giant_Mantrap",
+  "lithoglyphs": "None",
+  "power_level": 7,
+  "quantum_flux": 5,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "Gemstones",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_River",
   "location": {
     "x": 38,
     "y": 100
   },
   "neighbors": {
-    "top": {
-      "x": 38,
-      "y": 101
-    },
-    "topRight": {
-      "x": 39,
-      "y": 101
-    },
+    "top": {},
+    "topRight": {},
     "right": {
-      "x": 39,
-      "y": 100
+      "token_name": "Terraform08313",
+      "land_type": "Fungal",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Critters",
+      "forests": "Palms",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "Lithoglyphs_Orange",
+      "power_level": 2,
+      "quantum_flux": 1,
+      "primary_minerals": "Iron",
+      "secondary_minerals": "Fossils",
+      "ruins": "Alien_Technology_Green",
+      "shrine": "None",
+      "water": "Cursed_Lake",
+      "location": {
+        "x": 39,
+        "y": 100
+      }
     },
     "bottomRight": {
-      "x": 39,
-      "y": 99
+      "token_name": "Terraform04928",
+      "land_type": "Badlands",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Fungal_Spores",
+      "bunker": "Reinforced_Bunker",
+      "fauna": "Livestock",
+      "forests": "Palms",
+      "hazardous_flora": "Burning_Mantrap",
+      "lithoglyphs": "Lithoglyphs_Orange",
+      "power_level": 7,
+      "quantum_flux": 2,
+      "primary_minerals": "Radium",
+      "secondary_minerals": "Fossils",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_Lake",
+      "location": {
+        "x": 39,
+        "y": 99
+      }
     },
     "bottom": {
-      "x": 38,
-      "y": 99
+      "token_name": "Terraform02878",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Critters",
+      "forests": "Palms",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "None",
+      "power_level": 5,
+      "quantum_flux": 6,
+      "primary_minerals": "Cardanium",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 38,
+        "y": 99
+      }
     },
     "bottonLeft": {
-      "x": 37,
-      "y": 99
+      "token_name": "Terraform04935",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Critters",
+      "forests": "None",
+      "hazardous_flora": "Giant_Mantrap",
+      "lithoglyphs": "Lithoglyphs_Timelost",
+      "power_level": 3,
+      "quantum_flux": 6,
+      "primary_minerals": "Cardanium",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Funky_Lake",
+      "location": {
+        "x": 37,
+        "y": 99
+      }
     },
     "left": {
-      "x": 37,
-      "y": 100
+      "token_name": "Terraform14773",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Antigravity_Cloud",
+      "bunker": "Reinforced_Bunker",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "Melodious_Mantrap",
+      "lithoglyphs": "Lithoglyphs_Orange",
+      "power_level": 5,
+      "quantum_flux": 5,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "Alien_Technology_Blue",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 37,
+        "y": 100
+      }
     },
-    "topLeft": {
-      "x": 37,
-      "y": 101
-    }
+    "topLeft": {}
   }
 }

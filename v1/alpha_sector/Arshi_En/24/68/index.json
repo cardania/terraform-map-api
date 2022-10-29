@@ -1,59 +1,209 @@
 {
-  "token_name": "Terraform08157",
-  "land_type": "Volcanic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform08157",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmPV4MZ28X5ZmxX48zbicNxJNrX9sdsuH3xyLNrPsaNTNT",
+  "token_name": "Terraform18805",
+  "land_type": "Desert",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
+  "activity": "None",
   "atmosphere": "None",
-  "bunker": "None",
-  "fauna": "Livestock",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Fungal_Hydra",
-  "lithoglyphs": "Lithoglyphs_Red",
-  "power_level": 1,
-  "quantum_flux": 9,
-  "primary_minerals": "Iron",
-  "secondary_minerals": "Compacted_Machinery",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Critters",
+  "forests": "Palms",
+  "hazardous_flora": "None",
+  "lithoglyphs": "Lithoglyphs_Green",
+  "power_level": 7,
+  "quantum_flux": 7,
+  "primary_minerals": "None",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 24,
     "y": 68
   },
   "neighbors": {
     "top": {
-      "x": 24,
-      "y": 69
+      "token_name": "Terraform00073",
+      "land_type": "Rocky",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Prismatic_Motes",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "Burning_Mantrap",
+      "lithoglyphs": "Lithoglyphs_Red",
+      "power_level": 3,
+      "quantum_flux": 4,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 24,
+        "y": 69
+      }
     },
     "topRight": {
-      "x": 25,
-      "y": 69
+      "token_name": "Terraform01440",
+      "land_type": "Rocky",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Ultrasaurs",
+      "forests": "Evergreen",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Red",
+      "power_level": 3,
+      "quantum_flux": 3,
+      "primary_minerals": "Radium",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 25,
+        "y": 69
+      }
     },
     "right": {
-      "x": 25,
-      "y": 68
+      "token_name": "Terraform06619",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Fungal_Spores",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "None",
+      "power_level": 8,
+      "quantum_flux": 4,
+      "primary_minerals": "Iron",
+      "secondary_minerals": "Gemstones",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Toxic_Lake",
+      "location": {
+        "x": 25,
+        "y": 68
+      }
     },
     "bottomRight": {
-      "x": 25,
-      "y": 67
+      "token_name": "Terraform11286",
+      "land_type": "Artificial",
+      "alpha_sector": "Arshi_En",
+      "activity": "Geothermal_Activity",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "Palms",
+      "hazardous_flora": "Burning_Mantrap",
+      "lithoglyphs": "Lithoglyphs_Timelost",
+      "power_level": 2,
+      "quantum_flux": 5,
+      "primary_minerals": "Iron",
+      "secondary_minerals": "Gemstones",
+      "ruins": "None",
+      "shrine": "Solar_Shrine",
+      "water": "None",
+      "location": {
+        "x": 25,
+        "y": 67
+      }
     },
     "bottom": {
-      "x": 24,
-      "y": 67
+      "token_name": "Terraform14487",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "None",
+      "power_level": 4,
+      "quantum_flux": 5,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "Fossils",
+      "ruins": "Alien_Technology_Blue",
+      "shrine": "Machine_Shrine",
+      "water": "Freshwater_Lake",
+      "location": {
+        "x": 24,
+        "y": 67
+      }
     },
     "bottonLeft": {
-      "x": 23,
-      "y": 67
+      "token_name": "Terraform13464",
+      "land_type": "Rocky",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Custodial_Nanites",
+      "bunker": "Reinforced_Bunker",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "Giant_Mantrap",
+      "lithoglyphs": "None",
+      "power_level": 8,
+      "quantum_flux": 7,
+      "primary_minerals": "None",
+      "secondary_minerals": "Compacted_Machinery",
+      "ruins": "None",
+      "shrine": "Machine_Shrine",
+      "water": "None",
+      "location": {
+        "x": 23,
+        "y": 67
+      }
     },
     "left": {
-      "x": 23,
-      "y": 68
+      "token_name": "Terraform14724",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Livestock",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "None",
+      "power_level": 5,
+      "quantum_flux": 7,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "Ancient_Ruins",
+      "shrine": "None",
+      "water": "Freshwater_Lake",
+      "location": {
+        "x": 23,
+        "y": 68
+      }
     },
     "topLeft": {
-      "x": 23,
-      "y": 69
+      "token_name": "Terraform08718",
+      "land_type": "Wasteland",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Prismatic_Motes",
+      "bunker": "None",
+      "fauna": "Livestock",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Timelost",
+      "power_level": 7,
+      "quantum_flux": 5,
+      "primary_minerals": "Radium",
+      "secondary_minerals": "None",
+      "ruins": "Alien_Technology_Blue",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 23,
+        "y": 69
+      }
     }
   }
 }

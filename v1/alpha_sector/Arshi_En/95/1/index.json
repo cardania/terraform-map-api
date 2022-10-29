@@ -1,59 +1,143 @@
 {
-  "token_name": "Terraform09228",
-  "land_type": "Rocky",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09228",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmdyhPnErkLLEBMNv6mxdMMad527o7b1LE5x3Ayiy9URQQ",
+  "token_name": "Terraform06489",
+  "land_type": "Wasteland",
   "alpha_sector": "Arshi_En",
-  "activity": "Geothermal_Activity",
+  "activity": "None",
   "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Livestock",
+  "fauna": "None",
   "forests": "None",
   "hazardous_flora": "None",
   "lithoglyphs": "None",
-  "power_level": 6,
-  "quantum_flux": 3,
-  "primary_minerals": "Iron",
+  "power_level": 7,
+  "quantum_flux": 1,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
-  "shrine": "None",
-  "water": "Toxic_River",
+  "shrine": "Machine_Shrine",
+  "water": "None",
   "location": {
     "x": 95,
     "y": 1
   },
   "neighbors": {
     "top": {
-      "x": 95,
-      "y": 2
+      "token_name": "Terraform05047",
+      "land_type": "Rocky",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "Reinforced_Bunker",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "Lithoglyphs_Green",
+      "power_level": 1,
+      "quantum_flux": 1,
+      "primary_minerals": "Iron",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "Machine_Shrine",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 95,
+        "y": 2
+      }
     },
     "topRight": {
-      "x": 96,
-      "y": 2
+      "token_name": "Terraform03611",
+      "land_type": "Volcanic",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "Quantum_Reinforced_Bunker",
+      "fauna": "Livestock",
+      "forests": "Prismaleaf",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Orange",
+      "power_level": 1,
+      "quantum_flux": 9,
+      "primary_minerals": "Iron",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "Fungal_Shrine",
+      "water": "None",
+      "location": {
+        "x": 96,
+        "y": 2
+      }
     },
     "right": {
-      "x": 96,
-      "y": 1
+      "token_name": "Terraform18534",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "Reinforced_Bunker",
+      "fauna": "Livestock",
+      "forests": "Palms",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Blue",
+      "power_level": 3,
+      "quantum_flux": 4,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 96,
+        "y": 1
+      }
     },
-    "bottomRight": {
-      "x": 96,
-      "y": 0
-    },
-    "bottom": {
-      "x": 95,
-      "y": 0
-    },
-    "bottonLeft": {
-      "x": 94,
-      "y": 0
-    },
+    "bottomRight": {},
+    "bottom": {},
+    "bottonLeft": {},
     "left": {
-      "x": 94,
-      "y": 1
+      "token_name": "Terraform13985",
+      "land_type": "Rocky",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "Reinforced_Bunker",
+      "fauna": "Livestock",
+      "forests": "Evergreen",
+      "hazardous_flora": "None",
+      "lithoglyphs": "None",
+      "power_level": 6,
+      "quantum_flux": 2,
+      "primary_minerals": "Radium",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 94,
+        "y": 1
+      }
     },
     "topLeft": {
-      "x": 94,
-      "y": 2
+      "token_name": "Terraform07456",
+      "land_type": "Rocky",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Critters",
+      "forests": "Evergreen",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Blue",
+      "power_level": 2,
+      "quantum_flux": 9,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 94,
+        "y": 2
+      }
     }
   }
 }

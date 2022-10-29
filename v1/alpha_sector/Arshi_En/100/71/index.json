@@ -1,59 +1,143 @@
 {
-  "token_name": "Terraform17472",
+  "token_name": "Terraform02556",
   "land_type": "Grass",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform17472",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmYEUtpmxRhEV6wNz3Szppufe7dzTCyxPUigoZURFo5zQW",
   "alpha_sector": "Arshi_En",
   "activity": "None",
-  "atmosphere": "Custodial_Nanites",
+  "atmosphere": "None",
   "bunker": "None",
-  "fauna": "Critters",
-  "forests": "Prismaleaf",
-  "hazardous_flora": "Melodious_Mantrap",
+  "fauna": "None",
+  "forests": "None",
+  "hazardous_flora": "Nemesis_Hydra",
   "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
-  "quantum_flux": 1,
+  "power_level": 8,
+  "quantum_flux": 4,
   "primary_minerals": "Copper",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "Compacted_Machinery",
   "ruins": "None",
-  "shrine": "None",
-  "water": "None",
+  "shrine": "Solar_Shrine",
+  "water": "Toxic_Lake",
   "location": {
     "x": 100,
     "y": 71
   },
   "neighbors": {
     "top": {
-      "x": 100,
-      "y": 72
+      "token_name": "Terraform08051",
+      "land_type": "Artificial",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "Cardanium_Bunker",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Orange",
+      "power_level": 2,
+      "quantum_flux": 5,
+      "primary_minerals": "Radium",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 100,
+        "y": 72
+      }
     },
-    "topRight": {
-      "x": 101,
-      "y": 72
-    },
-    "right": {
-      "x": 101,
-      "y": 71
-    },
-    "bottomRight": {
-      "x": 101,
-      "y": 70
-    },
+    "topRight": {},
+    "right": {},
+    "bottomRight": {},
     "bottom": {
-      "x": 100,
-      "y": 70
+      "token_name": "Terraform06824",
+      "land_type": "Rocky",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Livestock",
+      "forests": "None",
+      "hazardous_flora": "Melodious_Mantrap",
+      "lithoglyphs": "Lithoglyphs_Blue",
+      "power_level": 3,
+      "quantum_flux": 2,
+      "primary_minerals": "Cardanium",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_Lake",
+      "location": {
+        "x": 100,
+        "y": 70
+      }
     },
     "bottonLeft": {
-      "x": 99,
-      "y": 70
+      "token_name": "Terraform16308",
+      "land_type": "Desert",
+      "alpha_sector": "Arshi_En",
+      "activity": "Magnetic_Activity",
+      "atmosphere": "Antigravity_Cloud",
+      "bunker": "Cardanium_Bunker",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Green",
+      "power_level": 1,
+      "quantum_flux": 1,
+      "primary_minerals": "Cardanium",
+      "secondary_minerals": "None",
+      "ruins": "Ancient_Ruins",
+      "shrine": "Void_Shrine",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 99,
+        "y": 70
+      }
     },
     "left": {
-      "x": 99,
-      "y": 71
+      "token_name": "Terraform05519",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "Quantum_Reinforced_Bunker",
+      "fauna": "Critters",
+      "forests": "Prismaleaf",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Orange",
+      "power_level": 1,
+      "quantum_flux": 1,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "Gemstones",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_Lake",
+      "location": {
+        "x": 99,
+        "y": 71
+      }
     },
     "topLeft": {
-      "x": 99,
-      "y": 72
+      "token_name": "Terraform17969",
+      "land_type": "Badlands",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "Evergreen",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Orange",
+      "power_level": 2,
+      "quantum_flux": 6,
+      "primary_minerals": "None",
+      "secondary_minerals": "Fossils",
+      "ruins": "None",
+      "shrine": "Solar_Shrine",
+      "water": "Freshwater_Lake",
+      "location": {
+        "x": 99,
+        "y": 72
+      }
     }
   }
 }

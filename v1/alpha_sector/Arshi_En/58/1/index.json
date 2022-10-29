@@ -1,59 +1,143 @@
 {
-  "token_name": "Terraform03357",
-  "land_type": "Badlands",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform03357",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRKbRUkJHXWPzKC7TP3Z1bRD79bix3xR1ZW4saTbDCuqn",
+  "token_name": "Terraform10737",
+  "land_type": "Grass",
   "alpha_sector": "Arshi_En",
-  "activity": "Magnetic_Activity",
-  "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
-  "fauna": "None",
-  "forests": "None",
+  "activity": "None",
+  "atmosphere": "None",
+  "bunker": "Reinforced_Bunker",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Orange",
-  "power_level": 1,
-  "quantum_flux": 6,
-  "primary_minerals": "Radium",
+  "lithoglyphs": "None",
+  "power_level": 5,
+  "quantum_flux": 2,
+  "primary_minerals": "Copper",
   "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Freshwater_River",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 58,
     "y": 1
   },
   "neighbors": {
     "top": {
-      "x": 58,
-      "y": 2
+      "token_name": "Terraform09826",
+      "land_type": "Artificial",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Green",
+      "power_level": 7,
+      "quantum_flux": 2,
+      "primary_minerals": "Iron",
+      "secondary_minerals": "Gemstones",
+      "ruins": "None",
+      "shrine": "Machine_Shrine",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 58,
+        "y": 2
+      }
     },
     "topRight": {
-      "x": 59,
-      "y": 2
+      "token_name": "Terraform09762",
+      "land_type": "Rocky",
+      "alpha_sector": "Arshi_En",
+      "activity": "Magnetic_Activity",
+      "atmosphere": "None",
+      "bunker": "Cardanium_Bunker",
+      "fauna": "Critters",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "None",
+      "power_level": 1,
+      "quantum_flux": 4,
+      "primary_minerals": "Radium",
+      "secondary_minerals": "Gemstones",
+      "ruins": "Ancient_Ruins",
+      "shrine": "None",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 59,
+        "y": 2
+      }
     },
     "right": {
-      "x": 59,
-      "y": 1
+      "token_name": "Terraform07599",
+      "land_type": "Fungal",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Fungal_Spores",
+      "bunker": "Reinforced_Bunker",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "None",
+      "power_level": 3,
+      "quantum_flux": 5,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 59,
+        "y": 1
+      }
     },
-    "bottomRight": {
-      "x": 59,
-      "y": 0
-    },
-    "bottom": {
-      "x": 58,
-      "y": 0
-    },
-    "bottonLeft": {
-      "x": 57,
-      "y": 0
-    },
+    "bottomRight": {},
+    "bottom": {},
+    "bottonLeft": {},
     "left": {
-      "x": 57,
-      "y": 1
+      "token_name": "Terraform00962",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Custodial_Nanites",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "Palms",
+      "hazardous_flora": "Burning_Mantrap",
+      "lithoglyphs": "Lithoglyphs_Red",
+      "power_level": 4,
+      "quantum_flux": 1,
+      "primary_minerals": "None",
+      "secondary_minerals": "Gemstones",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 57,
+        "y": 1
+      }
     },
     "topLeft": {
-      "x": 57,
-      "y": 2
+      "token_name": "Terraform03472",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Prismatic_Motes",
+      "bunker": "None",
+      "fauna": "Livestock",
+      "forests": "None",
+      "hazardous_flora": "Melodious_Mantrap",
+      "lithoglyphs": "Lithoglyphs_Blue",
+      "power_level": 3,
+      "quantum_flux": 4,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 57,
+        "y": 2
+      }
     }
   }
 }

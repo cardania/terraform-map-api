@@ -1,59 +1,143 @@
 {
-  "token_name": "Terraform19892",
+  "token_name": "Terraform19904",
   "land_type": "Prismatic",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform19892",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmRadmw7ofCmxQULrHWhjtPkKKq8XSXUM8EzkqTRHUxvvK",
   "alpha_sector": "Foundation",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "None",
-  "bunker": "Reinforced_Bunker",
-  "fauna": "None",
+  "bunker": "None",
+  "fauna": "Livestock",
   "forests": "None",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Blue",
+  "lithoglyphs": "Lithoglyphs_Purple",
   "power_level": 3,
-  "quantum_flux": 4,
-  "primary_minerals": "Cardanium",
-  "secondary_minerals": "None",
-  "ruins": "Alien_Technology_Blue",
+  "quantum_flux": 3,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
+  "ruins": "None",
   "shrine": "None",
-  "water": "None",
+  "water": "Freshwater_Lake",
   "location": {
     "x": 4,
     "y": 13
   },
   "neighbors": {
-    "top": {
-      "x": 4,
-      "y": 14
-    },
-    "topRight": {
-      "x": 5,
-      "y": 14
-    },
+    "top": {},
+    "topRight": {},
     "right": {
-      "x": 5,
-      "y": 13
+      "token_name": "Terraform19891",
+      "land_type": "Prismatic",
+      "alpha_sector": "Foundation",
+      "activity": "Magnetic_Activity",
+      "atmosphere": "Fungal_Spores",
+      "bunker": "None",
+      "fauna": "Livestock",
+      "forests": "Palms",
+      "hazardous_flora": "Burning_Mantrap",
+      "lithoglyphs": "None",
+      "power_level": 2,
+      "quantum_flux": 7,
+      "primary_minerals": "Radium",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 5,
+        "y": 13
+      }
     },
     "bottomRight": {
-      "x": 5,
-      "y": 12
+      "token_name": "Terraform19902",
+      "land_type": "Prismatic",
+      "alpha_sector": "Foundation",
+      "activity": "Geothermal_Activity",
+      "atmosphere": "Cursed_Nanites",
+      "bunker": "None",
+      "fauna": "Livestock",
+      "forests": "Palms",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "Lithoglyphs_Blue",
+      "power_level": 1,
+      "quantum_flux": 1,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "None",
+      "ruins": "Alien_Technology_Green",
+      "shrine": "Quantum_Shrine",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 5,
+        "y": 12
+      }
     },
     "bottom": {
-      "x": 4,
-      "y": 12
+      "token_name": "Terraform19757",
+      "land_type": "Prismatic",
+      "alpha_sector": "Foundation",
+      "activity": "Geothermal_Activity",
+      "atmosphere": "Fungal_Spores",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "Evergreen",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Orange",
+      "power_level": 2,
+      "quantum_flux": 5,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "Gemstones",
+      "ruins": "Alien_Technology_Green",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 4,
+        "y": 12
+      }
     },
     "bottonLeft": {
-      "x": 3,
-      "y": 12
+      "token_name": "Terraform19924",
+      "land_type": "Prismatic",
+      "alpha_sector": "Foundation",
+      "activity": "Magnetic_Activity",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Critters",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "None",
+      "power_level": 4,
+      "quantum_flux": 7,
+      "primary_minerals": "Radium",
+      "secondary_minerals": "Fossils",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 3,
+        "y": 12
+      }
     },
     "left": {
-      "x": 3,
-      "y": 13
+      "token_name": "Terraform19910",
+      "land_type": "Prismatic",
+      "alpha_sector": "Foundation",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Livestock",
+      "forests": "None",
+      "hazardous_flora": "Giant_Mantrap",
+      "lithoglyphs": "None",
+      "power_level": 2,
+      "quantum_flux": 4,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Toxic_River",
+      "location": {
+        "x": 3,
+        "y": 13
+      }
     },
-    "topLeft": {
-      "x": 3,
-      "y": 14
-    }
+    "topLeft": {}
   }
 }

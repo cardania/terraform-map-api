@@ -1,59 +1,209 @@
 {
-  "token_name": "Terraform01420",
-  "land_type": "Tundra",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform01420",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmSihphwpGKsgyMvQzKYxV134S9WuHZE91W27AqigV6YBH",
+  "token_name": "Terraform19431",
+  "land_type": "Wasteland",
   "alpha_sector": "Asama",
   "activity": "None",
-  "atmosphere": "None",
-  "bunker": "Quantum_Reinforced_Bunker",
-  "fauna": "None",
-  "forests": "Palms",
+  "atmosphere": "Fungal_Spores",
+  "bunker": "None",
+  "fauna": "Livestock",
+  "forests": "Evergreen",
   "hazardous_flora": "Common_Hydra",
-  "lithoglyphs": "Lithoglyphs_Green",
-  "power_level": 5,
+  "lithoglyphs": "Lithoglyphs_Blue",
+  "power_level": 2,
   "quantum_flux": 3,
   "primary_minerals": "None",
-  "secondary_minerals": "Fossils",
+  "secondary_minerals": "None",
   "ruins": "None",
   "shrine": "None",
-  "water": "Toxic_River",
+  "water": "None",
   "location": {
     "x": 30,
     "y": 64
   },
   "neighbors": {
     "top": {
-      "x": 30,
-      "y": 65
+      "token_name": "Terraform19324",
+      "land_type": "Wasteland",
+      "alpha_sector": "Asama",
+      "activity": "Magnetic_Activity",
+      "atmosphere": "None",
+      "bunker": "Reinforced_Bunker",
+      "fauna": "Livestock",
+      "forests": "Evergreen",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Orange",
+      "power_level": 2,
+      "quantum_flux": 7,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "Solar_Shrine",
+      "water": "None",
+      "location": {
+        "x": 30,
+        "y": 65
+      }
     },
     "topRight": {
-      "x": 31,
-      "y": 65
+      "token_name": "Terraform08923",
+      "land_type": "Grass",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "Quantum_Reinforced_Bunker",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "None",
+      "power_level": 1,
+      "quantum_flux": 6,
+      "primary_minerals": "Iron",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 31,
+        "y": 65
+      }
     },
     "right": {
-      "x": 31,
-      "y": 64
+      "token_name": "Terraform06747",
+      "land_type": "Wasteland",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "Quantum_Reinforced_Bunker",
+      "fauna": "Critters",
+      "forests": "Evergreen",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "None",
+      "power_level": 3,
+      "quantum_flux": 4,
+      "primary_minerals": "Iron",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_Lake",
+      "location": {
+        "x": 31,
+        "y": 64
+      }
     },
     "bottomRight": {
-      "x": 31,
-      "y": 63
+      "token_name": "Terraform01884",
+      "land_type": "Grass",
+      "alpha_sector": "Asama",
+      "activity": "Geothermal_Activity",
+      "atmosphere": "None",
+      "bunker": "Quantum_Reinforced_Bunker",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Green",
+      "power_level": 3,
+      "quantum_flux": 1,
+      "primary_minerals": "Cardanium",
+      "secondary_minerals": "None",
+      "ruins": "Alien_Technology_Green",
+      "shrine": "None",
+      "water": "Freshwater_Lake",
+      "location": {
+        "x": 31,
+        "y": 63
+      }
     },
     "bottom": {
-      "x": 30,
-      "y": 63
+      "token_name": "Terraform12938",
+      "land_type": "Grass",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "Custodial_Nanites",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "Giant_Mantrap",
+      "lithoglyphs": "Lithoglyphs_Red",
+      "power_level": 2,
+      "quantum_flux": 3,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 30,
+        "y": 63
+      }
     },
     "bottonLeft": {
-      "x": 29,
-      "y": 63
+      "token_name": "Terraform16043",
+      "land_type": "Grass",
+      "alpha_sector": "Asama",
+      "activity": "Geothermal_Activity",
+      "atmosphere": "Custodial_Nanites",
+      "bunker": "None",
+      "fauna": "Critters",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Purple",
+      "power_level": 4,
+      "quantum_flux": 4,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "Compacted_Machinery",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 29,
+        "y": 63
+      }
     },
     "left": {
-      "x": 29,
-      "y": 64
+      "token_name": "Terraform09297",
+      "land_type": "Badlands",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "Custodial_Nanites",
+      "bunker": "Reinforced_Bunker",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Blue",
+      "power_level": 4,
+      "quantum_flux": 2,
+      "primary_minerals": "Radium",
+      "secondary_minerals": "Compacted_Machinery",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 29,
+        "y": 64
+      }
     },
     "topLeft": {
-      "x": 29,
-      "y": 65
+      "token_name": "Terraform07393",
+      "land_type": "Grass",
+      "alpha_sector": "Asama",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Ultrasaurs",
+      "forests": "None",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "Lithoglyphs_Blue",
+      "power_level": 2,
+      "quantum_flux": 2,
+      "primary_minerals": "Cardanium",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 29,
+        "y": 65
+      }
     }
   }
 }

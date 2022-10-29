@@ -1,59 +1,209 @@
 {
-  "token_name": "Terraform09560",
-  "land_type": "Wasteland",
-  "pool_link": "https://pool.pm/c859e9d7e71b8f90bdc1e453fd1b9adbc5e6163898fb574543cb5be8.Terraform09560",
-  "image": "https://ipfs.blockfrost.dev/ipfs/QmcTgJsCzJLJ3bdwbWZSJ3tm4zhPem5sLvGvt71s8Abs82",
+  "token_name": "Terraform02293",
+  "land_type": "Grass",
   "alpha_sector": "Arshi_En",
-  "activity": "None",
+  "activity": "Geothermal_Activity",
   "atmosphere": "Prismatic_Motes",
-  "bunker": "None",
+  "bunker": "Reinforced_Bunker",
   "fauna": "None",
   "forests": "None",
-  "hazardous_flora": "None",
+  "hazardous_flora": "Burning_Mantrap",
   "lithoglyphs": "None",
-  "power_level": 8,
-  "quantum_flux": 2,
-  "primary_minerals": "Copper",
-  "secondary_minerals": "None",
+  "power_level": 2,
+  "quantum_flux": 1,
+  "primary_minerals": "None",
+  "secondary_minerals": "Fossils",
   "ruins": "None",
-  "shrine": "Void_Shrine",
-  "water": "Saltwater_Lake",
+  "shrine": "None",
+  "water": "None",
   "location": {
     "x": 29,
     "y": 42
   },
   "neighbors": {
     "top": {
-      "x": 29,
-      "y": 43
+      "token_name": "Terraform08571",
+      "land_type": "Tundra",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Fungal_Spores",
+      "bunker": "None",
+      "fauna": "Critters",
+      "forests": "Evergreen",
+      "hazardous_flora": "None",
+      "lithoglyphs": "None",
+      "power_level": 3,
+      "quantum_flux": 8,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 29,
+        "y": 43
+      }
     },
     "topRight": {
-      "x": 30,
-      "y": 43
+      "token_name": "Terraform10527",
+      "land_type": "Rocky",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Fungal_Spores",
+      "bunker": "None",
+      "fauna": "Livestock",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "None",
+      "power_level": 4,
+      "quantum_flux": 6,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "Alien_Technology_Orange",
+      "shrine": "Solar_Shrine",
+      "water": "None",
+      "location": {
+        "x": 30,
+        "y": 43
+      }
     },
     "right": {
-      "x": 30,
-      "y": 42
+      "token_name": "Terraform00465",
+      "land_type": "Desert",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Fungal_Spores",
+      "bunker": "Reinforced_Bunker",
+      "fauna": "Livestock",
+      "forests": "Evergreen",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Red",
+      "power_level": 2,
+      "quantum_flux": 4,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Toxic_River",
+      "location": {
+        "x": 30,
+        "y": 42
+      }
     },
     "bottomRight": {
-      "x": 30,
-      "y": 41
+      "token_name": "Terraform02796",
+      "land_type": "Rocky",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Fungal_Spores",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "None",
+      "hazardous_flora": "Common_Hydra",
+      "lithoglyphs": "Lithoglyphs_Green",
+      "power_level": 4,
+      "quantum_flux": 8,
+      "primary_minerals": "None",
+      "secondary_minerals": "Fossils",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 30,
+        "y": 41
+      }
     },
     "bottom": {
-      "x": 29,
-      "y": 41
+      "token_name": "Terraform19573",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "Evergreen",
+      "hazardous_flora": "None",
+      "lithoglyphs": "None",
+      "power_level": 5,
+      "quantum_flux": 5,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "None",
+      "ruins": "Alien_Technology_Orange",
+      "shrine": "None",
+      "water": "Saltwater_River",
+      "location": {
+        "x": 29,
+        "y": 41
+      }
     },
     "bottonLeft": {
-      "x": 28,
-      "y": 41
+      "token_name": "Terraform07345",
+      "land_type": "Rocky",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "Livestock",
+      "forests": "None",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Green",
+      "power_level": 7,
+      "quantum_flux": 1,
+      "primary_minerals": "None",
+      "secondary_minerals": "Fossils",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 28,
+        "y": 41
+      }
     },
     "left": {
-      "x": 28,
-      "y": 42
+      "token_name": "Terraform12793",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "None",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "Evergreen",
+      "hazardous_flora": "None",
+      "lithoglyphs": "Lithoglyphs_Blue",
+      "power_level": 2,
+      "quantum_flux": 1,
+      "primary_minerals": "None",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "Freshwater_River",
+      "location": {
+        "x": 28,
+        "y": 42
+      }
     },
     "topLeft": {
-      "x": 28,
-      "y": 43
+      "token_name": "Terraform15682",
+      "land_type": "Grass",
+      "alpha_sector": "Arshi_En",
+      "activity": "None",
+      "atmosphere": "Prismatic_Motes",
+      "bunker": "None",
+      "fauna": "None",
+      "forests": "Evergreen",
+      "hazardous_flora": "Burning_Mantrap",
+      "lithoglyphs": "Lithoglyphs_Purple",
+      "power_level": 6,
+      "quantum_flux": 6,
+      "primary_minerals": "Copper",
+      "secondary_minerals": "None",
+      "ruins": "None",
+      "shrine": "None",
+      "water": "None",
+      "location": {
+        "x": 28,
+        "y": 43
+      }
     }
   }
 }
