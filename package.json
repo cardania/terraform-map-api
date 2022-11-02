@@ -1,0 +1,19 @@
+{
+    "name": "@cardania/terraform-map-api",
+    "type": "module",
+    "private": true,
+    "scripts": {
+        "build": "node ./src/index.js",
+        "build:dev": "NODE_ENV=development node ./src/index.js"
+    },
+    "engines": {
+        "node": ">=16"
+    },
+    "dependencies": {
+        "@apollo/client": "^3.6.9",
+        "chalk": "^5.0.1",
+        "cli-progress": "^3.11.2",
+        "lowdb": "^3.0.0",
+        "node-fetch": "^3.2.10"
+    }
+}
