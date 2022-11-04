@@ -1,7 +1,7 @@
 import fs from 'fs';
 import chalk from 'chalk';
 import cliProgress from 'cli-progress';
-import client, { CURRENT_EPOCH_QUERY } from './apiClient.js';
+import fetch from 'node-fetch';
 import { shuffleArray, parseJsonFromFile } from './utility.js';
 import { errorLog, successLog, warnLog } from './log.js';
 import * as GRID from '../constants/grid.js';
@@ -11,14 +11,11 @@ import * as GRID from '../constants/grid.js';
  * @returns {number}
  */
 export async function fetchCurrentEpochNumber() {
-    const { error, data } = await client.query(CURRENT_EPOCH_QUERY);
+    const response = await fetch('https://pool.pm/feed.json');
+    const data = await response.json();
+    const number = Object.keys(data)[0];
 
-    if (error) {
-        errorLog(error.message);
-        return false;
-    }
-
-    return data?.cardano?.currentEpoch?.number;
+    return number;
 }
 
 /**

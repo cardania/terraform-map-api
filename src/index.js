@@ -8,7 +8,8 @@ import { infoLog } from './helpers/log.js';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 // Use JSON file for storage
-const file = join(__dirname, '../data/db.json');
+const file = join(__dirname, '../public/data/index.json');
+console.log(file);
 const adapter = new JSONFile(file);
 const db = new Low(adapter);
 
@@ -36,7 +37,10 @@ if (process.env.NODE_ENV === 'development') {
 
 db.data = {
     epoch: actualEpoch,
-    lastUpdated: getCurrentHumanReadableTime(),
+    lastUpdated: {
+        'America/New_York': getCurrentHumanReadableTime('America/New_York'),
+        'America/Los_Angeles': getCurrentHumanReadableTime('America/Los_Angeles')
+    },
 };
 
 // Finally write db.data content to file

@@ -16,7 +16,7 @@ export function shuffleArray(array) {
 /**
  * Returns the current human readable time/date.
  */
-export function getCurrentHumanReadableTime() {
+export function getCurrentHumanReadableTime(timeZone = 'America/New_York') {
     return new Date().toLocaleDateString('en-US', {
         weekday: 'long',
         month: 'long',
@@ -24,7 +24,7 @@ export function getCurrentHumanReadableTime() {
         hour: 'numeric',
         minute: 'numeric',
         timeZoneName: 'short',
-        timeZone: 'America/New_York',
+        timeZone,
     })
 }
 
