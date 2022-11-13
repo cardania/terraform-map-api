@@ -4,7 +4,8 @@
     "private": true,
     "scripts": {
         "build": "node ./src/index.js",
-        "build:dev": "NODE_ENV=development node ./src/index.js"
+        "build:dev": "NODE_ENV=development node ./src/index.js",
+        "start": "http-server -o"
     },
     "engines": {
         "node": ">=16"
@@ -15,5 +16,8 @@
         "cli-progress": "^3.11.2",
         "lowdb": "^3.0.0",
         "node-fetch": "^3.2.10"
+    },
+    "devDependencies": {
+        "http-server": "^14.1.1"
     }
 }
