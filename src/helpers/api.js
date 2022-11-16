@@ -45,11 +45,11 @@ export function shuffleTerraforms() {
         "Grass": [],
     };
 
-    terraforms.forEach(({ alpha_sector, land_type, token_name }) => {
-        terraformsByAlphaSector[alpha_sector].push(terraform);
-        terraformsByLandType[land_type].push(terraform);
+    terraforms.forEach((terraform) => {
+        terraformsByAlphaSector[terraform.alpha_sector].push(terraform);
+        terraformsByLandType[terraform.land_type].push(terraform);
 
-        const terraformId = token_name.replace( /^\D+/g, ''); // replace all leading non-digits with nothing
+        const terraformId = terraform.token_name.replace( /^\D+/g, ''); // replace all leading non-digits with nothing
 
         // Create the id routes if they don't already exist.
         if (!fs.existsSync(`public/v1/id/${terraformId}/index.json`)) {
