@@ -254,9 +254,6 @@ function getTerraformAtLocation({ x, y }, alphaSector) {
 
     const terraform = JSON.parse(fs.readFileSync(path, 'utf8'));
 
-    delete terraform.location;
-    delete terraform.neighbors;
-
     return {
         ...terraform,
         location: { x, y },
