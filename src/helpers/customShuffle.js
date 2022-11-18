@@ -221,7 +221,7 @@ console.log("Shuffling Terraforms")
 export var orderedTerraforms = sequentialTerraforms
 
 
-// function to select a tile, add it to assigned tiles, and remove it from possible tiles
+// function to select a tile
 function selectTile(inTiles, lastTile, count){
         
     var lowestState = determineLowestState(inTiles)
